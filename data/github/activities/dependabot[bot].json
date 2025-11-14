@@ -1,0 +1,79 @@
+[
+  {
+    "slug": "comment_created_leaderboard#610_IC_kwDOHYGCwM7Scuky",
+    "contributor": "dependabot[bot]",
+    "activity_definition": "comment_created",
+    "title": "Commented on #610",
+    "occured_at": "2025-11-14T04:08:51.000Z",
+    "link": "https://github.com/ohcnetwork/leaderboard/pull/610#issuecomment-3530746162",
+    "text": null,
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "commit_created_add_viewsets_transactions_3402423332a90ebaa8ad9cfb9221aaf6047a3262",
+    "contributor": "dependabot[bot]",
+    "activity_definition": "commit_created",
+    "title": "Pushed commit to add_viewsets_transactions",
+    "occured_at": "2025-11-13T14:29:06.000Z",
+    "link": "https://github.com/ohcnetwork/care/commit/3402423332a90ebaa8ad9cfb9221aaf6047a3262",
+    "text": "chore(deps-dev): bump dirty-equals from 0.8.0 to 0.10.0 (#3342)",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "commit_created_dependabot/pip/polyfactory-2.22.3_3402423332a90ebaa8ad9cfb9221aaf6047a3262",
+    "contributor": "dependabot[bot]",
+    "activity_definition": "commit_created",
+    "title": "Pushed commit to dependabot/pip/polyfactory-2.22.3",
+    "occured_at": "2025-11-13T14:29:06.000Z",
+    "link": "https://github.com/ohcnetwork/care/commit/3402423332a90ebaa8ad9cfb9221aaf6047a3262",
+    "text": "chore(deps-dev): bump dirty-equals from 0.8.0 to 0.10.0 (#3342)",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "commit_created_dependabot/pip/polyfactory-2.22.3_005693b4f5ee4af8c3a381274c32d0fd876e0480",
+    "contributor": "dependabot[bot]",
+    "activity_definition": "commit_created",
+    "title": "Pushed commit to dependabot/pip/polyfactory-2.22.3",
+    "occured_at": "2025-11-13T14:34:04.000Z",
+    "link": "https://github.com/ohcnetwork/care/commit/005693b4f5ee4af8c3a381274c32d0fd876e0480",
+    "text": "chore(deps-dev): bump polyfactory from 2.22.2 to 2.22.3",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "commit_created_dependabot/pip/django-cors-headers-4.9.0_3402423332a90ebaa8ad9cfb9221aaf6047a3262",
+    "contributor": "dependabot[bot]",
+    "activity_definition": "commit_created",
+    "title": "Pushed commit to dependabot/pip/django-cors-headers-4.9.0",
+    "occured_at": "2025-11-13T14:29:06.000Z",
+    "link": "https://github.com/ohcnetwork/care/commit/3402423332a90ebaa8ad9cfb9221aaf6047a3262",
+    "text": "chore(deps-dev): bump dirty-equals from 0.8.0 to 0.10.0 (#3342)",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "commit_created_dependabot/pip/django-cors-headers-4.9.0_c38dff6022818866996067480ac91148e760ce36",
+    "contributor": "dependabot[bot]",
+    "activity_definition": "commit_created",
+    "title": "Pushed commit to dependabot/pip/django-cors-headers-4.9.0",
+    "occured_at": "2025-11-13T14:32:41.000Z",
+    "link": "https://github.com/ohcnetwork/care/commit/c38dff6022818866996067480ac91148e760ce36",
+    "text": "chore(deps): bump django-cors-headers from 4.6.0 to 4.9.0",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "commit_created_develop_3402423332a90ebaa8ad9cfb9221aaf6047a3262",
+    "contributor": "dependabot[bot]",
+    "activity_definition": "commit_created",
+    "title": "Pushed commit to develop",
+    "occured_at": "2025-11-13T14:29:06.000Z",
+    "link": "https://github.com/ohcnetwork/care/commit/3402423332a90ebaa8ad9cfb9221aaf6047a3262",
+    "text": "chore(deps-dev): bump dirty-equals from 0.8.0 to 0.10.0 (#3342)",
+    "points": null,
+    "meta": {}
+  }
+]

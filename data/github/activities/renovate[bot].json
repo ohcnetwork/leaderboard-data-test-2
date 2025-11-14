@@ -1,0 +1,101 @@
+[
+  {
+    "slug": "commit_created_playwright-auto-test-db_3f2200b4264a8ddc5eba17a38738757ba0e76072",
+    "contributor": "renovate[bot]",
+    "activity_definition": "commit_created",
+    "title": "Pushed commit to playwright-auto-test-db",
+    "occured_at": "2025-10-27T11:53:36.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/commit/3f2200b4264a8ddc5eba17a38738757ba0e76072",
+    "text": "chore(deps): update dependency i18next-browser-languagedetector to v8.2.0 (#14134)",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "commit_created_playwright-auto-test-db_3c57ec36ac1d0aa2a324ac3414bb7f91afce4f51",
+    "contributor": "renovate[bot]",
+    "activity_definition": "commit_created",
+    "title": "Pushed commit to playwright-auto-test-db",
+    "occured_at": "2025-10-30T08:21:30.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/commit/3c57ec36ac1d0aa2a324ac3414bb7f91afce4f51",
+    "text": "chore(deps): update dependency jotai to v2.15.0 (#14135)",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "commit_created_playwright-auto-test-db_c501cab4d168f3b35bf38902004e110502606e6b",
+    "contributor": "renovate[bot]",
+    "activity_definition": "commit_created",
+    "title": "Pushed commit to playwright-auto-test-db",
+    "occured_at": "2025-10-31T23:51:22.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/commit/c501cab4d168f3b35bf38902004e110502606e6b",
+    "text": "Update dependency i18next to v25.6.0 (#14133)",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "commit_created_playwright-auto-test-db_252a36e8f3ffaffc3d8ca4499aa039f48b4bfadd",
+    "contributor": "renovate[bot]",
+    "activity_definition": "commit_created",
+    "title": "Pushed commit to playwright-auto-test-db",
+    "occured_at": "2025-10-31T23:51:30.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/commit/252a36e8f3ffaffc3d8ca4499aa039f48b4bfadd",
+    "text": "Update dependency framer-motion to v12.23.24 (#14132)",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "commit_created_playwright-auto-test-db_687df7d07041786aa41cf45131b1570c8dbc72fa",
+    "contributor": "renovate[bot]",
+    "activity_definition": "commit_created",
+    "title": "Pushed commit to playwright-auto-test-db",
+    "occured_at": "2025-10-31T23:51:43.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/commit/687df7d07041786aa41cf45131b1570c8dbc72fa",
+    "text": "Update dependency browserslist to v4.27.0 (#14131)",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "commit_created_playwright-auto-test-db_de5b871246f64fd5369a1911506b5e6160207309",
+    "contributor": "renovate[bot]",
+    "activity_definition": "commit_created",
+    "title": "Pushed commit to playwright-auto-test-db",
+    "occured_at": "2025-11-03T08:01:04.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/commit/de5b871246f64fd5369a1911506b5e6160207309",
+    "text": "Update dependency @types/node to v22.19.0 (#14221)",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "commit_created_playwright-auto-test-db_8eb014c09b98358853b0b6cc05255166121e942b",
+    "contributor": "renovate[bot]",
+    "activity_definition": "commit_created",
+    "title": "Pushed commit to playwright-auto-test-db",
+    "occured_at": "2025-11-03T08:13:00.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/commit/8eb014c09b98358853b0b6cc05255166121e942b",
+    "text": "Update dependency globals to v16.5.0 (#14222)",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "commit_created_playwright-auto-test-db_b0baeed519fe3331609e1bfc4a833c1c1da4574e",
+    "contributor": "renovate[bot]",
+    "activity_definition": "commit_created",
+    "title": "Pushed commit to playwright-auto-test-db",
+    "occured_at": "2025-11-04T06:02:38.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/commit/b0baeed519fe3331609e1bfc4a833c1c1da4574e",
+    "text": "chore(deps): update dependency @playwright/test to v1.56.1 (#14043)",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "commit_created_playwright-auto-test-db_521850981583342140bd9478d02c9fab725d956f",
+    "contributor": "renovate[bot]",
+    "activity_definition": "commit_created",
+    "title": "Pushed commit to playwright-auto-test-db",
+    "occured_at": "2025-11-04T06:04:07.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/commit/521850981583342140bd9478d02c9fab725d956f",
+    "text": "chore(deps): update all dependencies (patch) (#13494)",
+    "points": null,
+    "meta": {}
+  }
+]

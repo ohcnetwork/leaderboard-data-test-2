@@ -1,0 +1,24 @@
+[
+  {
+    "slug": "issue_opened_care_fe#14322",
+    "contributor": "aravindm4",
+    "activity_definition": "issue_opened",
+    "title": "Opened issue #14322",
+    "occured_at": "2025-11-13T09:23:00.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/14322",
+    "text": "Home Page - Redesign",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "issue_opened_care_fe#14305",
+    "contributor": "aravindm4",
+    "activity_definition": "issue_opened",
+    "title": "Opened issue #14305",
+    "occured_at": "2025-11-12T09:45:30.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/14305",
+    "text": "Add Charge Item Category and Favorite Option in Charge Item Structured Question Type",
+    "points": null,
+    "meta": {}
+  }
+]

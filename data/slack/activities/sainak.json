@@ -1,0 +1,13 @@
+[
+  {
+    "slug": "eod_update_2025-11-13_sainak",
+    "contributor": "sainak",
+    "activity_definition": "eod_update",
+    "title": "EOD Update",
+    "occured_at": "2025-11-13T14:29:02.228Z",
+    "link": null,
+    "text": "12th November<br>• Fixed cache issue in prod instances due to patient name identifier changes<br>• Created a <a href=\"https://github.com/ohcnetwork/care-plugin-cookiecutter\">cookiecutter</a> for care backend plugins<br>• Updated docs for the sample user sync plugin<br>• Huddles with nandkishor for finishing the patient data ingest script<br>13th November<br>• Enhnaced care plugin manager to autodetect installed plugins<br>• Worked on multi-level cache (in memory + redis) for model_from_cache<br>",
+    "points": null,
+    "meta": null
+  }
+]

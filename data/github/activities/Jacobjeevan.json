@@ -1,0 +1,189 @@
+[
+  {
+    "slug": "issue_assigned_care_fe#14325_Jacobjeevan",
+    "contributor": "Jacobjeevan",
+    "activity_definition": "issue_assigned",
+    "title": "Issue #14325 assigned",
+    "occured_at": "2025-11-13T11:03:05.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/14325",
+    "text": "Patient tag not visible while Patient registration",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "comment_created_care_fe#14340_IC_kwDODtfaXs7Sfx7Q",
+    "contributor": "Jacobjeevan",
+    "activity_definition": "comment_created",
+    "title": "Commented on #14340",
+    "occured_at": "2025-11-14T08:24:27.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/14340#issuecomment-3531546320",
+    "text": null,
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "pr_opened_care_fe#13842",
+    "contributor": "Jacobjeevan",
+    "activity_definition": "pr_opened",
+    "title": "Opened pull request #13842",
+    "occured_at": "2025-09-25T06:28:50.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/13842",
+    "text": "observation interpretation: form integration/errors and styling",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "pr_reviewed_care_fe#14251_COMMENTED_PRR_kwDODtfaXs7OIZn-",
+    "contributor": "Jacobjeevan",
+    "activity_definition": "pr_reviewed",
+    "title": "Reviewed PR #14251",
+    "occured_at": "2025-11-13T08:22:05.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/14251#pullrequestreview-3458308606",
+    "text": "Fix popover overflow on mobile for charge item price breakdown",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "pr_reviewed_care_fe#14183_CHANGES_REQUESTED_PRR_kwDODtfaXs7Nz17L",
+    "contributor": "Jacobjeevan",
+    "activity_definition": "pr_reviewed",
+    "title": "Changes requested on PR #14183",
+    "occured_at": "2025-11-12T11:14:50.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/14183#pullrequestreview-3452919499",
+    "text": "fixed manage charges",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "pr_reviewed_care_fe#14183_COMMENTED_PRR_kwDODtfaXs7Nz4xy",
+    "contributor": "Jacobjeevan",
+    "activity_definition": "pr_reviewed",
+    "title": "Reviewed PR #14183",
+    "occured_at": "2025-11-12T11:16:47.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/14183#pullrequestreview-3452931186",
+    "text": "fixed manage charges",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "pr_reviewed_care_fe#14181_COMMENTED_PRR_kwDODtfaXs7KhWZh",
+    "contributor": "Jacobjeevan",
+    "activity_definition": "pr_reviewed",
+    "title": "Reviewed PR #14181",
+    "occured_at": "2025-10-30T07:15:15.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/14181#pullrequestreview-3397740129",
+    "text": "Add error border styling to RequirementsSelector in Healthcare Service form",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "pr_reviewed_care_fe#13925_CHANGES_REQUESTED_PRR_kwDODtfaXs7NjNF1",
+    "contributor": "Jacobjeevan",
+    "activity_definition": "pr_reviewed",
+    "title": "Changes requested on PR #13925",
+    "occured_at": "2025-11-11T15:32:11.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/13925#pullrequestreview-3448557941",
+    "text": "update other agent instruction files",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "pr_opened_care_fe#14341",
+    "contributor": "Jacobjeevan",
+    "activity_definition": "pr_opened",
+    "title": "Opened pull request #14341",
+    "occured_at": "2025-11-14T08:47:07.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/14341",
+    "text": "Refactor charge item definition picker to use resource definition picker",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "pr_opened_care_fe#14333",
+    "contributor": "Jacobjeevan",
+    "activity_definition": "pr_opened",
+    "title": "Opened pull request #14333",
+    "occured_at": "2025-11-14T05:09:07.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/14333",
+    "text": "Minor bug fixes: date filter translations, invoice url and more",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "pr_reviewed_care_fe#14306_APPROVED_PRR_kwDODtfaXs7N0SjF",
+    "contributor": "Jacobjeevan",
+    "activity_definition": "pr_reviewed",
+    "title": "Approved PR #14306",
+    "occured_at": "2025-11-12T11:48:04.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/14306#pullrequestreview-3453036741",
+    "text": "Fix accessibility warnings for missing Description in Sheet/Drawer dialogs",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "pr_reviewed_care_fe#14308_APPROVED_PRR_kwDODtfaXs7OM7mD",
+    "contributor": "Jacobjeevan",
+    "activity_definition": "pr_reviewed",
+    "title": "Approved PR #14308",
+    "occured_at": "2025-11-13T12:12:45.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/14308#pullrequestreview-3459496323",
+    "text": "Replace autocomplete with ResourceDefinitionCategoryPicker (ChargeItem)",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "commit_created_Sudheendra_8110f056b956a21dd25ec7cd2005134b7dccb415",
+    "contributor": "Jacobjeevan",
+    "activity_definition": "commit_created",
+    "title": "Pushed commit to Sudheendra",
+    "occured_at": "2025-11-10T11:29:39.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/commit/8110f056b956a21dd25ec7cd2005134b7dccb415",
+    "text": "enable when: bypass required and clear answers for not enabled qns (#14255)",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "commit_created_Sudheendra_3a9de344d2123e2ce3bbcca00682d83c48e518ea",
+    "contributor": "Jacobjeevan",
+    "activity_definition": "commit_created",
+    "title": "Pushed commit to Sudheendra",
+    "occured_at": "2025-11-14T11:30:02.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/commit/3a9de344d2123e2ce3bbcca00682d83c48e518ea",
+    "text": "Merge branch 'develop' into Sudheendra",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "commit_created_invoice-edit-changes_8110f056b956a21dd25ec7cd2005134b7dccb415",
+    "contributor": "Jacobjeevan",
+    "activity_definition": "commit_created",
+    "title": "Pushed commit to invoice-edit-changes",
+    "occured_at": "2025-11-10T11:29:39.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/commit/8110f056b956a21dd25ec7cd2005134b7dccb415",
+    "text": "enable when: bypass required and clear answers for not enabled qns (#14255)",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "commit_created_playwright-auto-test-db_55da4e8805f6465340e011a4b96b933811d86cef",
+    "contributor": "Jacobjeevan",
+    "activity_definition": "commit_created",
+    "title": "Pushed commit to playwright-auto-test-db",
+    "occured_at": "2025-11-03T10:58:46.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/commit/55da4e8805f6465340e011a4b96b933811d86cef",
+    "text": "Remove project board updates for PRs (#14225)",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "commit_created_playwright-auto-test-db_8110f056b956a21dd25ec7cd2005134b7dccb415",
+    "contributor": "Jacobjeevan",
+    "activity_definition": "commit_created",
+    "title": "Pushed commit to playwright-auto-test-db",
+    "occured_at": "2025-11-10T11:29:39.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/commit/8110f056b956a21dd25ec7cd2005134b7dccb415",
+    "text": "enable when: bypass required and clear answers for not enabled qns (#14255)",
+    "points": null,
+    "meta": {}
+  }
+]

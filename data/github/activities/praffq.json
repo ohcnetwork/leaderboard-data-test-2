@@ -1,0 +1,24 @@
+[
+  {
+    "slug": "commit_created_dependabot/pip/polyfactory-2.22.3_20c8ce9eb4c20264372dd1d6b32147dfe450a257",
+    "contributor": "praffq",
+    "activity_definition": "commit_created",
+    "title": "Pushed commit to dependabot/pip/polyfactory-2.22.3",
+    "occured_at": "2025-11-10T12:28:25.000Z",
+    "link": "https://github.com/ohcnetwork/care/commit/20c8ce9eb4c20264372dd1d6b32147dfe450a257",
+    "text": "adding configrable limit to patient name (#3321)",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "commit_created_dependabot/pip/django-cors-headers-4.9.0_20c8ce9eb4c20264372dd1d6b32147dfe450a257",
+    "contributor": "praffq",
+    "activity_definition": "commit_created",
+    "title": "Pushed commit to dependabot/pip/django-cors-headers-4.9.0",
+    "occured_at": "2025-11-10T12:28:25.000Z",
+    "link": "https://github.com/ohcnetwork/care/commit/20c8ce9eb4c20264372dd1d6b32147dfe450a257",
+    "text": "adding configrable limit to patient name (#3321)",
+    "points": null,
+    "meta": {}
+  }
+]

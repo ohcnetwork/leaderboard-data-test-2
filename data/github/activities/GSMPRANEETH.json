@@ -1,0 +1,90 @@
+[
+  {
+    "slug": "commit_created_Sudheendra_ad477177790ed48115bf611125a9c99f343bb205",
+    "contributor": "GSMPRANEETH",
+    "activity_definition": "commit_created",
+    "title": "Pushed commit to Sudheendra",
+    "occured_at": "2025-11-07T00:19:47.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/commit/ad477177790ed48115bf611125a9c99f343bb205",
+    "text": "Aligning UI items in Queue Details page (#14159)",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "commit_created_Sudheendra_320c91eafd665a7b8418f4df42ec9e30a66b45d2",
+    "contributor": "GSMPRANEETH",
+    "activity_definition": "commit_created",
+    "title": "Pushed commit to Sudheendra",
+    "occured_at": "2025-11-11T05:50:18.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/commit/320c91eafd665a7b8418f4df42ec9e30a66b45d2",
+    "text": "Fixing UI in settings/billing to highlight selected sidebar item (#14177)",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "commit_created_invoice-edit-changes_320c91eafd665a7b8418f4df42ec9e30a66b45d2",
+    "contributor": "GSMPRANEETH",
+    "activity_definition": "commit_created",
+    "title": "Pushed commit to invoice-edit-changes",
+    "occured_at": "2025-11-11T05:50:18.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/commit/320c91eafd665a7b8418f4df42ec9e30a66b45d2",
+    "text": "Fixing UI in settings/billing to highlight selected sidebar item (#14177)",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "commit_created_playwright-auto-test-db_6a8b09525202a1f61206cf7617214a53c8a5c7f8",
+    "contributor": "GSMPRANEETH",
+    "activity_definition": "commit_created",
+    "title": "Pushed commit to playwright-auto-test-db",
+    "occured_at": "2025-10-31T23:40:51.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/commit/6a8b09525202a1f61206cf7617214a53c8a5c7f8",
+    "text": "Hiding the `Patient Home` button when in Patient Home page (#14053)",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "commit_created_playwright-auto-test-db_53963e7d8dfa37994dc46cb5c1a75c8e48da6c91",
+    "contributor": "GSMPRANEETH",
+    "activity_definition": "commit_created",
+    "title": "Pushed commit to playwright-auto-test-db",
+    "occured_at": "2025-10-31T23:46:31.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/commit/53963e7d8dfa37994dc46cb5c1a75c8e48da6c91",
+    "text": "Added missing description for book appointment sheet (#14096)",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "commit_created_playwright-auto-test-db_d49d390efab73fb1e00ff3113a7959febe344326",
+    "contributor": "GSMPRANEETH",
+    "activity_definition": "commit_created",
+    "title": "Pushed commit to playwright-auto-test-db",
+    "occured_at": "2025-10-31T23:47:24.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/commit/d49d390efab73fb1e00ff3113a7959febe344326",
+    "text": "Added missing uncaught error for useKeyboardShortcuts.ts (#14097)",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "commit_created_playwright-auto-test-db_ad477177790ed48115bf611125a9c99f343bb205",
+    "contributor": "GSMPRANEETH",
+    "activity_definition": "commit_created",
+    "title": "Pushed commit to playwright-auto-test-db",
+    "occured_at": "2025-11-07T00:19:47.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/commit/ad477177790ed48115bf611125a9c99f343bb205",
+    "text": "Aligning UI items in Queue Details page (#14159)",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "commit_created_playwright-auto-test-db_320c91eafd665a7b8418f4df42ec9e30a66b45d2",
+    "contributor": "GSMPRANEETH",
+    "activity_definition": "commit_created",
+    "title": "Pushed commit to playwright-auto-test-db",
+    "occured_at": "2025-11-11T05:50:18.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/commit/320c91eafd665a7b8418f4df42ec9e30a66b45d2",
+    "text": "Fixing UI in settings/billing to highlight selected sidebar item (#14177)",
+    "points": null,
+    "meta": {}
+  }
+]

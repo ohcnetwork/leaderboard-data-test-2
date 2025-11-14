@@ -1,0 +1,24 @@
+[
+  {
+    "slug": "eod_update_2025-11-13_nandkishorr",
+    "contributor": "nandkishorr",
+    "activity_definition": "eod_update",
+    "title": "EOD Update",
+    "occured_at": "2025-11-13T07:02:12.226Z",
+    "link": null,
+    "text": "Nov 11<br>• Cleaning up data and ETL script for patient bulk import in Pallium instance<br>• Had few <span class=\"s-emoji\">🎧</span> w <span class=\"s-mention s-user\">@U095LRJJCAE</span> &amp; <span class=\"s-mention s-user\">@U02D0NA6RHR</span> on the data import<br>• <span class=\"s-emoji\">🎧</span>w<span class=\"s-mention s-user\">@U02TB8XHZD1</span> and <span class=\"s-mention s-user\">@U06CY7RUZ9S</span> <br>Nov 12<br>• Attended DPG call<br>• Imported datas for Pallium instance<br>• Had few <span class=\"s-emoji\">🎧</span> w <span class=\"s-mention s-user\">@U095LRJJCAE</span> &amp; <span class=\"s-mention s-user\">@U02D0NA6RHR</span> <br>• <span class=\"s-emoji\">🎧</span>w <span class=\"s-mention s-user\">@U0168MBTGL8</span> on configuring ODOO<br>• <span class=\"s-emoji\">🎧</span>w<span class=\"s-mention s-user\">@U02TB8XHZD1</span> discussed on plugin integration<br>• Created plugin for Care-Odoo integration",
+    "points": null,
+    "meta": null
+  },
+  {
+    "slug": "eod_update_2025-11-14_nandkishorr",
+    "contributor": "nandkishorr",
+    "activity_definition": "eod_update",
+    "title": "EOD Update",
+    "occured_at": "2025-11-14T08:07:22.023Z",
+    "link": null,
+    "text": "Nov 13<br>• Made <a href=\"https://github.com/ohcnetwork/care/pull/3356/files\">PR</a> on <a href=\"https://github.com/ohcnetwork/care/pull/3356/files#top\">Added transactions for create and update apis</a><br>• Made fixes for facility tags for patients<br>Next<br>• PR on Odoo Plugin<br>• Load Updated Patient data for Pallium instance",
+    "points": null,
+    "meta": null
+  }
+]

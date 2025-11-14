@@ -1,0 +1,112 @@
+[
+  {
+    "slug": "issue_assigned_leaderboard#170_khavinshankar",
+    "contributor": "khavinshankar",
+    "activity_definition": "issue_assigned",
+    "title": "Issue #170 assigned",
+    "occured_at": "2023-12-13T07:47:16.000Z",
+    "link": "https://github.com/ohcnetwork/leaderboard/issues/170",
+    "text": "Show timeline / gantt chart to visualise PR activity (issue assigned > PR opened > PR merged/closed)",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "pr_opened_care_fe#14121",
+    "contributor": "khavinshankar",
+    "activity_definition": "pr_opened",
+    "title": "Opened pull request #14121",
+    "occured_at": "2025-10-24T11:20:58.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/14121",
+    "text": "POC: fetch and load plugins at runtime",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "commit_created_Sudheendra_b83dc10e18cf3f68507303e144297cb3571b536f",
+    "contributor": "khavinshankar",
+    "activity_definition": "commit_created",
+    "title": "Pushed commit to Sudheendra",
+    "occured_at": "2025-11-10T12:54:14.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/commit/b83dc10e18cf3f68507303e144297cb3571b536f",
+    "text": "Removed default for discharge disposition and made it mandatory (#14268)",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "commit_created_invoice-edit-changes_b83dc10e18cf3f68507303e144297cb3571b536f",
+    "contributor": "khavinshankar",
+    "activity_definition": "commit_created",
+    "title": "Pushed commit to invoice-edit-changes",
+    "occured_at": "2025-11-10T12:54:14.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/commit/b83dc10e18cf3f68507303e144297cb3571b536f",
+    "text": "Removed default for discharge disposition and made it mandatory (#14268)",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "commit_created_playwright-auto-test-db_133ba5fdbea47266f7939bc01fbd85232463c75b",
+    "contributor": "khavinshankar",
+    "activity_definition": "commit_created",
+    "title": "Pushed commit to playwright-auto-test-db",
+    "occured_at": "2025-11-03T10:42:04.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/commit/133ba5fdbea47266f7939bc01fbd85232463c75b",
+    "text": "added env to enforce discharge disposition (#14218)",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "commit_created_playwright-auto-test-db_2a804d314cc661055ae0f8fb40bd1df7e7d02bae",
+    "contributor": "khavinshankar",
+    "activity_definition": "commit_created",
+    "title": "Pushed commit to playwright-auto-test-db",
+    "occured_at": "2025-11-03T10:57:49.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/commit/2a804d314cc661055ae0f8fb40bd1df7e7d02bae",
+    "text": "dynamically show tag variants from tag config meta (#14203)",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "commit_created_playwright-auto-test-db_66e48918ed5230d20e31eb839a1d9b1d4fb0f98e",
+    "contributor": "khavinshankar",
+    "activity_definition": "commit_created",
+    "title": "Pushed commit to playwright-auto-test-db",
+    "occured_at": "2025-11-04T05:20:24.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/commit/66e48918ed5230d20e31eb839a1d9b1d4fb0f98e",
+    "text": "Set home as default discharge disposition (#14228)",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "commit_created_playwright-auto-test-db_735ea267b2a5b9a618fe8cc742d0b3047eef97df",
+    "contributor": "khavinshankar",
+    "activity_definition": "commit_created",
+    "title": "Pushed commit to playwright-auto-test-db",
+    "occured_at": "2025-11-04T14:39:18.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/commit/735ea267b2a5b9a618fe8cc742d0b3047eef97df",
+    "text": "Add mutation key to create patient mutation in patient registration (#14240)",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "commit_created_playwright-auto-test-db_b83dc10e18cf3f68507303e144297cb3571b536f",
+    "contributor": "khavinshankar",
+    "activity_definition": "commit_created",
+    "title": "Pushed commit to playwright-auto-test-db",
+    "occured_at": "2025-11-10T12:54:14.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/commit/b83dc10e18cf3f68507303e144297cb3571b536f",
+    "text": "Removed default for discharge disposition and made it mandatory (#14268)",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "pr_opened_care#3357",
+    "contributor": "khavinshankar",
+    "activity_definition": "pr_opened",
+    "title": "Opened pull request #3357",
+    "occured_at": "2025-11-14T11:01:36.000Z",
+    "link": "https://github.com/ohcnetwork/care/pull/3357",
+    "text": "Enable PlugConfig API",
+    "points": null,
+    "meta": {}
+  }
+]
