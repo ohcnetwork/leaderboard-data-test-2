@@ -1,4 +1,5 @@
 name: Scraper
+run-name:
 
 on:
   workflow_dispatch:
@@ -138,5 +139,5 @@ jobs:
 
           git commit -m "Update leaderboard data"
 
-          # Ensure pushing to the correct branch (default = main)
-          git push origin HEAD:main
+          # Ensure pushing to the correct branch (default = master)
+          git push origin HEAD:master
