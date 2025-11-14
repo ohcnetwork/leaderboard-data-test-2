@@ -1,0 +1,112 @@
+[
+  {
+    "slug": "issue_opened_care_fe#14322",
+    "contributor": "aravindm4",
+    "activity_definition": "issue_opened",
+    "title": "Opened issue #14322",
+    "occured_at": "2025-11-13T09:23:00.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/14322",
+    "text": "Home Page - Redesign",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "issue_opened_care_fe#14305",
+    "contributor": "aravindm4",
+    "activity_definition": "issue_opened",
+    "title": "Opened issue #14305",
+    "occured_at": "2025-11-12T09:45:30.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/14305",
+    "text": "Add Charge Item Category and Favorite Option in Charge Item Structured Question Type",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "issue_closed_care_fe#13448",
+    "contributor": "aravindm4",
+    "activity_definition": "issue_closed",
+    "title": "Closed issue #13448",
+    "occured_at": "2025-11-13T11:19:55.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/13448",
+    "text": "Make the default pagination count an env",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "issue_opened_care_fe#14200",
+    "contributor": "aravindm4",
+    "activity_definition": "issue_opened",
+    "title": "Opened issue #14200",
+    "occured_at": "2025-10-31T06:10:24.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/14200",
+    "text": "Add patient identifier filter to accounts page",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "issue_closed_care_fe#13176",
+    "contributor": "aravindm4",
+    "activity_definition": "issue_closed",
+    "title": "Closed issue #13176",
+    "occured_at": "2025-11-13T10:57:28.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/13176",
+    "text": "OPD request from HMIS pilot states",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "comment_created_care_fe#13603_IC_kwDODtfaXs7SQQtN",
+    "contributor": "aravindm4",
+    "activity_definition": "comment_created",
+    "title": "Commented on #13603",
+    "occured_at": "2025-11-13T11:58:54.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/13603#issuecomment-3527478093",
+    "text": null,
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "comment_created_care_fe#13463_IC_kwDODtfaXs7SP06S",
+    "contributor": "aravindm4",
+    "activity_definition": "comment_created",
+    "title": "Commented on #13463",
+    "occured_at": "2025-11-13T11:26:24.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/13463#issuecomment-3527364242",
+    "text": null,
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "comment_created_care_fe#13448_IC_kwDODtfaXs7SPuOM",
+    "contributor": "aravindm4",
+    "activity_definition": "comment_created",
+    "title": "Commented on #13448",
+    "occured_at": "2025-11-13T11:19:55.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/13448#issuecomment-3527336844",
+    "text": null,
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "comment_created_care_fe#13176_IC_kwDODtfaXs7SPSBp",
+    "contributor": "aravindm4",
+    "activity_definition": "comment_created",
+    "title": "Commented on #13176",
+    "occured_at": "2025-11-13T10:57:26.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/13176#issuecomment-3527221353",
+    "text": null,
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "comment_created_care_fe#14200_IC_kwDODtfaXs7SNaQI",
+    "contributor": "aravindm4",
+    "activity_definition": "comment_created",
+    "title": "Commented on #14200",
+    "occured_at": "2025-11-13T09:28:26.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/14200#issuecomment-3526730760",
+    "text": null,
+    "points": null,
+    "meta": {}
+  }
+]

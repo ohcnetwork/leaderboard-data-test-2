@@ -1,0 +1,57 @@
+[
+  {
+    "slug": "pr_opened_care#3340",
+    "contributor": "dependabot",
+    "activity_definition": "pr_opened",
+    "title": "Opened pull request #3340",
+    "occured_at": "2025-11-03T21:08:20.000Z",
+    "link": "https://github.com/ohcnetwork/care/pull/3340",
+    "text": "chore(deps): bump django-cors-headers from 4.6.0 to 4.9.0",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "pr_opened_care#3342",
+    "contributor": "dependabot",
+    "activity_definition": "pr_opened",
+    "title": "Opened pull request #3342",
+    "occured_at": "2025-11-03T21:15:36.000Z",
+    "link": "https://github.com/ohcnetwork/care/pull/3342",
+    "text": "chore(deps-dev): bump dirty-equals from 0.8.0 to 0.10.0",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "pr_opened_care#3341",
+    "contributor": "dependabot",
+    "activity_definition": "pr_opened",
+    "title": "Opened pull request #3341",
+    "occured_at": "2025-11-03T21:12:08.000Z",
+    "link": "https://github.com/ohcnetwork/care/pull/3341",
+    "text": "chore(deps-dev): bump polyfactory from 2.22.2 to 2.22.3",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "pr_merged_care#3342",
+    "contributor": "dependabot",
+    "activity_definition": "pr_merged",
+    "title": "Merged pull request #3342",
+    "occured_at": "2025-11-13T14:29:06.000Z",
+    "link": "https://github.com/ohcnetwork/care/pull/3342",
+    "text": "chore(deps-dev): bump dirty-equals from 0.8.0 to 0.10.0",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "pr_opened_leaderboard#610",
+    "contributor": "dependabot",
+    "activity_definition": "pr_opened",
+    "title": "Opened pull request #610",
+    "occured_at": "2025-02-14T18:44:11.000Z",
+    "link": "https://github.com/ohcnetwork/leaderboard/pull/610",
+    "text": "Bump @octokit/plugin-paginate-rest from 11.3.6 to 11.4.1",
+    "points": null,
+    "meta": {}
+  }
+]

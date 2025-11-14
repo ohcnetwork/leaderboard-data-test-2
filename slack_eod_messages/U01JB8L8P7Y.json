@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1763003002996,
+    "user_id": "U01JB8L8P7Y",
+    "timestamp": "2025-11-13T03:03:22.996Z",
+    "text": "Nov 12<br>• Fixed 2 ABDM related recurring issues on Sentry in v3 instances<br>• Huddle with Amrutha to walk over the ABDM demo flow<br>• Fixed issues noticed during the demo rehearsal with Amrutha<br>Next<br>• Scan and share as a token queue<br>• Final walk through of ABDM demo with Amrutha<br>• Go over the assigned issues across all the repos and plan accordingly"
+  },
+  {
+    "id": 1763092695316,
+    "user_id": "U01JB8L8P7Y",
+    "timestamp": "2025-11-14T03:58:15.316Z",
+    "text": "Nov 13<br>• Added encounter filter to consent requests in abdm<br>• Replaced the usage of get_facility_queryset with updated logic<br>• Went over the ABDM demo flow with Amrutha"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1763011683357,
+    "user_id": "U093J1BPCRZ",
+    "timestamp": "2025-11-13T05:28:03.357Z",
+    "text": "Nov 12<br>• Updated Patient tags card to add new patient tags<br>• Updated symptoms and diagnosis drill down to include new patient tags<br>• Added a new card &quot;Zonal Load (f3/f4)&quot; to the Arike activity Dashboard<br>• Huddle with Rohit and Vignesh<br>• Added a new card &quot;Zonal Load (appointments) to Arike Dashboard<br>• Build drill down for both of them<br>• Updated Diagnosis Split across patients in facility dashboard"
+  },
+  {
+    "id": 1763099971605,
+    "user_id": "U093J1BPCRZ",
+    "timestamp": "2025-11-14T05:59:31.605Z",
+    "text": "Nov 13<br>• Added new card &#x27;Tele- billed&#x27; to Arike activity Dashboard<br>• Added new card &#x27;Tele - free&#x27; to ops 2 tab<br>• Build drill down for Tele - billed and Tele - free<br>• Added new card &#x27;pharmacy stock&#x27; and build its drill down<br>• Added new card &#x27;Low stock&#x27; to the finance tab<br>• Added new card &quot;Expiring soon items&#x27; to finance tab<br>• Build drill downs for the them <br>• Updated &#x27;Gender wise split&#x27; card to remove duplicates"
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "slug": "issue_opened_care_fe#14342",
+    "contributor": "StephZam",
+    "activity_definition": "issue_opened",
+    "title": "Opened issue #14342",
+    "occured_at": "2025-11-14T09:17:00.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/14342",
+    "text": "Questionnaire title disappears after refreshing",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "issue_opened_care_fe#14323",
+    "contributor": "StephZam",
+    "activity_definition": "issue_opened",
+    "title": "Opened issue #14323",
+    "occured_at": "2025-11-13T09:41:38.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/14323",
+    "text": "Add Tags for Delivery Orders",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "issue_assigned_care_fe#14342_StephZam",
+    "contributor": "StephZam",
+    "activity_definition": "issue_assigned",
+    "title": "Issue #14342 assigned",
+    "occured_at": "2025-11-14T09:17:33.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/14342",
+    "text": "Questionnaire title disappears after refreshing",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "issue_assigned_care_fe#14323_StephZam",
+    "contributor": "StephZam",
+    "activity_definition": "issue_assigned",
+    "title": "Issue #14323 assigned",
+    "occured_at": "2025-11-13T09:42:00.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/14323",
+    "text": "Add Tags for Delivery Orders",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "pr_opened_care_fe#13526",
+    "contributor": "StephZam",
+    "activity_definition": "pr_opened",
+    "title": "Opened pull request #13526",
+    "occured_at": "2025-08-26T13:07:51.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/13526",
+    "text": "fix: Resizable Feature for Dept/team Listing Page",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "pr_opened_care_fe#14324",
+    "contributor": "StephZam",
+    "activity_definition": "pr_opened",
+    "title": "Opened pull request #14324",
+    "occured_at": "2025-11-13T10:51:05.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/14324",
+    "text": "feat: Added Tags for Delivery Orders",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "pr_opened_care_fe#14299",
+    "contributor": "StephZam",
+    "activity_definition": "pr_opened",
+    "title": "Opened pull request #14299",
+    "occured_at": "2025-11-11T17:17:13.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/14299",
+    "text": "fix: Removed blank space on right side of notes tab",
+    "points": null,
+    "meta": {}
+  }
+]

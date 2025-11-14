@@ -1,0 +1,101 @@
+[
+  {
+    "slug": "pr_opened_odoo_connector#47",
+    "contributor": "Visakhdc",
+    "activity_definition": "pr_opened",
+    "title": "Opened pull request #47",
+    "occured_at": "2025-11-14T09:07:31.000Z",
+    "link": "https://github.com/ohcnetwork/odoo_connector/pull/47",
+    "text": "[ADD]:grn_number_in_vendor_bill",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "pr_merged_odoo_connector#47",
+    "contributor": "Visakhdc",
+    "activity_definition": "pr_merged",
+    "title": "Merged pull request #47",
+    "occured_at": "2025-11-14T09:07:42.000Z",
+    "link": "https://github.com/ohcnetwork/odoo_connector/pull/47",
+    "text": "[ADD]:grn_number_in_vendor_bill",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "pr_opened_odoo_connector#46",
+    "contributor": "Visakhdc",
+    "activity_definition": "pr_opened",
+    "title": "Opened pull request #46",
+    "occured_at": "2025-11-13T11:03:34.000Z",
+    "link": "https://github.com/ohcnetwork/odoo_connector/pull/46",
+    "text": "[IMP]:partner and product category archive and unarchive",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "pr_merged_odoo_connector#46",
+    "contributor": "Visakhdc",
+    "activity_definition": "pr_merged",
+    "title": "Merged pull request #46",
+    "occured_at": "2025-11-13T11:03:48.000Z",
+    "link": "https://github.com/ohcnetwork/odoo_connector/pull/46",
+    "text": "[IMP]:partner and product category archive and unarchive",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "commit_created_main_b0e22bea038ef4b399aa2318e247b34fc22e6832",
+    "contributor": "Visakhdc",
+    "activity_definition": "commit_created",
+    "title": "Pushed commit to main",
+    "occured_at": "2025-11-14T09:05:42.000Z",
+    "link": "https://github.com/ohcnetwork/odoo_connector/commit/b0e22bea038ef4b399aa2318e247b34fc22e6832",
+    "text": "[ADD]:grn_number_in_vendor_bill",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "commit_created_main_d1fedf47777e7c43357fa983d64e3fb574590ce3",
+    "contributor": "Visakhdc",
+    "activity_definition": "commit_created",
+    "title": "Pushed commit to main",
+    "occured_at": "2025-11-14T09:07:42.000Z",
+    "link": "https://github.com/ohcnetwork/odoo_connector/commit/d1fedf47777e7c43357fa983d64e3fb574590ce3",
+    "text": "Merge pull request #47 from ohcnetwork/visakh_grn_number_in_vendor_bill",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "commit_created_visakh_care_connector_improvement_29a4de347f340d68cc155ae723d160a4ddaa853a",
+    "contributor": "Visakhdc",
+    "activity_definition": "commit_created",
+    "title": "Pushed commit to visakh_care_connector_improvement",
+    "occured_at": "2025-11-13T11:01:48.000Z",
+    "link": "https://github.com/ohcnetwork/odoo_connector/commit/29a4de347f340d68cc155ae723d160a4ddaa853a",
+    "text": "[IMP]:partner and product category archive and unarchive",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "commit_created_main_29a4de347f340d68cc155ae723d160a4ddaa853a",
+    "contributor": "Visakhdc",
+    "activity_definition": "commit_created",
+    "title": "Pushed commit to main",
+    "occured_at": "2025-11-13T11:01:48.000Z",
+    "link": "https://github.com/ohcnetwork/odoo_connector/commit/29a4de347f340d68cc155ae723d160a4ddaa853a",
+    "text": "[IMP]:partner and product category archive and unarchive",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "commit_created_main_34e9271c9ee1a978664e7d8835fedb2902620ec2",
+    "contributor": "Visakhdc",
+    "activity_definition": "commit_created",
+    "title": "Pushed commit to main",
+    "occured_at": "2025-11-13T11:03:47.000Z",
+    "link": "https://github.com/ohcnetwork/odoo_connector/commit/34e9271c9ee1a978664e7d8835fedb2902620ec2",
+    "text": "Merge pull request #46 from ohcnetwork/visakh_care_connector_improvement",
+    "points": null,
+    "meta": {}
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "slug": "issue_assigned_leaderboard#170_khavinshankar",
+    "contributor": "khavinshankar",
+    "activity_definition": "issue_assigned",
+    "title": "Issue #170 assigned",
+    "occured_at": "2023-12-13T07:47:16.000Z",
+    "link": "https://github.com/ohcnetwork/leaderboard/issues/170",
+    "text": "Show timeline / gantt chart to visualise PR activity (issue assigned > PR opened > PR merged/closed)",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "commit_created_develop_629e9c6621829b37adc7ff13a851cd2adfce48db",
+    "contributor": "khavinshankar",
+    "activity_definition": "commit_created",
+    "title": "Pushed commit to develop",
+    "occured_at": "2025-11-13T10:36:05.000Z",
+    "link": "https://github.com/ohcnetwork/care_abdm_fe/commit/629e9c6621829b37adc7ff13a851cd2adfce48db",
+    "text": "pass encounter to create consent form",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "commit_created_develop_2702d55b6b37c23179b9904ca7dcf164d81c46ef",
+    "contributor": "khavinshankar",
+    "activity_definition": "commit_created",
+    "title": "Pushed commit to develop",
+    "occured_at": "2025-11-13T10:18:30.000Z",
+    "link": "https://github.com/ohcnetwork/care_abdm_fe/commit/2702d55b6b37c23179b9904ca7dcf164d81c46ef",
+    "text": "send encounter id while creating a consent",
+    "points": null,
+    "meta": {}
+  }
+]

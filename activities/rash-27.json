@@ -1,0 +1,13 @@
+[
+  {
+    "slug": "issue_assigned_leaderboard#219_rash-27",
+    "contributor": "rash-27",
+    "activity_definition": "issue_assigned",
+    "title": "Issue #219 assigned",
+    "occured_at": "2024-03-29T09:32:55.000Z",
+    "link": "https://github.com/ohcnetwork/leaderboard/issues/219",
+    "text": "Scaling points for PRs based on size of the PR / complexity of the issue",
+    "points": null,
+    "meta": {}
+  }
+]

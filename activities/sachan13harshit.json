@@ -1,0 +1,13 @@
+[
+  {
+    "slug": "issue_assigned_leaderboard#467_sachan13harshit",
+    "contributor": "sachan13harshit",
+    "activity_definition": "issue_assigned",
+    "title": "Issue #467 assigned",
+    "occured_at": "2024-07-26T07:44:21.000Z",
+    "link": "https://github.com/ohcnetwork/leaderboard/issues/467",
+    "text": "Update `pullHistoricalGitHubActivities` script to also fetch discussions",
+    "points": null,
+    "meta": {}
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "slug": "issue_assigned_care_fe#13176_amjithtitus09",
+    "contributor": "amjithtitus09",
+    "activity_definition": "issue_assigned",
+    "title": "Issue #13176 assigned",
+    "occured_at": "2025-07-31T09:05:28.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/13176",
+    "text": "OPD request from HMIS pilot states",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "comment_created_care_fe#14328_IC_kwDODtfaXs7SfC35",
+    "contributor": "amjithtitus09",
+    "activity_definition": "comment_created",
+    "title": "Commented on #14328",
+    "occured_at": "2025-11-14T07:40:36.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/14328#issuecomment-3531353593",
+    "text": null,
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "pr_reviewed_care_fe#14116_COMMENTED_PRR_kwDODtfaXs7JtiL5",
+    "contributor": "amjithtitus09",
+    "activity_definition": "pr_reviewed",
+    "title": "Reviewed PR #14116",
+    "occured_at": "2025-10-27T15:33:23.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/14116#pullrequestreview-3384156921",
+    "text": "Feat - Redesigned Past Symptoms /  Past Diagnoses and Medication History Tabs",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "pr_reviewed_care_fe#14116_COMMENTED_PRR_kwDODtfaXs7Jtjr1",
+    "contributor": "amjithtitus09",
+    "activity_definition": "pr_reviewed",
+    "title": "Reviewed PR #14116",
+    "occured_at": "2025-10-27T15:34:27.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/14116#pullrequestreview-3384163061",
+    "text": "Feat - Redesigned Past Symptoms /  Past Diagnoses and Medication History Tabs",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "pr_reviewed_care_fe#14116_CHANGES_REQUESTED_PRR_kwDODtfaXs7JtuUx",
+    "contributor": "amjithtitus09",
+    "activity_definition": "pr_reviewed",
+    "title": "Changes requested on PR #14116",
+    "occured_at": "2025-10-27T15:42:38.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/14116#pullrequestreview-3384206641",
+    "text": "Feat - Redesigned Past Symptoms /  Past Diagnoses and Medication History Tabs",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "pr_reviewed_care_fe#14098_CHANGES_REQUESTED_PRR_kwDODtfaXs7N2d0Q",
+    "contributor": "amjithtitus09",
+    "activity_definition": "pr_reviewed",
+    "title": "Changes requested on PR #14098",
+    "occured_at": "2025-11-12T14:55:23.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/14098#pullrequestreview-3453607184",
+    "text": "feat: add delivery status update functionality ",
+    "points": null,
+    "meta": {}
+  }
+]

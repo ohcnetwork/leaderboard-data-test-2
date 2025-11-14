@@ -1,0 +1,13 @@
+[
+  {
+    "slug": "issue_assigned_leaderboard#219_parthksingh1",
+    "contributor": "parthksingh1",
+    "activity_definition": "issue_assigned",
+    "title": "Issue #219 assigned",
+    "occured_at": "2024-02-21T20:51:08.000Z",
+    "link": "https://github.com/ohcnetwork/leaderboard/issues/219",
+    "text": "Scaling points for PRs based on size of the PR / complexity of the issue",
+    "points": null,
+    "meta": {}
+  }
+]

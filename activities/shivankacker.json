@@ -1,0 +1,46 @@
+[
+  {
+    "slug": "comment_created_care_fe#14257_IC_kwDODtfaXs7Sgfuy",
+    "contributor": "shivankacker",
+    "activity_definition": "comment_created",
+    "title": "Commented on #14257",
+    "occured_at": "2025-11-14T09:15:39.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/14257#issuecomment-3531733938",
+    "text": null,
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "pr_opened_care_fe#14257",
+    "contributor": "shivankacker",
+    "activity_definition": "pr_opened",
+    "title": "Opened pull request #14257",
+    "occured_at": "2025-11-05T21:28:31.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/14257",
+    "text": "Added test for Patient Identifier Config",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "commit_created_dependabot/pip/polyfactory-2.22.3_6e7acdf6cf1c0f9f02a62f649100b79fae935d08",
+    "contributor": "shivankacker",
+    "activity_definition": "commit_created",
+    "title": "Pushed commit to dependabot/pip/polyfactory-2.22.3",
+    "occured_at": "2025-11-10T12:26:47.000Z",
+    "link": "https://github.com/ohcnetwork/care/commit/6e7acdf6cf1c0f9f02a62f649100b79fae935d08",
+    "text": "Added make commands to switch to test db during playwright tests (#3326)",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "commit_created_dependabot/pip/django-cors-headers-4.9.0_6e7acdf6cf1c0f9f02a62f649100b79fae935d08",
+    "contributor": "shivankacker",
+    "activity_definition": "commit_created",
+    "title": "Pushed commit to dependabot/pip/django-cors-headers-4.9.0",
+    "occured_at": "2025-11-10T12:26:47.000Z",
+    "link": "https://github.com/ohcnetwork/care/commit/6e7acdf6cf1c0f9f02a62f649100b79fae935d08",
+    "text": "Added make commands to switch to test db during playwright tests (#3326)",
+    "points": null,
+    "meta": {}
+  }
+]

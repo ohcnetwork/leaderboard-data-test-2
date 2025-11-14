@@ -1,0 +1,24 @@
+[
+  {
+    "slug": "issue_assigned_care_fe#14200_Essa034",
+    "contributor": "Essa034",
+    "activity_definition": "issue_assigned",
+    "title": "Issue #14200 assigned",
+    "occured_at": "2025-11-01T01:00:11.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/14200",
+    "text": "Add patient identifier filter to accounts page",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "comment_created_care_fe#14200_IC_kwDODtfaXs7SOR02",
+    "contributor": "Essa034",
+    "activity_definition": "comment_created",
+    "title": "Commented on #14200",
+    "occured_at": "2025-11-13T10:10:34.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/14200#issuecomment-3526958390",
+    "text": null,
+    "points": null,
+    "meta": {}
+  }
+]

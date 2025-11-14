@@ -1,0 +1,35 @@
+[
+  {
+    "slug": "issue_opened_care_fe#13463",
+    "contributor": "Denyme24",
+    "activity_definition": "issue_opened",
+    "title": "Opened issue #13463",
+    "occured_at": "2025-08-21T20:39:51.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/13463",
+    "text": "Validation error persists after changing Contact Point type in Add Device form",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "issue_opened_care_fe#13243",
+    "contributor": "Denyme24",
+    "activity_definition": "issue_opened",
+    "title": "Opened issue #13243",
+    "occured_at": "2025-08-04T11:05:14.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/13243",
+    "text": "Disable Create/Update Buttons Until Form Changes Are Made Across All Forms",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "issue_assigned_care_fe#13243_Denyme24",
+    "contributor": "Denyme24",
+    "activity_definition": "issue_assigned",
+    "title": "Issue #13243 assigned",
+    "occured_at": "2025-10-29T11:25:50.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/13243",
+    "text": "Disable Create/Update Buttons Until Form Changes Are Made Across All Forms",
+    "points": null,
+    "meta": {}
+  }
+]

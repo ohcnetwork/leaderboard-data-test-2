@@ -1,0 +1,101 @@
+[
+  {
+    "slug": "issue_assigned_care_fe#14325_Jacobjeevan",
+    "contributor": "Jacobjeevan",
+    "activity_definition": "issue_assigned",
+    "title": "Issue #14325 assigned",
+    "occured_at": "2025-11-13T11:03:05.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/14325",
+    "text": "Patient tag not visible while Patient registration",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "comment_created_care_fe#14340_IC_kwDODtfaXs7Sfx7Q",
+    "contributor": "Jacobjeevan",
+    "activity_definition": "comment_created",
+    "title": "Commented on #14340",
+    "occured_at": "2025-11-14T08:24:27.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/14340#issuecomment-3531546320",
+    "text": null,
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "pr_opened_care_fe#13842",
+    "contributor": "Jacobjeevan",
+    "activity_definition": "pr_opened",
+    "title": "Opened pull request #13842",
+    "occured_at": "2025-09-25T06:28:50.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/13842",
+    "text": "observation interpretation: form integration/errors and styling",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "pr_reviewed_care_fe#13925_CHANGES_REQUESTED_PRR_kwDODtfaXs7NjNF1",
+    "contributor": "Jacobjeevan",
+    "activity_definition": "pr_reviewed",
+    "title": "Changes requested on PR #13925",
+    "occured_at": "2025-11-11T15:32:11.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/13925#pullrequestreview-3448557941",
+    "text": "update other agent instruction files",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "pr_opened_care_fe#14341",
+    "contributor": "Jacobjeevan",
+    "activity_definition": "pr_opened",
+    "title": "Opened pull request #14341",
+    "occured_at": "2025-11-14T08:47:07.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/14341",
+    "text": "Refactor charge item definition picker to use resource definition picker",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "pr_opened_care_fe#14333",
+    "contributor": "Jacobjeevan",
+    "activity_definition": "pr_opened",
+    "title": "Opened pull request #14333",
+    "occured_at": "2025-11-14T05:09:07.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/14333",
+    "text": "Minor bug fixes: date filter translations, invoice url and more",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "pr_reviewed_care_fe#14306_APPROVED_PRR_kwDODtfaXs7N0SjF",
+    "contributor": "Jacobjeevan",
+    "activity_definition": "pr_reviewed",
+    "title": "Approved PR #14306",
+    "occured_at": "2025-11-12T11:48:04.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/14306#pullrequestreview-3453036741",
+    "text": "Fix accessibility warnings for missing Description in Sheet/Drawer dialogs",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "pr_reviewed_care_fe#14308_APPROVED_PRR_kwDODtfaXs7OM7mD",
+    "contributor": "Jacobjeevan",
+    "activity_definition": "pr_reviewed",
+    "title": "Approved PR #14308",
+    "occured_at": "2025-11-13T12:12:45.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/14308#pullrequestreview-3459496323",
+    "text": "Replace autocomplete with ResourceDefinitionCategoryPicker (ChargeItem)",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "pr_reviewed_care_fe#14299_CHANGES_REQUESTED_PRR_kwDODtfaXs7NzpWx",
+    "contributor": "Jacobjeevan",
+    "activity_definition": "pr_reviewed",
+    "title": "Changes requested on PR #14299",
+    "occured_at": "2025-11-12T10:59:12.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/14299#pullrequestreview-3452868017",
+    "text": "fix: Removed blank space on right side of notes tab",
+    "points": null,
+    "meta": {}
+  }
+]

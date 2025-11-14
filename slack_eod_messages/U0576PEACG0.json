@@ -1,0 +1,8 @@
+[
+  {
+    "id": 1763020533660,
+    "user_id": "U0576PEACG0",
+    "timestamp": "2025-11-13T07:55:33.660Z",
+    "text": "<strong>November 12</strong><br>• Reviewed some PR&#x27;s, Filed <a href=\"https://github.com/ohcnetwork/care_fe/issues/14304\">issues/14304</a> for new OSS contributor.<br>• Filed <a href=\"https://github.com/ohcnetwork/care_fe/issues/14314\">issues/14314</a>, for issue noticed during review of <a href=\"https://github.com/ohcnetwork/care_fe/pull/14250\">pull/14250</a> and assigned it to copilot.<br>• Made changes on PR#14301, <a href=\"https://github.com/ohcnetwork/care_fe/commits/issues/14296/add-tests-for-service-request/?since=2025-11-12&amp;amp;until=2025-11-13\">[1]</a><br>    ◦ helper function to pick from ResourceCategoryDefinitionPikcer.<br>    ◦ setup to store encounter id and patient id so that it can be reused across all the encounter related tests.<br>    ◦ reusable selector to automatically pick from tab or menuitem.<br>    ◦ helper for creating service requests.<br>    ◦ Updated the CreateServiceRequest spec<br>• DPG review call.<br>• Some discussions with different team members and follow ups.<br><strong>Next</strong><br>• Write specs<br>• Review PR&#x27;s<br>"
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "slug": "issue_assigned_care_fe#14321_Rustix69",
+    "contributor": "Rustix69",
+    "activity_definition": "issue_assigned",
+    "title": "Issue #14321 assigned",
+    "occured_at": "2025-11-14T07:42:51.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/14321",
+    "text": "NaN shown in Purchase Delivery when ChargeItem is not applicable",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "comment_created_care_fe#14334_IC_kwDODtfaXs7SeKsQ",
+    "contributor": "Rustix69",
+    "activity_definition": "comment_created",
+    "title": "Commented on #14334",
+    "occured_at": "2025-11-14T06:36:38.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/14334#issuecomment-3531123472",
+    "text": null,
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "comment_created_care_fe#13090_IC_kwDODtfaXs7SWWNs",
+    "contributor": "Rustix69",
+    "activity_definition": "comment_created",
+    "title": "Commented on #13090",
+    "occured_at": "2025-11-13T18:09:00.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/13090#issuecomment-3529073516",
+    "text": null,
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "comment_created_care_fe#14330_IC_kwDODtfaXs7SSyhE",
+    "contributor": "Rustix69",
+    "activity_definition": "comment_created",
+    "title": "Commented on #14330",
+    "occured_at": "2025-11-13T14:41:07.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/14330#issuecomment-3528140868",
+    "text": null,
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "comment_created_care_fe#14329_IC_kwDODtfaXs7SSpex",
+    "contributor": "Rustix69",
+    "activity_definition": "comment_created",
+    "title": "Commented on #14329",
+    "occured_at": "2025-11-13T14:32:49.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/14329#issuecomment-3528103857",
+    "text": null,
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "comment_created_care_fe#14329_IC_kwDODtfaXs7SShFm",
+    "contributor": "Rustix69",
+    "activity_definition": "comment_created",
+    "title": "Commented on #14329",
+    "occured_at": "2025-11-13T14:24:44.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/14329#issuecomment-3528069478",
+    "text": null,
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "comment_created_care_fe#14328_IC_kwDODtfaXs7SSfM6",
+    "contributor": "Rustix69",
+    "activity_definition": "comment_created",
+    "title": "Commented on #14328",
+    "occured_at": "2025-11-13T14:22:53.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/14328#issuecomment-3528061754",
+    "text": null,
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "comment_created_care_fe#13463_IC_kwDODtfaXs7SSXB-",
+    "contributor": "Rustix69",
+    "activity_definition": "comment_created",
+    "title": "Commented on #13463",
+    "occured_at": "2025-11-13T14:15:16.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/13463#issuecomment-3528028286",
+    "text": null,
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "comment_created_care_fe#14325_IC_kwDODtfaXs7SSSj2",
+    "contributor": "Rustix69",
+    "activity_definition": "comment_created",
+    "title": "Commented on #14325",
+    "occured_at": "2025-11-13T14:10:39.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/14325#issuecomment-3528009974",
+    "text": null,
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "comment_created_care_fe#14321_IC_kwDODtfaXs7SQgax",
+    "contributor": "Rustix69",
+    "activity_definition": "comment_created",
+    "title": "Commented on #14321",
+    "occured_at": "2025-11-13T12:15:53.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/14321#issuecomment-3527542449",
+    "text": null,
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "comment_created_care_fe#14320_IC_kwDODtfaXs7SPfmK",
+    "contributor": "Rustix69",
+    "activity_definition": "comment_created",
+    "title": "Commented on #14320",
+    "occured_at": "2025-11-13T11:08:13.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/14320#issuecomment-3527276938",
+    "text": null,
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "comment_created_care_fe#14325_IC_kwDODtfaXs7SPaKY",
+    "contributor": "Rustix69",
+    "activity_definition": "comment_created",
+    "title": "Commented on #14325",
+    "occured_at": "2025-11-13T11:03:57.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/14325#issuecomment-3527254680",
+    "text": null,
+    "points": null,
+    "meta": {}
+  }
+]

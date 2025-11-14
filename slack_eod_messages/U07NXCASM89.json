@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1763019087618,
+    "user_id": "U07NXCASM89",
+    "timestamp": "2025-11-13T07:31:27.618Z",
+    "text": "nov 12<br>• reviews<br>• editing copilot PRs<br>    ◦ fixing bugs discovered while editing these<br>• custom reports UI<br>next<br>• continue w/ editing the PRs + fixing bugs"
+  },
+  {
+    "id": 1763102086857,
+    "user_id": "U07NXCASM89",
+    "timestamp": "2025-11-14T06:34:46.857Z",
+    "text": "nov 13<br>• fixing minor bugs<br>• refactoring chargeitemdefinition picker to use resource definition picker<br>next<br>• finish up refactor..."
+  }
+]
