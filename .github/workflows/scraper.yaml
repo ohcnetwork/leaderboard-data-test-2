@@ -8,7 +8,6 @@ on:
         type: number
         description: The number of days to scrape
         default: 1
-  push:
 
 concurrency:
   group: scheduled-scraper-${{ github.workflow}}-${{github.ref}}
