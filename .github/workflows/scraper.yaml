@@ -20,8 +20,7 @@ jobs:
     permissions:
       contents: write
     env:
-      DB_DATA_PATH: ${{ github.workspace}}/pglite-db
-      FLAT_DATA_PATH: ${{ github.workspace}}/leaderboard-data
+      PGLITE_DB_PATH: ${{ github.workspace}}/pglite-db
 
       LEADERBOARD_PATH: ${{ github.workspace}}/leaderboard
       LEADERBOARD_DATA_PATH: ${{ github.workspace}}/leaderboard-data
