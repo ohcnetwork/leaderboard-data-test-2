@@ -1,0 +1,416 @@
+[
+  {
+    "id": 1729139666253869,
+    "user_id": "U07RFG735CP",
+    "timestamp": "2024-10-16T23:04:26.253Z",
+    "text": "<span class=\"s-mention s-user\">@U07RFG735CP</span> has joined the channel"
+  },
+  {
+    "id": 1729228851454029,
+    "user_id": "U07RFG735CP",
+    "timestamp": "2024-10-17T23:50:51.454Z",
+    "text": "17 October 2024<br><br>Done:<br> solved this issue <a href=\"https://github.com/ohcnetwork/care_fe/issues/8691\">https://github.com/ohcnetwork/care_fe/issues/8691</a><br><br>Next:   raised a pr"
+  },
+  {
+    "id": 1729257440823769,
+    "user_id": "U07RFG735CP",
+    "timestamp": "2024-10-18T07:47:20.823Z",
+    "text": "18 October<br>working on the  issue <a href=\"https://github.com/ohcnetwork/care_fe/issues/8691\">https://github.com/ohcnetwork/care_fe/issues/8691</a>"
+  },
+  {
+    "id": 1729345748687019,
+    "user_id": "U07RFG735CP",
+    "timestamp": "2024-10-19T08:19:08.687Z",
+    "text": "19 october : work <a href=\"https://github.com/ohcnetwork/care_fe/tree/filter-component\">https://github.com/ohcnetwork/care_fe/tree/filter-component</a> merged this with my pr and working on it"
+  },
+  {
+    "id": 1729430398947959,
+    "user_id": "U07RFG735CP",
+    "timestamp": "2024-10-20T07:49:58.947Z",
+    "text": "19th October <br>Done: raised  cleand up and fix some typescript error and commit this in previous pr, now it&#x27;s label &quot;need testing&quot;<br><br>Searching for new issue."
+  },
+  {
+    "id": 1729531294316319,
+    "user_id": "U07RFG735CP",
+    "timestamp": "2024-10-21T11:51:34.316Z",
+    "text": "21 October:<br>Making some required changes ,fixing error comes from test on pr #8834"
+  },
+  {
+    "id": 1729604054113389,
+    "user_id": "U07RFG735CP",
+    "timestamp": "2024-10-22T08:04:14.113Z",
+    "text": "<strong>22 Oct 2024</strong><br>Done<br><br>• Working on failed test cases of PR #8691<br>• <br> Next<br><br>• searching for new issues"
+  },
+  {
+    "id": 1729703825241769,
+    "user_id": "U07RFG735CP",
+    "timestamp": "2024-10-23T11:47:05.241Z",
+    "text": "23 Oct 2024<br>Done<br><br>• made the changes and fixed the issues as per the requirements.<br>• use custom type instead of using any in Tsx file, merge the develop branch resolving merge conflict<br>Next<br><br>• Looking few new issues"
+  },
+  {
+    "id": 1729786288438419,
+    "user_id": "U07RFG735CP",
+    "timestamp": "2024-10-24T10:41:28.438Z",
+    "text": "24 Oct 2024<br>Done:<br>raised pr which solved issue 8691<br>Next:<br>will start work on Duplicate review events captured #464 (assigned today)"
+  },
+  {
+    "id": 1729882617046959,
+    "user_id": "U07RFG735CP",
+    "timestamp": "2024-10-25T13:26:57.046Z",
+    "text": "25 Oct 2024<br>Done:fixed failed test cases of issue 8691<br>Next:<br>will start work on Duplicate review events captured #464 (assigned today)"
+  },
+  {
+    "id": 1730048668302299,
+    "user_id": "U07RFG735CP",
+    "timestamp": "2024-10-27T11:34:28.302Z",
+    "text": "27 Oct 2024<br>Done:made required changes of issue 8691<br>Next:<br>will start work on Duplicate review events captured #464 (assigned today)"
+  },
+  {
+    "id": 1730224489257649,
+    "user_id": "U07RFG735CP",
+    "timestamp": "2024-10-29T12:24:49.257Z",
+    "text": "29 Oct 2024<br>Done:raised a pr after fixing test cases 8691<br>Next:<br> will start work on Duplicate review events captured #464"
+  },
+  {
+    "id": 1730315808592769,
+    "user_id": "U07RFG735CP",
+    "timestamp": "2024-10-30T13:46:48.592Z",
+    "text": "30 Oct 2024<br>Done:fixing test cases 8691<br>Next:<br>• will start on this <a href=\"https://github.com/ohcnetwork/care_fe/issues/6503\">https://github.com/ohcnetwork/care_fe/issues/6503</a>"
+  },
+  {
+    "id": 1730485035710179,
+    "user_id": "U07RFG735CP",
+    "timestamp": "2024-11-01T12:47:15.710Z",
+    "text": "1 Nov 2024<br>Done:fixing test cases 8691<br>Next:<br>• will start on this <a href=\"https://github.com/ohcnetwork/care_fe/issues/6503\">https://github.com/ohcnetwork/care_fe/issues/6503</a>"
+  },
+  {
+    "id": 1730571123223679,
+    "user_id": "U07RFG735CP",
+    "timestamp": "2024-11-02T12:42:03.223Z",
+    "text": "2 nov<br>Done:<br>Made changes on Issue 8691 waiting for feedback <br>Will work on:<br><a href=\"https://github.com/ohcnetwork/care_fe/issues/6503\"><a href=\"https://github.com/ohcnetwork/care_fe/issues/6503\">https://github.com/ohcnetwork/care_fe/issues/6503</a></a>"
+  },
+  {
+    "id": 1730651416986549,
+    "user_id": "U07RFG735CP",
+    "timestamp": "2024-11-03T11:00:16.986Z",
+    "text": "3Nov 2024<br>Done:8691<br>Next:<br> will start on this <a href=\"https://github.com/ohcnetwork/care_fe/issues/6503\"><a href=\"https://github.com/ohcnetwork/care_fe/issues/6503\">https://github.com/ohcnetwork/care_fe/issues/6503</a></a>"
+  },
+  {
+    "id": 1730736424252129,
+    "user_id": "U07RFG735CP",
+    "timestamp": "2024-11-04T10:37:04.252Z",
+    "text": "4Nov 2024<br>working on issues 6503<br>Next:<br>Looking for new issue"
+  },
+  {
+    "id": 1730822049016959,
+    "user_id": "U07RFG735CP",
+    "timestamp": "2024-11-05T10:24:09.016Z",
+    "text": "5nov<br>Done:<br>Working on issues #6503<br>Next:<br>Looking for new issue"
+  },
+  {
+    "id": 1730907258044519,
+    "user_id": "U07RFG735CP",
+    "timestamp": "2024-11-06T10:04:18.044Z",
+    "text": "6 Nov<br>Done :<br>fixing :issue #6053<br>next:<br>looking for new issues"
+  },
+  {
+    "id": 1731603983831469,
+    "user_id": "U07RFG735CP",
+    "timestamp": "2024-11-14T11:36:23.831Z",
+    "text": "14nov:<br>Done: fixed the bug requested by tester <a href=\"https://github.com/ohcnetwork/care_fe/pull/9013#issuecomment-2473293072\">https://github.com/ohcnetwork/care_fe/pull/9013#issuecomment-2473293072</a><br>Next: will fix the issue of previous pr"
+  },
+  {
+    "id": 1731734364508909,
+    "user_id": "U07RFG735CP",
+    "timestamp": "2024-11-15T23:49:24.508Z",
+    "text": "15 th November<br>Done<br>working on issue <a href=\"https://github.com/ohcnetwork/care_fe/pull/8834\">https://github.com/ohcnetwork/care_fe/pull/8834</a><br>Next<br>looking for new issue<br>(Sorry for being late in giving the end-of-day report)"
+  },
+  {
+    "id": 1731778486703909,
+    "user_id": "U07RFG735CP",
+    "timestamp": "2024-11-16T12:04:46.703Z",
+    "text": "16 Nov 2024<br>Done<br>• Worked on issue #8691<br>• fixed some responsiveness issue in serchbymultiplefield component<br>Next<br>• Looking for new issues"
+  },
+  {
+    "id": 1731861549331369,
+    "user_id": "U07RFG735CP",
+    "timestamp": "2024-11-17T11:09:09.331Z",
+    "text": "17 november<br>Done<br>• Worked on issue #8691<br>• fixed  clearing input value after removing the filters<br>Next<br>• Looking for new issues"
+  },
+  {
+    "id": 1731961111038129,
+    "user_id": "U07RFG735CP",
+    "timestamp": "2024-11-18T14:48:31.038Z",
+    "text": "17 november<br>Done<br>• Working on issue #8691<br>Next<br>• Looking for new issues"
+  },
+  {
+    "id": 1731994715948329,
+    "user_id": "U07RFG735CP",
+    "timestamp": "2024-11-19T00:08:35.948Z",
+    "text": "17 november<br>Done<br> Working on issue #8691 ( fixed: adding advanced searchbyfield component)<br>Next<br> Looking for new issues"
+  },
+  {
+    "id": 1732076797440529,
+    "user_id": "U07RFG735CP",
+    "timestamp": "2024-11-19T22:56:37.440Z",
+    "text": "19 november<br>Done<br> Implemented denouncing and checked some responsiveness in searchbymultiplefield component#8691 ( fixed: adding advanced searchbyfield component)<br>Next<br>Completing issue 8691as soon as possible"
+  },
+  {
+    "id": 1732167420639769,
+    "user_id": "U07RFG735CP",
+    "timestamp": "2024-11-21T00:07:00.639Z",
+    "text": "20 november<br>Done<br>Working on preventing unnecessary requests component#8691 ( fixed: adding advanced searchbyfield component)<br>Next<br>Completing issue 8691as soon as possible"
+  },
+  {
+    "id": 1732249372115029,
+    "user_id": "U07RFG735CP",
+    "timestamp": "2024-11-21T22:52:52.115Z",
+    "text": "21 november<br>Done<br>Working on  ( fixed: adding advanced searchbyfield component) issue #8691<br>Next<br>Completing issue 8691as soon as possible"
+  },
+  {
+    "id": 1732339117867269,
+    "user_id": "U07RFG735CP",
+    "timestamp": "2024-11-22T23:48:37.867Z",
+    "text": "22 november<br>Done<br>Working on ( fixed: adding advanced searchbyfield component) issue #8691<br>Next<br>Completing issue 8691as soon as possible"
+  },
+  {
+    "id": 1732475829498299,
+    "user_id": "U07RFG735CP",
+    "timestamp": "2024-11-24T13:47:09.498Z",
+    "text": "23 to 24 november<br>Done<br>Working on ( fixed: adding advanced searchbyfield component) issue #8691, prevent unnecessary api calls for search field, build a custom hook for denouncing<br>Next<br>Completing issue 8691as soon as possible"
+  },
+  {
+    "id": 1733031336778209,
+    "user_id": "U07RFG735CP",
+    "timestamp": "2024-12-01T00:05:36.778Z",
+    "text": "30 Nov 2024<br>done: As of now, I have made some required changes requested by the reviewer in PR 8691 (multiple search functionality on the patient page). It was assigned to Shivank a few days ago.<br>Next<br>now  looking for new issues"
+  },
+  {
+    "id": 1734715894473199,
+    "user_id": "U07RFG735CP",
+    "timestamp": "2024-12-20T12:01:34.473Z",
+    "text": "20 Dec 2024<br>Done<br>• No updates for today<br>Next<br>• Looking for new issues"
+  },
+  {
+    "id": 1734793848378699,
+    "user_id": "U07RFG735CP",
+    "timestamp": "2024-12-21T09:40:48.378Z",
+    "text": "21 Dec 2024<br>Done <br>No progress for today, exploring django course content <br>Next <br> Look for new issues"
+  },
+  {
+    "id": 1735013637480609,
+    "user_id": "U07RFG735CP",
+    "timestamp": "2024-12-23T22:43:57.480Z",
+    "text": "December 23<br>Done <br>  1.Opened a new issue on ohc/leaderboard.(#573)<br>  2.working on that<br>Next:<br>   Closing that issue as soon as possible"
+  },
+  {
+    "id": 1735106180570439,
+    "user_id": "U07RFG735CP",
+    "timestamp": "2024-12-25T00:26:20.570Z",
+    "text": "December 24<br>Done<br>  1.Opened a new issue on ohc/leaderboard.(#573)<br>  2.working on that<br>Next:<br>   Closing that issue as soon as possible"
+  },
+  {
+    "id": 1735189006688159,
+    "user_id": "U07RFG735CP",
+    "timestamp": "2024-12-25T23:26:46.688Z",
+    "text": "December 25<br>Done<br>1. no work from my side ,573 was closed by ritvik <br>Next:<br>finding new issues"
+  },
+  {
+    "id": 1735273561920939,
+    "user_id": "U07RFG735CP",
+    "timestamp": "2024-12-26T22:56:01.920Z",
+    "text": "December 26<br>Done<br> no work from my side , exploring django contents<br>Next:<br>finding new issues"
+  },
+  {
+    "id": 1735322324319849,
+    "user_id": "U07RFG735CP",
+    "timestamp": "2024-12-27T12:28:44.319Z",
+    "text": "December 27th<br>Done :<br>• found a bug on form-fieldv1 / facility page<br>Next :<br>• looking for new issues"
+  },
+  {
+    "id": 1735448173406439,
+    "user_id": "U07RFG735CP",
+    "timestamp": "2024-12-28T23:26:13.406Z",
+    "text": "28 Dec 2024<br>Done<br>•  found an issue on care_fe (<a href=\"https://rebuildearth.slack.com/archives/C010GQBMFJ9/p1735401400698719\">https://rebuildearth.slack.com/archives/C010GQBMFJ9/p1735401400698719</a>)<br>Next<br>•   Looking for new issues"
+  },
+  {
+    "id": 1735615266806469,
+    "user_id": "U07RFG735CP",
+    "timestamp": "2024-12-30T21:51:06.806Z",
+    "text": "29 Dec 2024<br>Done<br> No work <br>Next<br>   Looking for new issues"
+  },
+  {
+    "id": 1735615554827329,
+    "user_id": "U07RFG735CP",
+    "timestamp": "2024-12-30T21:55:54.827Z",
+    "text": "30 Dec 2024<br>Done<br>Opened an issue (<a href=\"https://github.com/ohcnetwork/care_fe/issues/9604\"><a href=\"https://github.com/ohcnetwork/care_fe/issues/9604\">https://github.com/ohcnetwork/care_fe/issues/9604</a></a> )<br>Next<br>   Waiting for someone to assign it to me"
+  },
+  {
+    "id": 1735708196803739,
+    "user_id": "U07RFG735CP",
+    "timestamp": "2024-12-31T23:39:56.803Z",
+    "text": "31 Dec 2024<br>Done<br>Studying django contents <br>Next<br> Looking for new issues"
+  },
+  {
+    "id": 1735789330972599,
+    "user_id": "U07RFG735CP",
+    "timestamp": "2025-01-01T22:12:10.972Z",
+    "text": "1st JAN 2025<br>Done<br>Studying django contents <br>Next<br> Looking for new issues"
+  },
+  {
+    "id": 1735881965578099,
+    "user_id": "U07RFG735CP",
+    "timestamp": "2025-01-02T23:56:05.578Z",
+    "text": "1st JAN 2025<br>Done<br>Working on <br><a href=\"https://github.com/ohcnetwork/care_fe/issues/9660\"><a href=\"https://github.com/ohcnetwork/care_fe/issues/9660\">https://github.com/ohcnetwork/care_fe/issues/9660</a></a> ,<br>Next<br><br> Looking for new issues."
+  },
+  {
+    "id": 1735969327369929,
+    "user_id": "U07RFG735CP",
+    "timestamp": "2025-01-04T00:12:07.369Z",
+    "text": "2nd JAN 2025<br>Done<br>Working on <br><a href=\"https://github.com/ohcnetwork/care_fe/issues/9660\"><a href=\"https://github.com/ohcnetwork/care_fe/issues/9660\">https://github.com/ohcnetwork/care_fe/issues/9660</a></a> ,<br>Next<br><br> Looking for new issues."
+  },
+  {
+    "id": 1735969358749849,
+    "user_id": "U07RFG735CP",
+    "timestamp": "2025-01-04T00:12:38.749Z",
+    "text": "3rd JAN 2025<br>Done<br>Working on <br><a href=\"https://github.com/ohcnetwork/care_fe/issues/9660\"><a href=\"https://github.com/ohcnetwork/care_fe/issues/9660\">https://github.com/ohcnetwork/care_fe/issues/9660</a></a> ,<br>Next<br><br> Looking for new issues."
+  },
+  {
+    "id": 1736057028343379,
+    "user_id": "U07RFG735CP",
+    "timestamp": "2025-01-05T00:33:48.343Z",
+    "text": "3rd JAN 2025<br>Done<br>Working on <br><a href=\"https://github.com/ohcnetwork/care_fe/issues/9660\"><a href=\"https://github.com/ohcnetwork/care_fe/issues/9660\">https://github.com/ohcnetwork/care_fe/issues/9660</a></a> ,<br>Next<br><br> Looking for new issues."
+  },
+  {
+    "id": 1736272968381659,
+    "user_id": "U07RFG735CP",
+    "timestamp": "2025-01-07T12:32:48.381Z",
+    "text": "6th Jan 2025<br><strong>Done</strong><br>• raised a pr <a href=\"https://github.com/ohcnetwork/care_fe/pull/9801\">https://github.com/ohcnetwork/care_fe/pull/9801</a><br><strong>Next</strong><br>• closing it ASAP."
+  },
+  {
+    "id": 1736273049672989,
+    "user_id": "U07RFG735CP",
+    "timestamp": "2025-01-07T12:34:09.672Z",
+    "text": "7th Jan 2025<br><strong>Done</strong><br>• working on  pr <a href=\"https://github.com/ohcnetwork/care_fe/pull/9801\">https://github.com/ohcnetwork/care_fe/pull/9801</a><br>• added debouncing for search APIs<br><strong>Next</strong><br>• closing it ASAP."
+  },
+  {
+    "id": 1736405493731999,
+    "user_id": "U07RFG735CP",
+    "timestamp": "2025-01-09T01:21:33.731Z",
+    "text": "8th Jan 2025<br>1.Working on pr #9801<br>2.updated en.json for translation of the files,I changed <br>Next<br> closing it ASAP."
+  },
+  {
+    "id": 1736445573404899,
+    "user_id": "U07RFG735CP",
+    "timestamp": "2025-01-09T12:29:33.404Z",
+    "text": "09 Jan 2025<br>Done<br>• no work <br>Next<br>searching for new issues"
+  },
+  {
+    "id": 1736578504334559,
+    "user_id": "U07RFG735CP",
+    "timestamp": "2025-01-11T01:25:04.334Z",
+    "text": "10 Jan 2025<br>Done<br>• no work<br>Next<br>searching for new issues"
+  },
+  {
+    "id": 1736664209074269,
+    "user_id": "U07RFG735CP",
+    "timestamp": "2025-01-12T01:13:29.074Z",
+    "text": "11 Jan 2025<br>Exploring django contents <br>Next<br>Looking for new issue"
+  },
+  {
+    "id": 1736835142851509,
+    "user_id": "U07RFG735CP",
+    "timestamp": "2025-01-14T00:42:22.851Z",
+    "text": "13 Jan 2025<br>Exploring django contents <br>Next<br>Looking for new issue"
+  },
+  {
+    "id": 1736930357121469,
+    "user_id": "U07RFG735CP",
+    "timestamp": "2025-01-15T03:09:17.121Z",
+    "text": "14 Jan 2025<br>Found some bug in patient search field <br>Next<br>Looking for new issue"
+  },
+  {
+    "id": 1737006654101269,
+    "user_id": "U07RFG735CP",
+    "timestamp": "2025-01-16T00:20:54.101Z",
+    "text": "15 Jan 2025<br>Raised issue <a href=\"https://github.com/ohcnetwork/care_fe/issues/9985\"><a href=\"https://github.com/ohcnetwork/care_fe/issues/9985\">https://github.com/ohcnetwork/care_fe/issues/9985</a></a><br>Next<br>Looking for new issues"
+  },
+  {
+    "id": 1737127214663089,
+    "user_id": "U07RFG735CP",
+    "timestamp": "2025-01-17T09:50:14.663Z",
+    "text": "16 Jan 2025<br>No work <br>Next<br>Looking for new issue"
+  },
+  {
+    "id": 1737135037927509,
+    "user_id": "U07RFG735CP",
+    "timestamp": "2025-01-17T12:00:37.927Z",
+    "text": "17 Jan 2025<br>Found a ui related bug in care_fe<br>Next<br>Looking for new issue"
+  },
+  {
+    "id": 1737224024020559,
+    "user_id": "U07RFG735CP",
+    "timestamp": "2025-01-18T12:43:44.020Z",
+    "text": "18 Jan 2025<br>Created an issue <a href=\"https://github.com/ohcnetwork/care_fe/issues/10036\"><a href=\"https://github.com/ohcnetwork/care_fe/issues/10036\">https://github.com/ohcnetwork/care_fe/issues/10036</a></a><br>Next<br>Looking for new issue"
+  },
+  {
+    "id": 1737364783000159,
+    "user_id": "U07RFG735CP",
+    "timestamp": "2025-01-20T03:49:43.000Z",
+    "text": "19 Jan 2025<br>worked on <a href=\"https://github.com/ohcnetwork/care_fe/pull/10055\">https://github.com/ohcnetwork/care_fe/pull/10055</a><br>Next<br>Looking for new issue"
+  },
+  {
+    "id": 1737445103153469,
+    "user_id": "U07RFG735CP",
+    "timestamp": "2025-01-21T02:08:23.153Z",
+    "text": "20 Jan 2025<br>worked on <a href=\"https://github.com/ohcnetwork/care_fe/pull/10055\"><a href=\"https://github.com/ohcnetwork/care_fe/pull/10055\">https://github.com/ohcnetwork/care_fe/pull/10055</a></a><br>Next<br>Looking for new issue"
+  },
+  {
+    "id": 1737557913472259,
+    "user_id": "U07RFG735CP",
+    "timestamp": "2025-01-22T09:28:33.472Z",
+    "text": "21 Jan 2025<br>No work<br>Next<br>Looking for new issue"
+  },
+  {
+    "id": 1737606949349549,
+    "user_id": "U07RFG735CP",
+    "timestamp": "2025-01-22T23:05:49.349Z",
+    "text": "22 Jan 2025<br>Found a small ui bug<br>Next<br>Looking for new issue"
+  },
+  {
+    "id": 1737739534166379,
+    "user_id": "U07RFG735CP",
+    "timestamp": "2025-01-24T11:55:34.166Z",
+    "text": "23 Jan 2025<br>Raised Pr with solution <a href=\"https://github.com/ohcnetwork/care_fe/pull/10136\">https://github.com/ohcnetwork/care_fe/pull/10136</a><br>Next<br>Looking for new issue"
+  },
+  {
+    "id": 1737880451744539,
+    "user_id": "U07RFG735CP",
+    "timestamp": "2025-01-26T03:04:11.744Z",
+    "text": "25 Jan 2025<br>Done<br>• no work<br>Next<br>• Looking for new issues"
+  },
+  {
+    "id": 1738056713042409,
+    "user_id": "U07RFG735CP",
+    "timestamp": "2025-01-28T04:01:53.042Z",
+    "text": "25 Jan 2025<br>Done<br>exploring django content<br>Next<br>• Looking for new issues"
+  },
+  {
+    "id": 1738181350954289,
+    "user_id": "U07RFG735CP",
+    "timestamp": "2025-01-29T14:39:10.954Z",
+    "text": "29 Jan 2025<br>Done<br>No work<br>Next<br>• Looking for new issues"
+  },
+  {
+    "id": 1738298108960039,
+    "user_id": "U07RFG735CP",
+    "timestamp": "2025-01-30T23:05:08.960Z",
+    "text": "30 Jan 2025<br>Done<br>Exploring django contents <br>Next<br> Looking for new issues"
+  },
+  {
+    "id": 1738400727408759,
+    "user_id": "U07RFG735CP",
+    "timestamp": "2025-02-01T03:35:27.408Z",
+    "text": "31 Jan 2025<br>Done<br>Exploring django contents<br>Next<br> Looking for new issues"
+  }
+]

@@ -1,0 +1,530 @@
+[
+  {
+    "id": 1752587250923999,
+    "user_id": "U093E78U1MZ",
+    "timestamp": "2025-07-15T08:17:30.923Z",
+    "text": "<strong>JULY 15</strong><br>1.  Verified pagination &amp;amp; (Username and phone search) in users tab of org page <br>2.  Verified Geo Location are auto-filled in creation form <br>3.  Created a new department and set a child relation <br>4.  Created a schedule and exception for the user      <br>5.  Created an issue : encountered an inconsistency while setting up a user password through two different methods in the system."
+  },
+  {
+    "id": 1752673209633559,
+    "user_id": "U093E78U1MZ",
+    "timestamp": "2025-07-16T08:10:09.633Z",
+    "text": "<strong>JULY 16</strong><br>• Submitted a questionnaire and verified its data reflection.<br>• Uploaded a patient specific file to the section.<br>• Generated a discharge summary for the patient.<br>• Verified the functionality of the archive and related details.<br>• Raised a resource request for a patient."
+  },
+  {
+    "id": 1752761480746549,
+    "user_id": "U093E78U1MZ",
+    "timestamp": "2025-07-17T08:41:20.746Z",
+    "text": "<strong>JULY 17</strong><br>• Verified the functionality of questionnaire.<br>• Created issue : Incorrect error message was shown . <br>• explored several sub - category features on questionnaire.<br>• Attended the daily EOD call."
+  },
+  {
+    "id": 1752847719367729,
+    "user_id": "U093E78U1MZ",
+    "timestamp": "2025-07-18T08:38:39.367Z",
+    "text": "<strong>JULY 18</strong><br><br>• Reviewed responses<br>• Evaluated different item types in questionnaire<br>• Validated questionnaire modules<br>• Attended Daily EOD call."
+  },
+  {
+    "id": 1752938116103789,
+    "user_id": "U093E78U1MZ",
+    "timestamp": "2025-07-19T09:45:16.103Z",
+    "text": "<strong>July 19</strong> <br><br>• Opened an issue : On validation error during    questionnaire submission<br><br> Next <br> • Waiting for the next task."
+  },
+  {
+    "id": 1753108506112129,
+    "user_id": "U093E78U1MZ",
+    "timestamp": "2025-07-21T09:05:06.112Z",
+    "text": "<strong>JULY 21</strong><br>• Reviewing the specimen creation.<br>• Attended the daily EOD call."
+  },
+  {
+    "id": 1753207088030539,
+    "user_id": "U093E78U1MZ",
+    "timestamp": "2025-07-22T12:28:08.030Z",
+    "text": "<strong>JULY 22</strong><br><br>•  Reviewed some PRs , Refactor: Update appointment status filtering and enhance UI with new translations #13016 ,  Fix: Sheet over Sheet Invalidate issue #12981<br>• Comment on PRs.<br>• Attended the weekly review call."
+  },
+  {
+    "id": 1753282541457499,
+    "user_id": "U093E78U1MZ",
+    "timestamp": "2025-07-23T09:25:41.457Z",
+    "text": "<strong>JULY 23</strong><br>• Commented on PRs , <br>•  #13060 Minor fix: Fix UI for tagpopover loading state and add translation.<br>• #13012 Fix: Prevent invalid character input in questionnaire number fields <br>• Attended daily EOD calls"
+  },
+  {
+    "id": 1753369966673789,
+    "user_id": "U093E78U1MZ",
+    "timestamp": "2025-07-24T09:42:46.673Z",
+    "text": "<strong>JULY 24</strong><br>• Reviewed and commented on PRs <br>• care_fe#13017 : Questionnaire Editor: Add Question Button at Bottom <br>• care_fe#12977 : Add History button to all three accordions - Alleriges, diagnosis and symptoms <br>• Attended daily EOD call."
+  },
+  {
+    "id": 1753469226259969,
+    "user_id": "U093E78U1MZ",
+    "timestamp": "2025-07-25T13:17:06.259Z",
+    "text": "<strong>JULY 25</strong><br>1. Reviewed PRs<br>2. Fixes layout misalignment in Observation Definition form #13086<br>3. Minor UI Fix: Health Profile section for tablet/medium screen #13078<br>4. Attended daily EOD call"
+  },
+  {
+    "id": 1753553896470789,
+    "user_id": "U093E78U1MZ",
+    "timestamp": "2025-07-26T12:48:16.470Z",
+    "text": "<strong>JULY 26</strong><br><br>• Verifying PRs <br>• Testing fix to validate at least one permission must be selected [#12868] #13043"
+  },
+  {
+    "id": 1753711853364379,
+    "user_id": "U093E78U1MZ",
+    "timestamp": "2025-07-28T08:40:53.364Z",
+    "text": "<strong>JULY 28</strong><br>• Commented on various PRs<br>• fix: Highlighted active tab in billings #12975<br>• fix: Highlight Active Section/Question Being Edited in Questionnaire Editor<br>• Completed the assigned task<br>• Attended the daily EOD call"
+  },
+  {
+    "id": 1753802268623399,
+    "user_id": "U093E78U1MZ",
+    "timestamp": "2025-07-29T09:47:48.623Z",
+    "text": "<strong>JULY 29</strong><br><br>• commented on PRs<br>• Expand upto child location if search matches in Location select #13134<br>• Fix: ValueSetSelect selected value label text cutting out #13133<br>• Attended the weekly review call"
+  },
+  {
+    "id": 1754020095871199,
+    "user_id": "U093E78U1MZ",
+    "timestamp": "2025-07-31T22:18:15.871Z",
+    "text": "<strong>JULY 31</strong><br>Tested and commented  PRs<br>• Resolved patient registration deceased datetime validation bug #13180<br>• Validate group questions to have sub-questions #13174<br>• Attended the daily EOD call"
+  },
+  {
+    "id": 1754054951299769,
+    "user_id": "U093E78U1MZ",
+    "timestamp": "2025-08-01T07:59:11.299Z",
+    "text": "<strong>AUGUST 1</strong><br><br>• commented on PRs<br>• show critical action confirmation dialog for mark as discharged #13190<br>•  Fix: Calender first row having diffrent h compare to other #13193<br>•  Fix: ValueSetSelect not getting focus and scroll on form errors #13197"
+  },
+  {
+    "id": 1754156315741369,
+    "user_id": "U093E78U1MZ",
+    "timestamp": "2025-08-02T12:08:35.741Z",
+    "text": "<strong>August 2</strong><br>Reviewed the PR<br>• fix: Make tabs responsive for Mobile View UI of Resource Page #13191<br>Next<br>• Waiting for the next task to be assigned"
+  },
+  {
+    "id": 1754382715052399,
+    "user_id": "U093E78U1MZ",
+    "timestamp": "2025-08-05T03:01:55.052Z",
+    "text": "<strong>Aug 4</strong><br><br>• Reviewed : Fix validation messages in discount forms and update zod schema for better user feedback #13238.<br>•  Huddle with <span class=\"s-mention s-user\">@U022THM4U2U</span> about some PRs and an assigned task.<br>• Attended the daily EOD call."
+  },
+  {
+    "id": 1754399191861179,
+    "user_id": "U093E78U1MZ",
+    "timestamp": "2025-08-05T07:36:31.861Z",
+    "text": "<strong>AUGUST 05</strong><br>• Commented on PRs:<br>• Made the service card clickable #13259<br>• UI fix: Correct badge misalignment in payment receipt #13251<br>•  Fix validation messages in discount forms and update zod schema for better user feedback #13238<br>•  Fix : Archive Dialog Text Persist on Cancel Button #13244<br>• Completed the assigned task <br>• Huddle with <span class=\"s-mention s-user\">@U022THM4U2U</span> regarding a new task and some PRs<br>Next<br>• Assigned with a new task"
+  },
+  {
+    "id": 1754487795555049,
+    "user_id": "U093E78U1MZ",
+    "timestamp": "2025-08-06T08:13:15.555Z",
+    "text": "<strong>AUG 06</strong><br>Reviewed : fix : Hide delete button for group question if only one sub-question exists #13282<br>Working on the assigned task"
+  },
+  {
+    "id": 1754557716581279,
+    "user_id": "U093E78U1MZ",
+    "timestamp": "2025-08-07T03:38:36.581Z",
+    "text": "<strong>AUG 07</strong><br>1. Commented on PRs<br>2. Refactor RoleSelect component #13294<br>3.  Specimen mobile UI fix #13295<br>4. Feat: Add button Disable Logic in Forms and fixed Data mismatch with minor refinements in Schema #13297<br>5. Travelling to punjab<span class=\"s-emoji\">🚆</span>"
+  },
+  {
+    "id": 1754662668930029,
+    "user_id": "U093E78U1MZ",
+    "timestamp": "2025-08-08T08:47:48.930Z",
+    "text": "<strong>Aug 08</strong><br><br>• Slow day , travelling and room shifting <br>• Working on a task<br>• Attended the daily EOD call"
+  },
+  {
+    "id": 1754747419865469,
+    "user_id": "U093E78U1MZ",
+    "timestamp": "2025-08-09T08:20:19.865Z",
+    "text": "<strong>Aug 09</strong> <br><br>• Huddle with <span class=\"s-mention s-user\">@U022THM4U2U</span> about the task<br>• Completed the assigned task"
+  },
+  {
+    "id": 1754921439731589,
+    "user_id": "U093E78U1MZ",
+    "timestamp": "2025-08-11T08:40:39.731Z",
+    "text": "<strong>AUG 11</strong><br>Commented and tested<br>1. fix: context-aware cancel navigation for nested definition forms (#13214) #13318<br>2.  Fix validation errors in Edit Schedule Template Form #13319<br>3.  Made enhancements to the PaymentDetail Page #13321<br>4. Attended the daily EOD call"
+  },
+  {
+    "id": 1755008853273929,
+    "user_id": "U093E78U1MZ",
+    "timestamp": "2025-08-12T08:57:33.273Z",
+    "text": "<strong>AUG 12</strong><br>Tested and reviewed<br>• fix: Added Filter Icon and fixed filter logic in the list view of Appointments #13337<br>•  Fix country flag not updating after first selection #13338<br>•  feat: Improve the responsiveness in header UI of questionnaire page #13342<br>• working on the assigned task<br>• Attended the weekly review call"
+  },
+  {
+    "id": 1755097793859829,
+    "user_id": "U093E78U1MZ",
+    "timestamp": "2025-08-13T09:39:53.859Z",
+    "text": "<strong>AUG 13</strong><br>commented on<br>• Dispense medicine from encounter overview #13352<br>• Added E2E tests for creating, updating and verifying availability by a doctor. #13350<br>• fixed checkbox valiidation error and alginment #13347<br>• Attended the daily EOD call"
+  },
+  {
+    "id": 1755180619462759,
+    "user_id": "U093E78U1MZ",
+    "timestamp": "2025-08-14T08:40:19.462Z",
+    "text": "<strong>AUG 14</strong><br>• Fix: File upload Error triggers filename required error before Save #13326 #13358<br>•  UI Fix: Move the View Details button below the title #13361<br>• Attended the  daily EOD call"
+  },
+  {
+    "id": 1755265701414839,
+    "user_id": "U093E78U1MZ",
+    "timestamp": "2025-08-15T08:18:21.414Z",
+    "text": "<strong>AUG 15</strong><br>Commented on Prs<br>• Encounter Action Demonstration #13378<br>• Fix: Make billing payment filters responsive for tablets (#13364)"
+  },
+  {
+    "id": 1755360246490549,
+    "user_id": "U093E78U1MZ",
+    "timestamp": "2025-08-16T10:34:06.490Z",
+    "text": "<strong>AUG 16</strong><br>• Comment on fix: autocomplete nested button error #13389<br>• Working on the assigned task"
+  },
+  {
+    "id": 1755524219916349,
+    "user_id": "U093E78U1MZ",
+    "timestamp": "2025-08-18T08:06:59.916Z",
+    "text": "<strong>AUG 18</strong><br>Commented on<br>1. fix: make device name responsive and align icon properly #13392<br>2.  Fix for slug field validation error #13393<br>3.  Refactor: Replace AlertDialog with ConfirmActionDialog in common usage #13395"
+  },
+  {
+    "id": 1755608406040319,
+    "user_id": "U093E78U1MZ",
+    "timestamp": "2025-08-19T07:30:06.040Z",
+    "text": "<strong>AUG 19</strong><br>Commented and reviewed :<br>• Enhance Add ChargeItem Sheet and Create Invoice Page with charge item addition functionality #13412<br>• Completed the assigned task<br>• Doubt clearance with the mentor"
+  },
+  {
+    "id": 1755693009516679,
+    "user_id": "U093E78U1MZ",
+    "timestamp": "2025-08-20T07:00:09.516Z",
+    "text": "<strong>AUG 20</strong><br>Reviewed and tested :<br>• Made changes to make badges responsive #13422<br>• UI Fix: Move See Details button to bottom in Product Knowledge page #13428<br>•  Fix: prevent new tags from being deleted from dropdowns #13434"
+  },
+  {
+    "id": 1755784911274189,
+    "user_id": "U093E78U1MZ",
+    "timestamp": "2025-08-21T08:31:51.274Z",
+    "text": "AUG 21"
+  },
+  {
+    "id": 1755788572578229,
+    "user_id": "U093E78U1MZ",
+    "timestamp": "2025-08-21T09:32:52.578Z",
+    "text": "<strong>AUG 21</strong><br>Reviewed<br>• fixed checkbox valiidation error and alginment #13445<br>• Fix: Adjust filter container width for mobile on Accounts page #13440<br>• Attended the daily EOD call<br>Next<br>• Waiting for the next task"
+  },
+  {
+    "id": 1755876226416499,
+    "user_id": "U093E78U1MZ",
+    "timestamp": "2025-08-22T09:53:46.416Z",
+    "text": "<strong>AUG 22</strong><br>• Reviewed and commented:<br>• Add PatientInfoHoverCard and show quick actions on mobile and tablet devices too #13468<br>• Fixed #13405: Added back button to ChargeItemDefinitionDetail page<br>• Daily EOD call"
+  },
+  {
+    "id": 1755958574884269,
+    "user_id": "U093E78U1MZ",
+    "timestamp": "2025-08-23T08:46:14.884Z",
+    "text": "<strong>AUG 23</strong><br>Reviewed<br>• Added base unit in product knowledge #13477<br>• Refactor: remove HealthProfileSummary #13479"
+  },
+  {
+    "id": 1756129543159279,
+    "user_id": "U093E78U1MZ",
+    "timestamp": "2025-08-25T08:15:43.159Z",
+    "text": "<strong>AUG 25</strong><br>Commented on<br>• Fix: PK form edit submission blocked due to HSN code null handling #13486<br>• Fix: Search filter for Patient identifier config #13491<br>• Huddle with <span class=\"s-mention s-user\">@U022THM4U2U</span> <br>• working on the assigned task"
+  },
+  {
+    "id": 1756261112627149,
+    "user_id": "U093E78U1MZ",
+    "timestamp": "2025-08-26T20:48:32.627Z",
+    "text": "<strong>AUG 26</strong><br>• Commented and reviewed on:<br>• Fix: 2FA Dialog Retains Previous Error Message After Closing #13478 #13506<br>• fix: User Page UI of org breaks in Tablet View #13508<br>• Review call with <span class=\"s-mention s-user\">@U022THM4U2U</span> <br>• Attended the weekly review meeting"
+  },
+  {
+    "id": 1756300044021189,
+    "user_id": "U093E78U1MZ",
+    "timestamp": "2025-08-27T07:37:24.021Z",
+    "text": "<strong>AUG 27</strong><br>Reviewed on:<br>fix checkbox misalignment #13511<br> fix responsiveness issue of button in Discount Monetary Components #13514<br> fix: User Rendering in Notes #13518<br>Query clearing with the mentor"
+  },
+  {
+    "id": 1756387285839399,
+    "user_id": "U093E78U1MZ",
+    "timestamp": "2025-08-28T07:51:25.839Z",
+    "text": "<strong>AUG 28</strong><br><br>•  Reviewed and commented:<br>•  Improved the status UI in Questionnaire card #13532<br>•  Remove <code>entered_in_error</code> from Patient identifier config #13534<br>• Fix schedule exception checkbox reset issue - clear time fields when &quot;Full Day Unavailable&quot; is unchecked #13539<br>•  fix button rendering (mark as complete, view report) for service req #13540<br>• working on a task"
+  },
+  {
+    "id": 1756473423090059,
+    "user_id": "U093E78U1MZ",
+    "timestamp": "2025-08-29T07:47:03.090Z",
+    "text": "<strong>AUG 29</strong><br>• Working on an assigned work regarding documentation<br>• Looked for PRs"
+  },
+  {
+    "id": 1756572947744509,
+    "user_id": "U093E78U1MZ",
+    "timestamp": "2025-08-30T11:25:47.744Z",
+    "text": "<strong>AUG 30</strong><br>• Comented on:<br>• fixed Broken UI for ValueSet table view #13564<br>• Cleaned up onEdit and onArchive in useFileManager #13555"
+  },
+  {
+    "id": 1756733654878739,
+    "user_id": "U093E78U1MZ",
+    "timestamp": "2025-09-01T08:04:14.878Z",
+    "text": "<strong>AUG 01</strong><br>Commented on<br>• Fix: Medication prescription and statement UI #13569<br>• fix icon misalignment #13567(ask)<br>• feat: Add facility command dialog and keyboard shortcuts for patient registration #13576<br>• fixes dropdown lists in popover being cropped for certain resolutions #13579<br>• Working on the assigned task"
+  },
+  {
+    "id": 1756828278566159,
+    "user_id": "U093E78U1MZ",
+    "timestamp": "2025-09-02T10:21:18.566Z",
+    "text": "<strong>SEP 02</strong><br>1. Commented on :<br>2. Made the badges responsive in Purchase Order Page #13589<br>3. Fix : Switch to table View for medium size screen in Questionnaire and ValueSet Listing Page #13591<br>4. Attended the Weekly review call"
+  },
+  {
+    "id": 1756828439082769,
+    "user_id": "U093E78U1MZ",
+    "timestamp": "2025-09-02T10:23:59.082Z",
+    "text": "<strong>SEP 01*</strong>"
+  },
+  {
+    "id": 1756904538590099,
+    "user_id": "U093E78U1MZ",
+    "timestamp": "2025-09-03T07:32:18.590Z",
+    "text": "SEP 03<br><br>• Commented on:<br>• fixed slug error #13594<br>• Pharmacy - Return excess stock #13593<br>• Completed the assigned task"
+  },
+  {
+    "id": 1756993422194009,
+    "user_id": "U093E78U1MZ",
+    "timestamp": "2025-09-04T08:13:42.194Z",
+    "text": "<strong>SEP 04</strong><br>• Commented and reviewed :<br>• activity definition page ui #13600<br>• fixed edit role sheet rbac #13608<br>• Made UI responsive for smaller screen for To Dispatch page #13611"
+  },
+  {
+    "id": 1757076399170119,
+    "user_id": "U093E78U1MZ",
+    "timestamp": "2025-09-05T07:16:39.170Z",
+    "text": "<strong>SEP 05</strong><br>• Commented on:<br>• Refactor OTP API routes and types #13473<br>• Refactored skeleton components with accessibility improvements #13620<br>• Huddle with <span class=\"s-mention s-user\">@U0576PEACG0</span>"
+  },
+  {
+    "id": 1757167103203819,
+    "user_id": "U093E78U1MZ",
+    "timestamp": "2025-09-06T08:28:23.203Z",
+    "text": "<strong>SEP 06</strong><br>• Tested the PR : Issues/13243/fix buttons #13632<br>Next<br>• Waiting for the review"
+  },
+  {
+    "id": 1757338820443469,
+    "user_id": "U093E78U1MZ",
+    "timestamp": "2025-09-08T08:10:20.443Z",
+    "text": "<strong>SEP 08</strong><br>• Commented  and Reviewed on :<br>• Changed the map link to a button and the address to text #13650<br>• fix: add ref to SelectTrigger components across multiple forms #13654"
+  },
+  {
+    "id": 1757425378012019,
+    "user_id": "U093E78U1MZ",
+    "timestamp": "2025-09-09T08:12:58.012Z",
+    "text": "<strong>SEP 09</strong><br>• Reviewed and commented on:<br>• updated record payment #13659<br>• fix: 13657 Cross icon overlaps text in button in Inward Purchase Entries page in mobile view #13661<br>• Got sick"
+  },
+  {
+    "id": 1757515449021049,
+    "user_id": "U093E78U1MZ",
+    "timestamp": "2025-09-10T09:14:09.021Z",
+    "text": "<strong>SEP 10</strong><br>• Commented on<br>• fix: #13658 Info text properly aligned in mobile view by adding proper css to it #13670<br>• Clean up types and routes for Notes, Questionnaire, Observation #13674<br>• Attended the daily EOD"
+  },
+  {
+    "id": 1757599116732509,
+    "user_id": "U093E78U1MZ",
+    "timestamp": "2025-09-11T08:28:36.732Z",
+    "text": "<strong>SEP 11</strong><br>• Reviewing the PRs<br>• Going through the platform"
+  },
+  {
+    "id": 1757683853367379,
+    "user_id": "U093E78U1MZ",
+    "timestamp": "2025-09-12T08:00:53.367Z",
+    "text": "SEP 12<br>• Commented on PRs<br>• feat: Added Questionnaire Responses Tab in Encounters #13689"
+  },
+  {
+    "id": 1757771524720839,
+    "user_id": "U093E78U1MZ",
+    "timestamp": "2025-09-13T08:22:04.720Z",
+    "text": "<strong>SEP 13</strong><br>• Reviewed and commented<br>• fixed Broken UI for ValueSet table view #13564<br>• Made changes to make badges responsive #13422"
+  },
+  {
+    "id": 1757944043235059,
+    "user_id": "U093E78U1MZ",
+    "timestamp": "2025-09-15T08:17:23.235Z",
+    "text": "<strong>SEP 15</strong><br>• Commented and reviewed on:<br>• Fix: Update password button enabled prematurely #13542 #13696<br>• Added a configurable env to fetch translations from remote url #13693"
+  },
+  {
+    "id": 1758028344565529,
+    "user_id": "U093E78U1MZ",
+    "timestamp": "2025-09-16T07:42:24.565Z",
+    "text": "<strong>SEP 16</strong><br>• Commented and Reviewed :<br>• added PatientInfoCardQuickActions plugin component #13708<br>• going through more PRs"
+  },
+  {
+    "id": 1758113216072769,
+    "user_id": "U093E78U1MZ",
+    "timestamp": "2025-09-17T07:16:56.072Z",
+    "text": "<strong>SEP 17</strong><br>• Reviewed and tested:<br>• feat: enable favorites in ProductKnowledgeSelect #13729<br>•  fix : Disable the resource field for child tag in the tag config page #13730"
+  },
+  {
+    "id": 1758205524586349,
+    "user_id": "U093E78U1MZ",
+    "timestamp": "2025-09-18T08:55:24.586Z",
+    "text": "<strong>SEP 18</strong><br>• Reviewed and commented :<br>    ◦ auto generate slug within validation for valueset &amp;amp; questionnaire with <code>useAutoSlug</code> hook #13744<br>    ◦  Fix for missing descriptions in sheets and dialogues #13747"
+  },
+  {
+    "id": 1758289562408299,
+    "user_id": "U093E78U1MZ",
+    "timestamp": "2025-09-19T08:16:02.408Z",
+    "text": "<strong>SEP 19</strong><br>• Reviewed and commented:<br>    ◦ Added FormDialog box to list forms #13769<br>• Went through other PRs<br>• Huddle"
+  },
+  {
+    "id": 1758375614749839,
+    "user_id": "U093E78U1MZ",
+    "timestamp": "2025-09-20T08:10:14.749Z",
+    "text": "<strong>SEP 20</strong><br>• Reviewed and tested:<br>    ◦ Disables deselection on PatientRegistration and other files #13776<br>    ◦ Added null check before calling the function #13766"
+  },
+  {
+    "id": 1758550017614919,
+    "user_id": "U093E78U1MZ",
+    "timestamp": "2025-09-22T08:36:57.614Z",
+    "text": "<strong>SEP 22</strong><br>• Reviewed and commented:<br>    ◦ update View Encounter #13778<br>    ◦ Fixed Charge Item Definition Cell Navigation / Product Knowledge Navigation #13791"
+  },
+  {
+    "id": 1758717597821979,
+    "user_id": "U093E78U1MZ",
+    "timestamp": "2025-09-24T07:09:57.821Z",
+    "text": "<strong>SEP 24</strong><br>• Reviewed and commented:<br>    ◦ replace-loading-page-in-patient-search-bar-with-table-sketelon #13820<br>• Went through the platform."
+  },
+  {
+    "id": 1758865044061159,
+    "user_id": "U093E78U1MZ",
+    "timestamp": "2025-09-26T00:07:24.061Z",
+    "text": "<strong>SEP 25</strong><br>• Reviewed and commented :<br>    ◦ Fix: Archive File Dialog: HTML validation overrides &amp;amp; Custom validation not cleared on close #13760 #13830<br>    ◦ fix: pagination for resource category list, filtering for AD list #13841<br>• Attended Daily EOD"
+  },
+  {
+    "id": 1759004269361579,
+    "user_id": "U093E78U1MZ",
+    "timestamp": "2025-09-27T14:47:49.361Z",
+    "text": "<strong>SEP 27</strong><br>• Went through the Platform<br>• Looked for PRs"
+  },
+  {
+    "id": 1759166508492359,
+    "user_id": "U093E78U1MZ",
+    "timestamp": "2025-09-29T11:51:48.492Z",
+    "text": "<strong>SEP 29</strong><br>• Reviewed and commented<br>    ◦ Fixed #13732: Fixed UI of Tags dropdown in Add Patient Details page #13876<br>    ◦ Rebuild Inventory #13868"
+  },
+  {
+    "id": 1759239488111019,
+    "user_id": "U093E78U1MZ",
+    "timestamp": "2025-09-30T08:08:08.111Z",
+    "text": "<strong>SEP 30</strong><br>• Reviewed and commented:<br>    ◦ Adds support for specifying managing organizations for healthcare services<br>    ◦ fixed layout issue #13893"
+  },
+  {
+    "id": 1759322265332339,
+    "user_id": "U093E78U1MZ",
+    "timestamp": "2025-10-01T07:07:45.332Z",
+    "text": "<strong>OCT 01</strong><br>• Commented and Reviewed :<br>    ◦ Default Parameters in API Requests #13895<br>• Went through other PRs"
+  },
+  {
+    "id": 1759412856976889,
+    "user_id": "U093E78U1MZ",
+    "timestamp": "2025-10-02T08:17:36.976Z",
+    "text": "<strong>OCT 02</strong><br>• Reviewed and commented:<br>    ◦ Token Categories list: nav tabs based on resource type #13915<br>    ◦ Feat: Add Location Picker to Payment Sheet #13934"
+  },
+  {
+    "id": 1759500116262119,
+    "user_id": "U093E78U1MZ",
+    "timestamp": "2025-10-03T08:31:56.262Z",
+    "text": "<strong>OCT 03</strong><br>• Reviewed and commented:<br>    ◦ Replace Loading component with TableSkeleton in patient search #13939<br>    ◦ adds support for &#x27;clear all&#x27; in multi practitioner selector #13943<br>    ◦ Fixed #13710: handle missing build-meta.json error gracefully in dev mode<br>• Huddle with <span class=\"s-mention s-user\">@U022THM4U2U</span>"
+  },
+  {
+    "id": 1759589977044599,
+    "user_id": "U093E78U1MZ",
+    "timestamp": "2025-10-04T09:29:37.044Z",
+    "text": "<strong>OCT 04</strong><br>• Reviewed and tested<br>    ◦ Fix Update Password Button Enablement in User Reset Password Form #13947<br>    ◦ Fixes incorrect product redirect after edit #13930 #13951<br>• Attended the Daily EOD"
+  },
+  {
+    "id": 1759656418441649,
+    "user_id": "U093E78U1MZ",
+    "timestamp": "2025-10-05T03:56:58.441Z",
+    "text": "<strong>OCT 05</strong><br>• Reviewed and commented :<br>    ◦ Fixes #13911 : After editing location in healthcare service the page <br>    ◦ Fixes #13641 :Text-not-properly-aligned-in-profile-page #13962"
+  },
+  {
+    "id": 1759750877610909,
+    "user_id": "U093E78U1MZ",
+    "timestamp": "2025-10-06T06:11:17.610Z",
+    "text": "<strong>OCT 06</strong><br>• Tested and reviewed:<br>    ◦ Support search permission in Role Form #13963<br>    ◦ Fix #13825 : Done with white space not allowance while creating and e… #13965<br>    ◦ fix: improve styling in multi-filter components #13969"
+  },
+  {
+    "id": 1759866438584729,
+    "user_id": "U093E78U1MZ",
+    "timestamp": "2025-10-07T14:17:18.584Z",
+    "text": "<strong>OCT 07</strong><br>• Commented:<br>    ◦ fix: Update organization selection to use organization name instead of ID #13976<br>• Weekly review call"
+  },
+  {
+    "id": 1759928310765449,
+    "user_id": "U093E78U1MZ",
+    "timestamp": "2025-10-08T07:28:30.765Z",
+    "text": "<strong>OCT 08</strong><br>• Reviewed and commented :<br>    ◦ Fixes order id being present in url while switching location #13990<br>    ◦ show deceased patient info in appointment show page #13995"
+  },
+  {
+    "id": 1760028190683709,
+    "user_id": "U093E78U1MZ",
+    "timestamp": "2025-10-09T11:13:10.683Z",
+    "text": "<strong>OCT 09</strong><br>• Went through the PRs<br>• Internal exams"
+  },
+  {
+    "id": 1760944691286139,
+    "user_id": "U093E78U1MZ",
+    "timestamp": "2025-10-20T01:48:11.286Z",
+    "text": "<strong>Oct 20</strong><br>1. Course work"
+  },
+  {
+    "id": 1761042138025679,
+    "user_id": "U093E78U1MZ",
+    "timestamp": "2025-10-21T04:52:18.025Z",
+    "text": "<strong>Oct 21</strong><br>• Travelling"
+  },
+  {
+    "id": 1761137468240319,
+    "user_id": "U093E78U1MZ",
+    "timestamp": "2025-10-22T07:21:08.240Z",
+    "text": "OCT 22<br>• Commented and tested :<br>    ◦ refactor: improve validation logic in ActivityDefinitionForm #14082<br>    ◦ Fix: Remove unnecessary validation thrown for edit in healthcare service form #14093<br>    ◦ feat: added delete button in healthcare services #14101<br>    ◦ added refresh button in profile page #14104<br>    ◦ fix: charge item in activity definition creation #14103"
+  },
+  {
+    "id": 1761235443398569,
+    "user_id": "U093E78U1MZ",
+    "timestamp": "2025-10-23T10:34:03.398Z",
+    "text": "<strong>OCT 23</strong><br>• Reviewed<br>    ◦ Replace Loading in the patient search bar with tableSketelon #14110"
+  },
+  {
+    "id": 1761319308778959,
+    "user_id": "U093E78U1MZ",
+    "timestamp": "2025-10-24T09:51:48.778Z",
+    "text": "<strong>OCT 24</strong><br>• Reviewed and commented<br>    ◦ Fix: Proper Validation for DiscountCodeForm to Prevent Whitespace-Onl… #14115<br>    ◦  Feat - Redesigned Past Symptoms &amp;amp; Past Diagnoses Tabs #14116<br>    ◦  Added Product Knowledge selector in Products list page #14117"
+  },
+  {
+    "id": 1761399619610189,
+    "user_id": "U093E78U1MZ",
+    "timestamp": "2025-10-25T08:10:19.610Z",
+    "text": "OCT 25<br>• Reviewed and commented:<br>    ◦ Added missing description for book appointment sheet #14096<br>    ◦ Add Playwright tests for creating and managing encounters #14122<br>    ◦ refactor: update terminology for questionnaire responses and forms #14012<br>    ◦ Fixes order id being present in url while switching location #13990"
+  },
+  {
+    "id": 1761570921972269,
+    "user_id": "U093E78U1MZ",
+    "timestamp": "2025-10-27T07:45:21.972Z",
+    "text": "<strong>OCT 27</strong><br>• Reviewed and commented<br>    ◦ Facility Organization Selector Redesigned #13968<br>    ◦  Enhancement: Make Encounter switcher collapsible #13867<br>    ◦ fix: improve validation in Discount Monetary Component form #14139"
+  },
+  {
+    "id": 1761660131044499,
+    "user_id": "U093E78U1MZ",
+    "timestamp": "2025-10-28T08:32:11.044Z",
+    "text": "<strong>OCT 28</strong><br>• Reviewed and commented:<br>    ◦ Fixed the whitespace validation error in edit facility details form #13850<br>    ◦ Feat: Add Location Picker to Payment Sheet #13934<br>• Attended the weekly EOD"
+  },
+  {
+    "id": 1761752558644499,
+    "user_id": "U093E78U1MZ",
+    "timestamp": "2025-10-29T10:12:38.644Z",
+    "text": "<strong>OCT 29</strong><br>• Reviewed and commented :<br>    ◦ Disabling submit button when no changes made #14158<br>    ◦ Aligning UI items in Queue Details page #14159<br>    ◦ Add &#x27;Severity&#x27; field in Diagnosis #14161<br>    ◦  Playwright Test: Product Knowledge &amp;amp; Charge Item Definitions &amp;amp; related changes #14162<br>    ◦  Patient Registration: Show year of birth in age input #14163<br>    ◦  Fixed #13732: Fixed UI of Tags dropdown in Add Patient Details page #14087<br>    ◦ Fix generateSlug to respect 25-character limit in form validations with standardized i18n #13755"
+  },
+  {
+    "id": 1761884382342329,
+    "user_id": "U093E78U1MZ",
+    "timestamp": "2025-10-30T22:49:42.342Z",
+    "text": "OCT 30<br>• Reviewed and commented:<br>• Fix generateSlug to respect 25-character limit in form validations with standardized i18n #13755<br>• Demo Implementation of Offline Support Using TanStack Query #12402"
+  },
+  {
+    "id": 1761943241309449,
+    "user_id": "U093E78U1MZ",
+    "timestamp": "2025-10-31T15:10:41.309Z",
+    "text": "OCT 31<br>• Reviewed and commented:<br>• feat: add keyboard shortcuts for viewing prescriptions and accounts in pharmacy module #14191<br>•  Fixed the conflicting config in tsconfig of playwright #14192"
+  },
+  {
+    "id": 1761978229656759,
+    "user_id": "U093E78U1MZ",
+    "timestamp": "2025-11-01T00:53:49.656Z",
+    "text": "<strong>NOV 01</strong><br>• Commented on :<br>• dynamically show tag variants from tag config meta #14203<br>•  observation interpretation: form integration/errors and styling #13842"
+  },
+  {
+    "id": 1762181843701679,
+    "user_id": "U093E78U1MZ",
+    "timestamp": "2025-11-03T09:27:23.701Z",
+    "text": "NOV 03<br>• Reviewed and commented:<br>• added env to enforce discharge disposition #14218"
+  }
+]

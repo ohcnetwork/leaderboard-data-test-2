@@ -1,0 +1,200 @@
+[
+  {
+    "id": 1652195404797229,
+    "user_id": "U02TPSYRUPK",
+    "timestamp": "2022-05-10T09:40:04.797Z",
+    "text": "<span class=\"s-emoji\">ℹ️</span> No updates for today. Busy with exam <span class=\"s-emoji\">📚</span>."
+  },
+  {
+    "id": 1652278868355789,
+    "user_id": "U02TPSYRUPK",
+    "timestamp": "2022-05-11T08:51:08.355Z",
+    "text": "Checked out care_fe repo and looked on some issues. Time spent studying and wrote an exam today. <span class=\"s-emoji\">🥲</span>"
+  },
+  {
+    "id": 1652346642572409,
+    "user_id": "U02TPSYRUPK",
+    "timestamp": "2022-05-12T03:40:42.572Z",
+    "text": "Nothing from me as well. Last exam is tomorrow <span class=\"s-emoji\">🙂</span>"
+  },
+  {
+    "id": 1652536800879409,
+    "user_id": "U02TPSYRUPK",
+    "timestamp": "2022-05-14T08:30:00.879Z",
+    "text": "• Cloned <code>care_fe</code><br>• Tried to explore and understand components and pages.<br>• Most of my day was spent in college as we had Annual Sports Meet."
+  },
+  {
+    "id": 1652628384535549,
+    "user_id": "U02TPSYRUPK",
+    "timestamp": "2022-05-15T09:56:24.535Z",
+    "text": "Travelling all day.<br>Picked up few issues, working on it!"
+  },
+  {
+    "id": 1652710612143589,
+    "user_id": "U02TPSYRUPK",
+    "timestamp": "2022-05-16T08:46:52.143Z",
+    "text": "Worked on 2 PRs<br>• <a href=\"https://github.com/ohcnetwork/care_fe/pull/2367\">#2367</a><br>• <a href=\"https://github.com/ohcnetwork/care_fe/pull/2368\">#2368</a>"
+  },
+  {
+    "id": 1652801464322409,
+    "user_id": "U02TPSYRUPK",
+    "timestamp": "2022-05-17T10:01:04.322Z",
+    "text": "Nothing for the day. Came back to hostel from home"
+  },
+  {
+    "id": 1652884384633889,
+    "user_id": "U02TPSYRUPK",
+    "timestamp": "2022-05-18T09:03:04.633Z",
+    "text": "Worked on PR <a href=\"https://github.com/ohcnetwork/care_fe/pull/2404\">#2404</a>"
+  },
+  {
+    "id": 1652975237040049,
+    "user_id": "U02TPSYRUPK",
+    "timestamp": "2022-05-19T10:17:17.040Z",
+    "text": "Submitted <a href=\"https://github.com/ohcnetwork/care_fe/pull/2423\">#2423</a>, <a href=\"https://github.com/ohcnetwork/care_fe/pull/2443\">#2443</a>, <a href=\"https://github.com/ohcnetwork/care_fe/pull/2444\">#2444</a>"
+  },
+  {
+    "id": 1653060642825869,
+    "user_id": "U02TPSYRUPK",
+    "timestamp": "2022-05-20T10:00:42.825Z",
+    "text": "Submitted <a href=\"https://github.com/ohcnetwork/care_fe/pull/2446\">#2446</a> <a href=\"https://github.com/ohcnetwork/care/pull/769\">#769</a> and working on <a href=\"https://github.com/ohcnetwork/care_fe/issues/2449\">#2449</a>"
+  },
+  {
+    "id": 1653149084998149,
+    "user_id": "U02TPSYRUPK",
+    "timestamp": "2022-05-21T10:34:44.998Z",
+    "text": "Nothing for the day <span class=\"s-emoji\">🙂</span>"
+  },
+  {
+    "id": 1653230140094479,
+    "user_id": "U02TPSYRUPK",
+    "timestamp": "2022-05-22T09:05:40.094Z",
+    "text": "<a href=\"https://github.com/ohcnetwork/care_fe/pull/2489\">#2489</a> and in progress <a href=\"https://github.com/ohcnetwork/care_fe/pull/2487\">#2487</a>"
+  },
+  {
+    "id": 1653497784829959,
+    "user_id": "U02TPSYRUPK",
+    "timestamp": "2022-05-25T11:26:24.829Z",
+    "text": "Nothing much for the day. Just worked on some issues"
+  },
+  {
+    "id": 1653677555558889,
+    "user_id": "U02TPSYRUPK",
+    "timestamp": "2022-05-27T13:22:35.558Z",
+    "text": "• worked on fixing existing pr <a href=\"https://github.com/ohcnetwork/care/pull/769\">#769</a> with <span class=\"s-mention s-user\">@U02TB8XHZD1</span> <br>• working on <a href=\"https://github.com/ohcnetwork/care_fe/issues/2497\">#2497</a>"
+  },
+  {
+    "id": 1654015377817619,
+    "user_id": "U02TPSYRUPK",
+    "timestamp": "2022-05-31T11:12:57.817Z",
+    "text": "Todays updates:<br>• Refactored existing PRs<br>• Care: <a href=\"https://github.com/ohcnetwork/care_fe/pull/2594\">#2594</a> (Fixing prod bug made by me that went unnoticed in testing <span class=\"s-emoji\">🥲</span>)<br>• Leaderboard: <a href=\"https://github.com/ohcnetwork/leaderboard/pull/41\">#41</a> <a href=\"https://github.com/ohcnetwork/leaderboard/pull/44\">#44</a> <a href=\"https://github.com/ohcnetwork/leaderboard/pull/45\">#45</a> <a href=\"https://github.com/ohcnetwork/leaderboard/pull/46\">#46</a>"
+  },
+  {
+    "id": 1654097693741829,
+    "user_id": "U02TPSYRUPK",
+    "timestamp": "2022-06-01T10:04:53.741Z",
+    "text": "Updates:<br>• No new PR<br>• Working on issue #<a href=\"https://github.com/ohcnetwork/care_fe/issues/2591\">2591</a> and #<a href=\"https://github.com/ohcnetwork/care_fe/issues/2591\">2601</a> <br>• Also caught up with mild fever <span class=\"s-emoji\">🤒</span>"
+  },
+  {
+    "id": 1654189877806259,
+    "user_id": "U02TPSYRUPK",
+    "timestamp": "2022-06-02T11:41:17.806Z",
+    "text": "Nothin for the day. <span class=\"s-emoji\">🥲</span>"
+  },
+  {
+    "id": 1654450208630379,
+    "user_id": "U02TPSYRUPK",
+    "timestamp": "2022-06-05T12:00:08.630Z",
+    "text": "Nothing for the day.<br>Recovering from illness <span class=\"s-emoji\">🤒</span>"
+  },
+  {
+    "id": 1654709960486389,
+    "user_id": "U02TPSYRUPK",
+    "timestamp": "2022-06-08T12:09:20.486Z",
+    "text": "No new PRs. working on cypress and types in care"
+  },
+  {
+    "id": 1654789341034769,
+    "user_id": "U02TPSYRUPK",
+    "timestamp": "2022-06-09T10:12:21.034Z",
+    "text": "• Switched to dual booted linux after, <code>git</code> in wsl gave up. <span class=\"s-emoji\">🥲</span> <br>• made some progress on cypress issue  <span class=\"s-emoji\">👉</span> migrated to cypress 10 and fixed some test cases"
+  },
+  {
+    "id": 1654963957726779,
+    "user_id": "U02TPSYRUPK",
+    "timestamp": "2022-06-11T10:42:37.726Z",
+    "text": "• Fully packed day <span class=\"s-emoji\">📦</span> <br>• Attended TEDxSJEC <span class=\"s-emoji\">🗨️</span> <br>• Travelled back to home from hostel <span class=\"s-emoji\">✈️</span> <br>• Busy for next 2 days with a family event!"
+  },
+  {
+    "id": 1655908179762289,
+    "user_id": "U02TPSYRUPK",
+    "timestamp": "2022-06-22T08:59:39.762Z",
+    "text": "Update: Busy with exams until Saturday"
+  },
+  {
+    "id": 1656518603089449,
+    "user_id": "U02TPSYRUPK",
+    "timestamp": "2022-06-29T10:33:23.089Z",
+    "text": "Nothing for the day 🫥"
+  },
+  {
+    "id": 1657307281443739,
+    "user_id": "U02TPSYRUPK",
+    "timestamp": "2022-07-08T13:38:01.443Z",
+    "text": "Made some progress in fixing cypress test"
+  },
+  {
+    "id": 1657726224611889,
+    "user_id": "U02TPSYRUPK",
+    "timestamp": "2022-07-13T10:00:24.611Z",
+    "text": "Completed PR <a href=\"https://github.com/ohcnetwork/care_fe/pull/2487\">#2487</a><br><strong>Cypress:</strong><br>• Fixed login captcha issues after struggling for weeks <span class=\"s-emoji\">🥲</span>"
+  },
+  {
+    "id": 1657816952579959,
+    "user_id": "U02TPSYRUPK",
+    "timestamp": "2022-07-14T11:12:32.579Z",
+    "text": "• Fixed some merge conflicts <br><strong>Cypress:</strong><br>• Figuring out why only some <code>&amp;lt;a&amp;gt;</code> tag buttons not getting clicked.<br>• Trying to know how to redirect to newly created facility after form submission."
+  },
+  {
+    "id": 1658256297247639,
+    "user_id": "U02TPSYRUPK",
+    "timestamp": "2022-07-19T13:14:57.247Z",
+    "text": "Completed Cypress tests, PR <a href=\"https://github.com/ohcnetwork/care_fe/pull/3167\">#3167</a>"
+  },
+  {
+    "id": 1659803840275829,
+    "user_id": "U02TPSYRUPK",
+    "timestamp": "2022-08-06T11:07:20.275Z",
+    "text": "Fixed and updated opened PRs"
+  },
+  {
+    "id": 1660159109460139,
+    "user_id": "U02TPSYRUPK",
+    "timestamp": "2022-08-10T13:48:29.460Z",
+    "text": "Partially completed a <a href=\"https://github.com/ohcnetwork/care_fe/pull/3372\">PR</a>"
+  },
+  {
+    "id": 1662399342098889,
+    "user_id": "U02TPSYRUPK",
+    "timestamp": "2022-09-05T12:05:42.098Z",
+    "text": "Entire day passed by working with Cypress Workflow<br>PR <a href=\"https://github.com/ohcnetwork/care_fe/pull/3541\">#1</a> <a href=\"https://github.com/ohcnetwork/care_fe/pull/3541\">#2</a><br><a href=\"https://github.com/ohcnetwork/leaderboard/pull/80\">Minor UI feature in leaderboard</a>"
+  },
+  {
+    "id": 1662478420414589,
+    "user_id": "U02TPSYRUPK",
+    "timestamp": "2022-09-06T10:03:40.414Z",
+    "text": "It&#x27;s a <a href=\"https://github.com/rabilrbl/care_fe/tree/cypress-delay-fix\">cypress</a> day again! <span class=\"s-emoji\">🥸</span>"
+  },
+  {
+    "id": 1662569792591199,
+    "user_id": "U02TPSYRUPK",
+    "timestamp": "2022-09-07T11:26:32.591Z",
+    "text": "• Had final practical exam on Micro-controllers and Embedded Systems<br><strong>Cypress</strong><br>• Made Test <a href=\"https://github.com/ohcnetwork/care_fe/pull/3555\">PR</a><br><strong>Ongoing</strong><br>• Improvements with cypress actions on deployments<br>• Debugging back-end limitations with rate limit and others."
+  },
+  {
+    "id": 1662657023256139,
+    "user_id": "U02TPSYRUPK",
+    "timestamp": "2022-09-08T11:40:23.256Z",
+    "text": "• completed Cypress in <a href=\"https://github.com/ohcnetwork/care_fe/pull/3555\">PR</a><br>    ◦ All PRs will now be validated"
+  }
+]

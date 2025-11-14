@@ -1,0 +1,194 @@
+[
+  {
+    "id": 1652461281971029,
+    "user_id": "U02U103J5LG",
+    "timestamp": "2022-05-13T11:31:21.971Z",
+    "text": "<strong>EOD Updates</strong><br><br>° Setup and explored care_fe repo<br>° Found a bug and raised issue<br>° Solved the issue and made PR"
+  },
+  {
+    "id": 1652891672367169,
+    "user_id": "U02U103J5LG",
+    "timestamp": "2022-05-18T11:04:32.367Z",
+    "text": "<strong>EOD Updates</strong><br><br>• Made two issues<br>• Worked and solved one issue, made PR for the same"
+  },
+  {
+    "id": 1653064039731139,
+    "user_id": "U02U103J5LG",
+    "timestamp": "2022-05-20T10:57:19.731Z",
+    "text": "<strong>EOD UPDATES</strong><br><br>Issue raised: <strong>2*<br>• <a href=\"https://github.com/ohcnetwork/care_fe/issues/2452\">issue#2452</a><br>• <a href=\"https://github.com/ohcnetwork/care_fe/issues/2454\">issue#2454</a><br>Pull Requestes: *1</strong><br>• <a href=\"https://github.com/ohcnetwork/care_fe/pull/2453\">PR#2453</a>"
+  },
+  {
+    "id": 1653747462031229,
+    "user_id": "U02U103J5LG",
+    "timestamp": "2022-05-28T08:47:42.031Z",
+    "text": "<strong>Updates</strong><br>• Fixed <a href=\"https://github.com/ohcnetwork/care_fe/pull/2506\">PR#2506</a> (bed management breadcrumb link fixed)<br>• Tried Yarn"
+  },
+  {
+    "id": 1653847193179319,
+    "user_id": "U02U103J5LG",
+    "timestamp": "2022-05-29T12:29:53.179Z",
+    "text": "<strong>EOD Updates</strong><br><br>Issues raised:<br>• <a href=\"https://github.com/ohcnetwork/care_fe/issues/2572\">#2572</a>(read-only user can edit/update in location management of a facility)<br>Pull Requests:<br>• <a href=\"https://github.com/ohcnetwork/care_fe/pull/2571\">#2571</a>(Facility page for read-only users improved, step towards improving role-based functionality of care)<br>Other than that I also cleaned my pop os today, made more space in root directory and extended it to more space."
+  },
+  {
+    "id": 1653924907825599,
+    "user_id": "U02U103J5LG",
+    "timestamp": "2022-05-30T10:05:07.825Z",
+    "text": "<strong>Updates</strong><br><br>• Today I have setup care backend in my system and have explored it to solve this <a href=\"https://github.com/ohcnetwork/care_fe/issues/2572\">issue</a>(read-only user can make edit/update in location management of a facility)"
+  },
+  {
+    "id": 1654023505382339,
+    "user_id": "U02U103J5LG",
+    "timestamp": "2022-05-31T13:28:25.382Z",
+    "text": "<strong>EOD Updates</strong><br><br><strong>Sorry for late update my system was behaving stangerly today right arrow key was continuously pressed even in boot menu, I tried to fix it by</strong> <strong>opening the laptop case and eventually arrow key died in lappy keyboard 🥹🥹</strong><br><br><strong>Other</strong> than <strong>that I explored care be code</strong>"
+  },
+  {
+    "id": 1654094357474619,
+    "user_id": "U02U103J5LG",
+    "timestamp": "2022-06-01T09:09:17.474Z",
+    "text": "<strong>EOD Updates</strong><br>Issues raised:<br>• <a href=\"https://github.com/ohcnetwork/care_fe/issues/2605\">#2605</a> (Fix Patient notes broken link)<br>PR:<br>• <a href=\"https://github.com/ohcnetwork/care_fe/pull/2607\">#2607</a> (Patient notes broken link fixed)<br>Working on:<br>• <a href=\"https://github.com/ohcnetwork/care_fe/issues/2611\">#2611</a> (File Upload: Audio not working)"
+  },
+  {
+    "id": 1654179141514489,
+    "user_id": "U02U103J5LG",
+    "timestamp": "2022-06-02T08:42:21.514Z",
+    "text": "<strong>EOD Updates</strong><br>Issues raised:<br>• <a href=\"https://github.com/ohcnetwork/care_fe/issues/2633\">#2633</a> (Improve patients page for read-only users)<br>• <a href=\"https://github.com/ohcnetwork/care_fe/issues/2636\">#2636</a> (improve patient details section for read-only users)<br>PR:<br>• <a href=\"https://github.com/ohcnetwork/care_fe/pull/2635\">#2635</a> (Partially improved patients page for read-only users)<br>• <a href=\"https://github.com/ohcnetwork/care_fe/pull/2637\">#2637</a> (Partially improved patients details section for read-only users)"
+  },
+  {
+    "id": 1654263809080659,
+    "user_id": "U02U103J5LG",
+    "timestamp": "2022-06-03T08:13:29.080Z",
+    "text": "<strong>EOD Updates</strong><br>Issue Raised:<br>• <a href=\"https://github.com/ohcnetwork/care/issues/813\">#813 backend</a><br>Working on solving issue #813 found the buggy code snippet working on its fix."
+  },
+  {
+    "id": 1654610942621689,
+    "user_id": "U02U103J5LG",
+    "timestamp": "2022-06-07T08:39:02.621Z",
+    "text": "<strong>EOD Updates</strong><br><br>Issue Raised:<br>• <a href=\"https://github.com/ohcnetwork/care_fe/issues/2656\">#2656</a>(Longitude value doesnot accepts more than 90 and less than -90)<br>PR:<br>• <a href=\"https://github.com/ohcnetwork/care/pull/830\">#830(backend)</a>(DRY Permissions added for assetLocation viewset)"
+  },
+  {
+    "id": 1654782196574359,
+    "user_id": "U02U103J5LG",
+    "timestamp": "2022-06-09T08:13:16.574Z",
+    "text": "Nothing for today <span class=\"s-emoji\">😅</span><span class=\"s-emoji\">😅</span>"
+  },
+  {
+    "id": 1654873711278149,
+    "user_id": "U02U103J5LG",
+    "timestamp": "2022-06-10T09:38:31.278Z",
+    "text": "EOD Updates<br>Fixed previous PRs and merged conflicts"
+  },
+  {
+    "id": 1655127711043789,
+    "user_id": "U02U103J5LG",
+    "timestamp": "2022-06-13T08:11:51.043Z",
+    "text": "Worked on image processing task"
+  },
+  {
+    "id": 1655214684478409,
+    "user_id": "U02U103J5LG",
+    "timestamp": "2022-06-14T08:21:24.478Z",
+    "text": "Adding role permission at backend"
+  },
+  {
+    "id": 1655304971711729,
+    "user_id": "U02U103J5LG",
+    "timestamp": "2022-06-15T09:26:11.711Z",
+    "text": "<strong>EOD Updates</strong><br><br>PR:<br>• <a href=\"https://github.com/ohcnetwork/care_fe/pull/2718\">#2718</a>(Facility Page made full role responsive for read-only users)<br>Issue Raised:<br>• <a href=\"https://github.com/ohcnetwork/care_fe/issues/2719\">#2719</a>(When pressing logout 404 is displayed for a small time frame)<br>ICU monitor data extraction repo is live <a href=\"https://github.com/ohcnetwork/care_ocr\">here</a>"
+  },
+  {
+    "id": 1655389546949999,
+    "user_id": "U02U103J5LG",
+    "timestamp": "2022-06-16T08:55:46.949Z",
+    "text": "<strong>EOD UPDATES</strong><br><br>PR:<br>• <a href=\"https://github.com/ohcnetwork/care_fe/pull/2722\">#2722</a>(404 page displayed on logout fixed)<br>Other:<br>• Created several issues in <a href=\"https://github.com/ohcnetwork/care_ocr/\">care_ocr</a> repo"
+  },
+  {
+    "id": 1655737018159129,
+    "user_id": "U02U103J5LG",
+    "timestamp": "2022-06-20T09:26:58.159Z",
+    "text": "Nothing much today, working on setting up a yolo based model for monitor detection"
+  },
+  {
+    "id": 1655821118060139,
+    "user_id": "U02U103J5LG",
+    "timestamp": "2022-06-21T08:48:38.060Z",
+    "text": "Working on a few personal project today"
+  },
+  {
+    "id": 1655914307563259,
+    "user_id": "U02U103J5LG",
+    "timestamp": "2022-06-22T10:41:47.563Z",
+    "text": "<strong>EOD Updates</strong><br><br>PR:<br>• <a href=\"https://github.com/ohcnetwork/care/pull/873\">#873(backend)</a>: Notes endpoint fixed for read-only users<br>• <a href=\"https://github.com/ohcnetwork/care/pull/871\">#871(backend)</a>: /test_sample route fixed for staff readonly<br>Issues raised:<br>• <a href=\"https://github.com/ohcnetwork/care/issues/872\">#872(backend)</a>: Read-Only type can post patient&#x27;s notes<br>• <a href=\"https://github.com/ohcnetwork/care/issues/869\">#869(backend)</a>: read-only staff user can not GET &quot;patient/patientID/test_sample/&quot; route"
+  },
+  {
+    "id": 1656080880710349,
+    "user_id": "U02U103J5LG",
+    "timestamp": "2022-06-24T08:58:00.710Z",
+    "text": "Made a pr: <a href=\"https://github.com/ohcnetwork/care_fe/pull/2843\">#2843</a>(Completed patient details section for read-only user)"
+  },
+  {
+    "id": 1656516020265579,
+    "user_id": "U02U103J5LG",
+    "timestamp": "2022-06-29T09:50:20.265Z",
+    "text": "Explored issues and reviewed nodejs"
+  },
+  {
+    "id": 1656598359857829,
+    "user_id": "U02U103J5LG",
+    "timestamp": "2022-06-30T08:42:39.857Z",
+    "text": "Working on <a href=\"https://github.com/ohcnetwork/care_fe/issues/1789\">#1789</a> backend is complete and working, needs some improvement at frontend"
+  },
+  {
+    "id": 1656772159574999,
+    "user_id": "U02U103J5LG",
+    "timestamp": "2022-07-02T08:59:19.574Z",
+    "text": "Trained an initial model for detecting monitors"
+  },
+  {
+    "id": 1656875768514919,
+    "user_id": "U02U103J5LG",
+    "timestamp": "2022-07-03T13:46:08.514Z",
+    "text": "Working on image_ocr"
+  },
+  {
+    "id": 1656945239351709,
+    "user_id": "U02U103J5LG",
+    "timestamp": "2022-07-04T09:03:59.351Z",
+    "text": "Added yolo detection method for monitor detection, <a href=\"https://github.com/ohcnetwork/care_ocr\">https://github.com/ohcnetwork/care_ocr</a>"
+  },
+  {
+    "id": 1657138398671709,
+    "user_id": "U02U103J5LG",
+    "timestamp": "2022-07-06T14:43:18.671Z",
+    "text": "Worked on writing new validation script so that data can be extracted correctly for the method 2 (model based detection) for image detection"
+  },
+  {
+    "id": 1658609053438379,
+    "user_id": "U02U103J5LG",
+    "timestamp": "2022-07-23T15:14:13.438Z",
+    "text": "Worked on making REST API for monitor data extraction"
+  },
+  {
+    "id": 1658685774684459,
+    "user_id": "U02U103J5LG",
+    "timestamp": "2022-07-24T12:32:54.684Z",
+    "text": "Trying other methods to optimize ocr api"
+  },
+  {
+    "id": 1664025241801099,
+    "user_id": "U02U103J5LG",
+    "timestamp": "2022-09-24T07:44:01.801Z",
+    "text": "Removed Tensorflow deoendencies from care_ocr api making it faster"
+  },
+  {
+    "id": 1707231146932489,
+    "user_id": "U02U103J5LG",
+    "timestamp": "2024-02-06T09:22:26.932Z",
+    "text": "EOD 6/02/2024:<br>• Updating self hosted whsiper model to latest version: <a href=\"https://github.com/ohcnetwork/care-whisper/commit/f41d44b58581ca13fd37470af78a2a62625578f3\">link</a><br>• Finding issue with hindi stt engines"
+  },
+  {
+    "id": 1708368966542249,
+    "user_id": "U02U103J5LG",
+    "timestamp": "2024-02-19T13:26:06.542Z",
+    "text": "EODs:<br>openAI whisper STT fix: <a href=\"https://github.com/ohcnetwork/ayushma/pull/466\">https://github.com/ohcnetwork/ayushma/pull/466</a><br><br>Added immediate STT transcribe text display feature:<br><a href=\"https://github.com/ohcnetwork/ayushma/pull/472\">https://github.com/ohcnetwork/ayushma/pull/472</a><br><a href=\"https://github.com/ohcnetwork/ayushma_fe/pull/179\">https://github.com/ohcnetwork/ayushma_fe/pull/179</a>"
+  }
+]

@@ -1,0 +1,176 @@
+[
+  {
+    "id": 1652199355276059,
+    "user_id": "U02SWK752TZ",
+    "timestamp": "2022-05-10T10:45:55.276Z",
+    "text": "No updates, I am travelling (going back to home from hostel) will reach by Thursday will actively start working upon reaching."
+  },
+  {
+    "id": 1652464751541739,
+    "user_id": "U02SWK752TZ",
+    "timestamp": "2022-05-13T12:29:11.541Z",
+    "text": "Worked on 1 Issue got stuck with rebasing the deploy branch"
+  },
+  {
+    "id": 1652600212429669,
+    "user_id": "U02SWK752TZ",
+    "timestamp": "2022-05-15T02:06:52.429Z",
+    "text": "Created an issue and submitted the pr for the same"
+  },
+  {
+    "id": 1652709092877279,
+    "user_id": "U02SWK752TZ",
+    "timestamp": "2022-05-16T08:21:32.877Z",
+    "text": "Took up an issue, submitted an issue and PR"
+  },
+  {
+    "id": 1652897859403019,
+    "user_id": "U02SWK752TZ",
+    "timestamp": "2022-05-18T12:47:39.403Z",
+    "text": "Could not attend the EOD call today. Had some university meeting lined up. But had a productive day.<br><br>Issued 2 Issues today<br><a href=\"https://github.com/ohcnetwork/care_fe/issues/2411\">https://github.com/ohcnetwork/care_fe/issues/2411</a><br><a href=\"https://github.com/ohcnetwork/care_fe/issues/2420\">https://github.com/ohcnetwork/care_fe/issues/2420</a><br><br>Submitted 2 PRs<br><a href=\"https://github.com/ohcnetwork/care_fe/pull/2414\">https://github.com/ohcnetwork/care_fe/pull/2414</a><br><a href=\"https://github.com/ohcnetwork/care_fe/pull/2409\">https://github.com/ohcnetwork/care_fe/pull/2409</a> The test for this PR failed as some corrections were pointed by <span class=\"s-mention s-user\">@U022THM4U2U</span>"
+  },
+  {
+    "id": 1652980723888289,
+    "user_id": "U02SWK752TZ",
+    "timestamp": "2022-05-19T11:48:43.888Z",
+    "text": "Created Issues : <a href=\"https://github.com/ohcnetwork/care_fe/issues/2441\">#2441</a><br>Created PRs: <a href=\"https://github.com/ohcnetwork/care_fe/pull/2439\"> #2439</a> , <a href=\"https://github.com/ohcnetwork/care_fe/pull/2409\">#2409</a>"
+  },
+  {
+    "id": 1653069031069269,
+    "user_id": "U02SWK752TZ",
+    "timestamp": "2022-05-20T12:20:31.069Z",
+    "text": "No progress today, was feeling tired today"
+  },
+  {
+    "id": 1653486974705669,
+    "user_id": "U02SWK752TZ",
+    "timestamp": "2022-05-25T08:26:14.705Z",
+    "text": "• Setup care again, I messed up my hard disk somehow playing with disk partition. Everything under control now xD<br>• Filled an issue <a href=\"https://github.com/ohcnetwork/care_fe/issues/2513\">https://github.com/ohcnetwork/care_fe/issues/2513</a>"
+  },
+  {
+    "id": 1653654634200449,
+    "user_id": "U02SWK752TZ",
+    "timestamp": "2022-05-27T07:00:34.200Z",
+    "text": "Update: Worked on improvement of the inventory summary page <a href=\"https://github.com/ohcnetwork/care_fe/issues/2549\">https://github.com/ohcnetwork/care_fe/issues/2549</a>"
+  },
+  {
+    "id": 1653846649377379,
+    "user_id": "U02SWK752TZ",
+    "timestamp": "2022-05-29T12:20:49.377Z",
+    "text": "Dual booted manjaro this weekend, after successfully messing my drive partition twice.<br><br><strong>Issues:</strong><br>1. Inventory management doesn&#x27;t update minimum count value <a href=\"https://github.com/ohcnetwork/care/issues/802\">https://github.com/ohcnetwork/care/issues/802</a><br>2. Additional white space on smaller devices on asset page <a href=\"https://github.com/ohcnetwork/care_fe/issues/2577\">https://github.com/ohcnetwork/care_fe/issues/2577</a><br><strong>PRs:</strong><br>1. fix: white space on smaller device <a href=\"https://github.com/ohcnetwork/care_fe/pull/2579\">https://github.com/ohcnetwork/care_fe/pull/2579</a>"
+  },
+  {
+    "id": 1654276030402829,
+    "user_id": "U02SWK752TZ",
+    "timestamp": "2022-06-03T11:37:10.402Z",
+    "text": "Worked on resolving conflict on <a href=\"https://github.com/ohcnetwork/care_fe/pull/2579\">https://github.com/ohcnetwork/care_fe/pull/2579</a>"
+  },
+  {
+    "id": 1654710392469169,
+    "user_id": "U02SWK752TZ",
+    "timestamp": "2022-06-08T12:16:32.469Z",
+    "text": "No new issues worked on previous PR&#x27;s<br><a href=\"https://github.com/ohcnetwork/care_fe/pull/2439\">https://github.com/ohcnetwork/care_fe/pull/2439</a><br><a href=\"https://github.com/ohcnetwork/care_fe/pull/2579\">https://github.com/ohcnetwork/care_fe/pull/2579</a>"
+  },
+  {
+    "id": 1654783409255529,
+    "user_id": "U02SWK752TZ",
+    "timestamp": "2022-06-09T08:33:29.255Z",
+    "text": "Worked on extracting text from the image"
+  },
+  {
+    "id": 1654956407069129,
+    "user_id": "U02SWK752TZ",
+    "timestamp": "2022-06-11T08:36:47.069Z",
+    "text": "Worked on benchmarking and testing different pretrained image recognition models"
+  },
+  {
+    "id": 1655143983922029,
+    "user_id": "U02SWK752TZ",
+    "timestamp": "2022-06-13T12:43:03.922Z",
+    "text": "Issues:<br><a href=\"https://github.com/ohcnetwork/leaderboard/issues/57\">https://github.com/ohcnetwork/leaderboard/issues/57</a><br><a href=\"https://github.com/ohcnetwork/care_fe/issues/2698\">https://github.com/ohcnetwork/care_fe/issues/2698</a><br><a href=\"https://github.com/ohcnetwork/care_fe/issues/2695\">https://github.com/ohcnetwork/care_fe/issues/2695</a><br><br>PR:<br><a href=\"https://github.com/ohcnetwork/leaderboard/pull/58\">https://github.com/ohcnetwork/leaderboard/pull/58</a><br><a href=\"https://github.com/ohcnetwork/care_fe/pull/2696\">https://github.com/ohcnetwork/care_fe/pull/2696</a>"
+  },
+  {
+    "id": 1655402626266529,
+    "user_id": "U02SWK752TZ",
+    "timestamp": "2022-06-16T12:33:46.266Z",
+    "text": "Worked on suggestion for <a href=\"https://github.com/ohcnetwork/care_fe/pull/2439\">https://github.com/ohcnetwork/care_fe/pull/2439</a>"
+  },
+  {
+    "id": 1655619125057699,
+    "user_id": "U02SWK752TZ",
+    "timestamp": "2022-06-19T00:42:05.057Z",
+    "text": "Had no internet past 2 days. Got back from today morning ;("
+  },
+  {
+    "id": 1655745363693319,
+    "user_id": "U02SWK752TZ",
+    "timestamp": "2022-06-20T11:46:03.693Z",
+    "text": "PRs:<br><a href=\"https://github.com/ohcnetwork/care_fe/pull/2789\">https://github.com/ohcnetwork/care_fe/pull/2789</a><br><a href=\"https://github.com/ohcnetwork/care_fe/pull/2777\">https://github.com/ohcnetwork/care_fe/pull/2777</a>"
+  },
+  {
+    "id": 1655921974296969,
+    "user_id": "U02SWK752TZ",
+    "timestamp": "2022-06-22T12:49:34.296Z",
+    "text": "No updates took rest, wasn&#x27;t feeling well"
+  },
+  {
+    "id": 1656348107910079,
+    "user_id": "U02SWK752TZ",
+    "timestamp": "2022-06-27T11:11:47.910Z",
+    "text": "No updates this entire week. Enjoyed nice vacation to dehradun <span class=\"s-emoji\">😌</span><span class=\"s-emoji\">😌</span> back with extra energy"
+  },
+  {
+    "id": 1656598320212609,
+    "user_id": "U02SWK752TZ",
+    "timestamp": "2022-06-30T08:42:00.212Z",
+    "text": "solved 4/5 failing pr today"
+  },
+  {
+    "id": 1657051495472589,
+    "user_id": "U02SWK752TZ",
+    "timestamp": "2022-07-05T14:34:55.472Z",
+    "text": "Worked on pre processing 5 para images"
+  },
+  {
+    "id": 1657130364006669,
+    "user_id": "U02SWK752TZ",
+    "timestamp": "2022-07-06T12:29:24.006Z",
+    "text": "Worked on investigative 10BedICU sheets<br>Worked on integrating the pre-processed image to OCR module developed by <span class=\"s-mention s-user\">@U02U103J5LG</span>"
+  },
+  {
+    "id": 1657218428674189,
+    "user_id": "U02SWK752TZ",
+    "timestamp": "2022-07-07T12:57:08.674Z",
+    "text": "worked on 10bedicu website and care_fe issues"
+  },
+  {
+    "id": 1657383587746469,
+    "user_id": "U02SWK752TZ",
+    "timestamp": "2022-07-09T10:49:47.746Z",
+    "text": "no updates, had a lazy Saturday ;("
+  },
+  {
+    "id": 1657681428645869,
+    "user_id": "U02SWK752TZ",
+    "timestamp": "2022-07-12T21:33:48.645Z",
+    "text": "Worked on 10bedicu website"
+  },
+  {
+    "id": 1657824537250499,
+    "user_id": "U02SWK752TZ",
+    "timestamp": "2022-07-14T13:18:57.250Z",
+    "text": "Made a PR to improve the UI for forget password page"
+  },
+  {
+    "id": 1659720709304109,
+    "user_id": "U02SWK752TZ",
+    "timestamp": "2022-08-05T12:01:49.304Z",
+    "text": "<a href=\"https://github.com/ohcnetwork/care_fe/issues/3287\"><a href=\"https://github.com/ohcnetwork/care_fe/issues/3287\">https://github.com/ohcnetwork/care_fe/issues/3287</a></a> picked up a new issue"
+  },
+  {
+    "id": 1660151212666199,
+    "user_id": "U02SWK752TZ",
+    "timestamp": "2022-08-10T11:36:52.666Z",
+    "text": "Picked up a new issue"
+  }
+]

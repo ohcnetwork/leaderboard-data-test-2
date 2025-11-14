@@ -1,0 +1,278 @@
+[
+  {
+    "id": 1729139666781339,
+    "user_id": "U07RSEANQE7",
+    "timestamp": "2024-10-16T23:04:26.781Z",
+    "text": "<span class=\"s-mention s-user\">@U07RSEANQE7</span> has joined the channel"
+  },
+  {
+    "id": 1729173676321649,
+    "user_id": "U07RSEANQE7",
+    "timestamp": "2024-10-17T08:31:16.321Z",
+    "text": "EOD Updates:<br><strong>17 October 2024</strong><br>Done<br>• Raised PR on issue #8805 and added required changes.<br>Next<br>• Will check for other unassigned issues."
+  },
+  {
+    "id": 1729519148592519,
+    "user_id": "U07RSEANQE7",
+    "timestamp": "2024-10-21T08:29:08.592Z",
+    "text": "<strong>21 Oct 2024</strong><br><strong>Done</strong><br>• Working on Issue #8843<br><strong>Next</strong><br>• Looking for other issues."
+  },
+  {
+    "id": 1729607662309919,
+    "user_id": "U07RSEANQE7",
+    "timestamp": "2024-10-22T09:04:22.309Z",
+    "text": "<strong>22 Oct 2024</strong><br><strong>Done</strong><br>• Raised Issues #8863 , #8877<br>• Raised PR #8875<br><strong>Next</strong><br>• Working on issue #8877"
+  },
+  {
+    "id": 1729692959351629,
+    "user_id": "U07RSEANQE7",
+    "timestamp": "2024-10-23T08:45:59.351Z",
+    "text": "<strong>23 Oct 2024</strong><br><strong>Done</strong><br>• Raised new PRs for issues 8863, 8877<br><strong>Next</strong><br>• Will be looking for other issues."
+  },
+  {
+    "id": 1729777981858419,
+    "user_id": "U07RSEANQE7",
+    "timestamp": "2024-10-24T08:23:01.858Z",
+    "text": "<strong>24 Oct 2024</strong><br><strong>Done</strong><br>• Fixed issues present in my PRs<br><strong>Next</strong><br>• Will be looking for new issues."
+  },
+  {
+    "id": 1729861593872149,
+    "user_id": "U07RSEANQE7",
+    "timestamp": "2024-10-25T07:36:33.872Z",
+    "text": "25 October 2024<br>Done:<br>Made some changes to my existing PRs<br>Next:<br>Will be searching for another issues"
+  },
+  {
+    "id": 1729956860674689,
+    "user_id": "U07RSEANQE7",
+    "timestamp": "2024-10-26T10:04:20.674Z",
+    "text": "<strong>26 Oct 2024</strong><br><strong>Done</strong><br>• Raised Issue 8932<br><strong>Next</strong><br>• Checking for other issues"
+  },
+  {
+    "id": 1730124616675229,
+    "user_id": "U07RSEANQE7",
+    "timestamp": "2024-10-28T08:40:16.675Z",
+    "text": "<strong>28th Oct 2024</strong><br><strong>Done</strong><br>• Raised Issue 8946<br>• Raised PRs 8939, 8951<br><strong>Next</strong><br>• Will be checking for new issues"
+  },
+  {
+    "id": 1730210428729119,
+    "user_id": "U07RSEANQE7",
+    "timestamp": "2024-10-29T08:30:28.729Z",
+    "text": "<strong>29 Oct 2024</strong><br>No major updates for today"
+  },
+  {
+    "id": 1730298126755279,
+    "user_id": "U07RSEANQE7",
+    "timestamp": "2024-10-30T08:52:06.755Z",
+    "text": "<strong>30 Oct 2024</strong><br><strong>Done</strong><br>• Raised Issue #8965<br>• Raised PR #8968<br>• Worked on previous PRs<br><strong>Next</strong><br>Will be checking for newer issues."
+  },
+  {
+    "id": 1730471087464309,
+    "user_id": "U07RSEANQE7",
+    "timestamp": "2024-11-01T08:54:47.464Z",
+    "text": "<strong>01 November 2024</strong><br><strong>Done</strong><br>• Raised Issue 8980<br><strong>Next</strong><br>• Will be checking for other issues"
+  },
+  {
+    "id": 1730728122757839,
+    "user_id": "U07RSEANQE7",
+    "timestamp": "2024-11-04T08:18:42.757Z",
+    "text": "<strong>4 November 2024</strong><br><strong>Done</strong><br>• Raised Issue #8990<br><strong>Next</strong><br>• Will be checking for new issues"
+  },
+  {
+    "id": 1730816057693919,
+    "user_id": "U07RSEANQE7",
+    "timestamp": "2024-11-05T08:44:17.693Z",
+    "text": "<strong>05 Nov 2024</strong><br><strong>Done</strong><br>• Raised Issue #8997<br>• Raised PR #8999<br><strong>Next</strong><br>Will be checking for new issues"
+  },
+  {
+    "id": 1730901589487979,
+    "user_id": "U07RSEANQE7",
+    "timestamp": "2024-11-06T08:29:49.487Z",
+    "text": "<strong>6 Nov 2024</strong><br><strong>Done</strong><br>• Raised Issue #9005<br>• Raised PR #9006<br><strong>Next</strong><br>Will be checking for new issues"
+  },
+  {
+    "id": 1730988199753419,
+    "user_id": "U07RSEANQE7",
+    "timestamp": "2024-11-07T08:33:19.753Z",
+    "text": "<strong>07 Nov 2024</strong><br>No major updates for today.<br><strong>Next</strong><br>Will be checking for new issues."
+  },
+  {
+    "id": 1731074369588909,
+    "user_id": "U07RSEANQE7",
+    "timestamp": "2024-11-08T08:29:29.588Z",
+    "text": "<strong>08 Nov 2024</strong><br><strong>Done</strong><br>• Raised Issue #9057<br>• Raised PRs: #9059, #9054, #9047<br><strong>Next</strong><br>Will be checking for new issues"
+  },
+  {
+    "id": 1731169086857369,
+    "user_id": "U07RSEANQE7",
+    "timestamp": "2024-11-09T10:48:06.857Z",
+    "text": "<strong>9 Nov 2024</strong><br><strong>Done</strong><br>• Made some changes to existing PRs<br><strong>Next</strong><br>• Will be checking for new issues"
+  },
+  {
+    "id": 1731333782606219,
+    "user_id": "U07RSEANQE7",
+    "timestamp": "2024-11-11T08:33:02.606Z",
+    "text": "<strong>11 Nov 2024</strong><br><strong>Done:</strong><br>• Made requested changes in my existing PRs<br><strong>Next:</strong><br>• Will be checking for new issues"
+  },
+  {
+    "id": 1731419838737279,
+    "user_id": "U07RSEANQE7",
+    "timestamp": "2024-11-12T08:27:18.737Z",
+    "text": "<strong>12 Nov 2024</strong><br><strong>Done:</strong><br>• Got all my existing PRs to  be merged<br><strong>Next:</strong><br>• Will be checking for new issues"
+  },
+  {
+    "id": 1731579821236289,
+    "user_id": "U07RSEANQE7",
+    "timestamp": "2024-11-14T04:53:41.236Z",
+    "text": "13 Nov 2024<br>No major updates<br><strong>Next:</strong><br>Will be checking for new issues"
+  },
+  {
+    "id": 1731592201648559,
+    "user_id": "U07RSEANQE7",
+    "timestamp": "2024-11-14T08:20:01.648Z",
+    "text": "Nov 14 2024<br>Done:<br>• Raised Issue <a href=\"https://github.com/ohcnetwork/care_fe/issues/9114\">#9114</a> on wrong handling after patient discharge<br>Next:<br>• Will Raise a PR on that issue<br>• Will check for new issues"
+  },
+  {
+    "id": 1731678636686139,
+    "user_id": "U07RSEANQE7",
+    "timestamp": "2024-11-15T08:20:36.686Z",
+    "text": "15th Nov 2024<br>Done:<br>• Raised a <a href=\"https://github.com/ohcnetwork/landing/pull/25\">PR</a> on ohcnetwork/landing which removes Github Constellation link<br>• Raised an <a href=\"https://github.com/ohcnetwork/care_fe/issues/9129\">issue</a>  on inconsistent button sizes on care_fe<br>• Raised a <a href=\"https://github.com/ohcnetwork/care_fe/pull/9130\">PR</a>  for above mentioned issue<br>• Worked on issue <a href=\"https://github.com/ohcnetwork/care/issues/2597\">#2597</a> on care<br>Next:<br>• Will be checking for new issues"
+  },
+  {
+    "id": 1731940804967179,
+    "user_id": "U07RSEANQE7",
+    "timestamp": "2024-11-18T09:10:04.967Z",
+    "text": "18 November<br>Done:<br>• Made requested changes in this <a href=\"https://github.com/ohcnetwork/landing/pull/25\">PR</a> which removes broken Github constellation page link<br>• Raised Issue <a href=\"https://github.com/ohcnetwork/care_fe/issues/9153\">9153</a><br>Next:<br>• Will raise a PR for above issue<br>• Will search for new issues"
+  },
+  {
+    "id": 1732027777356779,
+    "user_id": "U07RSEANQE7",
+    "timestamp": "2024-11-19T09:19:37.356Z",
+    "text": "19 Nov 2024<br>Done:<br>• Raised PR <a href=\"https://github.com/ohcnetwork/care_fe/pull/9157\">9157</a> which adds image remove feature<br>Next:<br>• Will update the above PR as per mentioned changes<br>• Will look out for new issues"
+  },
+  {
+    "id": 1732119269701249,
+    "user_id": "U07RSEANQE7",
+    "timestamp": "2024-11-20T10:44:29.701Z",
+    "text": "20 Nov 2024<br>Done<br>• Made required changes in this <a href=\"https://github.com/ohcnetwork/landing/pull/25\">PR</a> and got it merged<br>• Worked on PR 9157<br>Next<br>• Will check the root cause of Issue 9061<br>• Update the PR 9157<br>• Find new issues"
+  },
+  {
+    "id": 1732198449974709,
+    "user_id": "U07RSEANQE7",
+    "timestamp": "2024-11-21T08:44:09.974Z",
+    "text": "21 Nov 2024<br>Done<br>• Raised Issue #9170 and #9174<br>• Raised a PR #9172 which resolves above mentioned issues<br>Next<br>• Will update my old PR #9157<br>• Will check for new issues"
+  },
+  {
+    "id": 1732282813854979,
+    "user_id": "U07RSEANQE7",
+    "timestamp": "2024-11-22T08:10:13.854Z",
+    "text": "22 Nov<br>Done<br>• Made required changes in PR #9157<br>Next<br>• Will be checking for other issues"
+  },
+  {
+    "id": 1732540931380319,
+    "user_id": "U07RSEANQE7",
+    "timestamp": "2024-11-25T07:52:11.380Z",
+    "text": "25 Nov 2024<br>No Major Updates.<br>Next:<br>• Will check for new issues"
+  },
+  {
+    "id": 1732627327765789,
+    "user_id": "U07RSEANQE7",
+    "timestamp": "2024-11-26T07:52:07.765Z",
+    "text": "26 Nov 2024<br>Done<br>• Made requested changes on PR #9157<br>Next<br>• Will raise/look for new issues"
+  },
+  {
+    "id": 1732714604543949,
+    "user_id": "U07RSEANQE7",
+    "timestamp": "2024-11-27T08:06:44.543Z",
+    "text": "27 Nov 2024<br>No Major Updates Due to Exam<br>Next:<br>Will check for new issues"
+  },
+  {
+    "id": 1732808724645559,
+    "user_id": "U07RSEANQE7",
+    "timestamp": "2024-11-28T10:15:24.645Z",
+    "text": "28 Nov 2024<br>Done:<br>• Raised PR #30 on Landing Repo<br>• Made Requested Changes in PR 9157<br>Next:<br>• Will check for new issues"
+  },
+  {
+    "id": 1732889086377349,
+    "user_id": "U07RSEANQE7",
+    "timestamp": "2024-11-29T08:34:46.377Z",
+    "text": "29 Nov 2024<br>Done<br>• Made the Requested Change in my PR #9157<br>• Got PR #25 from landing repo to be merged<br>Next<br>• Will check for new issues"
+  },
+  {
+    "id": 1733148205772799,
+    "user_id": "U07RSEANQE7",
+    "timestamp": "2024-12-02T08:33:25.772Z",
+    "text": "2 Dec 2024<br>No major updates for today"
+  },
+  {
+    "id": 1733232838650239,
+    "user_id": "U07RSEANQE7",
+    "timestamp": "2024-12-03T08:03:58.650Z",
+    "text": "3rd December 2024<br>Done<br>• Raised issue #9277 on care_fe<br>• Raised issue #31 on landing<br>• Raised PR&#x27;s for both<br>Next<br>• Will be checking for new issues"
+  },
+  {
+    "id": 1733398585717599,
+    "user_id": "U07RSEANQE7",
+    "timestamp": "2024-12-05T06:06:25.717Z",
+    "text": "4 Dec 2024<br>No updates as I was on leave"
+  },
+  {
+    "id": 1733413899739089,
+    "user_id": "U07RSEANQE7",
+    "timestamp": "2024-12-05T10:21:39.739Z",
+    "text": "5th Dec 2024<br>Done<br>• Raised Issue 9304 on user default view<br>• Raised PR 9306 which resolves above issue<br>• Worked on old PRs<br>Next<br>Will check for new issues"
+  },
+  {
+    "id": 1733505577079059,
+    "user_id": "U07RSEANQE7",
+    "timestamp": "2024-12-06T11:49:37.079Z",
+    "text": "6th Dec 2024<br>Done<br>• Made requested changes in my existing PR<br>• Synced with Javid regarding a Utility function<br>• Raised Issue #33 on Landing Repo<br>Next<br>• Raise PR for issue #33 <br>• Check for more issues"
+  },
+  {
+    "id": 1733580526481579,
+    "user_id": "U07RSEANQE7",
+    "timestamp": "2024-12-07T08:38:46.481Z",
+    "text": "7th Dec 2024<br>Done<br>• Raised PR #36 on Landing<br>• Made requested changes in existing PR on care_fe<br>Next<br>Will take up new issues"
+  },
+  {
+    "id": 1733749118524279,
+    "user_id": "U07RSEANQE7",
+    "timestamp": "2024-12-09T07:28:38.524Z",
+    "text": "9 Dec 2024<br>No major updates<br>Next:<br>Will search for new issues"
+  },
+  {
+    "id": 1733900460458199,
+    "user_id": "U07RSEANQE7",
+    "timestamp": "2024-12-11T01:31:00.458Z",
+    "text": "10th Dec 2024<br>Done:<br>• Raised two issues on care_fe<br>• Got my PR 9306 merged<br>Next<br>Will take up new issues"
+  },
+  {
+    "id": 1734001138103559,
+    "user_id": "U07RSEANQE7",
+    "timestamp": "2024-12-12T05:28:58.103Z",
+    "text": "11th December<br>Done:<br>• Made requested changes in my PR<br>Next:<br>• Will search for new issues"
+  },
+  {
+    "id": 1734162089521159,
+    "user_id": "U07RSEANQE7",
+    "timestamp": "2024-12-14T02:11:29.521Z",
+    "text": "12 Dec 2024<br>Done<br>• Made requested minor changes in my existing PR"
+  },
+  {
+    "id": 1734162135490049,
+    "user_id": "U07RSEANQE7",
+    "timestamp": "2024-12-14T02:12:15.490Z",
+    "text": "13 Dec 2024<br>Done<br>• No major updates <br>Next<br>• Will search for new issues"
+  },
+  {
+    "id": 1734626328352579,
+    "user_id": "U07RSEANQE7",
+    "timestamp": "2024-12-19T11:08:48.352Z",
+    "text": "19th Dec 2024<br>No major updates.<br>Will look for new issues"
+  },
+  {
+    "id": 1734761102117979,
+    "user_id": "U07RSEANQE7",
+    "timestamp": "2024-12-21T00:35:02.117Z",
+    "text": "20th Dec 2024<br>• No major updates apart from attending POSH policy call"
+  }
+]

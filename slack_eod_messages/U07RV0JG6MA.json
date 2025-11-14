@@ -1,0 +1,614 @@
+[
+  {
+    "id": 1729139667083829,
+    "user_id": "U07RV0JG6MA",
+    "timestamp": "2024-10-16T23:04:27.083Z",
+    "text": "<span class=\"s-mention s-user\">@U07RV0JG6MA</span> has joined the channel"
+  },
+  {
+    "id": 1729179747508559,
+    "user_id": "U07RV0JG6MA",
+    "timestamp": "2024-10-17T10:12:27.508Z",
+    "text": "<strong>17 October 2024</strong><br>Done<br>• Working on Issue #8808<br> Next<br>• Have to implement required changes"
+  },
+  {
+    "id": 1729268565839529,
+    "user_id": "U07RV0JG6MA",
+    "timestamp": "2024-10-18T10:52:45.839Z",
+    "text": "18th October<br><br>Done:<br>• working on issue #8808<br>Next:<br>• Have to complete this issue"
+  },
+  {
+    "id": 1729356765535859,
+    "user_id": "U07RV0JG6MA",
+    "timestamp": "2024-10-19T11:22:45.535Z",
+    "text": "19th October<br>Done:<br>• working on issue #8808<br>Next:<br>• Have to complete this issue"
+  },
+  {
+    "id": 1729443031018279,
+    "user_id": "U07RV0JG6MA",
+    "timestamp": "2024-10-20T11:20:31.018Z",
+    "text": "20th October<br>Done:<br>• worked on issue #8808<br>Next:<br>• Have to raise PR after confirmation"
+  },
+  {
+    "id": 1729528221152289,
+    "user_id": "U07RV0JG6MA",
+    "timestamp": "2024-10-21T11:00:21.152Z",
+    "text": "21 Oct 2024<br>Done<br>• Raised a PR for issue <a href=\"https://github.com/ohcnetwork/care_fe/issues/8849\">8849</a><br>• Raised a PR for issue <a href=\"https://github.com/ohcnetwork/care_fe/issues/8808\">8808</a><br>Next<br>• Looking for new issues"
+  },
+  {
+    "id": 1729614652941309,
+    "user_id": "U07RV0JG6MA",
+    "timestamp": "2024-10-22T11:00:52.941Z",
+    "text": "<strong>22 Oct 2024</strong><br><strong>Done</strong><br>• Raised PR for issue #<a href=\"https://github.com/ohcnetwork/care_fe/issues/8876\">8876</a><br>• Working on PR #<a href=\"https://github.com/ohcnetwork/care_fe/pull/8856\">8856</a><br><strong>Next</strong><br>• Have to complete PR #<a href=\"https://github.com/ohcnetwork/care_fe/pull/8856\">8856</a>"
+  },
+  {
+    "id": 1729705841877709,
+    "user_id": "U07RV0JG6MA",
+    "timestamp": "2024-10-23T12:20:41.877Z",
+    "text": "23 Oct 2024<br>Done<br>• Working on issue #8901<br>• Working on PR #8856<br>Next<br>• Have to complete both"
+  },
+  {
+    "id": 1729789780432359,
+    "user_id": "U07RV0JG6MA",
+    "timestamp": "2024-10-24T11:39:40.432Z",
+    "text": "24 Oct 2024<br>Done<br>• Working on issue #8901<br>• Working on PR #8856<br>Next<br>• Have to complete both"
+  },
+  {
+    "id": 1729873107699369,
+    "user_id": "U07RV0JG6MA",
+    "timestamp": "2024-10-25T10:48:27.699Z",
+    "text": "25 Oct 2024<br>Done<br>• Raised PR #<a href=\"https://github.com/ohcnetwork/care_fe/pull/8922\">8901</a><br>• Working on PR #<a href=\"https://github.com/ohcnetwork/care_fe/pull/8856\">8856</a><br>Next<br>• Have to complete PR #<a href=\"https://github.com/ohcnetwork/care_fe/pull/8856\">8856</a>"
+  },
+  {
+    "id": 1729998383187929,
+    "user_id": "U07RV0JG6MA",
+    "timestamp": "2024-10-26T21:36:23.187Z",
+    "text": "26 Oct 2024<br>Done<br>• Working on PR #<a href=\"https://github.com/ohcnetwork/care_fe/pull/8856\">8856</a><br>Next<br>• Have to complete PR #<a href=\"https://github.com/ohcnetwork/care_fe/pull/8856\">8856</a>"
+  },
+  {
+    "id": 1730124933333589,
+    "user_id": "U07RV0JG6MA",
+    "timestamp": "2024-10-28T08:45:33.333Z",
+    "text": "27 Oct 2024<br>Done<br>• Working on PR #<a href=\"https://github.com/ohcnetwork/care_fe/pull/8856\">8856</a><br>Next<br>• Have to complete PR #<a href=\"https://github.com/ohcnetwork/care_fe/pull/8856\">8856</a><br>(Slow progress due to exams)"
+  },
+  {
+    "id": 1730136736918349,
+    "user_id": "U07RV0JG6MA",
+    "timestamp": "2024-10-28T12:02:16.918Z",
+    "text": "28 Oct 2024<br>Done<br>• Updated PR #<a href=\"https://github.com/ohcnetwork/care_fe/pull/8856\">8856</a><br>Next<br>• Have to complete PR #<a href=\"https://github.com/ohcnetwork/care_fe/pull/8856\">8856</a><br>(Slow progress due to exams)"
+  },
+  {
+    "id": 1730249197761139,
+    "user_id": "U07RV0JG6MA",
+    "timestamp": "2024-10-29T19:16:37.761Z",
+    "text": "29 Oct 2024<br>Done<br> Updated PR #8856<br>Next<br> Have to complete PR #8856"
+  },
+  {
+    "id": 1730441276563049,
+    "user_id": "U07RV0JG6MA",
+    "timestamp": "2024-11-01T00:37:56.563Z",
+    "text": "30 Oct 2024<br>Done<br> Updated PR #8856<br>Next<br> Looking for new issues to be assigned."
+  },
+  {
+    "id": 1730477965532369,
+    "user_id": "U07RV0JG6MA",
+    "timestamp": "2024-11-01T10:49:25.532Z",
+    "text": "1 Nov 2024<br>Done<br>•  Updated PR #8856 waiting for review<br>Next<br>•  Looking for new issues to be assigned."
+  },
+  {
+    "id": 1730611401846539,
+    "user_id": "U07RV0JG6MA",
+    "timestamp": "2024-11-02T23:53:21.846Z",
+    "text": "2 Nov 2024<br>Done<br>•  Updated PR #8856 waiting for review<br>Next<br>•  Looking for new issues to be assigned"
+  },
+  {
+    "id": 1730805715146939,
+    "user_id": "U07RV0JG6MA",
+    "timestamp": "2024-11-05T05:51:55.146Z",
+    "text": "04 Nov 2024<br>No updates"
+  },
+  {
+    "id": 1730895663532879,
+    "user_id": "U07RV0JG6MA",
+    "timestamp": "2024-11-06T06:51:03.532Z",
+    "text": "05 Nov 2024<br>No updates<br>Looking for new issues"
+  },
+  {
+    "id": 1730940848000509,
+    "user_id": "U07RV0JG6MA",
+    "timestamp": "2024-11-06T19:24:08.000Z",
+    "text": "6 Nov 2024<br>Done<br> raised issue #9021<br> Updating PR #8856<br>Next<br> Have to complete PRs"
+  },
+  {
+    "id": 1731027173984679,
+    "user_id": "U07RV0JG6MA",
+    "timestamp": "2024-11-07T19:22:53.984Z",
+    "text": "7 Nov 2024<br>Done<br> raised PR for issue #9021<br> Updating PR #8856<br>Next<br> Have to complete PRs"
+  },
+  {
+    "id": 1731120529131749,
+    "user_id": "U07RV0JG6MA",
+    "timestamp": "2024-11-08T21:18:49.131Z",
+    "text": "8 nov 2024<br> Working on PR 8856"
+  },
+  {
+    "id": 1731212240963329,
+    "user_id": "U07RV0JG6MA",
+    "timestamp": "2024-11-09T22:47:20.963Z",
+    "text": "9 nov 2024<br>  Working on PR 8856"
+  },
+  {
+    "id": 1731385563849459,
+    "user_id": "U07RV0JG6MA",
+    "timestamp": "2024-11-11T22:56:03.849Z",
+    "text": "11 nov 2024<br> Solved merge conflicts"
+  },
+  {
+    "id": 1731498757908819,
+    "user_id": "U07RV0JG6MA",
+    "timestamp": "2024-11-13T06:22:37.908Z",
+    "text": "12 nov 2024<br> No updates due to exams"
+  },
+  {
+    "id": 1732023939001689,
+    "user_id": "U07RV0JG6MA",
+    "timestamp": "2024-11-19T08:15:39.001Z",
+    "text": "Nov 12 - 19 2024<br> No updates due to exams."
+  },
+  {
+    "id": 1732417751311699,
+    "user_id": "U07RV0JG6MA",
+    "timestamp": "2024-11-23T21:39:11.311Z",
+    "text": "Nov 20 to Nov 22 2024<br>• No updates due to exams"
+  },
+  {
+    "id": 1732417819692579,
+    "user_id": "U07RV0JG6MA",
+    "timestamp": "2024-11-23T21:40:19.692Z",
+    "text": "Nov 23 2024<br>• Updated PR #8856"
+  },
+  {
+    "id": 1732550849674249,
+    "user_id": "U07RV0JG6MA",
+    "timestamp": "2024-11-25T10:37:29.674Z",
+    "text": "25 Nov 2025<br>• Raised issue #9202<br>• Worked on PR #8856"
+  },
+  {
+    "id": 1732699810611059,
+    "user_id": "U07RV0JG6MA",
+    "timestamp": "2024-11-27T04:00:10.611Z",
+    "text": "25 Nov 2024<br>• Worked on PR #9205<br>Next<br>• Looking for new issues"
+  },
+  {
+    "id": 1732783398944889,
+    "user_id": "U07RV0JG6MA",
+    "timestamp": "2024-11-28T03:13:18.944Z",
+    "text": "26, 27 Nov 2024<br>• Worked on PR #9205<br>Next<br>• Looking for new issues"
+  },
+  {
+    "id": 1732842144891139,
+    "user_id": "U07RV0JG6MA",
+    "timestamp": "2024-11-28T19:32:24.891Z",
+    "text": "28 Nov 2024<br>• No updates <br>Next<br>• Looking for new issues"
+  },
+  {
+    "id": 1732902708583109,
+    "user_id": "U07RV0JG6MA",
+    "timestamp": "2024-11-29T12:21:48.583Z",
+    "text": "29 Nov 2024<br>Done<br>• Raised PR <a href=\"https://github.com/ohcnetwork/care_fe/pull/9254\">#9254</a> for issue <a href=\"https://github.com/ohcnetwork/care_fe/issues/9253\">#9253</a> <br>• Raised PR <a href=\"https://github.com/ohcnetwork/care_fe/pull/9251\">#9251</a> for issue <a href=\"https://github.com/ohcnetwork/care_fe/issues/9250\">#9250</a><br>Next<br>• Looking for new issues"
+  },
+  {
+    "id": 1733032685798939,
+    "user_id": "U07RV0JG6MA",
+    "timestamp": "2024-12-01T00:28:05.798Z",
+    "text": "30 Nov 2024<br>• No updates , looking for new issues"
+  },
+  {
+    "id": 1733209097576249,
+    "user_id": "U07RV0JG6MA",
+    "timestamp": "2024-12-03T01:28:17.576Z",
+    "text": "02 Dec 2024<br>• working on issue #9269<br>Next<br>• Have to raise PR for same"
+  },
+  {
+    "id": 1733331464835189,
+    "user_id": "U07RV0JG6MA",
+    "timestamp": "2024-12-04T11:27:44.835Z",
+    "text": "3 Dec 2024<br>• Worked on issue #9269<br>4 Dec 2024<br>• Raised PR #9297 regarding duplicate network calls in patient details page"
+  },
+  {
+    "id": 1733448195336039,
+    "user_id": "U07RV0JG6MA",
+    "timestamp": "2024-12-05T19:53:15.336Z",
+    "text": "Dec 5 2024<br>• Raised issue #9310<br>Next<br>• Looking for new issues"
+  },
+  {
+    "id": 1733509116759249,
+    "user_id": "U07RV0JG6MA",
+    "timestamp": "2024-12-06T12:48:36.759Z",
+    "text": "Dec 6 2024<br>• Raised issue #9312 and a draft PR for same<br>Next<br>• Looking for more issues"
+  },
+  {
+    "id": 1733596194401019,
+    "user_id": "U07RV0JG6MA",
+    "timestamp": "2024-12-07T12:59:54.401Z",
+    "text": "07 Dec 2024<br>• Worked on PR <a href=\"https://github.com/ohcnetwork/care_fe/pull/9320\">#9320</a> related to adding new search UI for discharge patients page. It is ready for review<br>Next<br>• Looking for new issues"
+  },
+  {
+    "id": 1733823054461929,
+    "user_id": "U07RV0JG6MA",
+    "timestamp": "2024-12-10T04:00:54.461Z",
+    "text": "09 Dec 2024<br>• No updates due to college work"
+  },
+  {
+    "id": 1733853442812609,
+    "user_id": "U07RV0JG6MA",
+    "timestamp": "2024-12-10T12:27:22.812Z",
+    "text": "10 Dec 2024<br>Done<br>• Raised issues #9355 and #9357 related to enhancement of patient details tabs<br>• Worked on Shift patient tab and PR #9297<br>Next<br>• Have to raise PR for issue #9355 <br>• Looking for more issues"
+  },
+  {
+    "id": 1734029146775819,
+    "user_id": "U07RV0JG6MA",
+    "timestamp": "2024-12-12T13:15:46.775Z",
+    "text": "11 Dec 2024<br>• Raised Issue related patient header UI update and raised PR for same<br>• Working on shift pateint tab<br>12 Dec 2024<br>• Resolved merge conflicts in my PRs<br>• Working on shift pateint tab <br>Next<br>• Have to complete assigned issues and PRs"
+  },
+  {
+    "id": 1734239949749809,
+    "user_id": "U07RV0JG6MA",
+    "timestamp": "2024-12-14T23:49:09.749Z",
+    "text": "13 Dec 2024<br>• Worked on shifting tab UI<br>• Added requested changes to patient header UI PR<br>14 Dec 2024<br>• Worked on shifting tab UI and raised draft PR<br>• Resolved merge conflicts in my PRs<br>Next<br>• Have to complete assigned Issues<br>• Looking for other tasks"
+  },
+  {
+    "id": 1734412942529989,
+    "user_id": "U07RV0JG6MA",
+    "timestamp": "2024-12-16T23:52:22.529Z",
+    "text": "16 Dec 2024<br>Done<br>• Added requested changes in PR #9377<br>• Worked on PR #9434<br>Next<br>• Complete all assigned Issues"
+  },
+  {
+    "id": 1734531236718699,
+    "user_id": "U07RV0JG6MA",
+    "timestamp": "2024-12-18T08:43:56.718Z",
+    "text": "17 Dec 2024<br>• Worked on Patient shift tab<br>18 Dec 2024<br>• Worked on patient shift tab and PR is ready for review <a href=\"https://github.com/ohcnetwork/care_fe/pull/9434\">#9434</a> <br>• Raised issue #9484 and PR #9485 for the same<br>Next<br>• Have to complete assigned tasks<br>• Looking for new tasks"
+  },
+  {
+    "id": 1734627522569519,
+    "user_id": "U07RV0JG6MA",
+    "timestamp": "2024-12-19T11:28:42.569Z",
+    "text": "19 Dec 2024<br>• Connected with Vivek for shift patient tab fronted ui review and made suggested changes<br>• Working on view retension of shifting, resource and users tab issue<br>Next<br>• Have to complete assigned issues<br>• Looking for new issues to get assigned."
+  },
+  {
+    "id": 1734711870582549,
+    "user_id": "U07RV0JG6MA",
+    "timestamp": "2024-12-20T10:54:30.582Z",
+    "text": "20 Dec 2024<br>• No major updates, worked on PR #9485<br>Next<br>• Have to complete PR #9485<br>• Will update PRs #9377 and #9434 once they get reviewed"
+  },
+  {
+    "id": 1734859033484159,
+    "user_id": "U07RV0JG6MA",
+    "timestamp": "2024-12-22T03:47:13.484Z",
+    "text": "21 Dec 2024<br>• Added some of requested changes in PR #9434<br>Next<br>• Have to complete assigned issues"
+  },
+  {
+    "id": 1734973675053279,
+    "user_id": "U07RV0JG6MA",
+    "timestamp": "2024-12-23T11:37:55.053Z",
+    "text": "23 Dec 2024<br>• Resolved merge conflicts in my open PRs<br>• Added requested changes in PR #9377 related to patient header UI<br>• Updated PR #9434 related to shifting UI<br>Next<br>• Complete assigned issues<br>• Looking for new issues"
+  },
+  {
+    "id": 1735051707928389,
+    "user_id": "U07RV0JG6MA",
+    "timestamp": "2024-12-24T09:18:27.928Z",
+    "text": "24 Dec 2024<br>• Raised issue and PR related to clear all filter badge in resource page<br>• Working on PRs #9434, #9485<br>Next<br>• Have to complete assigned issues<br>• Looking for new issues"
+  },
+  {
+    "id": 1735226625656519,
+    "user_id": "U07RV0JG6MA",
+    "timestamp": "2024-12-26T09:53:45.656Z",
+    "text": "25 Dec 2024<br>• No updates"
+  },
+  {
+    "id": 1735226875358709,
+    "user_id": "U07RV0JG6MA",
+    "timestamp": "2024-12-26T09:57:55.358Z",
+    "text": "26 Dec 2024<br>• Updated PR #9485 related to view retention with requested changes<br>• Updated PR #9434 related to shift details UI with requested changes <br>Next<br>• Have to complete assigned issues<br>• Looking for new issues"
+  },
+  {
+    "id": 1735363923837059,
+    "user_id": "U07RV0JG6MA",
+    "timestamp": "2024-12-28T00:02:03.837Z",
+    "text": "27 Dec 2024<br>Done<br>• Working on the open PRs<br>Next<br>• Have to complete open PRs"
+  },
+  {
+    "id": 1735479694661399,
+    "user_id": "U07RV0JG6MA",
+    "timestamp": "2024-12-29T08:11:34.661Z",
+    "text": "28 Dec 2024<br>• Updated open PRs<br>Next<br>• Looking for new issues"
+  },
+  {
+    "id": 1735623181537489,
+    "user_id": "U07RV0JG6MA",
+    "timestamp": "2024-12-31T00:03:01.537Z",
+    "text": "30 Dec 2024<br>Fone<br>• Raised an issue related to badge modal responsiveness in the leaderboard and pr for the same<br>Next<br>• Looking for new issues"
+  },
+  {
+    "id": 1735658201440349,
+    "user_id": "U07RV0JG6MA",
+    "timestamp": "2024-12-31T09:46:41.440Z",
+    "text": "31 Dec 2024<br>Fone<br>• Raised an issue related to primary feature&#x27;s images visibility in the landing repo and pr for the same<br>Next<br>• Looking for new issues"
+  },
+  {
+    "id": 1735838052081619,
+    "user_id": "U07RV0JG6MA",
+    "timestamp": "2025-01-02T11:44:12.081Z",
+    "text": "02 Jan 2025<br>• Raised a PR for issue #9649 <br>Next<br>• Looking for new issues<br>• Have to complete assigned issues"
+  },
+  {
+    "id": 1735985415161189,
+    "user_id": "U07RV0JG6MA",
+    "timestamp": "2025-01-04T04:40:15.161Z",
+    "text": "2 Jan 2025<br>• Worked on issue related autofill of pincode<br>• Worked on issue related to replacing ButtonV2 with Button <br>Next<br>• Complete assigned issues<br>• Looking for new issues"
+  },
+  {
+    "id": 1736066354721979,
+    "user_id": "U07RV0JG6MA",
+    "timestamp": "2025-01-05T03:09:14.721Z",
+    "text": "4 Jan 2025<br>Done<br>• Raised issue and PR regarding facility name removal in facility users page and got it merged<br>• Rasied PR #9736 regarding replacement of ButtonV2&#x27;s with Button in entire codebase<br>• Updated PR #9662 related to autofill of state and districts<br>Next<br>• Complete assigned issues<br>• Looking for new issues"
+  },
+  {
+    "id": 1736145424477569,
+    "user_id": "U07RV0JG6MA",
+    "timestamp": "2025-01-06T01:07:04.477Z",
+    "text": "5 Jan 2025<br>Done<br>• Added requested changes to PR related to ButtonV2 replacement and got it merged<br>• Created issue for cancel button not working in encounter edit form and it got merged<br>• Updated PR #9662<br>Next<br>• Complete assigned issues<br>• Looking for new issues"
+  },
+  {
+    "id": 1736269920357669,
+    "user_id": "U07RV0JG6MA",
+    "timestamp": "2025-01-07T11:42:00.357Z",
+    "text": "06 Jan 2025<br>Done<br>• Created issue and PR regarding cancel button not working in Update encounter page and it got merged<br>• Worked on replacing notification messages with toast messages<br>Next<br>• Looking for new issues<br>• Complete assigned issues"
+  },
+  {
+    "id": 1736270053825009,
+    "user_id": "U07RV0JG6MA",
+    "timestamp": "2025-01-07T11:44:13.825Z",
+    "text": "07 Jan 2025<br>Done<br>• Raised issue and PR regarding cleanup of deprecated CarePatientTokenKey and it got merged<br>• Raised draft PR for replacing notification messages with toast messages<br>Next<br>• Looking for new issues<br>• Complete assigned issues"
+  },
+  {
+    "id": 1736449000070859,
+    "user_id": "U07RV0JG6MA",
+    "timestamp": "2025-01-09T13:26:40.070Z",
+    "text": "08 Jan 2025<br>• Updated PR for replacing notification with toast messages in entire codebase<br>• Facility create form issue got assigned<br>Next<br>• Complete assigned issues<br>• Looking for new issues"
+  },
+  {
+    "id": 1736449104070819,
+    "user_id": "U07RV0JG6MA",
+    "timestamp": "2025-01-09T13:28:24.070Z",
+    "text": "09 Jan 2025<br>• Updated PR for replacing notification with toast messages<br>• Updated PR for adding edit option for <code>CreateFacilityForm</code>  in organization<br>Next<br>• Complete assigned issues<br>• Looking for new issues"
+  },
+  {
+    "id": 1736610103714379,
+    "user_id": "U07RV0JG6MA",
+    "timestamp": "2025-01-11T10:11:43.714Z",
+    "text": "09th Jan<br>• No major updates due to college work<br>Next<br>• Complete assigned issues<br>• Looking for new issues"
+  },
+  {
+    "id": 1736610149722139,
+    "user_id": "U07RV0JG6MA",
+    "timestamp": "2025-01-11T10:12:29.722Z",
+    "text": "10th Jan<br>• No major updates due to college work<br>• Gave a try on <code>noUncheckedIndexedAccess</code> issue<br>Next<br>• Complete assigned issues<br>• Looking for new issues"
+  },
+  {
+    "id": 1736610241386279,
+    "user_id": "U07RV0JG6MA",
+    "timestamp": "2025-01-11T10:14:01.386Z",
+    "text": "11th Jan<br>• Worked on form edit PR and updated it, waiting for review<br>• Working on landing page PR<br>Next<br>• Complete assigned issues<br>• Looking for new issues"
+  },
+  {
+    "id": 1736877576724699,
+    "user_id": "U07RV0JG6MA",
+    "timestamp": "2025-01-14T12:29:36.724Z",
+    "text": "Jan 13th 2024<br>• No major updates<br>• Updated open PR<br>Next<br>• Looking for new issues"
+  },
+  {
+    "id": 1736877672551879,
+    "user_id": "U07RV0JG6MA",
+    "timestamp": "2025-01-14T12:31:12.551Z",
+    "text": "Jan 14th 2024<br>• Updated PR for facility edit with requested changes<br>• PR from landing repo got merged<br>Next<br>• Completed open PR<br>• Looking for new issues"
+  },
+  {
+    "id": 1737000276465569,
+    "user_id": "U07RV0JG6MA",
+    "timestamp": "2025-01-15T22:34:36.465Z",
+    "text": "15th Jan 2025<br>• Updated open PR related to facility edit with requested changes, ready for review.<br>• Raise a issue (#9999) regaring filter badges visibility and raised PR for same<br>Next<br>• Complete assigned issues<br>• Looking for new issues"
+  },
+  {
+    "id": 1737135086661169,
+    "user_id": "U07RV0JG6MA",
+    "timestamp": "2025-01-17T12:01:26.661Z",
+    "text": "16th Jan 2025<br>• Edit facility pr got merged<br>• Worked on enhancing organisation autofill issue and raised draft pr<br>• Raised issue regarding view retention across care<br>Next<br>• Looking for new issues <br>• Complete assigned issues"
+  },
+  {
+    "id": 1737135420832049,
+    "user_id": "U07RV0JG6MA",
+    "timestamp": "2025-01-17T12:07:00.832Z",
+    "text": "17th Jan 2025<br>• No work done, not available at home<br>Next<br>• Complete assigned issues <br>• Looking for new issues"
+  },
+  {
+    "id": 1737274822401999,
+    "user_id": "U07RV0JG6MA",
+    "timestamp": "2025-01-19T02:50:22.401Z",
+    "text": "18 Jan 2025<br>• Raised PR for view retention<br>• Updated open PRs<br>Next<br>• Looking for new issues<br>• Complete assigned issues"
+  },
+  {
+    "id": 1737455854196229,
+    "user_id": "U07RV0JG6MA",
+    "timestamp": "2025-01-21T05:07:34.196Z",
+    "text": "20 Jan 2024<br>• No major updates due to college work<br>• Updated open PRs with requested changes<br>Next<br>• Looking for new issues"
+  },
+  {
+    "id": 1737637981263139,
+    "user_id": "U07RV0JG6MA",
+    "timestamp": "2025-01-23T07:43:01.263Z",
+    "text": "21, 22 Jan 2025<br>• Organization auto fill in facility form PR got merged<br>• No work done due to college work <br>Next<br>• Looking for new issues"
+  },
+  {
+    "id": 1737655322433719,
+    "user_id": "U07RV0JG6MA",
+    "timestamp": "2025-01-23T12:32:02.433Z",
+    "text": "23 Jan 2025<br>• Raised a minor ui issue regarding date field overflowing in exception form<br>• Raised PR for above issue and added suggested changes<br>Next<br>• Looking for new issues"
+  },
+  {
+    "id": 1737770346519069,
+    "user_id": "U07RV0JG6MA",
+    "timestamp": "2025-01-24T20:29:06.519Z",
+    "text": "24 Jan 2025<br>• Explored backend and re-setup done<br>• Date field overflow PR got merged<br>• Working on issue #10144<br>Next<br>• Looking for new issues"
+  },
+  {
+    "id": 1737888419424359,
+    "user_id": "U07RV0JG6MA",
+    "timestamp": "2025-01-26T05:16:59.424Z",
+    "text": "25 Jan 2025<br>• Raised issue #10192 and waiting to get assigned before raising PR<br>• Working on issue #10144<br>Next<br>• Have to raise PRs for above issues<br>• Looking for new issues"
+  },
+  {
+    "id": 1738000500964589,
+    "user_id": "U07RV0JG6MA",
+    "timestamp": "2025-01-27T12:25:00.964Z",
+    "text": "27 Jan 2025<br>Done<br>• Raised PR for preventing cancelled api calls in appointments page and some minor fixes<br>• Raised draft PR for image cropping when user profile pic is updated<br>Next<br>• Looking for new issues"
+  },
+  {
+    "id": 1738128159893049,
+    "user_id": "U07RV0JG6MA",
+    "timestamp": "2025-01-28T23:52:39.893Z",
+    "text": "28 Jan 2025<br>Done<br>• Attended weekly review meeting<br>• Raised PR for fixing typos in encounter page and patient form fixes<br>• Working on issue #10144<br>Next<br>• Complete assigned issues<br>• Looking for new issues"
+  },
+  {
+    "id": 1738420472430489,
+    "user_id": "U07RV0JG6MA",
+    "timestamp": "2025-02-01T09:04:32.430Z",
+    "text": "28th Jan to 1st Feb <br>Done<br>• Prepared and appeared for GATE, so no major work done<br>Next<br>• Complete assigned issues <br>• Looking for new issues"
+  },
+  {
+    "id": 1738689043902319,
+    "user_id": "U07RV0JG6MA",
+    "timestamp": "2025-02-04T11:40:43.902Z",
+    "text": "03 Feb 2025<br>Done<br>• PR #10264 got merged<br>• Updated open PRs with requested changes<br>Next<br>• Complete assigned issues<br>• Looking for new issues"
+  },
+  {
+    "id": 1738689093372519,
+    "user_id": "U07RV0JG6MA",
+    "timestamp": "2025-02-04T11:41:33.372Z",
+    "text": "04 Feb 2025<br>Done<br>• Updated PR #10219 with requested changes<br>• Looking for new issues<br>Next<br>• Looking for new issues"
+  },
+  {
+    "id": 1738772151911599,
+    "user_id": "U07RV0JG6MA",
+    "timestamp": "2025-02-05T10:45:51.911Z",
+    "text": "05 Feb 2025<br>Done<br>• Raised issues regarding minor ui fixes in appointments page in mobile view<br>• Raised PR for above issue<br>• PR related to removing cancelled requests in appointment page got merged<br>Next<br>• Complete assigned issues<br>• Looking for new issues"
+  },
+  {
+    "id": 1739018790222379,
+    "user_id": "U07RV0JG6MA",
+    "timestamp": "2025-02-08T07:16:30.222Z",
+    "text": "6, 7, 8 Feb 2025<br>Done<br>• Nothing productive due to college project work<br>• Open PR got merged<br>• Looking for new issues"
+  },
+  {
+    "id": 1739342060532169,
+    "user_id": "U07RV0JG6MA",
+    "timestamp": "2025-02-12T01:04:20.532Z",
+    "text": "10 Feb 2025<br>• Raised an issue regarding patient country<br>• Looking for new issues"
+  },
+  {
+    "id": 1739342112506889,
+    "user_id": "U07RV0JG6MA",
+    "timestamp": "2025-02-12T01:05:12.506Z",
+    "text": "11 Feb 2025<br>• Learning about cypress<br>• Looking for new issues"
+  },
+  {
+    "id": 1739421005478579,
+    "user_id": "U07RV0JG6MA",
+    "timestamp": "2025-02-12T23:00:05.478Z",
+    "text": "12 Feb 2025<br>Done <br>• Raised PR for adding pagination for questionnaire <br>• And PR got merged<br>Next<br>• Looking for new issues"
+  },
+  {
+    "id": 1739677109390489,
+    "user_id": "U07RV0JG6MA",
+    "timestamp": "2025-02-15T22:08:29.390Z",
+    "text": "13-15 Feb<br>• Worked on issue related to org. users search<br>• Raised PR in frontend for above<br>• Raised PR in backend for above<br>• Backend PR got merged<br>Next<br>• Looking for new issues"
+  },
+  {
+    "id": 1739929895767779,
+    "user_id": "U07RV0JG6MA",
+    "timestamp": "2025-02-18T20:21:35.767Z",
+    "text": "Feb 17 - 18 <br>Done <br>• No major updates due to college work <br>• Search by phone number for org users PR got merged<br>Next<br>• Looking for new issues"
+  },
+  {
+    "id": 1739982810201409,
+    "user_id": "U07RV0JG6MA",
+    "timestamp": "2025-02-19T11:03:30.201Z",
+    "text": "19 Feb 2025<br>Done<br>• Raised issue about adding count in encounters and resource page<br>• Raised PR for above issue<br>Next<br>• Looking for new issues"
+  },
+  {
+    "id": 1740075149925769,
+    "user_id": "U07RV0JG6MA",
+    "timestamp": "2025-02-20T12:42:29.925Z",
+    "text": "20 Feb 2025<br>Done<br>• Created new issue regarding patient search bar autofocus<br>• Worked on issue related to patient name update in patient-switcher<br>• Wasted time by working on wrong file (facility-&amp;gt;PatientRegistration.tsx) instead of (publicAppointments-&amp;gt; PatientRegistration.tsx) for above issue<br>• Raised PR for above issues<br>• PR related to adding count in resources and encounters page got merged<br>Next<br>• Looking for new issues"
+  },
+  {
+    "id": 1740194718348969,
+    "user_id": "U07RV0JG6MA",
+    "timestamp": "2025-02-21T21:55:18.348Z",
+    "text": "21 Feb 2025<br>Done<br>• Working on issue #10723<br>• Working on issue #10718<br>Next<br>• Complete assigned issues <br>• Looking for new issues"
+  },
+  {
+    "id": 1740297120847219,
+    "user_id": "U07RV0JG6MA",
+    "timestamp": "2025-02-23T02:22:00.847Z",
+    "text": "22 Feb 2025<br>Done<br>• Worked on assigned issues (patient search autofocus and patient name in switcher)<br>• Updated open PR for above issues with requested changes<br>Next<br>• Looking for new issues"
+  },
+  {
+    "id": 1740555291848849,
+    "user_id": "U07RV0JG6MA",
+    "timestamp": "2025-02-26T02:04:51.848Z",
+    "text": "24-25 Feb 2025<br>Done<br>• Working on issues <a href=\"https://github.com/ohcnetwork/care_fe/issues/10723\">#10723</a> <a href=\"https://github.com/ohcnetwork/care_fe/issues/10718\">#10718</a>, got stuck at type mismatch on passing inputRef to phone-input. <br>• Attended weekly review meeting<br>Next<br>• Complete assigned issues<br>• Looking for new issues"
+  },
+  {
+    "id": 1741093804988629,
+    "user_id": "U07RV0JG6MA",
+    "timestamp": "2025-03-04T07:40:04.988Z",
+    "text": "Feb 26 - Mar 3<br>Done<br>• No major work done due to clg work, travelling and unhealthy <br>Next<br>• Complete assigned issues <br>• Looking for new issues"
+  },
+  {
+    "id": 1741589640932129,
+    "user_id": "U07RV0JG6MA",
+    "timestamp": "2025-03-10T01:24:00.932Z",
+    "text": "Mar 4 - 7<br>Done<br>• On leave"
+  },
+  {
+    "id": 1741589723948389,
+    "user_id": "U07RV0JG6MA",
+    "timestamp": "2025-03-10T01:25:23.948Z",
+    "text": "Mar 8<br>• Requested to reopen PRs which were closed due to not following merge checkilists<br>• Updated Patient switcher PR and got approved<br>Next<br>• Looking for new issues"
+  },
+  {
+    "id": 1741681285829179,
+    "user_id": "U07RV0JG6MA",
+    "timestamp": "2025-03-11T02:51:25.829Z",
+    "text": "10 Mar 2025<br>Done <br>• Updated open pr<br>• Created a new issue regarding responsiveness<br>Next<br>• Looking for new issues <br>• Looking for new issues"
+  },
+  {
+    "id": 1741792645788959,
+    "user_id": "U07RV0JG6MA",
+    "timestamp": "2025-03-12T09:47:25.788Z",
+    "text": "11 Mar 2025<br>• Commented on multiple issues to get assigned but lost the race<br>Next<br>• looking for new issues"
+  },
+  {
+    "id": 1742462201178029,
+    "user_id": "U07RV0JG6MA",
+    "timestamp": "2025-03-20T03:46:41.178Z",
+    "text": "12 - 19 Mar 2025<br>Sorry for missing eods<br>Done<br>• Raised issue #11195 regarding encounter page responsiveness<br>• Raised issue #11297 regarding removal of org switcher <br>• Both got closed as not planned<br>• Finally got assigned with issue #11319 regarding adding edit option to facility departments<br>• Raised PR for above issue<br>• Updated search focus PR with requested changes<br>• College project <br>Next<br>• Waiting for review for opened PRs and update them accordingly<br>• Looking for new issues"
+  },
+  {
+    "id": 1742550267186269,
+    "user_id": "U07RV0JG6MA",
+    "timestamp": "2025-03-21T04:14:27.186Z",
+    "text": "20 Mar 2025<br>Done<br>• Raised new issue #11442: <a href=\"https://github.com/ohcnetwork/care_fe/issues/11442\">Add emergency Filter in resource page</a> but got closed<br>• Updated Open PR : <a href=\"https://github.com/ohcnetwork/care_fe/pull/10736\">Fix : Patient search bar auto focus on visiting</a><a href=\"https://github.com/ohcnetwork/care_fe/issues?q=is%3Apr%20state%3Aclosed%20author%3AMahendar0701%20label%3Atested\">tested</a> and it got merged<br>Next<br>• Looking for new issues"
+  }
+]

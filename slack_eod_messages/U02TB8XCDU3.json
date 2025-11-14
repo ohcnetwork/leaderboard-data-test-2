@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1652335371091079,
+    "user_id": "U02TB8XCDU3",
+    "timestamp": "2022-05-12T00:32:51.091Z",
+    "text": "No updates on my side... Just relaxing for now."
+  },
+  {
+    "id": 1652416602961759,
+    "user_id": "U02TB8XCDU3",
+    "timestamp": "2022-05-12T23:06:42.961Z",
+    "text": "Set up <code>care</code> locally. That&#x27;s about it"
+  },
+  {
+    "id": 1652710135815229,
+    "user_id": "U02TB8XCDU3",
+    "timestamp": "2022-05-16T08:38:55.815Z",
+    "text": "Took up an issue, nothing else"
+  },
+  {
+    "id": 1653056096499739,
+    "user_id": "U02TB8XCDU3",
+    "timestamp": "2022-05-20T08:44:56.499Z",
+    "text": "worked on <a href=\"https://github.com/ohcnetwork/care/issues/755\">#755</a>"
+  },
+  {
+    "id": 1653149700076569,
+    "user_id": "U02TB8XCDU3",
+    "timestamp": "2022-05-21T10:45:00.076Z",
+    "text": "&amp;gt; EOD<br>nothing today."
+  },
+  {
+    "id": 1653487505688059,
+    "user_id": "U02TB8XCDU3",
+    "timestamp": "2022-05-25T08:35:05.688Z",
+    "text": "EOD<br>Progressed to the last round on the hackathon :D"
+  },
+  {
+    "id": 1654260987202119,
+    "user_id": "U02TB8XCDU3",
+    "timestamp": "2022-06-03T07:26:27.202Z",
+    "text": "Down with cold today, couldn&#x27;t get anything done. Sorry :("
+  },
+  {
+    "id": 1654610643994189,
+    "user_id": "U02TB8XCDU3",
+    "timestamp": "2022-06-07T08:34:03.994Z",
+    "text": "Working on a draft pr to add whatsapp analytics as we speak"
+  },
+  {
+    "id": 1657202605385269,
+    "user_id": "U02TB8XCDU3",
+    "timestamp": "2022-07-07T08:33:25.385Z",
+    "text": "No updates as of now."
+  },
+  {
+    "id": 1661608377395939,
+    "user_id": "U02TB8XCDU3",
+    "timestamp": "2022-08-27T08:22:57.395Z",
+    "text": "No updates for today, took a break"
+  },
+  {
+    "id": 1662126801020409,
+    "user_id": "U02TB8XCDU3",
+    "timestamp": "2022-09-02T08:23:21.020Z",
+    "text": "EOD: working on call metrics api"
+  },
+  {
+    "id": 1662208893489149,
+    "user_id": "U02TB8XCDU3",
+    "timestamp": "2022-09-03T07:11:33.489Z",
+    "text": "had some college work today, didn’t do much."
+  },
+  {
+    "id": 1662384191785539,
+    "user_id": "U02TB8XCDU3",
+    "timestamp": "2022-09-05T07:53:11.785Z",
+    "text": "Working on <a href=\"https://github.com/ohcnetwork/care/issues/738\">#738</a>"
+  },
+  {
+    "id": 1662726921056709,
+    "user_id": "U02TB8XCDU3",
+    "timestamp": "2022-09-09T07:05:21.056Z",
+    "text": "Worked on PRs <a href=\"https://github.com/ohcnetwork/care_fe/pull/3558\">#1</a> and <a href=\"https://github.com/ohcnetwork/care/pull/1018\">#2</a>, reviewing PR <a href=\"https://github.com/ohcnetwork/care/pull/1001\">#1001</a>"
+  },
+  {
+    "id": 1663249594726929,
+    "user_id": "U02TB8XCDU3",
+    "timestamp": "2022-09-15T08:16:34.726Z",
+    "text": "Working on #<a href=\"https://github.com/ohcnetwork/care/pull/1001\">1001</a>, found issues that need to be fixed"
+  }
+]

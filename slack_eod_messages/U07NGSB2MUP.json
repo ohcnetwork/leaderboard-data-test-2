@@ -1,0 +1,1616 @@
+[
+  {
+    "id": 1733925926511519,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2024-12-11T08:35:26.511Z",
+    "text": "11 Dec 2024<br>Done<br>• Got <a href=\"https://github.com/ohcnetwork/care_fe/pull/9375\">PR</a> merged <br>• Pushed <a href=\"https://github.com/ohcnetwork/landing/pull/38\">PR</a> for contact scroll issue on landing page<br>• Pushed <a href=\"https://github.com/ohcnetwork/leaderboard/pull/555\">PR</a> for not fetching bot events on leaderboard<br>Next<br>• Looking for new issues"
+  },
+  {
+    "id": 1734016372575809,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2024-12-12T09:42:52.575Z",
+    "text": "12 Dec 2024<br>Done<br>• Pushed the updated design changes on the <a href=\"https://github.com/ohcnetwork/care_fe/pull/9383\">PR</a> <br>• Pushed the requested changed on the <a href=\"https://github.com/ohcnetwork/landing/pull/38\">PR</a> <br>Next<br>• Going to complete the <a href=\"https://github.com/ohcnetwork/leaderboard/pull/555\">PR</a> for fetching bots event issue<br>• Looking for new issues/tasks"
+  },
+  {
+    "id": 1734105436618279,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2024-12-13T10:27:16.618Z",
+    "text": "13 Dec 2024<br>Done<br>• <strong>Fixed</strong>: Allergy count issue on the Patient Detail page<br>• <strong>Pushed</strong>: Changes requested on the open <a href=\"https://github.com/ohcnetwork/landing/pull/38\">PR</a> for the landing page repo<br>• <strong>Pinged</strong>: Slack channel for final status on some issues<br>• <strong>Working</strong>: On the open <a href=\"https://github.com/ohcnetwork/leaderboard/pull/555\">PR</a> for the leaderboard repo<br><strong>Next</strong>:<br>• Try to get both open PRs merged<br>• Look for new issues/tasks"
+  },
+  {
+    "id": 1734185933429269,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2024-12-14T08:48:53.429Z",
+    "text": "14 Dec 2024<br>• <strong>Pushed</strong>: Changes requested on the open <a href=\"https://github.com/ohcnetwork/landing/pull/38\">PR</a> for the landing page repo<br>• <strong>Working</strong>: On the open <a href=\"https://github.com/ohcnetwork/leaderboard/pull/555\">PR</a> for the leaderboard repo<br>Next<br>• Going to work on this <a href=\"https://github.com/ohcnetwork/care_fe/issues/9420\">Issue</a> <br>• Try to get both open PRs merged<br>• Look for new issues/tasks"
+  },
+  {
+    "id": 1734360692085869,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2024-12-16T09:21:32.085Z",
+    "text": "16 Dec 2024<br>Done<br>• Fix the clipping out of contributor card on leaderboard <a href=\"https://github.com/ohcnetwork/leaderboard/pull/564\">PR</a> <br>• Pushed <a href=\"https://github.com/ohcnetwork/care_fe/pull/9422\">PR</a> to update of access of <code>Volunteer</code>  for linked facilities <br>• Pushed <a href=\"https://github.com/ohcnetwork/care_fe/pull/9415\">PR</a> to move the patient status to specific encounter on Patient Detail page <br>• Tried to fix the previous issue assigned on landing repo<br>Next<br>• Looking for new issues/tasks<br>• Try to get open PRs merged"
+  },
+  {
+    "id": 1734449922468349,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2024-12-17T10:08:42.468Z",
+    "text": "17 Dec 2024<br>Done<br>• Pushed minor asked changes to Asset Page Layout <a href=\"https://github.com/ohcnetwork/care_fe/pull/9466\">PR</a> <br>• Pushed changes to volunteer access <a href=\"https://github.com/ohcnetwork/care_fe/pull/9422\">PR</a> <br>• Pushed minor UI changes to Patient Status <a href=\"https://github.com/ohcnetwork/care_fe/pull/9415\">PR</a> <br>Next<br>• Looking for new tasks/issues<br>• Going to work on open PRs"
+  },
+  {
+    "id": 1734530890619659,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2024-12-18T08:38:10.619Z",
+    "text": "18 Dec 2024<br>• Today was not a productive day as such <br>• Although branch out <code>care do</code>  branch locally and solved some issues from workflow<br>Next<br>• Looking for new issues/tasks<br>• Going to work on open PRs"
+  },
+  {
+    "id": 1734615896549239,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2024-12-19T08:14:56.549Z",
+    "text": "<strong>19 Dec 2024</strong> <br><strong>Done:</strong><br>• Pushed a PR for the review missed issue (a previously closed PR got reopened <span class=\"s-emoji\">😅</span>).<br>• Messaged on a few inactive issues to request assignments.<br>• Collaborated with a new contributor via a Slack huddle to resolve a PR git issue.<br>• Researched solutions for open PRs on the leaderboard and landing repositories.<br><strong>Next:</strong><br>• Explore new issues/tasks.<br>• Focus on working on open PRs.<br>• If any inactive issues get assigned, I’ll be working on them."
+  },
+  {
+    "id": 1734708643975329,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2024-12-20T10:00:43.975Z",
+    "text": "<strong>20 Dec 2024</strong><br><strong>Done:</strong><br>• Pushed a PR for the issue related to losing focus on the user list.<br>• Pinged some issues in the Slack channel to get assigned.<br>• Discussed a typo issue on the leaderboard with Rithvik.<br><strong>Next:</strong><br>• Push the required changes for an open PR.<br>• Look for new issues/tasks.<br>• Work on an issue and its PR regarding the leaderboard that I discussed."
+  },
+  {
+    "id": 1734802848597269,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2024-12-21T12:10:48.597Z",
+    "text": "21 Dec 2024<br>Done<br>• Pushed updates to open <a href=\"https://github.com/ohcnetwork/care_fe/pull/9500\">PR</a><br>• Updated the message on the leaderboard prompting users to update their profile <a href=\"https://github.com/ohcnetwork/leaderboard/pull/570\">PR</a><br>• Reached out on Slack to follow up on inactive issues for assignment. <a href=\"https://rebuildearth.slack.com/archives/C01035FT0P5/p1734695487737639\">thread</a><br>Next<br>• Continue working on open PRs until finalised<br>• Looking for new issues/tasks"
+  },
+  {
+    "id": 1735020066624489,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2024-12-24T00:31:06.624Z",
+    "text": "23 Dec 2024<br>• I had my exam, so couldn’t do much today.<br>• Got two out of three PRs merged.<br>• Changes are requested on the third PR.<br>• The requested changes are to update to use Shadcn’s tabs in the user section.<br>• Got assigned an issue related to improper error handling in the shifting section.<br>• Also got assigned the issue on GitHub-provided SBOMs.<br>Next<br>• Going to push the changes requested.<br>• Going to update to Shadcn’s tabs.<br>• Going to push PRs for the assigned issues.<br>• Looking for new issues/tasks."
+  },
+  {
+    "id": 1735054996076799,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2024-12-24T10:13:16.076Z",
+    "text": "24th Dec 2024<br>• Updated the common Export button on all pages with ShadCN dropdown and button. <br>• Added ShadCN tab in the codebase.<br>• Updated ShadCN tab for UserView  (for users and facility users).<br>• Fixed Cypress failures on open PRs.<br>• Completed the changes requested on open PR.<br>Next<br>• Will be pushing PRs for assigned issues.<br>• Will get open PRs reviewed and tested  (if everything goes well <span class=\"s-emoji\">😅</span>).<br>• Looking for new issues/tasks."
+  },
+  {
+    "id": 1735226970649709,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2024-12-26T09:59:30.649Z",
+    "text": "26 Dec 2024<br>Done<br>• Pushed PR to fix the display of the facility cover image on small screens.<br>• Completed changes requested on open PRs.<br>• Pushed updates for the improper error-handling issue.<br>Next<br>• Looking for new issues/tasks.<br>• Push PR for the issue related to the third-party license."
+  },
+  {
+    "id": 1735330166185829,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2024-12-27T14:39:26.185Z",
+    "text": "27 Dec 2024<br>• PR pushed for fixing placeholder issue in medicine selection.<br>• PR pushed to allow multi-line entry for the current address and fix UI issues in discussion notes.<br>• Pushed requested changes in open PRs.<br>Next<br>• Push requested changes on pending PRs.<br>• Submit PRs for assigned issues.<br>• Looking for new issues/tasks"
+  },
+  {
+    "id": 1735396359106999,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2024-12-28T09:02:39.106Z",
+    "text": "28 Dec 2024<br>• Pushed the changes requested in  <a href=\"https://github.com/ohcnetwork/care_fe/pull/9593\">PR1</a> <a href=\"https://github.com/ohcnetwork/care_fe/pull/9466\">PR2</a><br>• Resolved the avatar display issue in mobile view for the facility list.<br>• PR got merged successfully.<br>Next<br>• Looking for new issues/tasks<br>• Going to push PR for assigned issue<br>• Will get a couple of PRs  merged if everything goes well <span class=\"s-emoji\">😅</span><br>Note: - Today was an exam day, so it wasn’t as productive."
+  },
+  {
+    "id": 1735992911950739,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-01-04T06:45:11.950Z",
+    "text": "29, 30 , 31 Dec<br>Done<br>• Pushed the changes requested to open PRs <br>• Fix the language persistence issue in kerala care landing page <br>• Pushed follow up PR for assigned issues <br>• Got all the open PRs closed (due to new architecture) <span class=\"s-emoji\">😅</span><br>Next<br>• Going to start work in 2025 <br>• Looking for new issues/tasks"
+  },
+  {
+    "id": 1735993065407869,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-01-04T06:47:45.407Z",
+    "text": "1st , 2nd , 3rd jan<br>• Setup the new architecture changes locally <br>• Try to understand the new architectural changes <br>• Pushed the PR for issue addressed by Aravind in care_intern channel <br>• Got assigned a issue by rithvik <br>• Pushed the PR for the issue assigned <br>Next<br>• Going to push changes requested on open PR <br>• Looking for new issues/tasks"
+  },
+  {
+    "id": 1736244375364779,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-01-07T04:36:15.364Z",
+    "text": "Jan 4th and 6th<br>• Created an issue for Weekdays Not Showing or Being Cut Off on Medium and Smaller Screens<br>• Created a feat request to Add Eye Toggle Functionality to ShadCN Input Component<br>• Pushed the PR for feat request about Password-Input <br>• Created an issue for design update in <code>UserResetPassword</code>  form and discuss about in design channel<br>• Pushed the changes requested on the Open PR.<br>Next<br>• Looking for new issues/tasks<br>• Going to push changes requested on Open PR."
+  },
+  {
+    "id": 1736312892640689,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-01-07T23:38:12.640Z",
+    "text": "Jan 7th <br>• Pushed the changes in PR regarding global error handler <br>• Got assigned an issue regarding Input-error comp <br>• Discuss few design changes with Vivek in DM <br>Next<br>• Going to push PR for assigned issue<br>• Going to push changes for Open PR<br>• Looking for new issues/ tasks"
+  },
+  {
+    "id": 1736397726682209,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-01-08T23:12:06.682Z",
+    "text": "Jan 8th <br>Done<br>• Pushed the changes for global error handler and got it approved <br>• Pushed the PR to remove <code>InputError</code> component from codebase and it&#x27;s merged <br>• Final approval from vinu to update the design and shortcut keys for <code>Searchbymultipl</code>  comp and created an issue for same <br>• Pushed the draft PR for the above issue <br>Next<br>• Going to work on draft PR <br>• Looking for new issues/tasks"
+  },
+  {
+    "id": 1736443831206949,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-01-09T12:00:31.206Z",
+    "text": "9th Jan<br>• Pushed the changes in the draft PR<br>• Got assigned an issue regarding timeline on landing page<br>• Fixed some conflicts in open PR<br>Next<br>• Looking for new issues/tasks<br>• Going to work on above assigned issue<br>• Try to complete the draft PR"
+  },
+  {
+    "id": 1736525623271179,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-01-10T10:43:43.271Z",
+    "text": "10th Jan<br>• Resolved commits on an open PR.<br>• Updated error messages and added them to the locale in the same PR.<br>• Created an issue for the phone number search bug in the OrganizationPatient section.<br>• Reached out to the design team regarding updates to the UserCreateForm design.<br>Next<br>• Push a PR for the assigned issue.<br>• Complete the draft PR.<br>• Look for new issues or tasks to work on."
+  },
+  {
+    "id": 1736610418288039,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-01-11T10:16:58.288Z",
+    "text": "11th Jan<br>• Pushed the final minor changes for Open PR related <code>UserResetPassword</code> form and got it merged<br>• Sync with Vinu over some doubts in <code>UserCreateForm</code> design<br>• Pushed some commits in draft PR<br>• Reported a few bugs regarding <code>SearchByMultipleOption</code><br>• Pushed the PR regarding Enhancement of Timeline in landing repo<br>Done <br>• Looking for new/tasks<br>• Work on pending tasks <span class=\"s-emoji\">😅</span>"
+  },
+  {
+    "id": 1736770378041239,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-01-13T06:42:58.041Z",
+    "text": "Jan 13th<br>• Pushed the final commits to draft PR regarding <code>SearchByMultipleOption</code> . Now it is ready for review and testing.<br>• Created an issue to upgrade <code>CodeQl</code>  version to <code>v3</code><br>• Pushed the PR for above and got it <code>approved</code> review <br>• Created issue regarding <code>Bugs in SearchByMultipleOption</code>  <br>• Pushed the commits in PR of <code>SearchByMultipleOption</code>  to solve above stated bugs <br>• Sync with Vinu regarding some design doubts <br>• Resolved conflicts in the PR<br>Next<br>• Looking for new issues/tasks <br>• Going to push changes required in open PR"
+  },
+  {
+    "id": 1736877378439899,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-01-14T12:26:18.439Z",
+    "text": "Jan 14th<br>• Connect with Manmeet to resolve errors in his PR to discard the unrelated changes <br>• Pushed the changes in the PR of <code>SearchByMultipleOption</code>  requested by nihal (ready for review and testing)<br>• Sync with vinu over the design of User Management in Facility page<br>• Created two issues stating bugs and updated design of <code>User Management</code>  section<br>• Pushed the PR updating the design and solving bugs of same<br>• Sync with Anagha over some design feedback in sidebar (Yesterday&#x27;s update)<br>Next<br>• Looking for new issues/tasks <br>• Hopefully will get all the open PRs review and test and will work on them according to the feedback"
+  },
+  {
+    "id": 1736953272694289,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-01-15T09:31:12.694Z",
+    "text": "Jan 15th<br>• Pushed the changes requested on PR related to <code>User Management</code><br>• Created an issue to move all <code>Skeleton</code>  component to seperate file <br>• Pushed the PR for the above issue <br>• Pushed the changes requested on Open PRs <br>• Got <code>Enhancement for Timeline</code>  merged on landing repo <br>• Got <code>User Management</code>  PR test passed <br>• Got an issue assigned related to <code>eslint</code><br>Next<br>• Work on issue assigned <br>• Going to work on open PRs as per review and test feedback <br>• Looking for new issues/tasks"
+  },
+  {
+    "id": 1737039726657179,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-01-16T09:32:06.657Z",
+    "text": "Jan 16th <br>• Pushed some changes on <code>User Management</code> PR and got it merged <br>• Pushed changes on <code>SearchbyMultipleOption</code> PR<br>• Pushed valid changes on  <code>Skeleton</code>  PR <br>• Solved conflicts open PRs<br>• Pushed PR for <code>Disallow relative import</code> issue<br>Next <br>• Looking for new issues/tasks <br>• Work on open PRs according to feedback"
+  },
+  {
+    "id": 1737187395822639,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-01-18T02:33:15.822Z",
+    "text": "Jan 17th<br>• Made shadcn <code>MultiSelelct</code>  component  <br>• Pushed changes to <code>Disallow relative import</code>  PR (it took most of the time<span class=\"s-emoji\">😅</span> )<br>• went through some github action resources <br>• travel <br>Next<br>• Looking for new issues/tasks <br>• Hopefully <span class=\"s-emoji\">😅</span> will get open PRs review and will work on them"
+  },
+  {
+    "id": 1737225440205939,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-01-18T13:07:20.205Z",
+    "text": "Jan 18th<br>• Pushed changes in PR related to <code>Eslint config</code><br>• Created an issue to create shadcn <code>MultiOptionSelect</code>  component<br>• Pushed the PR for the above <br>Next<br>• Looking for new issues/tasks"
+  },
+  {
+    "id": 1737448138626329,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-01-21T02:58:58.626Z",
+    "text": "Jan 20th<br>• Pushed changes in the <code>Disallow Relative Import</code>  PR and got it merged <br>• Pushed the valid changes in <code>Skeleton comp Generic use</code>  according to rithvik&#x27;s and bodhi&#x27;s review <br>• Created an issue to show the all validations in <code>UserForm</code>  and update the design of validations checks all over the place <br>• Pushed the PR for the above, cypress test is failing tried endless no. of ways couldn&#x27;t solve that need assistance <br>• Got <code>Multiselect</code>  component PR approved, just testing is remained <br>Next<br>• Looking for new issues/tasks <br>• Have encounter some bugs would report them in the repo and push PR for the same"
+  },
+  {
+    "id": 1737534377237679,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-01-22T02:56:17.237Z",
+    "text": "Jan 21st<br>• Pushed the changes in <code>Skeleton comp Generic use</code> PR<br>• Pushed the changes in <code>Validations in UserForm</code>  PR<br>• Reported an issue for <code>Facility Data not updating on edit</code><br>• Reported an issue for <code>Org Facility search not clearing on tab switch</code> <br>• Pushed the PR for above two issues <br>• Got <code>MultiSelectOption</code>  PR tested<br>• Weekly Review Meet <br>Next<br>• Work on assigned issue on <code>Eslint</code>  version upgrade <br>• Solve the conflicts in Open PR <span class=\"s-emoji\">😅</span><br>• Looking for new issues/tasks"
+  },
+  {
+    "id": 1737624763311609,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-01-23T04:02:43.311Z",
+    "text": "Jan 22nd<br>• Created an issue to <code>Display no. of entities in org tabs</code><br>• Pushed PR for the above issue <br>• Pushed changes in <code>Move Skeleton</code>  PR and got it merged <br>• Pushed some changes in <code>Display no. of entities</code>  PR <br>• Solved conflicts in PR related to <code>UserForm</code><br>• Pushed PR to upgrade <code>Eslint v9</code> <br>• Got assigned issue related to <code>Questionaire</code><br>Next<br>• Looking for new issues/tasks<br>• Work on open PRs as per feedback from reviewers <br>• Work on <code>Questionaire</code>  issue"
+  },
+  {
+    "id": 1737731562814949,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-01-24T09:42:42.814Z",
+    "text": "Jan 23rd<br>• Pushed changes in PR related to <code>Organizations tab entity count</code><br>• Pushed changes in PR related to <code>Upgrade Eslint v9</code> <br>• Pushed changes in PR related to <code>show validations in UserForm</code><br>Next<br>• Looking for new issues/tasks"
+  },
+  {
+    "id": 1737814433622149,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-01-25T08:43:53.622Z",
+    "text": "Jan 24th<br>• Pushed the changes in the PR related to <code>Display entity count in organization tabs</code><br>• Pushed the final changes in <code>Upgrade Eslint v9</code>  and got it merged <br>Next<br>• Looking for new issues/tasks <br>• Waiting for review on open PRs and work on them as per review."
+  },
+  {
+    "id": 1737991285449999,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-01-27T09:51:25.449Z",
+    "text": "Jan 27th<br>• Created an issue for resource print issue <br>Next<br>• Work on created issue if it gets assigned <br>• Looking for new issues/tasks<br>• Work on open PRs according to feedback"
+  },
+  {
+    "id": 1738078965533189,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-01-28T10:12:45.533Z",
+    "text": "Jan 28th<br>• Pushed the changes for follow up PR regarding ESLINT v9 and got it merged <br>• Pushed the changes for the PR regarding show entity count in org tabs <br>• Pushed the PR for &#x27;Resource Letter Print&#x27; crash <br>• Pushed the PR for the issue regarding &#x27;Unnecessary pop up in Patient Registration submission&#x27; and got it merged <br>• Weekly Review meet <br>Next<br>• Looking for new issues/tasks<br>• Work on open PRs as per feedback <br>• Report some issues regarding appointments"
+  },
+  {
+    "id": 1738173607866879,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-01-29T12:30:07.866Z",
+    "text": "Jan 29th<br>• No Major Work due to headache <br>• Work on changes requested on <code>Resource Letter print issue</code><br>• Got merged PR regarding showing entity count in org tabs <br>• Got approved a PR regarding validations in userForm by rithvik <br>Next<br>• Push the changes requested on resources PR <br>• Looking for new issues/tasks"
+  },
+  {
+    "id": 1738300036514909,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-01-30T23:37:16.514Z",
+    "text": "Jan 30th<br>• Pushed the changes requested on resources PR <br>• Pushed the PR regarding same value input in Questionnaire (got it closed ASAP <span class=\"s-emoji\">😅</span>)<br>• that&#x27;s it I think ......<span class=\"s-emoji\">🤔</span><br>Next<br>• Looking for new issues/tasks"
+  },
+  {
+    "id": 1738403437308419,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-02-01T04:20:37.308Z",
+    "text": "Jan 31st<br>• Pushed PR for remove breadcrumbs (got it closed but not ASAP )<br>• Pushed the PR for current day greyout out in Appoitment Section (got it closed ASAP)<br>• Quick huddle with Nihal to discuss more issues encountered <br>• Got request letter PR merged <br>• Hat-trick of PR closures (back to back <span class=\"s-emoji\">😅</span>)<br>Next<br>• Looking for new issues/tasks"
+  },
+  {
+    "id": 1738493895672499,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-02-02T05:28:15.672Z",
+    "text": "Feb 1st<br>• Pushed the PR to replace deprecated useTanStackQuery with useQuery <br>• Pushed the PR to replace deprecated request <br>Next<br>• Looking for new issues/tasks"
+  },
+  {
+    "id": 1738604305216539,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-02-03T12:08:25.216Z",
+    "text": "Feb 3rd<br>• Pushed changes in replacing useTanStackQuery and got it merged <br>• Pushed changes in replacing deprecated request and requested for review <br>• Created shadcn TimePicker <br>Next <br>• Got assigned issue on redesigned facility home , complete that <br>• Looking for new issues/tasks"
+  },
+  {
+    "id": 1738673395295299,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-02-04T07:19:55.295Z",
+    "text": "Feb 3rd<br>• Pushed changes in open PR related to replace deprecated <code>request</code><br>• Pushed the PR for facility home page redesign <br>• Sync with vinu over some minor doubts <br>Next<br>• Looking for new issues/tasks <br>• Work on open PRs as per feedback"
+  },
+  {
+    "id": 1738715450681959,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-02-04T19:00:50.681Z",
+    "text": "Feb 4th<br>• Pushed the changes in PR related to replacing deprecating <code>request</code><br>• Pushed PR for the redesign of Facility Home Page <br>Next<br>• Work on cypress issue assigned <br>• Looking for new issues/tasks"
+  },
+  {
+    "id": 1738855246885259,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-02-06T09:50:46.885Z",
+    "text": "5th and 6th Feb<br>• travel<br>• headache due to travelling (nothing new, used to it <span class=\"s-emoji\">😅</span>)<br>• Pushed some changes in Facility Home Redesign PR.<br>• Sync with vivek over some doubts over Appointment section.<br>Nex<br>• Work on open PR as per review and testing feedback <br>• Looking for new issues/tasks (100% serious, literally don&#x27;t have anything to work on <span class=\"s-emoji\">😅</span>)"
+  },
+  {
+    "id": 1738943473110019,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-02-07T10:21:13.110Z",
+    "text": "Feb 7th<br>• Created an issue reporting bugs in Public Patient Registration Form <br>• Pushed the PR for the above and got it merged <br>• Code to implement the design provided by Vivek <br>• Got assigned an issue regarding enhancement in Treatment Summary UI<br>Next<br>• Pushed the PR for assigned issue <br>• Looking for new issues/tasks"
+  },
+  {
+    "id": 1739217438133429,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-02-10T14:27:18.133Z",
+    "text": "10 Feb<br>• Working on assigned issue regarding Appointment section. <br>• Hitting on some PRs with some comments <span class=\"s-emoji\">😅</span><br>Next<br>• Get issue assigned complete <br>• Looking for new issues/tasks"
+  },
+  {
+    "id": 1739377239692419,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-02-12T10:50:39.692Z",
+    "text": "Feb 11th <br>•  Pushed some changes to Facility Home redesigned PR <br>•  Added some comments on figma regarding design doubts <br>• Weekly review meet <br>•  Rest I forgot <span class=\"s-emoji\">😅</span><br>Next <br>•  Looking for new issues"
+  },
+  {
+    "id": 1739472863480109,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-02-13T13:24:23.480Z",
+    "text": "Feb 13th <br>• Pushed PR for Encounter Card redesign<br>• Pushed some changes in open PR regarding Treatment Summary UI<br>• Created an issue regarding phone input error message <br>• Pushed the PR for the same above and got it closed ASAP <br>Next <br>• Work on open PRs as per feedback <br>• Looking for new issues tasks"
+  },
+  {
+    "id": 1739617395591569,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-02-15T05:33:15.591Z",
+    "text": "14th Feb<br>• Created an issue regarding some bugs in medicine section <br>• Pushed changes in the PR related to encounter card re-design <br>• Pushed the changes in the PR related to Treatment summary UI <br>Next<br>• Looking for new issues/tasks <br>• Work on open PR as per feedback from reviewers <br>• Pushed the PR for created issue"
+  },
+  {
+    "id": 1739716632442429,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-02-16T09:07:12.442Z",
+    "text": "Feb 15th <br>• Quick huddle with <span class=\"s-mention s-user\">@U0168MBTGL8</span> to clear some doubts <br>• Created <strong>two</strong> types of UI changes in Treatment Summary to compare and posted same on comment to finalize <br>• Reported more bugs in the Opened issue regarding the medicine section <br>• Pushed changes in Medicine related PR according to above bugs reported and now It is ready for review <br>Next <br>• Looking for new issues/ tasks <br>• Push changes in open PR as fer feedback"
+  },
+  {
+    "id": 1739818685620759,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-02-17T13:28:05.620Z",
+    "text": "Feb 17th<br>• Pushed the changes in Encounter Card Redesign PR and got it approved by Jeevan <br>• Added one more bug in Medicine related issue and solved it<br>• Created an issue regarding User Card Profile button add in UserCard and more related bugs <br>Next<br>• Push the PR for created issue <br>• Looking for new issues/tasks"
+  },
+  {
+    "id": 1739947305864669,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-02-19T01:11:45.864Z",
+    "text": "Feb 18th<br>• Pushed PR for UserCard Profile button related issue and changes requested <br>• Pushed changes in Facility re-design PR after testing , ready for re-test now<br>• Tried. new approach for treatment summary UI in my local <br>• Weekly Review meet <br>• Pushed comparison changes for some feat request in Medication table<br>• Got assigned an issue regarding converting jsx to tsx file  <br>• Changes requested on encounter card-redesign PR<br>Next<br>• Push the PR for assigned issue <br>• Push the changes requested on encounter card re-design pr <br>• Looking for new issues/tasks"
+  },
+  {
+    "id": 1740072579988809,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-02-20T11:59:39.988Z",
+    "text": "Feb 20th <br>• Pushed changes in Encounter Card redesign PR<br>• Implement Amjith approach for print table and update the whole Treatment Summary tables to use that <br>• Created Medication statement layout like we do have for other tables <br>• Pushed some changes in Medication prescription PR and it is reviewed <span class=\"s-emoji\">✅</span><br>• Code for jsx to tsx issue in local <br>Next <br>• Looking for new issues/tasks<br>• Work on Open PRs as per review and testing by <span class=\"s-mention s-user\">@U022THM4U2U</span>"
+  },
+  {
+    "id": 1740225087726249,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-02-22T06:21:27.726Z",
+    "text": "Feb 21st <br>• Solved conflicts in open PRs <br>• Push changes in Medicine Table PR and changes after testing <br>• Pushed changes in Treatment Summary PR, ready for review and testing <span class=\"s-mention s-user\">@U0168MBTGL8</span> <br>• Pushed PR for location link <br>• Pushed PR to convert jsx to tsx files <br>• Pushed PR for valueset bugs <br>Next<br>• Work on open PRs as per review <br>• Looking for new issues/tasks"
+  },
+  {
+    "id": 1740380207796779,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-02-24T01:26:47.796Z",
+    "text": "Feb 22nd<br>• Pushed changes in location link PR<br>• Pushed changes in jsx to tsx PR <br>• Solved conflicts in open PR <br>• Created frontend and backend issue for valueset filters <br>• Pushed changes in treatment summary PR <br>• Code for valueset backend filters in local <br>Next<br>• Work on open PRs as per review<br>• Looking for new issues/tasks"
+  },
+  {
+    "id": 1740483199372599,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-02-25T06:03:19.372Z",
+    "text": "Feb 23rd<br>• Resolved conflicts on open PRS <br>• Pushed changes in Add location link PR <br>• Pushed backend PR for filter for valueset <br>• Pushed changes in Treatment Summary PR <br>• Pushed changes in jsx to tsx PR resolving two issues stated <br>Next<br>• Looking for new issues/tasks <br>• Work on open PRs as per review"
+  },
+  {
+    "id": 1740643207322139,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-02-27T02:30:07.322Z",
+    "text": "24th Feb - 26th<br>• Pushed changes in Treatment Summary UI PR <br>• Pushed changes in Add location link PR <br>• Backend PR to add status and name filter in valueset  and requested changes<br>• Minor changes pushed in Bugs in valueset PR and got it merged <br>• Pushed PR to support bulk beds creation in location and requested changes<br>• Got a couple of PRs merged :marioluigidancing:<br>• Weekly review call <br>Next<br>• Work on open PRs as per testing and review result <br>• Looking for new issues/tasks"
+  },
+  {
+    "id": 1740687086691349,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-02-27T14:41:26.691Z",
+    "text": "Feb 27th<br>• Created issue for Inconsistent Feature Badge Styling Across Pages<br>• Pushed PR for above <br>• Pushed frontend PR for filters and search in valueset <br>• Pushed changes in Sopport bulk bed creation PR<br>• Pushed PR for encounter cacheblacklist (closed asap)<br>• Got a couple of PRs merged<br>Next<br>• Complete open PRs <br>• Looking for new issues/tasks"
+  },
+  {
+    "id": 1740778687133579,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-02-28T16:08:07.133Z",
+    "text": "Feb 28th <br>• Created an issue for Medicine Administration list bug <br>• Created an issue for Prescription UI update <br>• Pushed PR for the above two issues and got it merged <br>• Created an issue on the encounter overview tables not fetching more than the default backend limit <br>• Sync with bodhi on support bulk bed creation ux and tried multiple ways for it <br>• Pushed changes in PR related to filters and search in valueset <br>Next <br>• Looking for new issues tasks"
+  },
+  {
+    "id": 1740847673365519,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-03-01T11:17:53.365Z",
+    "text": "Feb 28th <br>• Feeling unwell <span class=\"s-emoji\">😞</span> <br>• Created demo video of UX changes in bulk bed creation PR <br>• Code to enable search in department section in setting<br>• Tried P1 issue <br>Next <br>• Waiting for review and test on open PRs <br>• Looking for new issues tasks"
+  },
+  {
+    "id": 1741073948198399,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-03-04T02:09:08.198Z",
+    "text": "March 3rd <br>• Pushed changes in PR regarding Bulk Bed creation, used useFieldArray from react-form <br>• Created PR for minor bugs in questionnaire <br>• Got 2 friends as contributor in OHC with 4 PRs total <span class=\"s-emoji\">😅</span><br>Next <br>• Looking for new issues tasks"
+  },
+  {
+    "id": 1741105808374239,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-03-04T11:00:08.374Z",
+    "text": "March 4th<br>• Pushed changes for PR related to department search <br>• Weekly Review call <br>Next<br>• Looking for new issue/tasks"
+  },
+  {
+    "id": 1741201537058479,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-03-05T13:35:37.058Z",
+    "text": "March 5th<br>• Not major work <br>• Pushed changes in open PR related to minor UI fixes in questionnaire <br>Next<br>• Looking for new issues/tasks"
+  },
+  {
+    "id": 1741339175878689,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-03-07T03:49:35.878Z",
+    "text": "March 6th<br>• Pushed PR for patient overview tables empty state handling and toggle behaviour<br>• Resolved conflicts in open PR<br>• Sync with Anagha over overview section design<br>• Pushed changes in PR related to dept search PR<br>• Pushed changes in Bulk Bed creation PR<br>• Code for cypress test for resources<br>Next<br>• Looking for new issues/tasks"
+  },
+  {
+    "id": 1741427103304729,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-03-08T04:15:03.304Z",
+    "text": "March 7th<br>• Pushed PR for Replacing custom date pickers type with device default <br>• Created an issue originally reported by bodhi about double scroll <br>• Pushed PR for above issue <br>• Resolved conflicts on open PRs <br>• Go through PR of the contributor about issue regarding tables not showing beyond  14  allergies, symptoms and diagnosis and added some comments<br>Next<br>• Looking for new issues/tasks"
+  },
+  {
+    "id": 1741597561873829,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-03-10T03:36:01.873Z",
+    "text": "March 8th<br>• Resolved conflict in open PR <br>• Pushed minor changes in open prs <br>• Pushed PR for to show treatment summary and discharge for ended encounters <br>• Pushed PR replacing custom date picker with device default in codebase <br>Next<br>• Looking for new issues/tasks"
+  },
+  {
+    "id": 1741887173989049,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-03-13T12:02:53.989Z",
+    "text": "11-12th March<br>• Pushed changes in open PRs <br>• Resolved conflicts <br>• Weekly Review meet <br>Next<br>• Looking for new issues/tasks"
+  },
+  {
+    "id": 1742220149037469,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-03-17T08:32:29.037Z",
+    "text": "17 March<br>• Created an issue to hide tabs on user dashboard when resources are not available <br>• Created PR for the above and got it merged <br>• Pushed changes in PR related to restricting user to add duplicate symptoms and diagnosis <br>• Pushed changes in the PR related to medication translation<br>• Solved conflict on open PR <br>• Created 2nd PR related to replacing react date and time and got it closed Asap <br>• Got assigned an issue related to Update Questionnaire Response to conform with Backend<br>Next<br>• Push PR for assigned issue <br>• Looking for new issue/tasks"
+  },
+  {
+    "id": 1742477148077399,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-03-20T07:55:48.077Z",
+    "text": "March 18<br>• Weekly Review Meet<br>• Pushed changes in open PR <br>Next <br>• Looking for new issues"
+  },
+  {
+    "id": 1742664020361109,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-03-22T11:50:20.361Z",
+    "text": "March 22nd<br>• Not well at all <br>next<br>• doctor vs father recommended medicine result"
+  },
+  {
+    "id": 1742837822369979,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-03-24T12:07:02.369Z",
+    "text": "March 24th<br>• Father&#x27;s medicine won (who don&#x27;t know checkout last eod)<br>• Pushed changes in PR related to questionnaire edit bugs <br>• Pushed changes in PR related to Replacing DateRangePicker and DatePicker <br>• Resolved conflicts in PR related to Minor Enhancement in Questionnaire <br>• One minor issue got assigned and unassigned ASAP <br>• Messaged on a few issues <br>• Created an backend issue related to api endpoint for slug and closed in asap <br>Next<br>• Looking for new issues/tasks"
+  },
+  {
+    "id": 1743115426053869,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-03-27T17:13:46.053Z",
+    "text": "March 25th<br>• Weekly Review Meet <br>• Pushed changes on Open PR (only conflicts)<br>Next <br>• Looking for new issues tasks"
+  },
+  {
+    "id": 1743321127475169,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-03-30T02:22:07.475Z",
+    "text": "March 26th - 28th<br>• Major work: Solving conflicts in open PRs<br>• Created an <code>P1</code>  issue for broken UI userdashboard<br>• Created an issue for updating some question comp to use shadcn and refactor the code <br>• Created a PR for above <br>• Got a good amount of changes PR closed (&gt; 2)<br>• Pushed minor changes in open PR<br>Next<br>• Get open PRs merged ASAP<br>• Pushed cypress PR changes asked by nihal"
+  },
+  {
+    "id": 1743667424739699,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-04-03T02:33:44.739Z",
+    "text": "April 1st <br>• Weekly Review Meet <br>• Pushed changes in Cypress PR <br>• Sorting resources by created date got merged <br>• Pushed PR for autofocus all searches but got closed ASAP <br>• Created an issue for Resources filter UI changes <br>Next <br>• Looking for new issues tasks"
+  },
+  {
+    "id": 1743777131954699,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-04-04T09:02:11.954Z",
+    "text": "April 2nd<br>• Pushed PR for userSelector option misalignment fix and resource form ui fix<br>• Pushed PR for Resource Filter UI changes and Refactor code of SearchByMultipleFieldI comp and increase its usage for other searches in codebase<br>• Bothered <span class=\"s-mention s-user\">@U02TDGQQPMJ</span> multiple times over silly mistakes in the above PRs <span class=\"s-emoji\">😥</span><br>• Pushed changes multiple times on above PRs <br>• comment on some PR asking for changes <br>Next<br>• Looking for new issues/tasks"
+  },
+  {
+    "id": 1743854345747219,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-04-05T06:29:05.747Z",
+    "text": "April 3rd<br>• Cypress PR for resource request Management got merged <br>• Pushed changes in PR for Resource Filter UI changes and Refactor code of SearchByMultipleFieldI comp and increase its usage for other searches in codebase<br>• Pushed changes in PR for Refactoring code of diagnosis,allergy and symptom question to use shadcn comp <br>• Commented on a few PRs<br>• Cake cutting happened at 12 <span class=\"s-emoji\">🎂</span> (friend’s birthday)<br>Next<br>• Looking for new issues/tasks<br>• Operation “Recover Cake Party Funds” begins <span class=\"s-emoji\">💸</span><span class=\"s-emoji\">🎉</span>"
+  },
+  {
+    "id": 1743871760958199,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-04-05T11:19:20.958Z",
+    "text": "April 4th<br>• Created PR to add edit functionality for department/team<br>• Commented on a few PRs<br>• Had my first-ever night out — drove continuously through the night for a friend’s party <span class=\"s-emoji\">🎉</span><span class=\"s-emoji\">🚗</span><br>Next<br>• Sleep"
+  },
+  {
+    "id": 1744053450392389,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-04-07T13:47:30.392Z",
+    "text": "April 7th<br>• Enable edit for dept/team PR got merged <br>• UserSelector option misaligned and Resource Form UI fix PR got merged<br>• Created PR to fix filtering with search in Location Association sheet<br>• Created an issue to disable schedule for later when no bed is selected<br>• <span class=\"s-emoji\">🎧</span> with <span class=\"s-mention s-user\">@U07UM20G3DW</span> over some design doubts <br>• comment on few PRs asking for changes <br>• Heated argument with hostel warden<br>Next<br>• Looking for new issues/tasks<br>• Work on open PRs as per feedback from team<br>• Meeting with director to kick out warden"
+  },
+  {
+    "id": 1744294657189149,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-04-10T08:47:37.189Z",
+    "text": "April 8th<br>• Weekly Review meet <br>• Created a PR to adjust overflow width in UserSelector and PractitionerSelector and update the UI for options and got it merged<br>• Comment of few PRs asking for changes<br>• Got Diagnosis and Symptoms question UI update PR merged<br>• Pushed changes in Location Association search not working PR<br>• Got assigned an issue <code>Enable Infinite Scroll for &quot;Link User&quot; Option</code><br>Next<br>• Push PR for assigned issue<br>• Look for new issues/tasks<br>• Work on open PRs as per feedback from team"
+  },
+  {
+    "id": 1744305601574209,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-04-10T11:50:01.574Z",
+    "text": "April 9th<br>• Pushed changes in Location Association search not working PR<br>• Comment of few PRs asking for changes<br>Next<br>• PR for assigned issue is pending so push that PR <br>• Look for new issues/tasks"
+  },
+  {
+    "id": 1744364479239949,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-04-11T04:11:19.239Z",
+    "text": "April 10th<br>• Created PR to enable Enable Infinite Scroll for &quot;Link User&quot; Option and made changes in same as per review <br>• Comment on few prs asking for changes <br>Next<br>• Look for new issues/tasks"
+  },
+  {
+    "id": 1744405427097559,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-04-11T15:33:47.097Z",
+    "text": "April 11th<br>• Created issue <a href=\"https://github.com/ohcnetwork/care_fe/issues/11871\">care_fe#11871</a>: Bug: Encounter Location Association Sheet Not Showing Locations on Reopen<br>• Comment on single PR asking for changes<br>• Got assigned an issue Landing Page: hide login banner when user is logged in <a href=\"https://github.com/ohcnetwork/care_fe/issues/11715\">#11715</a><br>Next<br>• Look for new issues/tasks<br>• Push PR for assigned issue"
+  },
+  {
+    "id": 1744461655419559,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-04-12T07:10:55.419Z",
+    "text": "April 12th<br>• Pushed PR to hide login banner on landing page if patient is already logged in <br>• Comment on PR asking for changes <br>• Ended up resolving conflicts—thankfully, they were minor <span class=\"s-emoji\">😅</span> Let’s see how many sheds tears when they open their GitHub<br>Next<br>• Looking for new issues/tasks"
+  },
+  {
+    "id": 1744568826817569,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-04-13T12:57:06.817Z",
+    "text": "April 13th<br>• Pushed PR to rename a file and got it merged (one line change <span class=\"s-emoji\">😅</span>)<br>• <span class=\"s-emoji\">👨‍💻</span> Redesign Device List Page <br>Next<br>• Pushed PR for redesign (almost completed)<br>• <span class=\"s-emoji\">🎧</span> with <span class=\"s-mention s-user\">@U07UM20G3DW</span> to clear some doubts in same design <br>• Looking for new issues/tasks"
+  },
+  {
+    "id": 1744794253640169,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-04-16T03:34:13.640Z",
+    "text": "April 15th<br>• Huddle with <span class=\"s-mention s-user\">@U07UM20G3DW</span> over some design doubts in device list <br>• Pushed PR for the redesign of device list and changes in it on getting design for mobile version <br>• Weekly Review Meet <br>• Comment on PR asking for changes <br>Next<br>• Looking for new issues/tasks"
+  },
+  {
+    "id": 1744814101265479,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-04-16T09:05:01.265Z",
+    "text": "April 16th<br>• sync with <span class=\"s-mention s-user\">@U07UM20G3DW</span> and <span class=\"s-mention s-user\">@U086E5U2CSJ</span> over design for DeviceList <br>• <span class=\"s-emoji\">👨‍💻</span> the design finalised for device list <br>• Login banner hide on landing page PR got merged <br>Next<br>• Looking for new issues/tasks"
+  },
+  {
+    "id": 1744965762851629,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-04-18T03:12:42.851Z",
+    "text": "April 17th<br>• Pushed PR to update the questionnaire response to conform the backend <br>• Comment for few PRs asking for changes <br>• Pushed changes on Location Association Sheet PR<br>• Work on assigned issue regarding Revise Quick Finder Cap Limits in Date Picker #11988<br>Next<br>• Looking for new issues/tasks<br>• Push Pr for assigned issue"
+  },
+  {
+    "id": 1745089007745489,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-04-19T13:26:47.745Z",
+    "text": "April 18<br>• <span class=\"s-emoji\">👨‍💻</span>  cypress test for department management (in progress)<br>• Pushed PR for Revise Quick Finder Cap Limits in Date Picker issue<br>next<br>• Push PR for cypress test"
+  },
+  {
+    "id": 1745237470529279,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-04-21T06:41:10.529Z",
+    "text": "April 20th<br>• Pushed PR for cypress for dept management <br>Next<br>• Looking for new issues/tasks"
+  },
+  {
+    "id": 1745412377875169,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-04-23T07:16:17.875Z",
+    "text": "April 22nd<br>• Weekly Review Call <br>• Comment on few prs asking for changes <br>• Pull Request for Adding support for multiple additional instructions in Medication Request <br>Next<br>• Looking for new issues/tasks"
+  },
+  {
+    "id": 1745496057675789,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-04-24T06:30:57.675Z",
+    "text": "April 23rd<br>• Comment on few PRs asking for changes<br>• Push changes requested in DeviceList redesign PR<br>• Push changes requested in Update questionnaire response type to conform backend and got it approved<br>• Pushed changes in Adding support for multiple additional instructions in Medication Request PR<br>• Fix cypress test failing on few PRs due to sidebar change <br>• Push changes in Refactoring SearchInput PR<br>Next<br>• Looking for new issues/tasks"
+  },
+  {
+    "id": 1745574311500159,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-04-25T04:15:11.500Z",
+    "text": "April 24th<br>•  Created issue <a href=\"https://github.com/ohcnetwork/care_fe/issues/12077\">#12077</a>: Additional instructions not shown in treatment summary and prescription<br>• Work on issue <a href=\"https://github.com/ohcnetwork/care_fe/issues/12077\">#12077</a>: Additional instructions not shown in treatment summary and prescription in <a href=\"https://github.com/ohcnetwork/care_fe/pull/12035\">PR</a><br>Next<br>• Work on issue <a href=\"https://github.com/ohcnetwork/care_fe/issues/12088\">#12088</a>: Create a Component for Viewing Relative Date"
+  },
+  {
+    "id": 1745692143151909,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-04-26T12:59:03.151Z",
+    "text": "April 25th<br>• Made PR <a href=\"https://github.com/ohcnetwork/care_fe/pull/12101\">#12101</a> : Follow Up : Use in-built behaviour of command for filtering in UserSelector<br>• Made PR <a href=\"https://github.com/ohcnetwork/care_fe/pull/12094\">#12094</a> : Enhancement: Add generic RelativeDateTooltip component for viewing relative date <br>• Comment on PR asking for changes<br>• Merged PR <a href=\"https://github.com/ohcnetwork/care_fe/pull/11767\">#11767</a> : Fix: Location Association Sheet Search Bar Filtering and Blank Sheet on second time opening same sheet<br>• Merged PR <a href=\"https://github.com/ohcnetwork/care_fe/pull/11837\">#11837</a> : Enable infinite scrolling in UserSelector<br>Next<br>• Looking for new issues/tasks"
+  },
+  {
+    "id": 1746011500072819,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-04-30T05:41:40.072Z",
+    "text": "April 29th<br>• Weekly review meet <br>• Push changes in Additional instructions PR <br>Next<br>• Looking for new issues tasks"
+  },
+  {
+    "id": 1746124772946389,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-05-01T13:09:32.946Z",
+    "text": "April 30th<br>• Pushed PR for P1 issue: Create DateRangePicker with split start and end date <br>• Pushed changes in Open PR <br>Next <br>• Looking for new issues tasks"
+  },
+  {
+    "id": 1746189243956859,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-05-02T07:04:03.956Z",
+    "text": "May 1st<br>• Fixed merge conflicts in open PRs<br>• Pushed minor changes in PR: Splitting date range picker into start and end date <br>Next<br>• Looking for new issues/tasks"
+  },
+  {
+    "id": 1746304785171859,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-05-03T15:09:45.171Z",
+    "text": "May 2nd <br>• Pushed changes in PR: used two Combined DatePicker instead of date range picker <br>• Pushed changes in PR: Refactor SearchInput and Filter UI in resources list <br>Next <br>• Looking for new issues tasks"
+  },
+  {
+    "id": 1746520650484019,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-05-06T03:07:30.484Z",
+    "text": "May 5th<br>• Pushed minor changes in PR: used two Combined DatePicker instead of date range picker<br>• Merged PR: used two Combined DatePicker instead of date range picker<br>• Comment on <span class=\"s-mention s-user\">@U083HFWFESD</span>’s PR to make some changes <br>Next<br>• Looking for new issues/tasks"
+  },
+  {
+    "id": 1746612024965729,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-05-07T04:30:24.965Z",
+    "text": "May 6th<br>• Weekly review meet <br>• Made the PR: Replace deprecated <code>DateTimePicker</code> with Native Input <br>Next <br>• Looking for new issues tasks"
+  },
+  {
+    "id": 1746797927560199,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-05-09T08:08:47.560Z",
+    "text": "May 7th <br>• Merged PR : Update the location history to show start and end date <br>• Merged PR: Replace deprecated DateTimePicker with Native Input <br>• Push changes in PR : Redesign the device list page and add location associated filter <br>Next <br>Looking for new issues tasks"
+  },
+  {
+    "id": 1747074987784949,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-05-12T13:06:27.784Z",
+    "text": "May 12th<br>• Comment on few PRs for changes <br>• Pushed changes in PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/11919\">Redesigned DeviceList Page and Add Location Filter on DeviceList</a><br>• Pushed changes in PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/11644\">Refactor SearchInput and Used it in CodeBase (affected pages in are in Description) &amp; Improve ResourceList Filtering UI</a><br>• Pushed changes in PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/12005\">Cypress test to add department and team in a facility Management</a><br>• Pushed changes in PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/12035\">Enhancement: Allow multiple Additional Instructions in Medication Request</a><br>Next<br>• Looking for new issues/tasks<br>• Work on Open PRs as per review from team"
+  },
+  {
+    "id": 1747155318252389,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-05-13T11:25:18.252Z",
+    "text": "May 13th<br>• Weekly Review Meet<br>• Pushed changes in PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/12257\">Enhancement: Add Crop Image functionality to restrict within size and ratio 1: 1</a><br>• Solved Conflicts and pushed minor changes in PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/12005\">Cypress test to add department and team in a facility Management</a><br>• Created new PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/12298\">Remove Accordion for Questionnaire Response Print Preview and Add Border around </a><br>Next<br>• Looking for new issues tasks <br>• Connect with <span class=\"s-mention s-user\">@UC99MFPU1</span> over some issue doubt"
+  },
+  {
+    "id": 1747263781452759,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-05-14T17:33:01.452Z",
+    "text": "May 14th<br>• Made changes in PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/12094\">Enhancement: Add generic RelativeDateTooltip component for viewing relative date</a><br>• Made changes in PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/12298\">Remove Accordion for Questionnaire Response Print Preview and Add Border around</a><br>• Made changes in PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/12005\">Cypress test to add department and team in a facility Management</a><br>• Made changes in PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/12257\">Enhancement: Add Crop Image functionality to restrict within size and ratio 1: 1</a><br>Next<br>• Connect with Gigin over some issue doubt"
+  },
+  {
+    "id": 1747326538679429,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-05-15T10:58:58.679Z",
+    "text": "May 15th<br>• <span class=\"s-emoji\">🎧</span>  with Gigin on Design doubt for clinical details<br>• Made changes in PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/12257\">Enhancement: Add Crop Image functionality to restrict within size and ratio 1: 1</a><br>• Made changes in PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/12094\">Enhancement: Add generic RelativeDateTooltip component for viewing relative date</a><br>• Made changes in PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/11644\">Refactor SearchInput and Used it in CodeBase (affected pages in are in Description) &amp;amp; Improve ResourceList Filtering UI</a><br>• Merged PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/12298\">Remove Accordion for Questionnaire Response Print Preview and Add Border around</a><br>• <span class=\"s-emoji\">🎧</span>  with Nikhila over cypress failure issue on her PR <br>Next<br>• Work on Design for clinical history"
+  },
+  {
+    "id": 1747420979845989,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-05-16T13:12:59.845Z",
+    "text": "May 16th<br>• Major time went into :<span class=\"s-emoji\">👨‍💻</span> Clinical History Page <a href=\"https://github.com/ohcnetwork/care_fe/pull/12336\">PR</a><br>• Made changes in PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/12257\">Enhancement: Add Crop Image functionality to restrict within size and ratio 1: 1</a><br>• Made changes in PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/12094\">Enhancement: Add generic RelativeDateTooltip component for viewing relative date</a><br>• Doubt regarding design for multiple additional instructions <a href=\"https://rebuildearth.slack.com/archives/C080225HC6B/p1747383478718029\">thread</a> <br>Next<br>• Complete Clinical History Page"
+  },
+  {
+    "id": 1747506931970899,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-05-17T13:05:31.970Z",
+    "text": "May 17th<br>• Made changes in <a href=\"https://github.com/ohcnetwork/care_fe/pull/12336\">Clinical History</a> page<br>• Went through Billing Doc from bodhi&#x27;s PR <br>• Explored changes done in lab-v2 branch<br>Next<br>• Not sure , since it’s Sunday"
+  },
+  {
+    "id": 1747601133076909,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-05-18T15:15:33.076Z",
+    "text": "May 18th<br>• Comment on PR asking for changes<br>• Made changes in PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/12257\">Enhancement: Add Crop Image functionality to restrict within size and ratio 1: 1</a><br>• Django for all course explored <br>Next<br>• Connect with vinu over design doubts"
+  },
+  {
+    "id": 1747685891300439,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-05-19T14:48:11.300Z",
+    "text": "May 19th<br>• Made changes in PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/12257\">Enhancement: Add Crop Image functionality to restrict within size and ratio 1: 1</a><br>• Django for all course explored<br>• Made changes in <a href=\"https://github.com/ohcnetwork/care_fe/pull/12336\">Clinical History</a> page<br>Next<br>• Weekly Review Meet"
+  },
+  {
+    "id": 1747843853280759,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-05-21T10:40:53.280Z",
+    "text": "May 20<br>• Weekly Review Call<br>• Resolve conflicts in <a href=\"https://github.com/ohcnetwork/care_fe/pull/12336\">Clinical History</a><br>• Long Call with Vinu: Empty states for the Patient Clinical History pages, User flow for Clinical History and questionnaire sections<br>• Made changes in PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/12257\">Enhancement: Add Crop Image functionality to restrict within size and ratio 1: 1</a><br>• Made a new PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/12366\">Fix: Responsiveness issue in the Update button dropdown for Encounter Action</a><br>Next<br>• Look for new issues/tasks"
+  },
+  {
+    "id": 1747929928450759,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-05-22T10:35:28.450Z",
+    "text": "May 21st<br>• Practical Exam<br>• Made minor changes in PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/12005\">Cypress test to add department and team in a facility Management</a><br>• Made a new PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/12366\">Fix: Responsiveness issue in the Update button dropdown for Encounter Action</a><br>• <span class=\"s-emoji\">👨‍💻</span>  design of clinical report table and empty state <br>Next<br>• Practical <br>• Look for new issues/tasks"
+  },
+  {
+    "id": 1748094712349379,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-05-24T08:21:52.349Z",
+    "text": "May 22nd<br>• Made design changes implementation in Clinical Report <br>• Made minor changes in PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/12005\">Cypress test to add department and team in a facility Management</a><br>Next<br>• Look for new issues/tasks"
+  },
+  {
+    "id": 1748193192416949,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-05-25T11:43:12.416Z",
+    "text": "May 23rd<br>• Huddle with Khavin on Cypress changes requested <br>• Made minor changes in same PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/12005\">Cypress test to add department and team in a facility Management</a><br>• Add Load more functionality by using useInfiniteQuery in clinical history (Major time consumed task)<br>• Try to fix few bugs noticed in crop functionality for upload PR eventually closed the PR <br>Next<br>• Made a new PR with diff package to add crop functionality"
+  },
+  {
+    "id": 1748278462212439,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-05-26T11:24:22.212Z",
+    "text": "May 24th<br>• Created a new PR: <a href=\"https://github.com/ohcnetwork/care_fe\"> </a><a href=\"https://github.com/ohcnetwork/care_fe/pull/12404\">Add Crop Image functionality to restrict within size and ratio</a><br>• Merged PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/12366\">Fix: Responsiveness issue in the Update button dropdown for Encounter Action</a><br>• Made changes in PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/12035\">Enhancement: Allow multiple Additional Instructions in Medication Request</a><br>• Made changes in PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/12094\">Enhancement: Add generic RelativeDateTooltip component for viewing relative date</a><br>Next<br>• Look for new issues/tasks"
+  },
+  {
+    "id": 1748368814144989,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-05-27T12:30:14.144Z",
+    "text": "May 26th<br>• Exam<br>• Comment on few PRs. asking for changes<br>• Merged PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/12005\">Cypress test to add department and team in a facility Management</a><br>Next<br>• Weekly review call<br>• Look for new issues/tasks"
+  },
+  {
+    "id": 1748388861538799,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-05-27T18:04:21.538Z",
+    "text": "May 27th<br>• Weekly Review Meet <br>• Comment on PRs asking for changes <br>• Exam prep<br>• Merged PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/12035\">Enhancement: Allow multiple Additional Instructions in Medication Request</a><br>Next<br>• Exam"
+  },
+  {
+    "id": 1748458436720139,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-05-28T13:23:56.720Z",
+    "text": "May 28th <br>• Exam<br>• Looked upon some issues for assign<br>Next <br>• Keep looking"
+  },
+  {
+    "id": 1748549178649019,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-05-29T14:36:18.649Z",
+    "text": "May 29th<br>• Exam Prep<br>• Created an issue : <a href=\"https://github.com/ohcnetwork/care_fe/issues/12449\">Bug: FacilityOrg form is submittimg even when no changes are made in Edit</a><br>• Made PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/12442\">Fix: Disable FacilityOrg Form Submit when no changes made while Editing </a><br>• Merged PR : above one <br>• Merged PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/12094\">Enhancement: Add generic RelativeDateTooltip component for viewing relative date</a><br>• Got assigned an issue about tab navigation fails <br>• Comment on PRs asking for changes<br>Next<br>• Exam <br>• Made Pr for assigned issue after exam"
+  },
+  {
+    "id": 1748685432293709,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-05-31T04:27:12.293Z",
+    "text": "May 30th<br>• Exam<br>• Made a PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/12469\">Fix: Tab key does not navigate correctly across form fields in user create form</a><br>• Comment on some PRs asking for changes<br>Next<br>• Looking new issues"
+  },
+  {
+    "id": 1748770374758889,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-06-01T04:02:54.758Z",
+    "text": "May 31st<br>• Comment on PR asking for changes<br>• Made minor changes in PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/12469\">Fix: Tab key does not navigate correctly across form fields in user create form</a><br>Next<br>• Look for new issues/tasks"
+  },
+  {
+    "id": 1748973197330639,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-06-03T12:23:17.330Z",
+    "text": "June 3rd<br>• Weekly Review Meet <br>• Merged PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/12469\">Fix: Tab key does not navigate correctly across form fields in user create form</a><br>• Merged PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/12480\">Fix: Enable Edit User details when no email is present</a><br>• Comemnt on PRs asking for changes <br>Next<br>• Push PR for assigned issue"
+  },
+  {
+    "id": 1748979008015629,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-06-03T14:00:08.015Z",
+    "text": "June 2nd<br>• Comemnt on PRs asking for changes<br>• Exam <br>• Was not feeling well (specially after writing exam ) :melting_face: <br>Next<br>• Weekly Review Meet"
+  },
+  {
+    "id": 1749061836278469,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-06-04T13:00:36.278Z",
+    "text": "June 4th<br>• Exam<br>• Made PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/12515\">Fix: auto-scroll to error fields in schedule creation / edit form</a><br>• Made PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/12507\">Redesign FacilityOrganization (dept/team) list view section</a><br>Next<br>•  changes requested by nihal on crop functionality PR"
+  },
+  {
+    "id": 1749161864401719,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-06-05T16:47:44.401Z",
+    "text": "June 5th<br>• Created an issue: <a href=\"https://github.com/ohcnetwork/landing/issues/71\">Add “Career” Option to Navbar</a><br>• Made changes in PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/12404\">Add Crop Image functionality to restrict within size and ratio </a>(Ready for re-test and review)<br>• Made minor changes in PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/12507\">Redesign FacilityOrganization (dept/team) list view section</a><br>Next<br>• Exam"
+  },
+  {
+    "id": 1749358014175009,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-06-07T23:16:54.175Z",
+    "text": "June 6th <br>• Exam <br>• Comment on PR asking for changes <br>• Pushed minor changes to Crop Functionality PR <br>Next <br>• Weekend"
+  },
+  {
+    "id": 1749486861877049,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-06-09T11:04:21.877Z",
+    "text": "June 7th and 8th<br>• Comment on PRs asking for changes <br>• Exam Prep<br>Next <br>• Exam"
+  },
+  {
+    "id": 1749580070843609,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-06-10T12:57:50.843Z",
+    "text": "June 10th<br>• Weekly review meet <br>• Pushed changes in PR: Fix scroll to error in schedule form<br>• Comment on PRs asking for changes <br>Next<br>• Looking for new issues tasks"
+  },
+  {
+    "id": 1749656800640259,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-06-11T10:16:40.640Z",
+    "text": "June 11th<br>• Comment on few PRs for changes required <br>• Minor changes push to solve conflicts : <a href=\"https://github.com/ohcnetwork/care_fe/pull/12404\">Add Crop Image functionality to restrict within size and ratio </a>(needs review , already tested)<br>• Created an issue : <a href=\"https://github.com/ohcnetwork/care_fe/issues/12591\">Restrict the access to admin Routes to admin only</a><br>• Solved above issue on local<br>Next<br>• Look for new issues/tasks"
+  },
+  {
+    "id": 1749743764827809,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-06-12T10:26:04.827Z",
+    "text": "June 12<br>• Comment on PRs for changes<br>Next <br>• Looking for new issues tasks"
+  },
+  {
+    "id": 1749828010769039,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-06-13T09:50:10.769Z",
+    "text": "June 13<br>• Merged PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/12507\">Redesign FacilityOrganization (dept/team) list view section</a><br>• Made changes in PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/12404\">Add Crop Image functionality to restrict within size and ratio </a><br>• Made changes in PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/12515\">Fix: auto-scroll to error fields in schedule creation / edit form</a><br>• Comment on PRs for changes <br>• answers some doubts on setup backend in dm <br>Next<br>• Heading to major merge conflicts in <a href=\"https://github.com/ohcnetwork/care_fe/pull/12404\">Add Crop Image functionality to restrict within size and ratio </a><br>• Look for new issues/tasks"
+  },
+  {
+    "id": 1749911002974399,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-06-14T08:53:22.974Z",
+    "text": "June 14th<br>• Created an issue : Heatmap Overflowing — Year Change Button Not Accessible <a href=\"https://github.com/ohcnetwork/leaderboard/issues/618\">#618</a><br>• Comment on PRs for changes required <br>Next<br>• Look for new issues/tasks"
+  },
+  {
+    "id": 1749998931990349,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-06-15T09:18:51.990Z",
+    "text": "June 15th<br>• Comment on some PRs <br>• Head back to home <br>Next<br>• Look for new issues/tasks"
+  },
+  {
+    "id": 1750091620939739,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-06-16T11:03:40.939Z",
+    "text": "June 16th<br>• Review own review comment to re-check if valid one or not <br>• Created an issue: <a href=\"https://github.com/ohcnetwork/care_fe/issues/12626\">Delete feature for organizations (Dept/Team)</a><br>• Comment on PRs for changes <br>Next<br>• Look for new issues/tasks<br>• Work on above created issue if get assigned"
+  },
+  {
+    "id": 1750172573630829,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-06-17T09:32:53.630Z",
+    "text": "June 17<br>• Weekly Review meet <br>• Opened a PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/12632\">Enable Delete Functionality for Organizations (dept/team)</a><br>• Opened a PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/12636\">Minor </a><code>EncounterInfoCard</code><a href=\"https://github.com/ohcnetwork/care_fe/pull/12636\"> UI fix to make it work for location association card as well</a><br>• Reported an issue: <a href=\"https://github.com/ohcnetwork/care_fe/issues/12635\">EncounterInfoCard UI Update Breaks Location Association Display</a><br>• Comment on PRs for changes <br>• Connect with <span class=\"s-mention s-user\">@U06M96TV77E</span> over changes required in Questionnaire Preview design PR to match with figma <br>• Read about zod v4<br>Next<br>• Looking for new issues/tasks"
+  },
+  {
+    "id": 1750265750457199,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-06-18T11:25:50.457Z",
+    "text": "June 18th<br>• Zod doc <br>• Code the migration to zod v4 <br>• Comment on PRs for changes <br>Next<br>• Look for new issues/tasks"
+  },
+  {
+    "id": 1750352883055989,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-06-19T11:38:03.055Z",
+    "text": "June 19th<br>• Created an issue: <a href=\"https://github.com/ohcnetwork/care_fe/issues/12655\">Unable to Submit Consent Edit Form</a><br>• Opened a new PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/12656\">Fix: Unable to Submit Consent Edit Form</a><br>• Comment on PRs for changes <br>• Upgrade on zod v4 in process....<br>• a lot of dms <br>Next<br>• Continue with zod v4 upgradation"
+  },
+  {
+    "id": 1750433407616479,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-06-20T10:00:07.616Z",
+    "text": "June 20th<br>• Created an issue: <a href=\"https://github.com/ohcnetwork/care_fe/issues/12664\">Restricting Creating Bed Location when no parent location is present</a><br>• Created an issue: <a href=\"https://github.com/ohcnetwork/care_fe/issues/12671\">Create </a><code>ScrollToTop</code><a href=\"https://github.com/ohcnetwork/care_fe/issues/12671\"> Button to scroll on top of page</a><br>• Created an issue: <code>AutoComplete</code><a href=\"https://github.com/ohcnetwork/care_fe/issues/12672\"> not getting scroll and focused on error</a><br>• <span class=\"s-emoji\">👨‍💻</span>  solutions of above issues<br>• Comment on PRs for changes<br>• dms<br>• checkout some old issues <br>next<br>• Weekend"
+  },
+  {
+    "id": 1750523879101869,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-06-21T11:07:59.101Z",
+    "text": "june 21<br>• Opened a PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/12676\">Create </a><code>ScrollToTop</code><a href=\"https://github.com/ohcnetwork/care_fe/pull/12676\"> button to scroll on top of the page used in QuestinnaireEditor</a><br>• Opened a PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/12681\">Fix: AutoComplete not getting scroll and focused on error</a><br>• Comment on a pr for minor changes<br>Next<br>• Sunday"
+  },
+  {
+    "id": 1750689326246799,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-06-23T09:05:26.246Z",
+    "text": "23 June<br>• Merged PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/12404\">Add Crop Image functionality to restrict within size and ratio</a><br>• Merged PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/12656\">Fix: Unable to Submit Consent Edit Form</a><br>• Opened a PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/12688\">Upgrade to Zod v4 Part 1</a><br>• Self review: <a href=\"https://github.com/ohcnetwork/care_fe/pull/12688\">Upgrade to Zod v4 Part 1</a> (github files section <span class=\"s-emoji\">🙌</span>)<br>• Update the PR to use more accurate technical approach: <a href=\"https://github.com/ohcnetwork/care_fe/pull/12681\">Fix: AutoComplete not getting scroll and focused on error</a><br>• Created a GFI : <a href=\"https://github.com/ohcnetwork/care_fe/issues/12682\">Update the input mode to numpad for Age Input in Public Patient Registration Form</a><br>• Created a GFI : <a href=\"https://github.com/ohcnetwork/care_fe/issues/12695\">Switch to use Table View for Questionnaire and ValueSet Listing Page for medium screen</a><br>• Comment on PRs for changes <br>• Short participation in slack thread <a href=\"https://rebuildearth.slack.com/archives/C010GQBMFJ9/p1750675008569889\">https://rebuildearth.slack.com/archives/C010GQBMFJ9/p1750675008569889</a><br>• Comment on some issues<br>Next<br>• Weekly Review Meet <br>• try to push zod v4 part 2 PR"
+  },
+  {
+    "id": 1750788192620319,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-06-24T12:33:12.620Z",
+    "text": "June 24th<br>• Weekly Review meet<br>• Comment on PRs for changes <br>next<br>• Push zod v4 part 2 pR"
+  },
+  {
+    "id": 1750865874794969,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-06-25T10:07:54.794Z",
+    "text": "<strong>june 25th</strong><br>• Created an issue : <a href=\"https://github.com/ohcnetwork/care_fe/issues/12714\">Tooltip Appears on Trigger Button After Closing Alert Dialog on Location</a><br>• Created an issue: <a href=\"https://github.com/ohcnetwork/care_fe/issues/12713\">Double Border on &lt;Input /</a> Component Focus State&gt;<br>• Code zod v4 Part 2 <br>• Participate in thread: <a href=\"https://rebuildearth.slack.com/archives/C010GQBMFJ9/p1750501103714549\">https://rebuildearth.slack.com/archives/C010GQBMFJ9/p1750501103714549</a><br>• dms/huddle <br>next<br>• Look for new issues/tasks"
+  },
+  {
+    "id": 1750948349835149,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-06-26T09:02:29.835Z",
+    "text": "<strong>june 26th</strong><br>• Created an issue: <a href=\"https://github.com/ohcnetwork/care_fe/issues/12720\">Use </a><code>select</code><a href=\"https://github.com/ohcnetwork/care_fe/issues/12720\"> in useQuery for PaginatedResponse to simplify data access</a><br>• Created an issue: <a href=\"https://github.com/ohcnetwork/care_fe/issues/12721\">Questionnaire Editor UI broke for mobile screen</a><br>• Opened a PR for above issue: <a href=\"https://github.com/ohcnetwork/care_fe/pull/12722\">Fix: Questionnaire Editor UI broke due to bug in Questionnaire Properties rendering</a><br>• Merged PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/12681\">Fix: AutoComplete not getting scroll and focused on error</a><br>• Made some changes in PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/12676\">Create </a><code>ScrollToTop</code><a href=\"https://github.com/ohcnetwork/care_fe/pull/12676\"> button to scroll on top of the page used in QuestinnaireEditor</a><br>• Made changes in PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/12515\">Fix: auto-scroll to error fields in schedule creation / edit form</a><br>• dms/huddle<br>• Participation in thread: <a href=\"https://rebuildearth.slack.com/archives/C07T8Q59CNN/p1750926801255009\"><a href=\"https://rebuildearth.slack.com/archives/C07T8Q59CNN/p1750926801255009\">https://rebuildearth.slack.com/archives/C07T8Q59CNN/p1750926801255009</a></a><br>• Comment on PRs for changes (+ leaderboard-data PRs)<br>next<br>• Look for new issues/tasks"
+  },
+  {
+    "id": 1751040652332209,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-06-27T10:40:52.332Z",
+    "text": "june 27<br>• Created an issue: <a href=\"https://github.com/ohcnetwork/care_fe/issues/12732\">Medication table overflowing in Encounter Medication Section</a><br>• Created an issue: <a href=\"https://github.com/ohcnetwork/care_fe/issues/12736\">Use Shadcn </a><code>select</code><a href=\"https://github.com/ohcnetwork/care_fe/issues/12736\"> for language selector in user profile</a><br>• Made minor changes in PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/12722\">Fix: Questionnaire Editor UI broke due to bug in Questionnaire Properties rendering</a><br>• dms<br>• Got assigned an issue <br>• Comment on PRs for changes <br>Next<br>• Made pr for assigned issue"
+  },
+  {
+    "id": 1751132208868869,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-06-28T12:06:48.868Z",
+    "text": "june 28th<br>• Made a minor fix: <a href=\"https://github.com/ohcnetwork/care_fe/pull/12750\">Fix: Tooltip position for username in User Profile page</a><br>• Comment on PRs for changes <br>• Worked on issue: <a href=\"https://github.com/ohcnetwork/care_fe/issues/12735\">Bug: Pan not working on image/file preview after zoom on mobile</a><br>next<br>• Raise PR for above worked issue"
+  },
+  {
+    "id": 1751306883677819,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-06-30T12:38:03.677Z",
+    "text": "june 30th<br>• Made a PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/12753\">Fix: Pinch for zooming for image/file preview and dragging for img</a><br>• not feeling well so couldn&#x27;t do else<br>next<br>• Complete above pr"
+  },
+  {
+    "id": 1751385960557589,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-07-01T10:36:00.557Z",
+    "text": "july 1st<br>• Weekly Review meet <br>• Merged PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/12750\">Fix: Tooltip position for username in User Profile page</a><br>• Made some changes in PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/12753\">Fix: Pinch for zooming for image/file preview and dragging for img</a><br>next<br>• Look for new issues/tasks"
+  },
+  {
+    "id": 1751474092030259,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-07-02T11:04:52.030Z",
+    "text": "July 2nd<br>• Comment on PRs for changes <br>Next<br>• Looking for new issues tasks"
+  },
+  {
+    "id": 1751561613627759,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-07-03T11:23:33.627Z",
+    "text": "july 3rd<br>• Created an issue: <a href=\"https://github.com/ohcnetwork/care_fe/issues/12783\">Replace </a><code>Popover</code><a href=\"https://github.com/ohcnetwork/care_fe/issues/12783\"> + </a><code>Calendar</code><a href=\"https://github.com/ohcnetwork/care_fe/issues/12783\"> with date-picker in codebase</a><br>• dms<br>• Comment on PRs for changes <br>next<br>• Look for new issues/tasks"
+  },
+  {
+    "id": 1751648153461529,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-07-04T11:25:53.461Z",
+    "text": "july 4th<br>• Created an issue: <a href=\"https://github.com/ohcnetwork/care_fe/issues/12794\">Close Country dropdown on selection</a><br>• Made minor changes in PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/12515\">Fix: auto-scroll to error fields in schedule creation / edit form</a><br>• Comment on PRs for changes <br>next<br>• Look for new issues/tasks"
+  },
+  {
+    "id": 1751739714298939,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-07-05T12:51:54.298Z",
+    "text": "july 5th<br>•  Comment on PRs for changes <br>next<br>•  Look for new issues/tasks"
+  },
+  {
+    "id": 1751821518439259,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-07-06T11:35:18.439Z",
+    "text": "july 6th<br>• Gone through leaderboard-data prs"
+  },
+  {
+    "id": 1751993060527939,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-07-08T11:14:20.527Z",
+    "text": "july 8th<br>• Weekly Review meet <br>• comment on prs for changes <br>next<br>• Look for new issues/tasks <br>• Work on existing PR"
+  },
+  {
+    "id": 1752079516082109,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-07-09T11:15:16.082Z",
+    "text": "July 9th<br>• Worked on changes for PR: Fix: Pinch for zooming for image/file preview and dragging for img <a href=\"https://github.com/ohcnetwork/care_fe/pull/12753\">12753</a> <br>• Comment on leaderboard data PRs<br>Next <br>• Look for new issues tasks"
+  },
+  {
+    "id": 1752170484611319,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-07-10T12:31:24.611Z",
+    "text": "july 10th<br>• Made some minor changes in PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/12753\">Fix: Pinch for zooming for image/file preview and dragging for img</a><br>• Solved merge conflicts in PRs; <a href=\"https://github.com/ohcnetwork/care_fe/pull/12688\">Upgrade to Zod v4 Part 1</a> and <a href=\"https://github.com/ohcnetwork/care_fe/pull/11919\">Redesigned DeviceList Page and Add Location Filter on DeviceList</a><br>• PR got closed :melting_face: : <a href=\"https://github.com/ohcnetwork/care_fe/pull/12336\">Clinical History page</a><br>• Comment on PRs for changes <br>• some dms <br>Next<br>• Look for new task"
+  },
+  {
+    "id": 1752256237199769,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-07-11T12:20:37.199Z",
+    "text": "july 11th<br>• Created an issue: <a href=\"https://github.com/ohcnetwork/care_fe/issues/12863\">Show Patient Name instead of Account name in Patient column in Accounts</a><br>• Created an issue: <a href=\"https://github.com/ohcnetwork/care_fe/issues/12873\">Allow users to create a new Location directly when assigning a Location to an Encounter</a><br>• Huddle with Abhimanyu over Clinical history design <br>• Gone through figma design for above <br>• Comment on PRs for changes <br>next<br>• Work on design for clinical history"
+  },
+  {
+    "id": 1752324014361609,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-07-12T07:10:14.361Z",
+    "text": "july 12th<br>• worked on clinical history tables redesign <br>• created a pr : <a href=\"https://github.com/ohcnetwork/care_fe/pull/12882\">Clinical History Tables Redesign</a><br>next<br>• continue with above"
+  },
+  {
+    "id": 1752427399317939,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-07-13T11:53:19.317Z",
+    "text": "july 13th<br>• continued working on Clinical history tables redesign<br>• dms<br>• Created issue: <a href=\"https://github.com/ohcnetwork/care_fe/issues/12884\">Restrict ValueSet preview trigger when there is error in form</a><br>• Created issue: <a href=\"https://github.com/ohcnetwork/care_fe/issues/12886\">Fix console warning for Encounter view page</a><br>• Created issue: <a href=\"https://github.com/ohcnetwork/care_fe/issues/12893\">Encounter overview tab Show Add Questionnaire for mobile</a><br>• Created issue: <a href=\"https://github.com/ohcnetwork/care_fe/issues/12894\">Position Patient Registration form at centre</a><br>• Opened a minor fix pr: <a href=\"https://github.com/ohcnetwork/care_fe/pull/12887\">Fix: Encounter overview overflowing due to overflowing of tabs</a><br>next<br>• monday"
+  },
+  {
+    "id": 1752509767451799,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-07-14T10:46:07.451Z",
+    "text": "july 14<br>• huddle with vinu and anagha over design for clinical history <br>• made changes in older prs as per review <br>• encounter new issue on overview tab and tried to find the root cause for it but ........(next: file issue)<br>• try multiple methods to fix an ui issue on clinical history table redesign pr <br>• broke the earphone <br>next<br>• find new headphones to buy (probably put comment on watercooler to ask what to buy)<br>• continue with clinical history tables redesign"
+  },
+  {
+    "id": 1752591073297279,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-07-15T09:21:13.297Z",
+    "text": "july 15th<br>• weekly review call<br>• created issue : <a href=\"https://github.com/ohcnetwork/care_fe/issues/12918\">Allergies are not rendering for Clinical history</a><br>• created issue: <a href=\"https://github.com/ohcnetwork/care_fe/issues/12919\">Show Relativedatetime for audit log for encounter</a><br>• created issue: <a href=\"https://github.com/ohcnetwork/care_fe/issues/12921\">Fix splitting of block across pages when printing using </a><code>break-inside-avoid</code><a href=\"https://github.com/ohcnetwork/care_fe/issues/12921\"> property</a><br>• comment on prs for changes <br>• merged pr: <a href=\"https://github.com/ohcnetwork/care_fe/pull/12753\">Fix: Pinch for zooming for image/file preview and dragging for img</a> (co-authored by <span class=\"s-mention s-user\">@U07NXCASM89</span> and <span class=\"s-mention s-user\">@U086E5U2CSJ</span> thanks guys ...)<br>• connect with Anagha over clinical history card design <br>• made commits in Clinical History table pr <br>next<br>• get a review for clinical history table design"
+  },
+  {
+    "id": 1752682916252699,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-07-16T10:51:56.252Z",
+    "text": "july 16<br>• debug the root cause for encounter overview tab overflow issue (spend most of time into this)<br>• created an issue: <a href=\"https://github.com/ohcnetwork/care_fe/issues/12949\">Allow duplicate Allergy, diagnosis and symptoms if already saved , prevent only during new entry</a> as per slack conversation <br>• dms ( a lot of :melting_face: )<br>• minor changes to clinical history tables pr (design related only)<br>• brainstormed like crazy for <em>Go to Encounter</em> option logic in tables… but yeah…<br>• slack threads: <a href=\"https://rebuildearth.slack.com/archives/C010GQBMFJ9/p1752667845325229\">thread-1</a> and <a href=\"https://rebuildearth.slack.com/archives/C010GQBMFJ9/p1752675687918819\">thread-2</a><br>• comment on prs for changes <br>next<br>• continue on working as per feedback for tables redesign <br>• anything extra that magically lands on my plate"
+  },
+  {
+    "id": 1752776884675029,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-07-17T12:58:04.675Z",
+    "text": "july 17th<br>•  <span class=\"s-emoji\">🎧</span> w. <span class=\"s-mention s-user\">@U086E5U2CSJ</span> over : Encounter overview tab overflow root cause <br>• Add generic row component used by all three tables: - Allergies ,symptoms and diagnosis commit: <a href=\"https://github.com/ohcnetwork/care_fe/pull/12882/commits/547d94fae461158fc59f79135950e26b75d21e7e\">547d94f</a><br>• wrote this comment on same pr: <a href=\"https://github.com/ohcnetwork/care_fe/pull/12882#issuecomment-3083696197\">comment</a><br>• worked on enhancements to PractitionerSelector and pinged <span class=\"s-mention s-user\">@U07NXCASM89</span>  to check with final expected behaviour<br>• worked on add history button to all three accordions : Allergies, symptoms and diagnosis <br>• dms <br>• comment on prs for changes <br>• created an issue: <a href=\"https://github.com/ohcnetwork/care_fe/issues/12960\">Remove unnecessary scroll for patient detail page on medium screen</a><br>next<br>• open a pr for practitioner selector and history button mentioned above <br>• a pr got merged on which i have a doubt approach contributor used so clarify it with some core member ( important)"
+  },
+  {
+    "id": 1752854605969709,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-07-18T10:33:25.969Z",
+    "text": "july 18th<br>• Made some changes in PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/11919\">Redesigned DeviceList Page and Add Location Filter on DeviceList</a><br>• Opened pr: <a href=\"https://github.com/ohcnetwork/care_fe/pull/12974\">Enhancement to Practitioner Selector</a><br>• Opened pr: <a href=\"https://github.com/ohcnetwork/care_fe/pull/12977\">Add History button to all three accordions - Alleriges, diagnosis and symptoms</a> (on hold as change are being made in design by vinu)<br>• Merged pr: <a href=\"https://github.com/ohcnetwork/care_fe/pull/12632\">Enable Delete Functionality for Organizations (dept/team)</a><br>• Solved minor conflicts in pr: <a href=\"https://github.com/ohcnetwork/care_fe/pull/12515\">Fix: auto-scroll to error fields in schedule creation / edit form</a><br>• Added empty state comp as per figma design commit: <a href=\"https://github.com/ohcnetwork/care_fe/pull/12882/commits/ff23cc24ca409f5cd58732ec21f247193382b4f1\">add empty state</a><br>• Comment on Prs for changes <br>• dms<br>• spent some time on figma <br>next<br>• continue doing what I do generally <br>• convince parents not wanna go to family function <span class=\"s-emoji\">😥</span>"
+  },
+  {
+    "id": 1752931363791309,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-07-19T07:52:43.791Z",
+    "text": "july 19th<br>• Family function<br>• Solved merge conflicts in PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/12974\">Enhancement to Practitioner Selector</a><br>• Opened PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/12989\">Add Clinical History for patient routes without facilityId</a><br>• reply to cursor comments <span class=\"s-emoji\">😑</span><br>• comment on prs for changes<br>• slack message for inactive issues so open to work on  <a href=\"https://rebuildearth.slack.com/archives/C07T8Q59CNN/p1752870102290919\">thread</a><br>• filed an issue in shadcn repo : <a href=\"https://github.com/shadcn-ui/ui/issues/7854\">https://github.com/shadcn-ui/ui/issues/7854</a><br>next<br>• sunday"
+  },
+  {
+    "id": 1753020867845449,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-07-20T08:44:27.845Z",
+    "text": "july 20<br>• Made a minor fix: <a href=\"https://github.com/ohcnetwork/care_fe/pull/12996\">Minor Fix: Sync selected tags when sheet opens or closes</a><br>• Reported an backend issue in slack: <a href=\"https://rebuildearth.slack.com/archives/C010GQBMFJ9/p1753008110367969\">https://rebuildearth.slack.com/archives/C010GQBMFJ9/p1753008110367969</a><br>• Worked on disallow duplicate selection for Patient Preparation in specimen definition form and used <code>useFieldArray</code>  for the same<br>• made changes in PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/12688\">Upgrade to Zod v4 Part 1</a>"
+  },
+  {
+    "id": 1753110072009599,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-07-21T09:31:12.009Z",
+    "text": "july 21<br>• Created an issue: <a href=\"https://github.com/ohcnetwork/care_fe/issues/13010\">Bug: Double backend request for Verify Patient Page</a><br>• comment on prs <br>• spent some time on figma <span class=\"s-emoji\">🎨</span><br>• solved merge conflicts"
+  },
+  {
+    "id": 1753195474554059,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-07-22T09:14:34.554Z",
+    "text": "July 22nd<br>• Weekly Review Meet <br>• Made changes in PR as per new design and some refactor : <a href=\"https://github.com/ohcnetwork/care_fe/pull/12977\">Add History button to all three accordions - Alleriges, diagnosis and symptoms</a><br>• created (reported actually ) couple of issues: <a href=\"https://github.com/ohcnetwork/care_fe/issues?q=is%3Aissue%20%20author%3AAdityaJ2305%20created%3A%40today-1d\">https://github.com/ohcnetwork/care_fe/issues?q=is%3Aissue%20%20author%3AAdityaJ2305%20created%3A%40today-1d</a><br>• zod v4 doc<br>• PR got closed :melting_face: : <a href=\"https://github.com/ohcnetwork/care_fe/pull/12515\">Fix: auto-scroll to error fields in schedule creation / edit form</a>  (there is a  chance of reviving it back <span class=\"s-emoji\">💀</span>)<br>• comment on some PRs <br>• solved merge conflicts in PRs: <a href=\"https://github.com/ohcnetwork/care_fe/pull/11919\">PR1</a> and <a href=\"https://github.com/ohcnetwork/care_fe/pull/12688\">PR2</a><br>• comments to revive another PR <span class=\"s-emoji\">💀</span>: <a href=\"https://github.com/ohcnetwork/care_fe/pull/12996#issuecomment-3102049532\">https://github.com/ohcnetwork/care_fe/pull/12996#issuecomment-3102049532</a>  but .......<br>next<br>• report some issues....."
+  },
+  {
+    "id": 1753286066166079,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-07-23T10:24:26.166Z",
+    "text": "july 23rd<br>• Report issued: <a href=\"https://github.com/ohcnetwork/care_fe/issues/13057\">Add Resizable feature for Dept/team listing page</a><br>• Reported issue: <a href=\"https://github.com/ohcnetwork/care_fe/issues/13062\">Responsive issue for Questionnaire Editor</a><br>• Reported issue: <a href=\"https://github.com/ohcnetwork/care_fe/issues/13056\">Prevent Duplicate selection for Patient Preparation in Specimen definition form</a><br>• Reported issue: <a href=\"https://github.com/ohcnetwork/care_fe/issues/13042\">Update the design for Goverance, Supplier and Roles under Organization tab</a><br>• Merged PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/12974\">Enhancement to Practitioner Selector</a><br>• Made PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/13060\">Minor fix: Fix UI for tagpopover loading state and add translation</a><br>• PR got closed :melting_face:: <a href=\"https://github.com/ohcnetwork/care_fe/pull/11919\">Redesigned DeviceList Page and Add Location Filter on DeviceList</a> <br>• Made changes in PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/12722\">Fix: Questionnaire Editor UI broke due to bug in Questionnaire Properties rendering</a><br>• Comment on PRs for changes <br>next<br>• Predict which PR is going to close next ...."
+  },
+  {
+    "id": 1753366199203289,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-07-24T08:39:59.203Z",
+    "text": "july 24<br>• Merged PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/13060\">Minor fix: Fix UI for tagpopover loading state and add translation</a><br>• Made a PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/13070\">Upgrade to zod v4 Part 2</a> (major time spent into this)<br>• comment on <span class=\"s-mention s-user\">@U082GUAL80N</span>’s PR for design changes <a href=\"https://github.com/ohcnetwork/care_fe/pull/12804#issuecomment-3112626410\">comment</a><br>next<br>• continue with part 3 PR <br>• try to remove workaround for some forms done in part 1 PR"
+  },
+  {
+    "id": 1753453486164399,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-07-25T08:54:46.164Z",
+    "text": "july 25<br>• Finally removed workaround and solve the issue as per root cause fixing solution :dancingparrot: : <a href=\"https://github.com/ohcnetwork/care_fe/pull/12688\">Upgrade to Zod v4 Part 1</a><br>• Opened an issue: <a href=\"https://github.com/ohcnetwork/care_fe/issues/13079\">Add Accordion for Medication Statement for Health Profile in Patient Home Page</a><br>• Made a PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/13078\">Minor UI Fix: Health Profile section for tablet/medium screen</a><br>• Made a PR: <a href=\"https://github.com/ohcnetwork/leaderboard-data/pull/154\">Update abeeto.md</a><br>• Merged PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/12977\">Add History button to all three accordions - Alleriges, diagnosis and symptoms</a><br>• Daily EOD call <br>next<br>• Weekend"
+  },
+  {
+    "id": 1753523604981779,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-07-26T04:23:24.981Z",
+    "text": "july 26<br>• Created issue: <a href=\"https://github.com/ohcnetwork/care_fe/issues/13093\">Expand upto child location if search matches in Location</a><br>• Created issue: <a href=\"https://github.com/ohcnetwork/care_fe/issues/13094\">Restrict duplicate selection for Requirements in Activity Definition Form</a><br>• Created issue: <code>ValueSetSelect</code><a href=\"https://github.com/ohcnetwork/care_fe/issues/13096\"> in forms not getting focus and scroll on Error</a><br>• Created issue:<a href=\"https://github.com/ohcnetwork/care_fe/issues/13095\">Medication Request Question UI is breaking on tablet screens</a><br>• comment on pr for changes <br>• dms"
+  },
+  {
+    "id": 1753634267019799,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-07-27T11:07:47.019Z",
+    "text": "July 27 <br>• Created an issue: <a href=\"https://github.com/ohcnetwork/care_fe/issues/13101\">ValueSetSelect selected value label text cutting out</a> <br>• Switched to using Firefox on learning Arc drains too much battery now let&#x27;s see for Firefox"
+  },
+  {
+    "id": 1753716266743419,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-07-28T09:54:26.743Z",
+    "text": "july 28th<br>• Created an issue: <a href=\"https://github.com/ohcnetwork/care_fe/issues/13118\">Refactor: Use white button as default for ValueSetSelect and remove duplicate Sheet code</a><br>• Huddle with Yash over above issue <br>• Worked on local for the same <br>next<br>• Weekly Review meet <br>• Raise PR for assigned issues"
+  },
+  {
+    "id": 1753801658545239,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-07-29T09:37:38.545Z",
+    "text": "july 29<br>• Weekly review meet <br>• Made a PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/13136\">Refactor ValueSetSelect : Make white trigger as defautl for mobile and remove duplicate code</a><br>• Reported an issue here: <a href=\"https://rebuildearth.slack.com/archives/C010GQC5UE9/p1753784331161919\">https://rebuildearth.slack.com/archives/C010GQC5UE9/p1753784331161919</a><br>• Comment on PRs for changes <br>next<br>• Raise PR for above reported issue <br>• Work on other PRs"
+  },
+  {
+    "id": 1753894692243619,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-07-30T11:28:12.243Z",
+    "text": "july 30th<br>• Resolved conflicts in PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/12688\">Upgrade to Zod v4 Part 1</a><br>• Made changes in PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/13136\">Refactor ValueSetSelect : Make white trigger as default for mobile and some Cleanup</a> <br>• Created issue: <a href=\"https://github.com/ohcnetwork/care_fe/issues/13150\">Bug: Storage guidlines&#x27;s Unit field using wrong ValueSetSelect</a><a href=\"https://github.com/ohcnetwork/care_fe/issues?q=is%3Aissue%20state%3Aopen%20label%3Aneeds-triage\">needs-triage</a><br>• Created issue: <a href=\"https://github.com/ohcnetwork/care_fe/issues/13160\">Bug: MedicationStatement in not handling product select for mobile and missing MedicationValuesetselect for desktop</a><br>• Made a PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/13157\">Fix: Update Storage guidlines&#x27;s Unit field to use </a><code>UCUM_TIME_UNITS</code><a href=\"https://github.com/ohcnetwork/care_fe/pull/13157\"> with codeschema</a><br>• Made a PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/13166\">Make </a><code>queryKeys</code><a href=\"https://github.com/ohcnetwork/care_fe/pull/13166\"> consistent for Specimen, Activity and Observation Definition</a><br>• Slack <a href=\"https://rebuildearth.slack.com/archives/C010GQBMFJ9/p1753525098084649\">discussion</a><br>• Reported another issue on slack: <a href=\"https://rebuildearth.slack.com/archives/C010GQBMFJ9/p1753871942199439\">https://rebuildearth.slack.com/archives/C010GQBMFJ9/p1753871942199439</a><br>• Comment on PRs for changes <br>next<br>• Create issue for issue reported on slack <br>• Make changes requested on PR"
+  },
+  {
+    "id": 1753973955799769,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-07-31T09:29:15.799Z",
+    "text": "july 31st<br>• Made changes in PR as per review and some cleanup : <a href=\"https://github.com/ohcnetwork/care_fe/pull/12882\">Allergies ,Symptoms and Diagnosis Table Card Redesigned</a> <br>• Opened an issue: <a href=\"https://github.com/ohcnetwork/care_fe/issues/13170\">Bug: Alert is not triggering on removing option from Favourites in ValueSetSelect</a><br>• Resolved conflicts and changes in PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/13136\">Refactor ValueSetSelect : Make white trigger as default for mobile and some Cleanup</a><br>• <span class=\"s-emoji\">🎧</span> &#x27;s with <span class=\"s-mention s-user\">@U0576PEACG0</span> over ValueSetSelect and EntitySelectionSheet refactoring  and discussion over this <a href=\"https://github.com/ohcnetwork/care_fe/issues/13160\">issue</a><br>• Opened an issue: <a href=\"https://github.com/ohcnetwork/care_fe/issues/13181\">Standardize input borders to border-gray-300</a><br>• Comments on PRs for changes <br>• <span class=\"s-emoji\">🎧</span> with <span class=\"s-mention s-user\">@U08TZ7ZH42F</span> over this <a href=\"https://rebuildearth.slack.com/archives/C010GQBMFJ9/p1753964917141759?thread_ts=1753871942.199439&amp;amp;cid=C010GQBMFJ9\">issue</a> and finalise this <a href=\"https://github.com/ohcnetwork/care_fe/pull/13179#issuecomment-3139827259\">approach</a><br>next<br>• Try if some cleanup can be done in EntitySelectionSheet component <br>• Work on assigned issues"
+  },
+  {
+    "id": 1754057362893909,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-08-01T08:39:22.893Z",
+    "text": "Aug 1<br>• Code the approach suggested <a href=\"https://github.com/ohcnetwork/care_fe/pull/13179?notification_referrer_id=NT_kwDOCNdDJrUxNzkzMTYxNTI0NjoxNDgzMjUxNTg#issuecomment-3139827259\">here</a> and shared demo video in <a href=\"https://github.com/ohcnetwork/care_fe/pull/13179?notification_referrer_id=NT_kwDOCNdDJrUxNzkzMTYxNTI0NjoxNDgzMjUxNTg#issuecomment-3141166355\">comment</a> <br>• Made a new PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/13197\">Fix: ValueSetSelect not getting focus and scroll on form errors</a><br>• Made changes in PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/12989\">Add Clinical History for patient routes</a><br>• Resolved conflicts in PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/12688\">Upgrade to Zod v4 Part 1</a><br>• Opened issue: <a href=\"https://github.com/ohcnetwork/care_fe/issues/13200\">Fix the initial load UI for ValueSetSelect</a><br>• Opened issue: <a href=\"https://github.com/ohcnetwork/care_fe/issues/13199\">Add </a><code>ref={field.ref}</code><a href=\"https://github.com/ohcnetwork/care_fe/issues/13199\"> to Select trigger used inside Form and wrap inside </a><code>FormControl</code><br>• Daily EOD call<br>next<br>• Work on one assigned issue pending <br>• Keep resolving conflicts"
+  },
+  {
+    "id": 1754158500358839,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-08-02T12:45:00.358Z",
+    "text": "Aug 2<br>• Opened an issue: <a href=\"https://github.com/ohcnetwork/care_fe/issues/13206\">Tooltip remains visible for pagination component</a><br>• Dropped a <a href=\"https://rebuildearth.slack.com/archives/C07T8Q59CNN/p1754125702839919\">message</a> on slack intern channel<br>• Comment on PRs for changes <br>• Daily EOD call <br>next<br>• Work on one assigned issue pending"
+  },
+  {
+    "id": 1754244900309739,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-08-03T12:45:00.309Z",
+    "text": "Aug 3rd<br>• Made a PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/13222\">Hide Action buttons when No Active Account for Account Sheet</a><br>• Commented on some PRs for changes <br>• Commented on some inactive issues asking for updated status <br>• Found root cause for issue: <a href=\"https://github.com/ohcnetwork/care_fe/issues/13168\">Bug: Adding new form in RequirementsSelector Throws validation error</a><br>• dms<br>• Opened an issue: <a href=\"https://github.com/ohcnetwork/care_fe/issues/13224\">Blank space on right side of notes tab in patient home page</a><br>Next<br>• Work on one assigned issue pending"
+  },
+  {
+    "id": 1754331300985359,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-08-04T12:45:00.985Z",
+    "text": "Aug 4th<br>• Quick Huddle with Yash for discussing a point for below PR<br>• Made PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/13253\">Fix: Render MedicationValueSetSelect when onProductEntitySelected is provided in EntitySelectionSheet</a><br>• Opened issue: <a href=\"https://github.com/ohcnetwork/care_fe/issues/13242\">UI issues: Invoice Listing Page and Invoice Detail Page</a><br>• Opened issue: <a href=\"https://github.com/ohcnetwork/care_fe/issues/13237\">Refactor code for Heading and Page title</a><br>• Opened issue: <a href=\"https://github.com/ohcnetwork/care_fe/issues/13236\">Misalignment of Badges in Payment Receipt</a><br>• Resolved conflicts in PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/13070\">Upgrade to zod v4 Part 2</a><br>Next<br>• Try to get existing PRs review and test"
+  },
+  {
+    "id": 1754417700963169,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-08-05T12:45:00.963Z",
+    "text": "Aug 5<br>• Opened issue: <a href=\"https://github.com/ohcnetwork/care_fe/issues/13255\">Responsive Issue for Specimen Definition lisiting page on mobile screen</a><br>• Opened issue: <a href=\"https://github.com/ohcnetwork/care_fe/issues/13257\">Mismatch between results in Pages for Permission page</a><br>• Opened issue: <a href=\"https://github.com/ohcnetwork/care_fe/issues/13256\">Bug: No Information regarding Account and Patient on Payment detail page and Print</a><br>• Comment on PRs for changes <br>next<br>• Try to get existing PRs review and test"
+  },
+  {
+    "id": 1754504100378239,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-08-06T12:45:00.378Z",
+    "text": "Aug 6th<br>• Opened issue: <a href=\"https://github.com/ohcnetwork/care_fe/issues/13276\">Show Logo loading for Product knowledge view detail page</a><br>• Resolved conflicts in PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/12688\">Upgrade to Zod v4 Part 1</a><br>next<br>• Keep resolving conflicts <br>• Look for new task<br>• Try to get existing PRs review and test"
+  },
+  {
+    "id": 1754590500875719,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-08-07T12:45:00.875Z",
+    "text": "Aug 7th<br>• Opened issue: <a href=\"https://github.com/ohcnetwork/care_fe/issues/13301\">Enhancements for Payment detail page</a><br>• Comment on PR for changes <br>next<br>• Look for new task<br>• Try to get existing PRs review and test"
+  },
+  {
+    "id": 1754676901188089,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-08-08T12:45:01.188Z",
+    "text": "Aug 8th<br>• Opened issue: <a href=\"https://github.com/ohcnetwork/care_fe/issues/13310\">Enhancement for Card design of Tag config listing page</a><br>next<br>• Look for new task<br>• Try to get existing PRs review and test"
+  },
+  {
+    "id": 1754763300119049,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-08-09T12:45:00.119Z",
+    "text": "Aug 9<br>• Comment on PRs for changes <br>• Daily EOD call<br>next<br>• Look for new task<br>• Try to get existing PRs review and test"
+  },
+  {
+    "id": 1754844994944939,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-08-10T11:26:34.944Z",
+    "text": "Aug 10<br>• Comment on PRs for changes <br>• Opened an issue: <a href=\"https://github.com/ohcnetwork/care_fe/issues/13329\">Title is getting truncate for mobile screen for healthcare service card</a><br>• Head ache"
+  },
+  {
+    "id": 1754921469872619,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-08-11T08:41:09.872Z",
+    "text": "Aug 11<br>• Opened an issue: <a href=\"https://github.com/ohcnetwork/care_fe/issues/13334\">Make UI responsive for smaller screen for To Receive listing page</a><br>• dms <br>• Daily Eod <br>next<br>• Weekly Review meet"
+  },
+  {
+    "id": 1755008568388729,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-08-12T08:52:48.388Z",
+    "text": "Aug 12<br>• Weekly Review Meet <br>• dms <br>next<br>• Try to get existing PRs review and merge"
+  },
+  {
+    "id": 1755094201339809,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-08-13T08:40:01.339Z",
+    "text": "aug 13<br>• Opened an issue : <a href=\"https://github.com/ohcnetwork/care_fe/issues/13366\">Clear error message for slug when auto filled for Charge item and Tag Config form</a><br>• Quick huddle with yash to share some inactive issues <br>• Daily EOD<br>next<br>• Opened some more issues"
+  },
+  {
+    "id": 1755181053695969,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-08-14T08:47:33.695Z",
+    "text": "Aug 14<br>• Opened issue : <a href=\"https://github.com/ohcnetwork/care_fe/issues/13373\">Replace Instance of </a><code>AlertDialog</code><a href=\"https://github.com/ohcnetwork/care_fe/issues/13373\"> with </a><code>ConfirmDialogAction</code><a href=\"https://github.com/ohcnetwork/care_fe/issues/13373\"> Component</a><br>• Opened issue: <a href=\"https://github.com/ohcnetwork/care_fe/issues/13376\">Geo-organization inconsistent error message</a><br>• Comment on some PR(s)<br>• Daily EOD (almost missed, but <span class=\"s-mention s-user\">@U0576PEACG0</span> was patiently waiting :care:)<br>next<br>• Try to get existing PRs review and merge"
+  },
+  {
+    "id": 1755268920116969,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-08-15T09:12:00.116Z",
+    "text": "aug 15<br>• Opened issue: <a href=\"https://github.com/ohcnetwork/care_fe/issues/13381\">Badges text breaking for mobile screen product knowledge listing page</a><br>• Opened issue: <a href=\"https://github.com/ohcnetwork/care_fe/issues/13382\">Not able to edit charge item definition</a><br>• discuss the same above issue in comments<br>• Comment on some PRs for changes <br>• Daily EOD call"
+  },
+  {
+    "id": 1755359182718109,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-08-16T10:16:22.718Z",
+    "text": "Aug 16<br>• Made changes in PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/12882\">Allergies Symptoms and Diagnosis Table Card Redesigned</a><br>• Made changes in PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/13253\">Fix: Render MedicationValueSetSelect when enableProduct is true in EntitySelectionSheet</a><br>• Opened issue: <a href=\"https://github.com/ohcnetwork/care_fe/issues/13384\">Mismatch in Data rendering for card and table for Product page</a><br>• spent some time on this issue: <a href=\"https://github.com/ohcnetwork/care_fe/issues/12222\">https://github.com/ohcnetwork/care_fe/issues/12222</a><br>• worked on assigned issue: <a href=\"https://github.com/ohcnetwork/care_fe/issues/13373\">Replace Instance of </a><code>AlertDialog</code><a href=\"https://github.com/ohcnetwork/care_fe/issues/13373\"> with </a><code>ConfirmDialogAction</code><a href=\"https://github.com/ohcnetwork/care_fe/issues/13373\"> Component</a><br>next<br>• Make PR for worked issue"
+  },
+  {
+    "id": 1755439332365039,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-08-17T08:32:12.365Z",
+    "text": "Aug 17<br>• Comment on PRs for changes <br>• Opened issue: <a href=\"https://github.com/ohcnetwork/care_fe/issues/13396\">Stop Camera in use after photo is clicked</a><br>• worked on issue: <a href=\"https://github.com/ohcnetwork/care_fe/issues/13373\">Replace Instance of </a><code>AlertDialog</code><a href=\"https://github.com/ohcnetwork/care_fe/issues/13373\"> with </a><code>ConfirmDialogAction</code><a href=\"https://github.com/ohcnetwork/care_fe/issues/13373\"> Component</a><br>• Made the PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/13395\">Refactor: Replace AlertDialog with ConfirmActionDialog in common usage</a> (35+ files <span class=\"s-emoji\">😮‍💨</span> )"
+  },
+  {
+    "id": 1755526970278769,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-08-18T08:52:50.278Z",
+    "text": "Aug 18<br>• Opened issue: <a href=\"https://github.com/ohcnetwork/care_fe/issues/13399\">Add </a><code>Create Encounter</code><a href=\"https://github.com/ohcnetwork/care_fe/issues/13399\"> button in Encounter tab in patient detail page</a><br>• Resolved conflicts in PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/12882\">Allergies Symptoms and Diagnosis Table Card Redesigned</a><br>• Resolved conflicts in PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/12989\">Add Clinical History for patient routes</a><br>• Made some changes in PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/13395\">Refactor: Replace AlertDialog with ConfirmActionDialog in common usage</a><br>• Comment on PRs for changes <br>• Daily EOD call<br>next<br>• Weekly review meet"
+  },
+  {
+    "id": 1755614085308629,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-08-19T09:04:45.308Z",
+    "text": "Aug 19<br>• Call with Yash regarding <a href=\"https://github.com/ohcnetwork/care_fe/issues/12222\">issues#12222</a> <br>• Revisited issue raised by me for some info <br>• Made changes in <a href=\"https://github.com/ohcnetwork/care_fe/pull/13395\">PR</a> to fix issue: <a href=\"https://github.com/ohcnetwork/care_fe/issues/12714\">Tooltip Appears on Trigger Button After Closing Alert Dialog on Location</a><br>• Made PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/13414\">Show Quick Actions for mobile and tablet screen</a><br>• Made PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/13415\">Fix: Show role instead of user type in care team summary panel</a><br>• Merged PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/12722\">Fix Responsive issue for Questionnaire Editor </a><br>• Merged PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/13222\">Hide Action buttons when No Active Account for Account Sheet</a><br>• Merged PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/13415\">Fix: Show role instead of user type in care team summary panel</a><br>• Posted a doubt in eng channel <a href=\"https://rebuildearth.slack.com/archives/C010GQBMFJ9/p1755603649525259\">link</a><br>• Weekly Review meet"
+  },
+  {
+    "id": 1755699540402229,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-08-20T08:49:00.402Z",
+    "text": "Aug 20<br>• Long <a href=\"https://github.com/ohcnetwork/care_fe/pull/13139#issuecomment-3204815467\">comment</a> on PR <br>• Call with Yash to discuss same <a href=\"https://github.com/ohcnetwork/care_fe/issues/13408\">issue</a><br>• Made changes in PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/13197\">Fix: ValueSetSelect not getting focus and scroll on form errors</a><br>• Back to back Merge Conflicts <span class=\"s-emoji\">😮‍💨</span> <span class=\"s-emoji\">😵‍💫</span><br>• Merged PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/12989\">Add Clinical History for patient routes</a><br>• Merged PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/13166\">Make </a><code>queryKeys</code><a href=\"https://github.com/ohcnetwork/care_fe/pull/13166\"> consistent for Specimen, Activity and Observation Definition</a><br>• Made changes in PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/13197\">Fix: ValueSetSelect not getting focus and scroll on form errors</a><br>• Participated in the <a href=\"https://rebuildearth.slack.com/archives/C010GQBMFJ9/p1755691706622239?thread_ts=1755691316.698169&amp;amp;cid=C010GQBMFJ9\">thread</a> conversation<br>• <span class=\"s-emoji\">🎧</span> w. Ishu over same doubt in <a href=\"https://rebuildearth.slack.com/archives/C010GQBMFJ9/p1755691706622239?thread_ts=1755691316.698169&amp;amp;cid=C010GQBMFJ9\">thread</a><br>• Daily EOD <br>next<br>• Make PR to fix some ui issues in some encounter tabs<br>• Work on InfiniteQueryAutocomplete"
+  },
+  {
+    "id": 1755791161022889,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-08-21T10:16:01.022Z",
+    "text": "Aug 21<br>• Made changes in PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/12882\">Allergies Symptoms and Diagnosis Table Card Redesigned</a><br>• Made changes in PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/13157\">Update Storage guidlines Unit field to use </a><code>UCUM_TIME_UNITS</code><a href=\"https://github.com/ohcnetwork/care_fe/pull/13157\"> with codeschema</a><br>• Resolved conflicts in PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/13395\">Refactor: Replace AlertDialog with ConfirmActionDialog in common usage</a><br>• Took help from Anagha related to icons <br>• Comment on some PRs for changes <br>• Got assigned an issue: <a href=\"https://github.com/ohcnetwork/care_fe/issues/13448\">Make the default pagination count an env</a><br>• Daily EOD call<br>next<br>• Look for new task/issue"
+  },
+  {
+    "id": 1755872032716829,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-08-22T08:43:52.716Z",
+    "text": "Aug 22<br>• played around in service section pages and found a couple of issues <br>• found page crash bug in patient registration page via org route <br>• hit and try other bug hidden under main bug for the same <br>• Resolved conflicts in PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/13197\">Fix: ValueSetSelect not getting focus and scroll on form errors</a><br>• Made some changes in PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/13136\">Refactor ValueSetSelect : Make white trigger as default for mobile and some Cleanup</a><br>• Daily eod call <br>• Merged PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/13253\">Fix: Render MedicationValueSetSelect when enableProduct is true in EntitySelectionSheet</a><br>• Call with Yash to clarify some doubts I had (Thanks <span class=\"s-mention s-user\">@U0576PEACG0</span> for the taking out time after office hours <span class=\"s-emoji\">🙌</span>)<br>next<br>• sync with core members to clarify some doubts"
+  },
+  {
+    "id": 1755957991085369,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-08-23T08:36:31.085Z",
+    "text": "Aug 23<br>• Made some changes in PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/12882\">Allergies Symptoms and Diagnosis Table Card Redesigned</a><br>• Resolved conflicts in PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/13197\">Fix: ValueSetSelect not getting focus and scroll on form errors</a><br>• Raised issue: <a href=\"https://github.com/ohcnetwork/care_fe/issues/13481\">Page Crash for edit patient detail page via org route</a><br>• Raised issue: <a href=\"https://github.com/ohcnetwork/care_fe/issues/13482\">Broken UI for ValueSet table view</a><br>• Add script to Google App script to delete github email notifications older than 3 days <br>• Daily EOD call<br>next<br>• Sunday"
+  },
+  {
+    "id": 1756042536867529,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-08-24T08:05:36.867Z",
+    "text": "Aug 24<br>• Made PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/13486\">Fix: PK form edit submission blocked due to HSN code null handling</a><br>• Made PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/13491\">Fix: Search filter for Patient identifier config</a><br>next<br>• follow up on existing PRs"
+  },
+  {
+    "id": 1756138874811459,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-08-25T10:51:14.811Z",
+    "text": "Aug 25<br>• Made minor changes in existing PR<br>• Made PR: <a href=\"https://github.com/ohcnetwork/care/pull/3219\">Search name filter for Permissions</a><br>• Comment on PR for changes <br>• Daily EOD call<br>next<br>• Weekly Review meet"
+  },
+  {
+    "id": 1756219108334779,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-08-26T09:08:28.334Z",
+    "text": "Aug 26<br>• Made PR: <a href=\"https://github.com/ohcnetwork/leaderboard-data/pull/158\">Update Anagha UI/UX intern</a><br>• Made minor changes in PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/13395\">[1]</a><br>• Comment on PRs for changes <a href=\"https://github.com/ohcnetwork/care_fe/pull/13499\">[1]</a> <a href=\"https://github.com/ohcnetwork/care_fe/pull/13526\">[2]</a> <a href=\"https://github.com/ohcnetwork/care_fe/pull/13139\">[3]</a> <a href=\"https://github.com/ohcnetwork/care_fe/pull/13506\">[4]</a><br>• <span class=\"s-emoji\">🎧</span>  w. <span class=\"s-mention s-user\">@U07SXGJNKJA</span> for some github functionality <br>next<br>• follow up on exisiting PRs"
+  },
+  {
+    "id": 1756304436752429,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-08-27T08:50:36.752Z",
+    "text": "Aug 27<br>• Made PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/13534\">Remove </a><code>entered_in_error</code><a href=\"https://github.com/ohcnetwork/care_fe/pull/13534\"> from Patient identifier config</a><br>• Opened issue: <a href=\"https://github.com/ohcnetwork/design/issues/20\">Redesign Multi-Selector Component</a><br>• Daily EOD call <br>Next<br>• Follow up on existing PRs"
+  },
+  {
+    "id": 1756390830877839,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-08-28T08:50:30.877Z",
+    "text": "Aug 28<br>• Made PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/13550\">Refactor: Remove unnecessary permission fetch from RoleIndex and fetch only in RoleForm</a><br>• Daily EOD call<br>Next<br>• Follow up on existing PRs"
+  },
+  {
+    "id": 1756476409722939,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-08-29T08:36:49.722Z",
+    "text": "Aug 29<br>• Merged PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/13491\">Fix: Search filter for Patient identifier config and Tag config</a><br>• Resolved conflicts in existing PR<br>• Made changes in PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/13486\">Fix: PK form edit submission blocked due to HSN code null handling</a><br>• Daily EOD call <br>Next<br>• Follow up on existing PRs"
+  },
+  {
+    "id": 1756568255348179,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-08-30T10:07:35.348Z",
+    "text": "Aug 30<br>• Opened issue: <a href=\"https://github.com/ohcnetwork/care_fe/issues/13557\">Purchase Order Page is not responsive</a><br>• Opened issue: <a href=\"https://github.com/ohcnetwork/care_fe/issues/13558\">Broken UI of Prescription and Medication Statement in Encounter</a><br>• Worked on above issue <br>• Comment on PR for changes <br>• Daily EOD call (with AI bots, since it’s technically off today)<br>next<br>• Open PR for assigned issues"
+  },
+  {
+    "id": 1756664100797599,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-08-31T12:45:00.797Z",
+    "text": "31 Aug<br>• Made PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/13569\">Fix: Medication prescription and statement UI</a><br>• Comment on PRs for changes<br>• Worked on an assigned <a href=\"https://github.com/ohcnetwork/care_fe/issues/13481\">issue</a>"
+  },
+  {
+    "id": 1756750500573399,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-09-01T12:45:00.573Z",
+    "text": "Sept 1<br>• Made PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/13575\">Fix: Page Crash for edit patient detail page via org route</a><br>• Daily EOD call <br>next<br>• Follow up on existing PRs"
+  },
+  {
+    "id": 1756750501088579,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-09-01T12:45:01.088Z",
+    "text": "Sept 1<br>• Made PR: Fix: Page Crash for edit patient detail page via org route"
+  },
+  {
+    "id": 1756836000649769,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-09-02T12:30:00.649Z",
+    "text": "Sep 2<br>• <em>had a bad day</em> <br>• Weekly review meet <br>• task given by Bill about code verification<br>next<br>• Follow up on existing PRs"
+  },
+  {
+    "id": 1756921034587869,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-09-03T12:07:14.587Z",
+    "text": "Sept 3<br>• Merged PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/13157\">Update Storage guidlines Unit field to use </a><code>UCUM_TIME_UNITS</code><a href=\"https://github.com/ohcnetwork/care_fe/pull/13157\"> with codeschema</a><br>• Merged PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/13486\">Fix: PK form edit submission blocked due to HSN code null handling</a><br>• Resolved conflicts in existing PRs<br>• Made changes in PRs<br>next<br>• follow up on existing prs"
+  },
+  {
+    "id": 1756994619123739,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-09-04T08:33:39.123Z",
+    "text": "Sept 4<br>• Made changes in existing PRs<br>• Medication code verification task <br>• Opened issue: <a href=\"https://github.com/ohcnetwork/care_fe/issues/13618\">Show custom error message for payment in Record Payment form</a><br>• Daily EOD call <br>next<br>• Try to get existing PRs review and test"
+  },
+  {
+    "id": 1757083819692639,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-09-05T09:20:19.692Z",
+    "text": "Sept 5<br>• Opened issue: <a href=\"https://github.com/ohcnetwork/care_fe/issues/13626\">Replace Empty Table with EmptyState component in CARE</a><br>next<br>• Follow up on existing PR"
+  },
+  {
+    "id": 1757182501083219,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-09-06T12:45:01.083Z",
+    "text": "Sept 6<br>• Played around with Mega PR about token, queue and other <br>• Reported an issue: <a href=\"https://github.com/ohcnetwork/care_fe/issues/13635\">Optional URL field blocks submission when cleared</a>"
+  },
+  {
+    "id": 1757268901354119,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-09-07T12:45:01.354Z",
+    "text": "Sept 7<br>• comment on prs for changes <br>• made pr: <a href=\"https://github.com/ohcnetwork/care_fe/pull/13644\">Minor Fix: Add Parentheses around for duration unit code</a><br>• made minor changes in pr : <a href=\"https://github.com/ohcnetwork/care_fe/pull/13395\">Refactor: Replace AlertDialog with ConfirmActionDialog in common usage</a><br>• Noticed <span class=\"s-mention s-user\">@U08HZH9SS82</span> creating issues and not stopping ..... <span class=\"s-emoji\">🐎</span>"
+  },
+  {
+    "id": 1757355301046629,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-09-08T12:45:01.046Z",
+    "text": "Sept 8<br>• Comment on PRs for changes <br>next<br>• weekly review meet"
+  },
+  {
+    "id": 1757431725824969,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-09-09T09:58:45.824Z",
+    "text": "Sept 9<br>• Weeky Review meet <br>• comment on prs for changes<br>next<br>• follow up on existing prs"
+  },
+  {
+    "id": 1757528100974519,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-09-10T12:45:00.974Z",
+    "text": "Sept 10<br>• Comment on PRs for changes <br>Next <br>• Follow up on existing PRs"
+  },
+  {
+    "id": 1757614501189899,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-09-11T12:45:01.189Z",
+    "text": "Sept 11<br>• Comment on PRs for changes <br>• Sync with Anagha about svg icons <br>next<br>• Look for new issues/tasks"
+  },
+  {
+    "id": 1757700901236729,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-09-12T12:45:01.236Z",
+    "text": "sept 12<br>• Power cut <br>• commented out for changes on PRs<br>• Tested out this <a href=\"https://github.com/ohcnetwork/care_fe/pull/13689#pullrequestreview-3216423612\">PR</a><br>next<br>• Look for new issues/tasks"
+  },
+  {
+    "id": 1757784060763809,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-09-13T11:51:00.763Z",
+    "text": "sept 13<br>• commented out for changes on PR<br>next<br>• Look for new issues/tasks"
+  },
+  {
+    "id": 1757870989963289,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-09-14T11:59:49.963Z",
+    "text": "sept 14<br>• commented out for changes on PR<br>next<br>• Look for new issues/tasks"
+  },
+  {
+    "id": 1757949098200459,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-09-15T09:41:38.200Z",
+    "text": "sept 15<br>• Setup <code>be</code> locally for token branch and connect with <code>fe</code> to access admin facilities <br>• Reported multiple bugs from token branch : <a href=\"https://github.com/ohcnetwork/care_fe/issues/13705\">Bugs report: Token branch</a><br>• <span class=\"s-emoji\">🎧</span> w. <span class=\"s-mention s-user\">@U07SXGJNKJA</span> regarding Multi selector comp redesign <a href=\"https://github.com/ohcnetwork/design/issues/20\">issue</a><br>next<br>• Weekly Review meet"
+  },
+  {
+    "id": 1758038332357849,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-09-16T10:28:52.357Z",
+    "text": "Sept 16<br>• Added more bugs to the <a href=\"https://github.com/ohcnetwork/care_fe/issues/13705\">issue</a> reporting bugs in token branch <br>• Merged PR: <a href=\"https://github.com/ohcnetwork/care/pull/3219\">Search name filter for Permissions</a><br>• weekly review meet<br>next<br>• add some more bugs to the list"
+  },
+  {
+    "id": 1758132901356319,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-09-17T12:45:01.356Z",
+    "text": "sept 17<br>• Resolved conflicts in PRs <span class=\"s-emoji\">😵‍💫</span><br>• Opened issue: <a href=\"https://github.com/ohcnetwork/care_fe/issues/13722\">Medication Tab in Encounter UI is broken</a><br>• <span class=\"s-emoji\">🎧</span>  w. Anagha regarding reporting issues in care_fe <br>• comment on some PRs<br>next<br>• follow up on existing PRs"
+  },
+  {
+    "id": 1758219301231639,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-09-18T12:45:01.231Z",
+    "text": "sept 18<br>• Opened an issue: <a href=\"https://github.com/ohcnetwork/care_fe/issues/13758\">UI Bug: Loading skeleton overflows on Location page</a><br>• commented on prs <br>next<br>• look for new issues/tasks"
+  },
+  {
+    "id": 1758305437246499,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-09-19T12:40:37.246Z",
+    "text": "sept 19<br>• Commented on pr for changes <br>• friend&#x27;s birthday party <br>next<br>• Look for new issues/tasks"
+  },
+  {
+    "id": 1758387562294509,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-09-20T11:29:22.294Z",
+    "text": "sept 20<br>• Comment on pr for changes <br>• found some enhancement needed in Bed Availability Dashboard<br>next<br>• sunday"
+  },
+  {
+    "id": 1758478500643839,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-09-21T12:45:00.643Z",
+    "text": "sept 21<br>• Made PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/13780\">Add max 5 char validation for shorthand in token category form</a> <br>next<br>• Follow up on existing prs"
+  },
+  {
+    "id": 1758564901816649,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-09-22T12:45:01.816Z",
+    "text": "sept 22<br>• Merged PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/13780\">Add max 5 char validation for shorthand in token category form</a><br>• slack <a href=\"https://rebuildearth.slack.com/archives/C080225HC6B/p1758555915165429\">thread</a><br>• Comment on PR for changes <br>next<br>• Weekly review meet"
+  },
+  {
+    "id": 1758639732617339,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-09-23T09:32:12.617Z",
+    "text": "Sept 23<br>• Weekly review meet <br>• Resolved conflicts in existing pr <br>• commented on pr for changes <br>• got assigned an <a href=\"https://github.com/ohcnetwork/care_fe/issues/13809\">issue</a> <br>next<br>• work on assigned issues"
+  },
+  {
+    "id": 1758737701486599,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-09-24T12:45:01.486Z",
+    "text": "sept 24<br>• Worked on PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/13569\">Fix: Medication prescription and statement UI</a><br>• Participation in slack discussion <a href=\"https://rebuildearth.slack.com/archives/C080225HC6B/p1758555915165429\">thread</a> for the same <br>• commented on PRs for changes<br>next<br>• work on assigned issue"
+  },
+  {
+    "id": 1758805737770339,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-09-25T07:38:57.770Z",
+    "text": "sept 25<br>• Made minor ui changes in Medication UI fix pr <br>• Made changes in some existing PRs <br>• commented on PRs for changes <br>next<br>• follow up on existing PRs"
+  },
+  {
+    "id": 1758900705945099,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-09-26T10:01:45.945Z",
+    "text": "sept 26<br>• Worked on fixing Medication UI <br>• Worked on making Encounter switcher collapsable <br>• Merged PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/13395\">Refactor: Replace AlertDialog with ConfirmActionDialog in common usage</a><br>next<br>• Open PR for Encounter switcher"
+  },
+  {
+    "id": 1758991108570399,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-09-27T11:08:28.570Z",
+    "text": "sept 27<br>• Made PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/13867\">Enhancement: Make Encounter switcher collapsible</a><br>next<br>• sunday"
+  },
+  {
+    "id": 1759080907600129,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-09-28T12:05:07.600Z",
+    "text": "sept 28<br>• commented on PR for changes <br>next<br>• Follow up on existing PRs"
+  },
+  {
+    "id": 1759159365820839,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-09-29T09:52:45.820Z",
+    "text": "sept 29<br>• Power cut <br>• Merged PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/13136\">Refactor ValueSetSelect : Make white trigger as default for mobile and some Cleanup</a><br>• Merged PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/13550\">Refactor: useInfiniteQuery for permissions in RoleForm and made permissions section take up the available height</a><br>• resolved conflicts<br>next<br>• weekly review meet"
+  },
+  {
+    "id": 1759251132412199,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-09-30T11:22:12.412Z",
+    "text": "sept 30<br>• Weekly Review meet <br>• Made PR: <a href=\"https://github.com/ohcnetwork/landing/pull/87\">Linkedin logo and link for footer</a><br>• Merged PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/13534\">Remove </a><code>entered_in_error</code><a href=\"https://github.com/ohcnetwork/care_fe/pull/13534\"> from Patient identifier config</a><br>next<br>• follow on existing prs"
+  },
+  {
+    "id": 1759340283317759,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-10-01T12:08:03.317Z",
+    "text": "Oct 1<br>• Merged PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/13569\">Fix: Medication prescription and statement UI</a><br>• Merged PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/13644\">Minor Fix: Add Parentheses around for duration unit code</a><br>• Closed PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/13575\">Fix: Page Crash for edit patient detail page via org route</a> (<a href=\"https://github.com/ohcnetwork/care_fe/pull/13575#issuecomment-3355482007\">reason</a>)<br>• checked out PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/13918\">Use drawer on mobile instead of sheet in tag confirm pages and components</a>"
+  },
+  {
+    "id": 1759428592471539,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-10-02T12:39:52.471Z",
+    "text": "oct 2<br>• commented on PRs for changes <br>• found a bug <br>next<br>• follow up on existing issue"
+  },
+  {
+    "id": 1759515300516969,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-10-03T12:45:00.516Z",
+    "text": "Oct 3rd<br>• Commented on PR for changes"
+  },
+  {
+    "id": 1759595441891059,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-10-04T11:00:41.891Z",
+    "text": "Oct 4<br>• Made and Merged PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/13960\">Fix: Patient questionnaire updates are not showing up in updates tab</a><br>• checked out out new shadcn components shared in <span class=\"s-mention s-channel\">#CC8QZNTTJ</span> <br>• reported BE issue <a href=\"https://rebuildearth.slack.com/archives/C010GQBMFJ9/p1759584898322189\">here</a><br>next<br>• sunday"
+  },
+  {
+    "id": 1759679900601599,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-10-05T10:28:20.601Z",
+    "text": "Oct 5<br>• Made PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/13963\">Support search permission in Role Form</a><br>• Made some changes in <a href=\"https://github.com/ohcnetwork/care_fe/pull/13867\">Enhancement: Make Encounter switcher collapsible</a>"
+  },
+  {
+    "id": 1759764613896099,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-10-06T10:00:13.896Z",
+    "text": "Oct 6<br>• Made PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/13971\">Hide print action buttons from questionnaire response card on print preview</a><br>• Daily eod call7"
+  },
+  {
+    "id": 1759856617604109,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-10-07T11:33:37.604Z",
+    "text": "Oct 7<br>• Merged PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/13971\">Fix: Re-add missing isPrintPreview conditional rendering for response card of questionnaire</a><br>• Made PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/14000\">Fix: Questionnaire print breaking for clinical history qnr response tab</a><br>• commented on PR for changes <br>• Weekly review meet"
+  },
+  {
+    "id": 1759947300720509,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-10-08T12:45:00.720Z",
+    "text": "oct 8<br>• Merged PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/14000\">Fix: Questionnaire print breaking for clinical history qnr response tab</a>"
+  },
+  {
+    "id": 1760029055830069,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-10-09T11:27:35.830Z",
+    "text": "oct 9<br>• Late night participation in slack <a href=\"https://rebuildearth.slack.com/archives/C010GQBMFJ9/p1759948432541579\">thread1</a> and <a href=\"https://rebuildearth.slack.com/archives/C01035FT0P5/p1759944870147069\">thread2</a><br>• Made <a href=\"https://github.com/ohcnetwork/care_fe/pull/14008\">Dummy PR to test PR checklist validation (updated h-4/5 w-4/5 to size-4/5)</a><br>• commented on prs for changes <br>• worked on adding email to landing page <br>next<br>• follow up on existing prs"
+  },
+  {
+    "id": 1760895705343939,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-10-19T12:11:45.343Z",
+    "text": "oct 19<br>• commented on PRs for changes"
+  },
+  {
+    "id": 1760984101192569,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-10-20T12:45:01.192Z",
+    "text": "oct 20<br>• worked on the design shared by <span class=\"s-mention s-user\">@U07NP23BWQH</span> for Encounter History selector collapse/expand  (<a href=\"https://github.com/ohcnetwork/care_fe/pull/13867\">PR</a>)"
+  },
+  {
+    "id": 1761070500480139,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-10-21T12:45:00.480Z",
+    "text": "oct 21<br>• Merged PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/14070\">Fix: Buttons overflowing for card and unnecessary overflow for medium screen role listing</a><br>• Made PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/14093\">Fix: Remove unnecessary validation thrown for edit in healthcare service form</a><br>• Weekly review meet"
+  },
+  {
+    "id": 1761148769950689,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-10-22T10:29:29.950Z",
+    "text": "oct 22<br>• Reviewed PRs<br>• Made some changes in PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/13867\">Enhancement: Make Encounter switcher collapsible</a>"
+  },
+  {
+    "id": 1761233086181969,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-10-23T09:54:46.181Z",
+    "text": "oct 23<br>• Reviewed PRs"
+  },
+  {
+    "id": 1761329701492759,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-10-24T12:45:01.492Z",
+    "text": "oct 24<br>• Made changes in existing <a href=\"https://github.com/ohcnetwork/care_fe/pull/13867\">PR</a> <br>• Reviewed PRs"
+  },
+  {
+    "id": 1761413733222459,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-10-25T12:05:33.222Z",
+    "text": "oct 25<br>• travelling<br>• Made comment on some figma design<br>• Made changes in existing <a href=\"https://github.com/ohcnetwork/care_fe/pull/13867\">PR</a>"
+  },
+  {
+    "id": 1761493901304409,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-10-26T10:21:41.304Z",
+    "text": "oct 26<br>• travelling<br>• commented on PR for changes"
+  },
+  {
+    "id": 1761574919995939,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-10-27T08:51:59.995Z",
+    "text": "oct 27<br>• reviewed pr"
+  },
+  {
+    "id": 1761674579546569,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-10-28T12:32:59.546Z",
+    "text": "oct 28<br>• Reviewed PR<br>• Zod PRs are closed since it&#x27;s planned to be revisited at a later point<br>• Missed weekly meet"
+  },
+  {
+    "id": 1761759679616199,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-10-29T12:11:19.616Z",
+    "text": "oct 29<br>• checked out new landing page<br>• closed old issue<br>• filled an issue: <a href=\"https://github.com/ohcnetwork/care_fe/issues/14176\">Bug: Tax invoice layout issues on detail view and print</a>"
+  },
+  {
+    "id": 1761848100747319,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-10-30T12:45:00.747Z",
+    "text": "oct 30<br>• Made changes in existing <a href=\"https://github.com/ohcnetwork/care_fe/pull/13867\">PR</a><br>• dms <br>• explored playwright doc"
+  },
+  {
+    "id": 1761934500322919,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-10-31T12:45:00.322Z",
+    "text": "oct 31<br>• filled an <a href=\"https://github.com/ohcnetwork/care_fe/issues/14195\">issue</a><br>• travelling"
+  },
+  {
+    "id": 1762020900757549,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-11-01T12:45:00.757Z",
+    "text": "nov 1<br>• Reviewed PRs<br>• made changes in existing pr<br>next<br>• write playwright test for existing pr"
+  },
+  {
+    "id": 1762107301158249,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-11-02T12:45:01.158Z",
+    "text": "nov 2<br>• Reviewed PRs"
+  },
+  {
+    "id": 1762193700848909,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-11-03T12:45:00.848Z",
+    "text": "nov 3<br>• reviewed pr <br>• dms<br>• resolved conflicts in existing <a href=\"https://github.com/ohcnetwork/care_fe/pull/13867\">pr</a><br>next<br>• write playwright test"
+  },
+  {
+    "id": 1762280100192569,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-11-04T12:45:00.192Z",
+    "text": "nov 4<br>• reviewed prs <br>• weekly review meet <br>next<br>• write playwright test"
+  },
+  {
+    "id": 1762366500284429,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-11-05T12:45:00.284Z",
+    "text": "nov 5<br>• filed an <a href=\"https://github.com/ohcnetwork/care_fe/issues/14253\">issue</a><br>next<br>• write playwright test"
+  },
+  {
+    "id": 1762452900495259,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-11-06T12:45:00.495Z",
+    "text": "nov 6<br>• reviewed prs"
+  },
+  {
+    "id": 1762539301046049,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-11-07T12:45:01.046Z",
+    "text": "nov 7<br>• Merged PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/13867\">Enhancement: Make Encounter switcher collapsible</a><br>• Merged PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/14093\">Fix: Remove unnecessary validation thrown for edit in healthcare service form</a><br>• Filed issues <a href=\"https://github.com/ohcnetwork/care_fe/issues/14270\">[1]</a> <a href=\"https://github.com/ohcnetwork/landing/issues/109\">[2]</a>"
+  },
+  {
+    "id": 1762625701029479,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-11-08T12:45:01.029Z",
+    "text": "nov 8<br>• commented on pr for changes<br>• synced with Anagha over multi selection input redesign"
+  },
+  {
+    "id": 1762798530818619,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-11-10T12:45:30.818Z",
+    "text": "nov 10<br>• reviewed prs <br>• replied to some slack threads <br>• fixed test failed <a href=\"https://github.com/ohcnetwork/care_fe/pull/13851#issuecomment-3497796650\">issue</a> in <span class=\"s-mention s-user\">@U08GYM1PJUQ</span> PR"
+  },
+  {
+    "id": 1762884901000409,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-11-11T12:45:01.000Z",
+    "text": "nov 11<br>• Weekly review meet <br>• Worked on issue <a href=\"https://github.com/ohcnetwork/care_fe/issues/10924\">Cleanup translation files</a>"
+  },
+  {
+    "id": 1762971300878559,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-11-12T12:45:00.878Z",
+    "text": "nov 12<br>• <span class=\"s-emoji\">🎧</span> w. <span class=\"s-mention s-user\">@U07SXGJNKJA</span> over <a href=\"https://www.figma.com/design/Z93EYKSa1MdBmXndsMBJSQ/Care---Master?node-id=29986-159505&amp;amp;t=DOpMUKmv4jCJf7EL-1\">feature selection component</a> and shared feedback <br>• sync with <span class=\"s-mention s-user\">@U08GYM1PJUQ</span> to make changes for test failed issue <br>• Worked on issue <a href=\"https://github.com/ohcnetwork/care_fe/issues/10924\">Cleanup translation files</a><br>• reviewed prs"
+  }
+]

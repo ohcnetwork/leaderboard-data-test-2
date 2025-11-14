@@ -1,0 +1,338 @@
+[
+  {
+    "id": 1652195898076279,
+    "user_id": "U02T4HE96KY",
+    "timestamp": "2022-05-10T09:48:18.076Z",
+    "text": "looked into issues and trying to reproduce them so I can start working on them"
+  },
+  {
+    "id": 1652363343993049,
+    "user_id": "U02T4HE96KY",
+    "timestamp": "2022-05-12T08:19:03.993Z",
+    "text": "My laptop crashed today (windows updates died mid installation -_-) , spent time fixing that. Assigned myself a issue tho."
+  },
+  {
+    "id": 1652536488172699,
+    "user_id": "U02T4HE96KY",
+    "timestamp": "2022-05-14T08:24:48.172Z",
+    "text": "Found and raised one issue, trying to debug what is causing it."
+  },
+  {
+    "id": 1652710269431769,
+    "user_id": "U02T4HE96KY",
+    "timestamp": "2022-05-16T08:41:09.431Z",
+    "text": "made a PR (<a href=\"https://github.com/ohcnetwork/care_fe/pull/2371\">https://github.com/ohcnetwork/care_fe/pull/2371</a>)"
+  },
+  {
+    "id": 1652806388873309,
+    "user_id": "U02T4HE96KY",
+    "timestamp": "2022-05-17T11:23:08.873Z",
+    "text": "trying to find issues.."
+  },
+  {
+    "id": 1652883466421859,
+    "user_id": "U02T4HE96KY",
+    "timestamp": "2022-05-18T08:47:46.421Z",
+    "text": "• made a PR <a href=\"https://github.com/ohcnetwork/care_fe/pull/2416\">#2416</a><br>• working on <a href=\"https://github.com/ohcnetwork/care_fe/issues/2360\">#2360</a>"
+  },
+  {
+    "id": 1652971855749499,
+    "user_id": "U02T4HE96KY",
+    "timestamp": "2022-05-19T09:20:55.749Z",
+    "text": "trying to solve notification subscription issue. Read about service worker and push manager."
+  },
+  {
+    "id": 1653054815652829,
+    "user_id": "U02T4HE96KY",
+    "timestamp": "2022-05-20T08:23:35.652Z",
+    "text": "picked up issue <a href=\"https://github.com/ohcnetwork/care_fe/issues/2450\">#2450</a> after getting stuck on the notification subscription issue, will revisit that after this."
+  },
+  {
+    "id": 1653203032999469,
+    "user_id": "U02T4HE96KY",
+    "timestamp": "2022-05-22T01:33:52.999Z",
+    "text": "• raised issue <a href=\"https://github.com/ohcnetwork/care_fe/issues/2479\">#2479</a><br>• PR : <a href=\"https://github.com/ohcnetwork/care_fe/pull/2480\">#2480</a> (closes issue <a href=\"https://github.com/ohcnetwork/care_fe/pull/2450\">#2450</a>)"
+  },
+  {
+    "id": 1653915827387699,
+    "user_id": "U02T4HE96KY",
+    "timestamp": "2022-05-30T07:33:47.387Z",
+    "text": "Working on <a href=\"https://github.com/ohcnetwork/leaderboard/issues/24\">https://github.com/ohcnetwork/leaderboard/issues/24</a>"
+  },
+  {
+    "id": 1654007215133249,
+    "user_id": "U02T4HE96KY",
+    "timestamp": "2022-05-31T08:56:55.133Z",
+    "text": "• working on leaderboard weekly history <a href=\"https://github.com/ohcnetwork/leaderboard/pull/37\">#37</a><br>• <a href=\"https://github.com/ohcnetwork/leaderboard/pull/39\">#39</a>"
+  },
+  {
+    "id": 1654268043308059,
+    "user_id": "U02T4HE96KY",
+    "timestamp": "2022-06-03T09:24:03.308Z",
+    "text": "Working on Old Prs , solved merge conflicts"
+  },
+  {
+    "id": 1654523740134009,
+    "user_id": "U02T4HE96KY",
+    "timestamp": "2022-06-06T08:25:40.134Z",
+    "text": "working on api to fetch activity according to week number"
+  },
+  {
+    "id": 1654611228744639,
+    "user_id": "U02T4HE96KY",
+    "timestamp": "2022-06-07T08:43:48.744Z",
+    "text": "made commits to <a href=\"https://github.com/ohcnetwork/leaderboard/pull/37\">https://github.com/ohcnetwork/leaderboard/pull/37</a> and <a href=\"https://github.com/ohcnetwork/leaderboard/pull/39\">https://github.com/ohcnetwork/leaderboard/pull/39</a>"
+  },
+  {
+    "id": 1654697103712229,
+    "user_id": "U02T4HE96KY",
+    "timestamp": "2022-06-08T08:35:03.712Z",
+    "text": "No updates , external practical exams and some other tests all at once<span class=\"s-emoji\">🤕</span>"
+  },
+  {
+    "id": 1654869992675299,
+    "user_id": "U02T4HE96KY",
+    "timestamp": "2022-06-10T08:36:32.675Z",
+    "text": "no updates <span class=\"s-emoji\">😟</span>, Practical exams going on"
+  },
+  {
+    "id": 1655304890800759,
+    "user_id": "U02T4HE96KY",
+    "timestamp": "2022-06-15T09:24:50.800Z",
+    "text": "tried to search for issues to work on"
+  },
+  {
+    "id": 1655387887848959,
+    "user_id": "U02T4HE96KY",
+    "timestamp": "2022-06-16T08:28:07.848Z",
+    "text": "raised an issue <a href=\"https://github.com/ohcnetwork/care_fe/issues/2723\">#2723</a>"
+  },
+  {
+    "id": 1655644955193819,
+    "user_id": "U02T4HE96KY",
+    "timestamp": "2022-06-19T07:52:35.193Z",
+    "text": "worked on <a href=\"https://github.com/ohcnetwork/care_fe/issues/2210\">#2210</a>."
+  },
+  {
+    "id": 1655907553296959,
+    "user_id": "U02T4HE96KY",
+    "timestamp": "2022-06-22T08:49:13.296Z",
+    "text": "busy with college exams. Tried looking for issues to work in care_fe."
+  },
+  {
+    "id": 1655999848743659,
+    "user_id": "U02T4HE96KY",
+    "timestamp": "2022-06-23T10:27:28.743Z",
+    "text": "worked on previous pr"
+  },
+  {
+    "id": 1656168745711109,
+    "user_id": "U02T4HE96KY",
+    "timestamp": "2022-06-25T09:22:25.711Z",
+    "text": "assigned a few issues will work on them today"
+  },
+  {
+    "id": 1656338662122419,
+    "user_id": "U02T4HE96KY",
+    "timestamp": "2022-06-27T08:34:22.122Z",
+    "text": "made a pr : <a href=\"https://github.com/ohcnetwork/care_fe/pull/2902\">#2902</a><br>currently working on : <a href=\"https://github.com/ohcnetwork/care_fe/issues/2874\">#2874</a>"
+  },
+  {
+    "id": 1656423484636189,
+    "user_id": "U02T4HE96KY",
+    "timestamp": "2022-06-28T08:08:04.636Z",
+    "text": "made a pr <a href=\"https://github.com/ohcnetwork/care_fe/pull/2935\">#2935</a>"
+  },
+  {
+    "id": 1657869706167899,
+    "user_id": "U02T4HE96KY",
+    "timestamp": "2022-07-15T01:51:46.167Z",
+    "text": "laptop is broken, won&#x27;t be able to do anything for some time"
+  },
+  {
+    "id": 1658498018602599,
+    "user_id": "U02T4HE96KY",
+    "timestamp": "2022-07-22T08:23:38.602Z",
+    "text": "working on <a href=\"https://github.com/ohcnetwork/care_fe/issues/3195\">#3195</a>"
+  },
+  {
+    "id": 1658760590845289,
+    "user_id": "U02T4HE96KY",
+    "timestamp": "2022-07-25T09:19:50.845Z",
+    "text": "busy with an exam, will start work now"
+  },
+  {
+    "id": 1658857059292149,
+    "user_id": "U02T4HE96KY",
+    "timestamp": "2022-07-26T12:07:39.292Z",
+    "text": "made 2 prs (<a href=\"https://github.com/ohcnetwork/care/pull/949\">#949</a> , <a href=\"https://github.com/ohcnetwork/care_fe/pull/3236\">#3236</a>)"
+  },
+  {
+    "id": 1659708820722719,
+    "user_id": "U02T4HE96KY",
+    "timestamp": "2022-08-05T08:43:40.722Z",
+    "text": "No updates , was busy with exams today"
+  },
+  {
+    "id": 1659986078495249,
+    "user_id": "U02T4HE96KY",
+    "timestamp": "2022-08-08T13:44:38.495Z",
+    "text": "made a draft pr <a href=\"https://github.com/ohcnetwork/care/pull/970\">pr970</a>"
+  },
+  {
+    "id": 1660478655263479,
+    "user_id": "U02T4HE96KY",
+    "timestamp": "2022-08-14T06:34:15.263Z",
+    "text": "made a <a href=\"https://github.com/ohcnetwork/care_fe/pull/3404\">pr</a>"
+  },
+  {
+    "id": 1660659178866729,
+    "user_id": "U02T4HE96KY",
+    "timestamp": "2022-08-16T08:42:58.866Z",
+    "text": "worked on previous prs"
+  },
+  {
+    "id": 1660744263540169,
+    "user_id": "U02T4HE96KY",
+    "timestamp": "2022-08-17T08:21:03.540Z",
+    "text": "trying to understand rescript, <a href=\"https://github.com/ohcnetwork/care_fe/issues/3361\">#3361</a>"
+  },
+  {
+    "id": 1661178839725409,
+    "user_id": "U02T4HE96KY",
+    "timestamp": "2022-08-22T09:03:59.725Z",
+    "text": "studying for exam tommorow"
+  },
+  {
+    "id": 1661945971221269,
+    "user_id": "U02T4HE96KY",
+    "timestamp": "2022-08-31T06:09:31.221Z",
+    "text": "working on leaderboard, <a href=\"https://github.com/ohcnetwork/leaderboard/pull/77\">pr77</a> and raised an <a href=\"https://github.com/ohcnetwork/leaderboard/issues/76\">issue</a>"
+  },
+  {
+    "id": 1662043282879629,
+    "user_id": "U02T4HE96KY",
+    "timestamp": "2022-09-01T09:11:22.879Z",
+    "text": "worked on <a href=\"https://github.com/ohcnetwork/leaderboard/pull/77\">pr77</a> , searching about GitHub api for <a href=\"https://github.com/ohcnetwork/leaderboard/issues/69\">#issue69</a> in leaderboard"
+  },
+  {
+    "id": 1662138168561149,
+    "user_id": "U02T4HE96KY",
+    "timestamp": "2022-09-02T11:32:48.561Z",
+    "text": "still working on <a href=\"https://github.com/ohcnetwork/leaderboard/issues/69\">issue69</a><br>Didn&#x27;t find any direct API to find linked issues to a PR , thus explored capturing &quot;cross-referenced&quot; event to fetch linked issues."
+  },
+  {
+    "id": 1662224477296519,
+    "user_id": "U02T4HE96KY",
+    "timestamp": "2022-09-03T11:31:17.296Z",
+    "text": "still working on <a href=\"https://github.com/ohcnetwork/leaderboard/issues/69\">issue69</a> ,<br>figured out a possible implementation to find linked pr&#x27;s to an issue<br>when an issue is closed , find the source pr where it was cross-referenced<br>if both authors are same , create a badge event"
+  },
+  {
+    "id": 1662638406331419,
+    "user_id": "U02T4HE96KY",
+    "timestamp": "2022-09-08T06:30:06.331Z",
+    "text": "Made a <a href=\"https://github.com/ohcnetwork/leaderboard/pull/81\">pr</a> with new <a href=\"https://leaderboard-ic14dfp2m-coronasafe.vercel.app/contributors/Ashesh3\">autonomy and responsibility badge</a>"
+  },
+  {
+    "id": 1663077789017369,
+    "user_id": "U02T4HE96KY",
+    "timestamp": "2022-09-13T08:33:09.017Z",
+    "text": "worked on implementing filters in care_dashboard"
+  },
+  {
+    "id": 1663164044417559,
+    "user_id": "U02T4HE96KY",
+    "timestamp": "2022-09-14T08:30:44.417Z",
+    "text": "working on care_dashboard filters , made a <a href=\"https://github.com/ohcnetwork/care_dashboard/pull/17\">draft pr</a><br>please suggest any design changes if any"
+  },
+  {
+    "id": 1663260908998879,
+    "user_id": "U02T4HE96KY",
+    "timestamp": "2022-09-15T11:25:08.998Z",
+    "text": "working on draft <a href=\"https://github.com/ohcnetwork/care_dashboard/pull/17\">pull/17</a> , completed facility_type filter , working on date filter"
+  },
+  {
+    "id": 1663613723271409,
+    "user_id": "U02T4HE96KY",
+    "timestamp": "2022-09-19T13:25:23.271Z",
+    "text": "added date filter , working on styling components to match the page"
+  },
+  {
+    "id": 1664028313544859,
+    "user_id": "U02T4HE96KY",
+    "timestamp": "2022-09-24T08:35:13.544Z",
+    "text": "<a href=\"https://github.com/ohcnetwork/care_dashboard/pull/17\">pr ready for review</a> , working on <a href=\"https://github.com/ohcnetwork/care_fe/issues/3638\">care_fe#issue</a>"
+  },
+  {
+    "id": 1665065547308959,
+    "user_id": "U02T4HE96KY",
+    "timestamp": "2022-10-06T08:42:27.308Z",
+    "text": "worked on filters css"
+  },
+  {
+    "id": 1665240017351039,
+    "user_id": "U02T4HE96KY",
+    "timestamp": "2022-10-08T09:10:17.351Z",
+    "text": "made a <a href=\"https://github.com/ohcnetwork/care_fe/pull/3731\">pr</a> and worked on care dashboard"
+  },
+  {
+    "id": 1665410794668179,
+    "user_id": "U02T4HE96KY",
+    "timestamp": "2022-10-10T08:36:34.668Z",
+    "text": "• <a href=\"https://github.com/ohcnetwork/care_dashboard/pull/36\">care dashboard pr</a><br>• dark mode in dashboard filters"
+  },
+  {
+    "id": 1665592114132129,
+    "user_id": "U02T4HE96KY",
+    "timestamp": "2022-10-12T10:58:34.132Z",
+    "text": "made a <a href=\"https://github.com/ohcnetwork/care_dashboard/pull/39\">pr</a> , worked on filters in dashboard"
+  },
+  {
+    "id": 1666100367232389,
+    "user_id": "U02T4HE96KY",
+    "timestamp": "2022-10-18T08:09:27.232Z",
+    "text": "• resolve merge confilcts in old leaderboard prs<br>• worked on datepicker for care_fe<br>• working on <a href=\"https://github.com/ohcnetwork/care_dashboard/issues/40\">issues/40</a>"
+  },
+  {
+    "id": 1666187749588229,
+    "user_id": "U02T4HE96KY",
+    "timestamp": "2022-10-19T08:25:49.588Z",
+    "text": "• found an <a href=\"https://github.com/ohcnetwork/leaderboard/issues/96\">issue</a> in leaderboard<br>• made a <a href=\"https://github.com/ohcnetwork/care_dashboard/pull/41/commits/55f123654282db14d1fe23cfe99835a5d8c4f38a\">commit</a> in care_dashboard<br>• working on datepicker in care_fe , <a href=\"https://github.com/ohcnetwork/care_fe/issues/3784\">issue</a>"
+  },
+  {
+    "id": 1666447619157919,
+    "user_id": "U02T4HE96KY",
+    "timestamp": "2022-10-22T08:36:59.157Z",
+    "text": "• added datepicker year select option in care_dashboard also<br>• looked for issues in care_fe<br>• worked on leaderboard <a href=\"https://github.com/ohcnetwork/leaderboard/pull/98\">pr</a>"
+  },
+  {
+    "id": 1666705944741899,
+    "user_id": "U02T4HE96KY",
+    "timestamp": "2022-10-25T08:22:24.741Z",
+    "text": "• worked on <a href=\"https://github.com/ohcnetwork/leaderboard/issues/97\">97</a> <br>• pr <a href=\"https://github.com/ohcnetwork/care_fe/pull/3823\">3823</a> <br>• reviewed some prs<br>• looked for new issues"
+  },
+  {
+    "id": 1666790878735619,
+    "user_id": "U02T4HE96KY",
+    "timestamp": "2022-10-26T07:57:58.735Z",
+    "text": "• made an <a href=\"https://github.com/ohcnetwork/leaderboard/issues/99\">issue</a> in leaderboard"
+  },
+  {
+    "id": 1667312900456449,
+    "user_id": "U02T4HE96KY",
+    "timestamp": "2022-11-01T08:58:20.456Z",
+    "text": "• made a <a href=\"https://github.com/ohcnetwork/care_fe/pull/3909\">pr</a>"
+  },
+  {
+    "id": 1667391685387189,
+    "user_id": "U02T4HE96KY",
+    "timestamp": "2022-11-02T06:51:25.387Z",
+    "text": "worked on <a href=\"https://github.com/ohcnetwork/leaderboard/pull/100\">pr</a>"
+  },
+  {
+    "id": 1667569486782659,
+    "user_id": "U02T4HE96KY",
+    "timestamp": "2022-11-04T08:14:46.782Z",
+    "text": "Made a <a href=\"https://github.com/ohcnetwork/care_fe/pull/3948\">pr</a>"
+  }
+]

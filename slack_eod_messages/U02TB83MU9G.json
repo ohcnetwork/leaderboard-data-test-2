@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1652207734220639,
+    "user_id": "U02TB83MU9G",
+    "timestamp": "2022-05-10T13:05:34.220Z",
+    "text": "Time past in trying to set up Care_Fe, and trying to study for endsem exams <span class=\"s-emoji\">🥲</span>"
+  },
+  {
+    "id": 1652544139399149,
+    "user_id": "U02TB83MU9G",
+    "timestamp": "2022-05-14T10:32:19.399Z",
+    "text": "• Picked an issue yesterday, and made a PR for another issue<br>• Not much today, preparing for my upcoming endsems."
+  },
+  {
+    "id": 1652721532398989,
+    "user_id": "U02TB83MU9G",
+    "timestamp": "2022-05-16T11:48:52.398Z",
+    "text": "Didn&#x27;t do much today... Studying for endsem exams <span class=\"s-emoji\">😅</span>"
+  },
+  {
+    "id": 1652890328605479,
+    "user_id": "U02TB83MU9G",
+    "timestamp": "2022-05-18T10:42:08.605Z",
+    "text": "Completed my endsems exam, completed college formalities for semester break, relaxed a bit, worked on an issue a bit"
+  },
+  {
+    "id": 1653207864818739,
+    "user_id": "U02TB83MU9G",
+    "timestamp": "2022-05-22T02:54:24.818Z",
+    "text": "EOD for last 3 days:<br><br>Was busy packing and arranging return trip from hostel... Returned at 1am today"
+  },
+  {
+    "id": 1653628909868409,
+    "user_id": "U02TB83MU9G",
+    "timestamp": "2022-05-26T23:51:49.868Z",
+    "text": "EOD Update:<br><br>Made a PR (#2431)<br>Took up a new issue"
+  },
+  {
+    "id": 1653678320405709,
+    "user_id": "U02TB83MU9G",
+    "timestamp": "2022-05-27T13:35:20.405Z",
+    "text": "EOD update:<br><br>Worked on issue #2544. Will make a PR soon."
+  },
+  {
+    "id": 1653760341556709,
+    "user_id": "U02TB83MU9G",
+    "timestamp": "2022-05-28T12:22:21.556Z",
+    "text": "<strong>EOD Update:</strong><br>• Resolved PR conflict in <a href=\"https://github.com/ohcnetwork/care_fe/pull/2543\">PR #2543</a>, waiting for it to merge.<br>• Working on another issue"
+  },
+  {
+    "id": 1653853589110659,
+    "user_id": "U02TB83MU9G",
+    "timestamp": "2022-05-29T14:16:29.110Z",
+    "text": "EOD:<br>• Had a busy day today... Didn&#x27;t have much productivity today"
+  },
+  {
+    "id": 1654614345975049,
+    "user_id": "U02TB83MU9G",
+    "timestamp": "2022-06-07T09:35:45.975Z",
+    "text": "Writing EOD after like, forever...<br><br>Was unwell because of the extreme summer heat. Missed the EODs and the Weekly review. Looking for new issues to work on."
+  },
+  {
+    "id": 1655398404863239,
+    "user_id": "U02TB83MU9G",
+    "timestamp": "2022-06-16T11:23:24.863Z",
+    "text": "<strong>EOD Update:</strong><br>• Worked with the easy_ocr library for <a href=\"https://github.com/ohcnetwork/care_ocr/\">care_ocr</a>, made a <a href=\"https://github.com/ohcnetwork/care_ocr/pull/5\">PR</a><br>• Working on <a href=\"https://github.com/ohcnetwork/care_fe/issues/2646\">#2646</a> of care_fe"
+  },
+  {
+    "id": 1655476144713609,
+    "user_id": "U02TB83MU9G",
+    "timestamp": "2022-06-17T08:59:04.713Z",
+    "text": "EOD:<br><br>1. Worked on a few personal projects<br>2. Worked on care_ocr, trying to work out text detection in different lighting settings"
+  },
+  {
+    "id": 1656705593182529,
+    "user_id": "U02TB83MU9G",
+    "timestamp": "2022-07-01T14:29:53.182Z",
+    "text": "EOD Update:<br><br>Worked on 2 issues for care_fe, and exploring possible solutions for care_ocr"
+  },
+  {
+    "id": 1656948763836979,
+    "user_id": "U02TB83MU9G",
+    "timestamp": "2022-07-04T10:02:43.836Z",
+    "text": "EOD update:<br>1. Working on issues #2737 and #2856<br>2. Working on OCR implementation"
+  }
+]

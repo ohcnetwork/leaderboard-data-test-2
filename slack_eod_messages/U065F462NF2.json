@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1707905626898309,
+    "user_id": "U065F462NF2",
+    "timestamp": "2024-02-14T04:43:46.898Z",
+    "text": "EOD 13 Feb:<br>• Raised Issues on Metabase Manager repo to make ease of navigation and documentation changes."
+  },
+  {
+    "id": 1708024235767269,
+    "user_id": "U065F462NF2",
+    "timestamp": "2024-02-15T13:40:35.767Z",
+    "text": "EOD 15 Feb<br>Attempted to implement sort feature for Status in Metabase Manager<br>(from issue <a href=\"https://github.com/ohcnetwork/metabase_manager/issues/9\">https://github.com/ohcnetwork/metabase_manager/issues/9</a>)"
+  },
+  {
+    "id": 1708365204450029,
+    "user_id": "U065F462NF2",
+    "timestamp": "2024-02-19T12:23:24.450Z",
+    "text": "EOD Feb 19<br>Added collapsible sections for cards grouped by sub-collections for Metabase Manager"
+  },
+  {
+    "id": 1708577773319049,
+    "user_id": "U065F462NF2",
+    "timestamp": "2024-02-21T23:26:13.319Z",
+    "text": "EOD 20 Feb :<br>Set up a record of all the variables available in CARE for ICMR proposal<br><br>EOD 21 Feb :<br>Set up a metabase query to get daily reports on patients registered and consultations filed in Karnataka"
+  },
+  {
+    "id": 1709056890730889,
+    "user_id": "U065F462NF2",
+    "timestamp": "2024-02-27T12:31:30.730Z",
+    "text": "EOD 27 Feb:<br>Consolidated all features from Issue 9 (<a href=\"https://github.com/ohcnetwork/metabase_manager/issues/9\">https://github.com/ohcnetwork/metabase_manager/issues/9</a>) and set up a pull request for the same."
+  },
+  {
+    "id": 1709216936039829,
+    "user_id": "U065F462NF2",
+    "timestamp": "2024-02-29T08:58:56.039Z",
+    "text": "EOD Feb 28:<br>Attempted to consolidate the sorting function for the status column for metabase manager.<br>EOD Feb 29:<br>Completed integrating the feature into the main branch. Have updated the pull request to inform the same.<br>Updated a Care Providers Metric query in metabase across all instances."
+  },
+  {
+    "id": 1709730810748629,
+    "user_id": "U065F462NF2",
+    "timestamp": "2024-03-06T07:43:30.748Z",
+    "text": "EOD March 1:<br>• Started working on introducing a log for the synchronization process on metabase manager in accordance with Issue 8<br>• Over the weekend, changed the logo size for 10BedIcu on dashboard across all instances.<br>• Attempted to solve change requests for dashboard"
+  },
+  {
+    "id": 1709731060288609,
+    "user_id": "U065F462NF2",
+    "timestamp": "2024-03-06T07:47:40.288Z",
+    "text": "EOD March 4<br>• Continued working on the log for metabase manager synchronization.<br>• Addressed the issues in the change requests for the dashboard."
+  },
+  {
+    "id": 1710357100432649,
+    "user_id": "U065F462NF2",
+    "timestamp": "2024-03-13T13:41:40.432Z",
+    "text": "EOD 14 Mar<br>• Added more metadata to the sync log for metabase manager (Issue 8) <br>• Created a schema for a sync log table and added helper functions to interact with the database."
+  },
+  {
+    "id": 1746786967522299,
+    "user_id": "U065F462NF2",
+    "timestamp": "2025-05-09T05:06:07.522Z",
+    "text": "EOD for 8th May, 20225<br>• Got on call with Vysakh and Aakash about blocks in ETL pipeline. Figured out an alternative approach for the same - using spec sheets in the resources directory for setting up flattening sql queries.<br>• Working on setting up a queryable view for using the date filter on the dashboard."
+  }
+]

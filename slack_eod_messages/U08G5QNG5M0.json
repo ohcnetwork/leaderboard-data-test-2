@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1741121205170339,
+    "user_id": "U08G5QNG5M0",
+    "timestamp": "2025-03-04T15:16:45.170Z",
+    "text": "4th march<br>• working on the user profile avatar image upload ratios<br>• Made a CEP 11 and will push that tommorow<br>yep working good, but little less productive due to some big PRs"
+  },
+  {
+    "id": 1741296981910319,
+    "user_id": "U08G5QNG5M0",
+    "timestamp": "2025-03-06T16:06:21.910Z",
+    "text": "March 6 :<br>Done :<br>• Raised a PR for the avatar edit issue."
+  },
+  {
+    "id": 1741593086108009,
+    "user_id": "U08G5QNG5M0",
+    "timestamp": "2025-03-10T02:21:26.108Z",
+    "text": "Mar 10 :<br>I had missed EOD for couple of days currently merged 8 PRs now working on some abdm implementation. From tommorow I will attend every EODs"
+  },
+  {
+    "id": 1742026588980339,
+    "user_id": "U08G5QNG5M0",
+    "timestamp": "2025-03-15T02:46:28.980Z",
+    "text": "13-24 March<br>Done <br>• Merged a PR <br>• Created one issue and Started working"
+  },
+  {
+    "id": 1742359169238089,
+    "user_id": "U08G5QNG5M0",
+    "timestamp": "2025-03-18T23:09:29.238Z",
+    "text": "17 18 March  :<br>• Done with the PR Complete <br>• Assigned to new issue&#x27;"
+  },
+  {
+    "id": 1742816054621829,
+    "user_id": "U08G5QNG5M0",
+    "timestamp": "2025-03-24T06:04:14.621Z",
+    "text": "20-23 March :<br>• Completed my PR of fix avatar modal<br>• Working on a new PR valueset Editor <br>• Working on a PR of ABDM Services<br>I couldnt attend the EOD calls and very irregular as my Gym time collides with it. Trying to xonsistently contribute in the care services"
+  },
+  {
+    "id": 1742884118034369,
+    "user_id": "U08G5QNG5M0",
+    "timestamp": "2025-03-25T00:58:38.034Z",
+    "text": "26 March :<br>• Fixing the Profile Pics avatar merge conflicts <br>• waiting for the reviews from <span class=\"s-mention s-user\">@U022THM4U2U</span> <br>• Missed EOD but today I will attend for sure<br>• Working on next issue"
+  },
+  {
+    "id": 1742946006877819,
+    "user_id": "U08G5QNG5M0",
+    "timestamp": "2025-03-25T18:10:06.877Z",
+    "text": "25 march :<br>• Worked on the ABDM Apis<br>• attended the weekly call<br>• drafting a proposal"
+  },
+  {
+    "id": 1743026091495389,
+    "user_id": "U08G5QNG5M0",
+    "timestamp": "2025-03-26T16:24:51.495Z",
+    "text": "27 March :<br>• Admitted in Hospital<br>• At night I started to work on my PRs<br>• Proposal Completed"
+  },
+  {
+    "id": 1743144078014259,
+    "user_id": "U08G5QNG5M0",
+    "timestamp": "2025-03-28T01:11:18.014Z",
+    "text": "27 March <br>• Working on ABDM projects <br>• Gone through the HPR apis<br>• Merged a PR 1000+ lines<br>• ABDM pr will be the biggest pr from My side"
+  },
+  {
+    "id": 1743177970359529,
+    "user_id": "U08G5QNG5M0",
+    "timestamp": "2025-03-28T10:36:10.359Z",
+    "text": "28 march :<br>• Working on ABDM Project<br>• Gone through the HPR APIs <br>• Understanding the ABDM workflows <br>• Contacted <span class=\"s-mention s-user\">@U01JB8L8P7Y</span> For the ABDM Part<br>Next :<br>• Going to Home with just one active repo thats the ABDM itself<br>• Complete it by this months one of the biggest PR"
+  },
+  {
+    "id": 1743402017139129,
+    "user_id": "U08G5QNG5M0",
+    "timestamp": "2025-03-31T00:50:17.139Z",
+    "text": "March 31 :<br>• Working on a previous PR<br>• working on the ABDM Part"
+  },
+  {
+    "id": 1743505101534979,
+    "user_id": "U08G5QNG5M0",
+    "timestamp": "2025-04-01T05:28:21.534Z",
+    "text": "31 March :<br>• Still work8ing on the HPR Ids <br>• completed my work at intern<br>• i will be working on the GSOC Proposal as of now"
+  },
+  {
+    "id": 1744201784680989,
+    "user_id": "U08G5QNG5M0",
+    "timestamp": "2025-04-09T06:59:44.680Z",
+    "text": "06-09 April<br>• Questionnaire Appointement Required Flag PR Raise<br>• Fix profile Photo (given by <span class=\"s-mention s-user\">@U02TDGQQPMJ</span>) and finalised the PR #11093<br>• Made 2 GSOC Proposal (Finger Crossed for 8 May)"
+  },
+  {
+    "id": 1746293406549559,
+    "user_id": "U08G5QNG5M0",
+    "timestamp": "2025-05-03T12:00:06.549Z",
+    "text": "May 3rd<br><br>Work on the PR of Fix Profile Issues this is a draft PR so working on its enhancements need some Backend Creation by <span class=\"s-mention s-user\">@U02TDGQQPMJ</span> so that i can compress it through middlewares"
+  }
+]

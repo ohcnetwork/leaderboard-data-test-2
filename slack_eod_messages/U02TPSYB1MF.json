@@ -1,0 +1,494 @@
+[
+  {
+    "id": 1652196156595989,
+    "user_id": "U02TPSYB1MF",
+    "timestamp": "2022-05-10T09:52:36.595Z",
+    "text": "Looked into issues and did packing for college"
+  },
+  {
+    "id": 1652276997290629,
+    "user_id": "U02TPSYB1MF",
+    "timestamp": "2022-05-11T08:19:57.290Z",
+    "text": "Won&#x27;t be able to attend EOD today coz of hostel packing.<br>Update:<br>• Setup care_fe locally<br>• Worked on an issue"
+  },
+  {
+    "id": 1652363078835489,
+    "user_id": "U02TPSYB1MF",
+    "timestamp": "2022-05-12T08:14:38.835Z",
+    "text": "No update travelled to college, won&#x27;t be joining eod today"
+  },
+  {
+    "id": 1652450471020309,
+    "user_id": "U02TPSYB1MF",
+    "timestamp": "2022-05-13T08:31:11.020Z",
+    "text": "No update, unpacked luggage at hostel"
+  },
+  {
+    "id": 1652621028727899,
+    "user_id": "U02TPSYB1MF",
+    "timestamp": "2022-05-15T07:53:48.727Z",
+    "text": "submitted 1 PR"
+  },
+  {
+    "id": 1652798738826029,
+    "user_id": "U02TPSYB1MF",
+    "timestamp": "2022-05-17T09:15:38.826Z",
+    "text": "• created a PR<br>• found and added an issue"
+  },
+  {
+    "id": 1652882659339089,
+    "user_id": "U02TPSYB1MF",
+    "timestamp": "2022-05-18T08:34:19.339Z",
+    "text": "found and worked on a issue"
+  },
+  {
+    "id": 1652976840948399,
+    "user_id": "U02TPSYB1MF",
+    "timestamp": "2022-05-19T10:44:00.948Z",
+    "text": "trying to solve #2401 made some profgress"
+  },
+  {
+    "id": 1653069212498169,
+    "user_id": "U02TPSYB1MF",
+    "timestamp": "2022-05-20T12:23:32.498Z",
+    "text": "no progress, searched through some issues"
+  },
+  {
+    "id": 1653142166052489,
+    "user_id": "U02TPSYB1MF",
+    "timestamp": "2022-05-21T08:39:26.052Z",
+    "text": "Issue raised : #<a href=\"https://github.com/ohcnetwork/care_fe/issues/2471\">2471</a> <br>PR: #<a href=\"https://github.com/ohcnetwork/care_fe/pull/2472\">2472</a>"
+  },
+  {
+    "id": 1653228720824569,
+    "user_id": "U02TPSYB1MF",
+    "timestamp": "2022-05-22T08:42:00.824Z",
+    "text": "worked on <a href=\"https://github.com/ohcnetwork/care_fe/pull/2472\">#2472</a>"
+  },
+  {
+    "id": 1653495245112119,
+    "user_id": "U02TPSYB1MF",
+    "timestamp": "2022-05-25T10:44:05.112Z",
+    "text": "no update, looked for issues"
+  },
+  {
+    "id": 1653573897765669,
+    "user_id": "U02TPSYB1MF",
+    "timestamp": "2022-05-26T08:34:57.765Z",
+    "text": "Issues raised:<br>    <a href=\"https://github.com/ohcnetwork/care_fe/issues/2522\">#2522</a><br>    <a href=\"https://github.com/ohcnetwork/care_fe/issues/2535\">#2535</a><br>PRs:<br>    <a href=\"https://github.com/ohcnetwork/care_fe/pull/2524/\">#2524</a><br>    <a href=\"https://github.com/ohcnetwork/care_fe/pull/2539\">#2539</a>"
+  },
+  {
+    "id": 1653660445330319,
+    "user_id": "U02TPSYB1MF",
+    "timestamp": "2022-05-27T08:37:25.330Z",
+    "text": "Took up issue #<a href=\"https://github.com/ohcnetwork/care_fe/issues/2553\">2553</a>"
+  },
+  {
+    "id": 1653750659687899,
+    "user_id": "U02TPSYB1MF",
+    "timestamp": "2022-05-28T09:40:59.687Z",
+    "text": "Worked on previous PR"
+  },
+  {
+    "id": 1653918639322549,
+    "user_id": "U02TPSYB1MF",
+    "timestamp": "2022-05-30T08:20:39.322Z",
+    "text": "Issues raised: <a href=\"https://github.com/ohcnetwork/care_fe/issues/2585\">#2585</a><br>PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/2586\">#2586</a>"
+  },
+  {
+    "id": 1654003851386479,
+    "user_id": "U02TPSYB1MF",
+    "timestamp": "2022-05-31T08:00:51.386Z",
+    "text": "Resolved errors in previous PRs"
+  },
+  {
+    "id": 1654092725182589,
+    "user_id": "U02TPSYB1MF",
+    "timestamp": "2022-06-01T08:42:05.182Z",
+    "text": "Issues raised:<br>    <a href=\"https://github.com/ohcnetwork/care_fe/issues/2604\">#2604</a><br>    <a href=\"https://github.com/ohcnetwork/care_fe/issues/2609\">#2609</a><br>PR:<br>    <a href=\"https://github.com/ohcnetwork/care_fe/pull/2606\">#2606</a><br>    <a href=\"https://github.com/ohcnetwork/care_fe/pull/2610\">#2610</a>"
+  },
+  {
+    "id": 1654178059951069,
+    "user_id": "U02TPSYB1MF",
+    "timestamp": "2022-06-02T08:24:19.951Z",
+    "text": "Worked on <a href=\"https://github.com/ohcnetwork/care_fe/pull/2499\">#2499</a> <a href=\"https://github.com/ohcnetwork/care_fe/pull/2606\">#2606</a>"
+  },
+  {
+    "id": 1654264970978199,
+    "user_id": "U02TPSYB1MF",
+    "timestamp": "2022-06-03T08:32:50.978Z",
+    "text": "no progress, did some college work"
+  },
+  {
+    "id": 1654366847031359,
+    "user_id": "U02TPSYB1MF",
+    "timestamp": "2022-06-04T12:50:47.031Z",
+    "text": "nothing much, worked on previous issues and studied for college exams"
+  },
+  {
+    "id": 1654449489523909,
+    "user_id": "U02TPSYB1MF",
+    "timestamp": "2022-06-05T11:48:09.523Z",
+    "text": "Fixed <a href=\"https://github.com/ohcnetwork/care_fe/pull/2610\">#2610</a>"
+  },
+  {
+    "id": 1654529583304269,
+    "user_id": "U02TPSYB1MF",
+    "timestamp": "2022-06-06T10:03:03.304Z",
+    "text": "nothing for today, had lab exams"
+  },
+  {
+    "id": 1654610212462709,
+    "user_id": "U02TPSYB1MF",
+    "timestamp": "2022-06-07T08:26:52.462Z",
+    "text": "resolved conflicts in previous PRs"
+  },
+  {
+    "id": 1654784789655999,
+    "user_id": "U02TPSYB1MF",
+    "timestamp": "2022-06-09T08:56:29.655Z",
+    "text": "Raised 1 issue and made a PR for the same"
+  },
+  {
+    "id": 1654869297856439,
+    "user_id": "U02TPSYB1MF",
+    "timestamp": "2022-06-10T08:24:57.856Z",
+    "text": "Made improvements in previous PR and studied for end sem exams"
+  },
+  {
+    "id": 1654957963866749,
+    "user_id": "U02TPSYB1MF",
+    "timestamp": "2022-06-11T09:02:43.866Z",
+    "text": "Raised 2 issues and made a PR"
+  },
+  {
+    "id": 1655300654453709,
+    "user_id": "U02TPSYB1MF",
+    "timestamp": "2022-06-15T08:14:14.453Z",
+    "text": "no updates, have end sem exams till 23rd"
+  },
+  {
+    "id": 1655476016587329,
+    "user_id": "U02TPSYB1MF",
+    "timestamp": "2022-06-17T08:56:56.587Z",
+    "text": "Raised 3 issues and made PRs for the same"
+  },
+  {
+    "id": 1655645037364859,
+    "user_id": "U02TPSYB1MF",
+    "timestamp": "2022-06-19T07:53:57.364Z",
+    "text": "made a <a href=\"https://github.com/ohcnetwork/care_fe/pull/2774\">PR</a> and resolved some errors in my forked repo"
+  },
+  {
+    "id": 1655996387837619,
+    "user_id": "U02TPSYB1MF",
+    "timestamp": "2022-06-23T09:29:47.837Z",
+    "text": "Posting after a long time, gave my final end sem exam today, traveling to home."
+  },
+  {
+    "id": 1656269075797719,
+    "user_id": "U02TPSYB1MF",
+    "timestamp": "2022-06-26T13:14:35.797Z",
+    "text": "Issues raised: <a href=\"https://github.com/ohcnetwork/care_fe/issues/2904\">#2904</a> <a href=\"https://github.com/ohcnetwork/care_fe/issues/2909\">#2909</a> <a href=\"https://github.com/ohcnetwork/care_fe/issues/2911\">#2911</a><br>PRs: <a href=\"https://github.com/ohcnetwork/care_fe/pull/2910\">#2910</a> <a href=\"https://github.com/ohcnetwork/care_fe/pull/2906\">#2906</a> <a href=\"https://github.com/ohcnetwork/care_fe/pull/2912\">#2912</a>"
+  },
+  {
+    "id": 1656346714032539,
+    "user_id": "U02TPSYB1MF",
+    "timestamp": "2022-06-27T10:48:34.032Z",
+    "text": "made a PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/2923\">#2923</a>"
+  },
+  {
+    "id": 1656429072361139,
+    "user_id": "U02TPSYB1MF",
+    "timestamp": "2022-06-28T09:41:12.361Z",
+    "text": "made a pr <a href=\"https://github.com/ohcnetwork/care_fe/pull/2937\">#2937</a>"
+  },
+  {
+    "id": 1656597252006489,
+    "user_id": "U02TPSYB1MF",
+    "timestamp": "2022-06-30T08:24:12.006Z",
+    "text": "Worked on previous PR"
+  },
+  {
+    "id": 1656703535296429,
+    "user_id": "U02TPSYB1MF",
+    "timestamp": "2022-07-01T13:55:35.296Z",
+    "text": "made 2 PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/2959\">#2959</a> <a href=\"https://github.com/ohcnetwork/care_fe/pull/2961\">#2961</a>"
+  },
+  {
+    "id": 1656872853235399,
+    "user_id": "U02TPSYB1MF",
+    "timestamp": "2022-07-03T12:57:33.235Z",
+    "text": "made 2 PR <a href=\"https://github.com/ohcnetwork/care_fe/pull/2995\">#2995</a> <a href=\"https://github.com/ohcnetwork/care_fe/pull/2996\">#2996</a> and worked on previous PRs"
+  },
+  {
+    "id": 1656949254209779,
+    "user_id": "U02TPSYB1MF",
+    "timestamp": "2022-07-04T10:10:54.209Z",
+    "text": "Worked on previous PR"
+  },
+  {
+    "id": 1657115529649899,
+    "user_id": "U02TPSYB1MF",
+    "timestamp": "2022-07-06T08:22:09.649Z",
+    "text": "worked on previous PRs and made a new PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/3022\">#3022</a>"
+  },
+  {
+    "id": 1657224732431749,
+    "user_id": "U02TPSYB1MF",
+    "timestamp": "2022-07-07T14:42:12.431Z",
+    "text": "made 2 PRs: <a href=\"https://github.com/ohcnetwork/care_fe/pull/3035\">#3035</a> <a href=\"https://github.com/ohcnetwork/care_fe/pull/3037\">#3037</a>"
+  },
+  {
+    "id": 1657310495730079,
+    "user_id": "U02TPSYB1MF",
+    "timestamp": "2022-07-08T14:31:35.730Z",
+    "text": "submitted one PR"
+  },
+  {
+    "id": 1657384933242919,
+    "user_id": "U02TPSYB1MF",
+    "timestamp": "2022-07-09T11:12:13.242Z",
+    "text": "made 2 PRs"
+  },
+  {
+    "id": 1657564501265449,
+    "user_id": "U02TPSYB1MF",
+    "timestamp": "2022-07-11T13:05:01.265Z",
+    "text": "worked on previous PRs"
+  },
+  {
+    "id": 1657729203372739,
+    "user_id": "U02TPSYB1MF",
+    "timestamp": "2022-07-13T10:50:03.372Z",
+    "text": "Made a PR"
+  },
+  {
+    "id": 1657811065214979,
+    "user_id": "U02TPSYB1MF",
+    "timestamp": "2022-07-14T09:34:25.214Z",
+    "text": "worked on previous PRs and made a new PR"
+  },
+  {
+    "id": 1657895563652429,
+    "user_id": "U02TPSYB1MF",
+    "timestamp": "2022-07-15T09:02:43.652Z",
+    "text": "Made a PR"
+  },
+  {
+    "id": 1657999527662559,
+    "user_id": "U02TPSYB1MF",
+    "timestamp": "2022-07-16T13:55:27.662Z",
+    "text": "made a PR"
+  },
+  {
+    "id": 1658157543370199,
+    "user_id": "U02TPSYB1MF",
+    "timestamp": "2022-07-18T09:49:03.370Z",
+    "text": "worked on previous PRs and made a new PR"
+  },
+  {
+    "id": 1658259728955929,
+    "user_id": "U02TPSYB1MF",
+    "timestamp": "2022-07-19T14:12:08.955Z",
+    "text": "worked on previous PRs"
+  },
+  {
+    "id": 1658344497037989,
+    "user_id": "U02TPSYB1MF",
+    "timestamp": "2022-07-20T13:44:57.037Z",
+    "text": "worked on previous PRs"
+  },
+  {
+    "id": 1658437585090539,
+    "user_id": "U02TPSYB1MF",
+    "timestamp": "2022-07-21T15:36:25.090Z",
+    "text": "made a PR"
+  },
+  {
+    "id": 1658781001715199,
+    "user_id": "U02TPSYB1MF",
+    "timestamp": "2022-07-25T15:00:01.715Z",
+    "text": "worked on previous PRs"
+  },
+  {
+    "id": 1658956629838589,
+    "user_id": "U02TPSYB1MF",
+    "timestamp": "2022-07-27T15:47:09.838Z",
+    "text": "made a PR and worked on previous PRs"
+  },
+  {
+    "id": 1659040065643739,
+    "user_id": "U02TPSYB1MF",
+    "timestamp": "2022-07-28T14:57:45.643Z",
+    "text": "made a PR"
+  },
+  {
+    "id": 1659119627487139,
+    "user_id": "U02TPSYB1MF",
+    "timestamp": "2022-07-29T13:03:47.487Z",
+    "text": "made a PR"
+  },
+  {
+    "id": 1659468779883979,
+    "user_id": "U02TPSYB1MF",
+    "timestamp": "2022-08-02T14:02:59.883Z",
+    "text": "made a PR and worked on previous PR"
+  },
+  {
+    "id": 1659727699065149,
+    "user_id": "U02TPSYB1MF",
+    "timestamp": "2022-08-05T13:58:19.065Z",
+    "text": "made a PR"
+  },
+  {
+    "id": 1659970787179709,
+    "user_id": "U02TPSYB1MF",
+    "timestamp": "2022-08-08T09:29:47.179Z",
+    "text": "Worked on previous PRs and packed for traveling to college"
+  },
+  {
+    "id": 1660060496284059,
+    "user_id": "U02TPSYB1MF",
+    "timestamp": "2022-08-09T10:24:56.284Z",
+    "text": "Traveled to college and unpacked stuff"
+  },
+  {
+    "id": 1660153262636669,
+    "user_id": "U02TPSYB1MF",
+    "timestamp": "2022-08-10T12:11:02.636Z",
+    "text": "Worked on previous PRs"
+  },
+  {
+    "id": 1660244863513619,
+    "user_id": "U02TPSYB1MF",
+    "timestamp": "2022-08-11T13:37:43.513Z",
+    "text": "Made a PR in care_fe repo"
+  },
+  {
+    "id": 1660509256150219,
+    "user_id": "U02TPSYB1MF",
+    "timestamp": "2022-08-14T15:04:16.150Z",
+    "text": "Made a PR"
+  },
+  {
+    "id": 1660711595220019,
+    "user_id": "U02TPSYB1MF",
+    "timestamp": "2022-08-16T23:16:35.220Z",
+    "text": "Worked on previous PRs and made a PR"
+  },
+  {
+    "id": 1661020435391839,
+    "user_id": "U02TPSYB1MF",
+    "timestamp": "2022-08-20T13:03:55.391Z",
+    "text": "Worked on previous PRs"
+  },
+  {
+    "id": 1661280527467269,
+    "user_id": "U02TPSYB1MF",
+    "timestamp": "2022-08-23T13:18:47.467Z",
+    "text": "Made a PR and worked on previous PRs"
+  },
+  {
+    "id": 1662562576172499,
+    "user_id": "U02TPSYB1MF",
+    "timestamp": "2022-09-07T09:26:16.172Z",
+    "text": "Worked on previous PRs and studied for upcoming exams"
+  },
+  {
+    "id": 1663268607820189,
+    "user_id": "U02TPSYB1MF",
+    "timestamp": "2022-09-15T13:33:27.820Z",
+    "text": "Completed college exams and worked on previous PRs"
+  },
+  {
+    "id": 1663439049646569,
+    "user_id": "U02TPSYB1MF",
+    "timestamp": "2022-09-17T12:54:09.646Z",
+    "text": "Made a PR in care_fe repo"
+  },
+  {
+    "id": 1664036925839939,
+    "user_id": "U02TPSYB1MF",
+    "timestamp": "2022-09-24T10:58:45.839Z",
+    "text": "made a PR"
+  },
+  {
+    "id": 1664119689162609,
+    "user_id": "U02TPSYB1MF",
+    "timestamp": "2022-09-25T09:58:09.162Z",
+    "text": "Made a PR in leaderbord repo"
+  },
+  {
+    "id": 1664303586915379,
+    "user_id": "U02TPSYB1MF",
+    "timestamp": "2022-09-27T13:03:06.915Z",
+    "text": "made a PR and worked on previous PRs"
+  },
+  {
+    "id": 1664389653887169,
+    "user_id": "U02TPSYB1MF",
+    "timestamp": "2022-09-28T12:57:33.887Z",
+    "text": "worked on previous PRs in care_fe repo"
+  },
+  {
+    "id": 1664733935065019,
+    "user_id": "U02TPSYB1MF",
+    "timestamp": "2022-10-02T12:35:35.065Z",
+    "text": "made a PR in care_fe repo and worked on previous PRs"
+  },
+  {
+    "id": 1664910172276089,
+    "user_id": "U02TPSYB1MF",
+    "timestamp": "2022-10-04T13:32:52.276Z",
+    "text": "Made a PR in care_fe repo"
+  },
+  {
+    "id": 1665071035197449,
+    "user_id": "U02TPSYB1MF",
+    "timestamp": "2022-10-06T10:13:55.197Z",
+    "text": "worked on previous PRs"
+  },
+  {
+    "id": 1666187580281859,
+    "user_id": "U02TPSYB1MF",
+    "timestamp": "2022-10-19T08:23:00.281Z",
+    "text": "gave my last exam. Made a PR"
+  },
+  {
+    "id": 1667326273453519,
+    "user_id": "U02TPSYB1MF",
+    "timestamp": "2022-11-01T12:41:13.453Z",
+    "text": "Made a <a href=\"https://github.com/ohcnetwork/care_fe/pull/3918\">PR</a>"
+  },
+  {
+    "id": 1667405163430939,
+    "user_id": "U02TPSYB1MF",
+    "timestamp": "2022-11-02T10:36:03.430Z",
+    "text": "Raised a <a href=\"https://github.com/ohcnetwork/care_fe/pull/3922\">PR</a>"
+  },
+  {
+    "id": 1668346768846729,
+    "user_id": "U02TPSYB1MF",
+    "timestamp": "2022-11-13T08:09:28.846Z",
+    "text": "Raised a <a href=\"https://github.com/ohcnetwork/care_fe/pull/4050\">PR</a> in care_fe"
+  },
+  {
+    "id": 1668619463718359,
+    "user_id": "U02TPSYB1MF",
+    "timestamp": "2022-11-16T11:54:23.718Z",
+    "text": "Raised an issue <a href=\"https://github.com/ohcnetwork/care_fe/issues/4060\">#4060</a> and made PR for same"
+  },
+  {
+    "id": 1669130920000309,
+    "user_id": "U02TPSYB1MF",
+    "timestamp": "2022-11-22T09:58:40.000Z",
+    "text": "Raise a <a href=\"https://github.com/ohcnetwork/care_fe/pull/4094\">PR</a> in care_fe"
+  },
+  {
+    "id": 1670427765586399,
+    "user_id": "U02TPSYB1MF",
+    "timestamp": "2022-12-07T10:12:45.586Z",
+    "text": "Raised a <a href=\"https://github.com/ohcnetwork/care_fe/pull/4241\">PR</a> in care_fe"
+  }
+]

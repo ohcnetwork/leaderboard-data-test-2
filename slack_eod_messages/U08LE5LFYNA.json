@@ -1,0 +1,410 @@
+[
+  {
+    "id": 1751466161233449,
+    "user_id": "U08LE5LFYNA",
+    "timestamp": "2025-07-02T08:52:41.233Z",
+    "text": "July 1–2<br>• Onboarded as a Data Analyst Intern<br>• Began working through the training modules<br>• Went through a few of the already built databases, collections, and dashboards on OHC&#x27;s Metabase<br>• Played around with a few sample visualizations &amp;amp; dashboards<br>• Got to know a few team members (excited to meet the rest of you soon <span class=\"s-emoji\">🤞</span>)"
+  },
+  {
+    "id": 1751637807564209,
+    "user_id": "U08LE5LFYNA",
+    "timestamp": "2025-07-04T08:33:27.564Z",
+    "text": "July 4th:<br>Started building 2 sample dashboards:<br>• Patient Metrics<br>• Overall Efficiency Dashboard<br>• Built initial charts using safe JSONB parsing with proper filters"
+  },
+  {
+    "id": 1752078197778039,
+    "user_id": "U08LE5LFYNA",
+    "timestamp": "2025-07-09T10:53:17.778Z",
+    "text": "July 8-9<br>• Started work on a Data Integrity dashboard <br>• Created an ER diagram outlining tables, relationships, and joins<br>• Attended the weekly review call"
+  },
+  {
+    "id": 1752162210860449,
+    "user_id": "U08LE5LFYNA",
+    "timestamp": "2025-07-10T10:13:30.860Z",
+    "text": "July 10<br>• Finalized the ER Diagram for the CARE database, mapping out key tables, relationships, and joins<br>• Started Work on CARE Dashboard for Kerala<br>• Built &amp;amp; optimized SQL queries to support core visualizations and chart components along with filters<br>Next:<br>• Continue building the dashboard components<br>• Build relevant KPIs"
+  },
+  {
+    "id": 1752683376442969,
+    "user_id": "U08LE5LFYNA",
+    "timestamp": "2025-07-16T10:59:36.442Z",
+    "text": "July 16<br>• Started work on Scribe Dashboard<br>• Created initial charts &amp;amp; visualizations <br>Next:<br>• Continue working on the dashboard"
+  },
+  {
+    "id": 1752766980936529,
+    "user_id": "U08LE5LFYNA",
+    "timestamp": "2025-07-17T10:13:00.936Z",
+    "text": "July 17<br>• Completed Scribe Dashboard<br>• Implemented Supporting visualizations, charts &amp;amp; figures for input tokens, output tokens and transcribing minutes"
+  },
+  {
+    "id": 1753464784006899,
+    "user_id": "U08LE5LFYNA",
+    "timestamp": "2025-07-25T12:03:04.006Z",
+    "text": "<strong>July 25th</strong><br>• Explored <code>emr_questionnaire</code> and <code>emr_questionnaireresponse</code> tables<br>• Started working on a new dashboard: <strong>Response Analytics</strong><br>• Built a few visualizations using the above tables <br><strong>Next:</strong><br>• Dive deeper into the <code>questions</code> JSON in <code>emr_questionnaire</code><br>• Analyze the <code>response</code> JSON in <code>emr_questionnaireresponse</code>"
+  },
+  {
+    "id": 1753544208906039,
+    "user_id": "U08LE5LFYNA",
+    "timestamp": "2025-07-26T10:06:48.906Z",
+    "text": "July 26th<br>• Worked on Questionnaire Analytics Dashboard <br>• Went through the JSON Response &amp;amp; Questions columns <br>• Built multiple visualizations and charts using <code>emr_questionnaire</code> and <code>emr_questionnaireresponse</code> tables<br>• Used CTEs to create statistics and trends"
+  },
+  {
+    "id": 1753716713586689,
+    "user_id": "U08LE5LFYNA",
+    "timestamp": "2025-07-28T10:01:53.586Z",
+    "text": "July 28<br>• Went through Questionnaire and Response Tables once again<br>• Made a few changes to existing dashboard <br>Next:<br>• Wait for next task to be assigned"
+  },
+  {
+    "id": 1753897937101419,
+    "user_id": "U08LE5LFYNA",
+    "timestamp": "2025-07-30T12:22:17.101Z",
+    "text": "July 30<br>• Went through the tables in metabase <br>• Went through all the previously built dashboards again <br>Next:<br>• Get assigned a new task"
+  },
+  {
+    "id": 1754584068924429,
+    "user_id": "U08LE5LFYNA",
+    "timestamp": "2025-08-07T10:57:48.924Z",
+    "text": "Aug 7:<br>• Scribe Dashboard reviewed by Shivank<br>• Got feedback for the same <span class=\"s-emoji\">☝️</span> <br>• Implemented a few changes to the Dashboard"
+  },
+  {
+    "id": 1754670264839169,
+    "user_id": "U08LE5LFYNA",
+    "timestamp": "2025-08-08T10:54:24.839Z",
+    "text": "Aug 8:<br>• Modified existing Scribe Dashboard<br>• Added Cost Metrics for scribes ( Avg cost per Scribe &amp;amp; Cost Trends )<br>• Added Monthly Token Usage chart ( includes transcriptions , input &amp;amp; output tokens )"
+  },
+  {
+    "id": 1755017137635759,
+    "user_id": "U08LE5LFYNA",
+    "timestamp": "2025-08-12T11:15:37.635Z",
+    "text": "Aug 12:<br>• Attended weekly call<br>• Started a few discussions on dms"
+  },
+  {
+    "id": 1755099440272369,
+    "user_id": "U08LE5LFYNA",
+    "timestamp": "2025-08-13T10:07:20.272Z",
+    "text": "August 13th:<br>• few dms<br>• Couldn&#x27;t connect to ohc&#x27;s metabase today<br>• went through a few docs regarding metabase functionalities <br>Next:<br>• Get up to speed with info related to Arike w/ Rohit"
+  },
+  {
+    "id": 1755186056201899,
+    "user_id": "U08LE5LFYNA",
+    "timestamp": "2025-08-14T10:10:56.201Z",
+    "text": "Aug 14th:<br>• <span class=\"s-emoji\">🎧</span> w/ Rohit <br>• Got access to Arike Metabase<br>• Went through a few dashboards &amp;amp; the DB"
+  },
+  {
+    "id": 1755270627294199,
+    "user_id": "U08LE5LFYNA",
+    "timestamp": "2025-08-15T09:40:27.294Z",
+    "text": "Aug 15:<br>• <span class=\"s-emoji\">🎧</span>  with Sona regarding Arike dashboards <br>• Got info regarding the dbs &amp;amp; daily dashboard<br>• Went through already built dashboards ( TV&amp;amp;web and daily)"
+  },
+  {
+    "id": 1755362606016499,
+    "user_id": "U08LE5LFYNA",
+    "timestamp": "2025-08-16T11:13:26.016Z",
+    "text": "Aug 16th:<br>• few dms<br>• Created cards using metabase tools to replace existing sql cards"
+  },
+  {
+    "id": 1755533141560569,
+    "user_id": "U08LE5LFYNA",
+    "timestamp": "2025-08-18T10:35:41.560Z",
+    "text": "Aug 18:<br>• Converted a existing sql drill down to use metabase tools instead <br>• Fixed a minor issue with the same drill down"
+  },
+  {
+    "id": 1755623946095949,
+    "user_id": "U08LE5LFYNA",
+    "timestamp": "2025-08-19T11:49:06.095Z",
+    "text": "Aug 19th:<br>• Converted 4 sql queries to use metabase tools instead <br>• Updated a drill down - to fix a issue <br>• Attended weekly call"
+  },
+  {
+    "id": 1755704129881689,
+    "user_id": "U08LE5LFYNA",
+    "timestamp": "2025-08-20T10:05:29.881Z",
+    "text": "Aug 20th:<br>• slow day<br>• Went through arike dashboard, found a few cards which should be updated"
+  },
+  {
+    "id": 1755834136851249,
+    "user_id": "U08LE5LFYNA",
+    "timestamp": "2025-08-21T22:12:16.851Z",
+    "text": "Aug 21st:<br>• A long huddle w/ Sona, Rohit, Merrin and Athul doctor regarding Arike&#x27;s weekly dashboard"
+  },
+  {
+    "id": 1755962474112809,
+    "user_id": "U08LE5LFYNA",
+    "timestamp": "2025-08-23T09:51:14.112Z",
+    "text": "Aug 23:<br>• Huddle w/ Sona<br>• Created card with day&amp;amp;night nhc forms filled stats"
+  },
+  {
+    "id": 1756172603128799,
+    "user_id": "U08LE5LFYNA",
+    "timestamp": "2025-08-25T20:13:23.128Z",
+    "text": "Aug 25:<br>• Huddle with Rohit and Sona regarding dashboard requirements <br>• Tweaked nhc filled card to correct time frames<br>• Few dms"
+  },
+  {
+    "id": 1756220998612099,
+    "user_id": "U08LE5LFYNA",
+    "timestamp": "2025-08-26T09:39:58.612Z",
+    "text": "Aug 26:<br>• Huddle w/ Sona<br>• Built template card for new timeframes for arike<br>Next:<br>• Restructure the Admin tab in Arike daily dashboard for new timeframes"
+  },
+  {
+    "id": 1756311110444109,
+    "user_id": "U08LE5LFYNA",
+    "timestamp": "2025-08-27T10:41:50.444Z",
+    "text": "Aug 27th:<br>• Rebuilt all the cards in Arike&#x27;s daily dashboard Admin tab to reflect new timeframes <br>• Built few new drilldowns for the cards <span class=\"s-emoji\">☝️</span> <br>• Added new field filter for the Admin tab<br>• Started standardizing the cards &amp;amp; drilldowns<br>• few dms<br>Next:<br>• Complete the standardization <br>• Review the dashboard with Sona &amp;amp; Rohit<br>• Start working on weekly dashboard"
+  },
+  {
+    "id": 1756398282991069,
+    "user_id": "U08LE5LFYNA",
+    "timestamp": "2025-08-28T10:54:42.991Z",
+    "text": "Aug 28th:<br>• Added drilldowns to all cards in Admin tab (daily dashboard)<br>• Standardized all cards &amp;amp; drilldowns<br>• Completed the daily dashboard&#x27;s admin tab with the new  time structures"
+  },
+  {
+    "id": 1756532325365079,
+    "user_id": "U08LE5LFYNA",
+    "timestamp": "2025-08-30T00:08:45.365Z",
+    "text": "Aug 29:<br>• Edited a few drilldowns in care tab of arike daily dashboard <br>• Huddle with Sona"
+  },
+  {
+    "id": 1756748235517339,
+    "user_id": "U08LE5LFYNA",
+    "timestamp": "2025-09-01T12:07:15.517Z",
+    "text": "Sep 1:<br>• Fixed drill down issues with filters"
+  },
+  {
+    "id": 1756836709911819,
+    "user_id": "U08LE5LFYNA",
+    "timestamp": "2025-09-02T12:41:49.911Z",
+    "text": "Sep 2:<br>• Started working on Arike weekly dashboard<br>• Created few cards<br>• Huddle w/ Sona<br>• Attended weekly meet<br>• Worked on task given by Bill"
+  },
+  {
+    "id": 1756923389947369,
+    "user_id": "U08LE5LFYNA",
+    "timestamp": "2025-09-03T12:46:29.947Z",
+    "text": "Sep 3:<br>• Added a few cards to arikes weekly dashboard<br>• Huddle with Sona<br>• Tried changing date logic for 2 cards"
+  },
+  {
+    "id": 1757043134119769,
+    "user_id": "U08LE5LFYNA",
+    "timestamp": "2025-09-04T22:02:14.119Z",
+    "text": "Sep 4:<br>• Updated mobility status card and its drill down<br>• Worked on task assigned by Bill"
+  },
+  {
+    "id": 1757350297208859,
+    "user_id": "U08LE5LFYNA",
+    "timestamp": "2025-09-08T11:21:37.208Z",
+    "text": "Sep 8 :<br>• Checked Patient Symptoms &amp;amp; Diagnosis for duplicate values - and discussed if it needs to be replaced<br>• Tried changing logic for weekly cards &amp;amp; visualizations<br>• Did some exploring in metabase docs to rectify a issue related to indexing a json array using field filter <br>• <span class=\"s-emoji\">🎧</span>  with Sona"
+  },
+  {
+    "id": 1757435740680739,
+    "user_id": "U08LE5LFYNA",
+    "timestamp": "2025-09-09T11:05:40.680Z",
+    "text": "Sep 9:<br>• Experimented on a few cards - trying to rectify a date filter issue<br>• weekly review call"
+  },
+  {
+    "id": 1757554521068269,
+    "user_id": "U08LE5LFYNA",
+    "timestamp": "2025-09-10T20:05:21.068Z",
+    "text": "Sep 10:<br>• Updated all cards in admin tab of arike daily dashboard to a new date filter logic"
+  },
+  {
+    "id": 1757610091826739,
+    "user_id": "U08LE5LFYNA",
+    "timestamp": "2025-09-11T11:31:31.826Z",
+    "text": "Sep 11:<br>• Updated admin tab of arike daily dashboard <br>• Updated cards in care tab to new time structure <br>• Huddle with Sona<br>• Huddle with Rohit &amp;amp; Merrin"
+  },
+  {
+    "id": 1757723535468579,
+    "user_id": "U08LE5LFYNA",
+    "timestamp": "2025-09-12T19:02:15.468Z",
+    "text": "Sep 12:<br>• Started working on new card for catheter related data <br>• Huddle with Rohit and Sona"
+  },
+  {
+    "id": 1757782573821869,
+    "user_id": "U08LE5LFYNA",
+    "timestamp": "2025-09-13T11:26:13.821Z",
+    "text": "Sep 13:<br>• Worked on new dashboard for Merrin<br>• <span class=\"s-emoji\">🎧</span>  w/ Merrin<br>• Added a new card (Total forms filled) to daily dashboard"
+  },
+  {
+    "id": 1757955048682789,
+    "user_id": "U08LE5LFYNA",
+    "timestamp": "2025-09-15T11:20:48.682Z",
+    "text": "Sep 15:<br>• Updated all drilldowns in Admin tab of arike daily dashboard to latest date/time struct<br>• Fixed cards in care tab"
+  },
+  {
+    "id": 1758078639993599,
+    "user_id": "U08LE5LFYNA",
+    "timestamp": "2025-09-16T21:40:39.993Z",
+    "text": "Sep 16:<br>• Added drill down to a card<br>• Added a new card (unmatched bookings) to ops tab of arike daily dashboard <br>• Huddle with Rohit, Sona, Merrin and Athul doctor <br>• Attended Weekly meet"
+  },
+  {
+    "id": 1758123739589779,
+    "user_id": "U08LE5LFYNA",
+    "timestamp": "2025-09-17T10:12:19.589Z",
+    "text": "Sep 17:<br>• Huddle with Rohit and Sona<br>• Reviewed a possible date/time issue pointed out by Sona"
+  },
+  {
+    "id": 1758242640205999,
+    "user_id": "U08LE5LFYNA",
+    "timestamp": "2025-09-18T19:14:00.205Z",
+    "text": "Sep 18:<br>• Added a new card &amp;amp; drill down for patients registered but not visited<br>• Had a huddle with the Kerala care dashboard team"
+  },
+  {
+    "id": 1758554825882429,
+    "user_id": "U08LE5LFYNA",
+    "timestamp": "2025-09-22T09:57:05.882Z",
+    "text": "Sep 22:<br>• Huddle w/ Sona<br>• Huddle w/ Rohit<br>• Huddle w/ Care Dashboarding team<br>• Added a new card &amp;amp; corresponding drill down to arike daily dashboard <br>• Researched on linking google sheets to metabase &amp;amp; alternatives <br>• Implemented a few tests to add csvs to metabase and use field filters on them"
+  },
+  {
+    "id": 1758644129473169,
+    "user_id": "U08LE5LFYNA",
+    "timestamp": "2025-09-23T10:45:29.473Z",
+    "text": "Sep 23:<br>• Attended weekly review meet <br>• Few dms"
+  },
+  {
+    "id": 1758771407882649,
+    "user_id": "U08LE5LFYNA",
+    "timestamp": "2025-09-24T22:06:47.882Z",
+    "text": "Sep 24:<br>• read docs on &#x27;actions&#x27;, tried implementing them on metabase"
+  },
+  {
+    "id": 1758877893816429,
+    "user_id": "U08LE5LFYNA",
+    "timestamp": "2025-09-26T03:41:33.816Z",
+    "text": "Sep 25:<br>• Added tags to home health, virtual encounter and appointments cards <br>• Huddle w/ Sona<br>• Found a bug with tags (trying to find a fix)"
+  },
+  {
+    "id": 1759165801392739,
+    "user_id": "U08LE5LFYNA",
+    "timestamp": "2025-09-29T11:40:01.392Z",
+    "text": "Sep 29<br>• Updated clinical and tele forms card &amp;amp; drilldown<br>• Added capability filter to volunteer engagement card<br>• Fixed a bug with cross_subsided_model_filter in multiple drilldowns<br>• Added a new card for &#x27;encounters without appointments&#x27; w/ corresponding drilldown"
+  },
+  {
+    "id": 1759282102396129,
+    "user_id": "U08LE5LFYNA",
+    "timestamp": "2025-09-30T19:58:22.396Z",
+    "text": "Sep 30:<br>• Added patient filters to multiple cards a d drilldowns in arike dashboard <br>• Attended weekly call"
+  },
+  {
+    "id": 1759377244386419,
+    "user_id": "U08LE5LFYNA",
+    "timestamp": "2025-10-01T22:24:04.386Z",
+    "text": "Oct 1:<br>• Updated cards &amp;amp; corresponding drilldowns in care tab of arike daily dashboard with patient tags &amp;amp; filters"
+  },
+  {
+    "id": 1759553122220719,
+    "user_id": "U08LE5LFYNA",
+    "timestamp": "2025-10-03T23:15:22.220Z",
+    "text": "Oct 3:<br>• Added instance tags to few cards in care tab of arike daily dashboard <br>• Tried implementing patient filters for same cards using metabase tools"
+  },
+  {
+    "id": 1759761604547249,
+    "user_id": "U08LE5LFYNA",
+    "timestamp": "2025-10-06T09:10:04.547Z",
+    "text": "Oct 6:<br>• Started working on a sample for Kerala care dashboard<br>• Explored the new db &amp;amp; found some cool features on the newer Metabase<br>• Added few cards<br>• <span class=\"s-emoji\">🎧</span>  w/ Sona"
+  },
+  {
+    "id": 1759895326379719,
+    "user_id": "U08LE5LFYNA",
+    "timestamp": "2025-10-07T22:18:46.379Z",
+    "text": "Oct 7<br>• Meet with Kerala care palliative grid team"
+  },
+  {
+    "id": 1759940682582809,
+    "user_id": "U08LE5LFYNA",
+    "timestamp": "2025-10-08T10:54:42.582Z",
+    "text": "Oct 8:<br>• Call with Sona and Rohit regarding Arike dashboard<br>• Updated a few cards in care tab"
+  },
+  {
+    "id": 1761113833135429,
+    "user_id": "U08LE5LFYNA",
+    "timestamp": "2025-10-22T00:47:13.135Z",
+    "text": "Oct 21:<br>• Updated Volunteer Engagement card &amp; drilldown with 6 new forms<br>• Updated card using Volunteer forms to use community profiling form<br>• Updated Active patients card to include f10 column <br>• Had a look at a issue with Janm card, tried fixing with date series<br>• Attended weekly call"
+  },
+  {
+    "id": 1761194589268889,
+    "user_id": "U08LE5LFYNA",
+    "timestamp": "2025-10-22T23:13:09.268Z",
+    "text": "Oct 22:<br>• Tried updating janm card to include future dates<br>• few discussions in dms"
+  },
+  {
+    "id": 1761284715505149,
+    "user_id": "U08LE5LFYNA",
+    "timestamp": "2025-10-24T00:15:15.505Z",
+    "text": "23rd Oct:<br>• Got access to Sudheendra Metabase<br>• Explored their dashboard &amp;amp; db<br>• Added card for &#x27;charge items&#x27; and its corresponding drill down"
+  },
+  {
+    "id": 1761360927389849,
+    "user_id": "U08LE5LFYNA",
+    "timestamp": "2025-10-24T21:25:27.389Z",
+    "text": "Oct 24th:<br>• Updated all tabs in arike dashboard with their corresponding cards and drilldowns with new filter for &#x27;OOA&#x27; Zone<br>• Updated &#x27;first field visit&#x27; card with new column for &#x27;Patient Profiling (F11)&#x27; form"
+  },
+  {
+    "id": 1761670087790529,
+    "user_id": "U08LE5LFYNA",
+    "timestamp": "2025-10-28T11:18:07.790Z",
+    "text": "Oct 27:<br>• discussions regarding ohcs metabase db &amp;amp; filters<br>Oct 28th:<br>• Started implementing new filters for all cards &amp;amp; drilldowns in arike dashboard"
+  },
+  {
+    "id": 1761817528113479,
+    "user_id": "U08LE5LFYNA",
+    "timestamp": "2025-10-30T04:15:28.113Z",
+    "text": "Oct 29th:<br>• Updated all cards &amp;amp; drilldowns in Ops1 and Ops2 tabs of arike dashboard with new- updated filters<br>• Worked on janm card &amp;amp; drilldown for social tab"
+  },
+  {
+    "id": 1761902440683349,
+    "user_id": "U08LE5LFYNA",
+    "timestamp": "2025-10-31T03:50:40.683Z",
+    "text": "Oct 30th:<br>• Updated care provided drilldown in arike dashboard <br>• Updated Janm card in social tab<br>• Updated a few cards with new filters"
+  },
+  {
+    "id": 1761975268470779,
+    "user_id": "U08LE5LFYNA",
+    "timestamp": "2025-11-01T00:04:28.470Z",
+    "text": "Oct 31:<br>• Created card and drill down for &quot;non-visited be-bound patients&quot;<br>• Created card and drill down for  &quot;patients currently having mobility bed-bound&quot;<br>• Created card and drilldown for &quot;patients using specific comfort devices&quot; also added data points for &#x27;patient - volunteer linkage&#x27; info<br>• <span class=\"s-emoji\">🎧</span>  w/ Sona"
+  },
+  {
+    "id": 1762012977921209,
+    "user_id": "U08LE5LFYNA",
+    "timestamp": "2025-11-01T10:32:57.921Z",
+    "text": "Nov 1:<br>• Added new filters for all kpi cards in &#x27;care&#x27; tab of arike dashboard<br>• Updated all drill-downs with new filter for cards of care tab"
+  },
+  {
+    "id": 1762254014029429,
+    "user_id": "U08LE5LFYNA",
+    "timestamp": "2025-11-04T05:30:14.029Z",
+    "text": "Nov 3:<br>• Created cards for the following categories:<br>    ◦ <em>Volunteer Linkage for Bed-Bound Patients</em><br>    ◦ <em>Patients Requiring Comfort Devices</em><br>    ◦ <em>Patients Requiring Regular Care</em><br>    ◦ <em>Patients Requiring Financial Support</em><br>• Added drilldown functionality with the suggested filters for all the above cards.<br>• Added staff name filter across the cards"
+  },
+  {
+    "id": 1762329152179269,
+    "user_id": "U08LE5LFYNA",
+    "timestamp": "2025-11-05T02:22:32.179Z",
+    "text": "Nov 4:<br>• Updated these cards with latest patient diagnosis entries:<br>    ◦ &#x27;Total count of patients currently marked as bed-bound&#x27;<br>    ◦ &#x27;Total number of non-visited bed-bound patients&#x27;<br>• Updated view for Volunteer Linkage card for bed bound patients<br>• <span class=\"s-emoji\">🎧</span>  w/ Sona, Rohit and Merrin regarding the new &amp;amp; archived tags"
+  },
+  {
+    "id": 1762356052615359,
+    "user_id": "U08LE5LFYNA",
+    "timestamp": "2025-11-05T09:50:52.615Z",
+    "text": "Nov 5th:<br>• Updated forms used in the ‘Patients Requiring Regular Care’ card to use ‘Nurses-Homecare’ and ‘Doctors DHC v2’ instead.<br>• Added ‘Doctors DHC v2’ form to the following cards and drilldowns in Facility Dashboard:<br>    ◦ Volunteer Linkage for Bed-Bound Patients (Yes - No)<br>    ◦ Registered Bed-Bound Patients<br>    ◦ Non-Visited Bed-Bound Patients<br>• Tweaked ‘Doctors Complete, Nursing Incomplete’ card logic in the Arike Dashboard to correctly apply shift-based filtering.<br>• Reviewed multiple cards in the Arike Dashboard to identify any potential date-based filtering issues"
+  },
+  {
+    "id": 1762443381674209,
+    "user_id": "U08LE5LFYNA",
+    "timestamp": "2025-11-06T10:06:21.674Z",
+    "text": "<strong>Nov 6</strong><br>• Updated ‘Medication Prescribed’ drilldown in the Arike dashboard with new filters (all patients, distinct patients &amp;amp; deceased patients).<br>• Created card and drilldown for &#x27;Patients Referred to Secondary Unit or NGO&#x27; from comfort_devices category <br>• Created card and drilldown for &#x27;Patients Referred to Secondary Unit or NGO&#x27; from patient_care category<br>• Added facility-level filters for these cards and drilldowns<br>• <span class=\"s-emoji\">🎧</span> Huddle with Rohit, Sona<strong>,</strong> and Merrin regarding the Finance tab in the Arike dashboard."
+  },
+  {
+    "id": 1762526727286639,
+    "user_id": "U08LE5LFYNA",
+    "timestamp": "2025-11-07T09:15:27.286Z",
+    "text": "Nov 7<br>• Replaced &#x27;remarks&#x27; filters with &#x27;alerts&#x27; filter in all drilldowns in Care and Social tabs of Arike Daily Dashboard<br>• Added &#x27;others&#x27; col &amp;amp; filter to all drilldowns in Care &amp;amp; Social tabs of Arike Daily Dashboard"
+  },
+  {
+    "id": 1762828606798589,
+    "user_id": "U08LE5LFYNA",
+    "timestamp": "2025-11-10T21:06:46.798Z",
+    "text": "Nov 10<br>• Updated &#x27;Medication prescribed&#x27; drilldown in care tab of arike dashboard<br>• Updated col &#x27;special_visit&#x27; of all drilldowns I&#x27;m Arike daily dashboard"
+  },
+  {
+    "id": 1762918397579969,
+    "user_id": "U08LE5LFYNA",
+    "timestamp": "2025-11-11T22:03:17.579Z",
+    "text": "Nov 11<br>• Updated queries and drilldowns to add columns &#x27;alerts&#x27; and &#x27;others&#x27; from tags to all cards in Ops1 and Ops2 tabs of Arike Daily Dashboard"
+  }
+]

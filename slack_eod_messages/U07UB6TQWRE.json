@@ -1,0 +1,476 @@
+[
+  {
+    "id": 1729976175720839,
+    "user_id": "U07UB6TQWRE",
+    "timestamp": "2024-10-26T15:26:15.720Z",
+    "text": "<span class=\"s-mention s-user\">@U07UB6TQWRE</span> has joined the channel"
+  },
+  {
+    "id": 1738514962732919,
+    "user_id": "U07UB6TQWRE",
+    "timestamp": "2025-02-02T11:19:22.732Z",
+    "text": "1 Feb 2025<br>• Finished DevOps Intern assignment<br>• Raised PR <a href=\"https://github.com/ohcnetwork/docs/pull/98\">#98</a> to update ohc/docs for for DigitalOcean deployment discrepancies<br>Next<br>• Test AWS and GCR deployment tutorials to identify any discrepancies<br>• Call with <span class=\"s-mention s-user\">@U02D0NA6RHR</span> and <span class=\"s-mention s-user\">@U06CY7RUZ9S</span> on Monday to take things forward with devops role (<span class=\"s-emoji\">🤞</span><span class=\"s-emoji\">🏻</span>)"
+  },
+  {
+    "id": 1739030616109539,
+    "user_id": "U07UB6TQWRE",
+    "timestamp": "2025-02-08T10:33:36.109Z",
+    "text": "4, 5, 6, 7 Feb 2025<br>• Raised Issue 1, Issue 2<br>• Went through CARE plugins (ABDM, Scribe)<br>• Replicating some issues in care plugins repo<br>• Working on lint warnings in fe<br>• Attended EOD calls<br>Next<br>• Work on the opened issues<br>• Learn about cypress<br>• Look for new issues"
+  },
+  {
+    "id": 1739119557675839,
+    "user_id": "U07UB6TQWRE",
+    "timestamp": "2025-02-09T11:15:57.675Z",
+    "text": "8, 9 Feb 2025<br>• Sat down and went through care docs and care ui for 6 hours.<br>• Asked some doubts in care_engineering.<br>• Found and raised minor + major bugs on care-fe (<a href=\"https://github.com/ohcnetwork/care_fe/issues/10513\">Issue 1</a>,  <a href=\"https://github.com/ohcnetwork/care_fe/issues/10515\">Issue 2</a>, <a href=\"https://github.com/ohcnetwork/care_fe/issues/10517\">Issue 3</a>, <a href=\"https://github.com/ohcnetwork/care_fe/issues/10520\">Issue 4</a>, <a href=\"https://github.com/ohcnetwork/care_fe/issues/10514\">Issue 5</a>).<br>Next<br>• Work on the issues raised.<br>• Work on small college related assignment.<br>• Sit down and go through issues opened in care_abdm, care_scribe_fe, care_hcx later this week."
+  },
+  {
+    "id": 1739369990715809,
+    "user_id": "U07UB6TQWRE",
+    "timestamp": "2025-02-12T08:49:50.715Z",
+    "text": "10, 11 Feb 2025<br>• Worked on the issues raised last week while brushing up on frontend skills.<br>• Tried to get more issues assigned, but <span class=\"s-mention s-user\">@U07NXCASM89</span> asked me to focus on the current ones. <span class=\"s-emoji\">😭</span><br>12 Feb 2025<br>• PR 1 merged.<br>• PR 2 got the &quot;needs-testing&quot; label.<br>• Found a bug during <code>npm run dev</code> related to &quot;No file to copy on pdf.worker.min.mjs.&quot; (still need to test and confirm)<br>Next<br>• Waiting on <span class=\"s-mention s-user\">@U02TDGQQPMJ</span> slack dm reply for clarification on <a href=\"https://github.com/ohcnetwork/care_fe/issues/10520\">this issue</a>.<br>• Work on the above mentioned issue once assigned."
+  },
+  {
+    "id": 1739512437477549,
+    "user_id": "U07UB6TQWRE",
+    "timestamp": "2025-02-14T00:23:57.477Z",
+    "text": "13 Feb 2025<br>• Got assigned a good first issue and raised a <a href=\"https://github.com/ohcnetwork/care_fe/pull/10593\">PR</a>.<br>• Took on a DevOps intern-level task from <span class=\"s-mention s-user\">@U06CY7RUZ9S</span> (finally some devops work for me<span class=\"s-emoji\">🙌</span><span class=\"s-emoji\">🏼</span>) (<a href=\"https://github.com/ohcnetwork/care_fe/pull/10595\">PR</a> created)<br>• Had a huddle with <span class=\"s-mention s-user\">@U082V68AJ10</span>, who helped me understand a crucial block of code. <span class=\"s-emoji\">🫂</span><br>Next<br>• Investigate further optimization of github workflows related to sbom (waiting for some clarity from <span class=\"s-mention s-user\">@ULVMKM750</span> on the next steps)<br>• Tagging <span class=\"s-mention s-user\">@U02TDGQQPMJ</span> because i want to get <a href=\"https://github.com/ohcnetwork/care_fe/issues/10520\">this issue</a> assigned and work on it :squirrel:"
+  },
+  {
+    "id": 1739561163659449,
+    "user_id": "U07UB6TQWRE",
+    "timestamp": "2025-02-14T13:56:03.659Z",
+    "text": "14 Feb 2025<br>• Raised an windows related issue (<a href=\"https://github.com/ohcnetwork/care_fe/issues/10601\">#10601</a>)<br>• Missed EOD call due to travel<br>• Got assigned an issue in new care_sbom repo (Yay more PRs for me) :heads-down:<br>Next<br>• Open draft PR on care_sbom repo as soon as possible<br>• Investigate the vite error on windows for the #10601 issue"
+  },
+  {
+    "id": 1739637543757239,
+    "user_id": "U07UB6TQWRE",
+    "timestamp": "2025-02-15T11:09:03.757Z",
+    "text": "15 Feb 2025<br>• Raised <a href=\"https://github.com/ohcnetwork/care_sbom/pull/2\">PR</a> on care_sbom repo<br>Next<br>• Work on 2 raised issues in care_fe"
+  },
+  {
+    "id": 1739711627280379,
+    "user_id": "U07UB6TQWRE",
+    "timestamp": "2025-02-16T07:43:47.280Z",
+    "text": "16 Feb 2025<br> Not much work done today<br>•  Waiting on <span class=\"s-mention s-user\">@U02TDGQQPMJ</span>&#x27;s guidance regarding this <a href=\"https://github.com/ohcnetwork/care_fe/issues/10520\">issue</a> :this-is-fine-fire:<br>•  Learning how to comment &quot;Please assign me this issue&quot; in seconds on future issues :squirrel:<br>Next<br>• Pending college assignment"
+  },
+  {
+    "id": 1740173284184699,
+    "user_id": "U07UB6TQWRE",
+    "timestamp": "2025-02-21T15:58:04.184Z",
+    "text": "17-18 February 2025<br>• <a href=\"https://github.com/ohcnetwork/care_sbom/pull/5\">Raised PR</a> on care_sbom to improve filtering for dev dependencies<br>• Debugged infra templates—ran into some annoying errors with old/broken nginx configs while testing on Google Cloud :squirrel:<br>• Missed the EOD call (caught a cold)"
+  },
+  {
+    "id": 1740173299859079,
+    "user_id": "U07UB6TQWRE",
+    "timestamp": "2025-02-21T15:58:19.859Z",
+    "text": "19-20 February 2025<br>• Finished my college project (built a cool agentic crawler using crawl4ai + pydantic-ai) <a href=\"https://github.com/areebahmeddd/crawl4ai-agent\">GitHub</a><br>• <a href=\"https://github.com/ohcnetwork/infra_template/pull/4\">Raised PR</a> to update kubernetes templates with better syntax and add few missing fields :cat-on-keyboard:<br>Next<br>• FOSS United 24 hour Hackathon on Saturday<br>• Finish pending assigned issue on care_fe (<a href=\"https://github.com/ohcnetwork/care_fe/issues/10520\">#10520</a>) :this-is-fine-fire:<br>• Deploy plugins in my cloud to understand the architecture better (just scribe, try deepseek api key instead of openai? <span class=\"s-emoji\">💀</span>)<br>• Find out if we can use an organization key to automate sending issues to projects instead of relying on <span class=\"s-mention s-user\">@U06CY7RUZ9S</span>&#x27;s keys<br>• Strategize for GSoC"
+  },
+  {
+    "id": 1740485518945709,
+    "user_id": "U07UB6TQWRE",
+    "timestamp": "2025-02-25T06:41:58.945Z",
+    "text": "24 Feb 2025<br>• Got assigned BE issue (raised a <a href=\"https://github.com/ohcnetwork/care/pull/2870\">draft PR</a>)<br>• Working on <a href=\"https://github.com/ohcnetwork/care_fe/issues/10794\">FE issue</a> (waiting for <span class=\"s-mention s-user\">@U022THM4U2U</span>&#x27;s reply on how to replicate the bug)<br>• Fixed an edge case in an old merged PR after <span class=\"s-mention s-user\">@U06CY7RUZ9S</span>&#x27;s review (raised a <a href=\"https://github.com/ohcnetwork/care_sbom/pull/7\">new PR</a>)<br>Next<br>• Work on devops tasks from <span class=\"s-mention s-user\">@U06CY7RUZ9S</span> <br>• Check out alt gsoc orgs later (unfortunately, can&#x27;t do gsoc with ohc as an intern. against the rules) :this-is-fine-fire:"
+  },
+  {
+    "id": 1740632658237989,
+    "user_id": "U07UB6TQWRE",
+    "timestamp": "2025-02-26T23:34:18.237Z",
+    "text": "25-26 February 2025<br>• Read some GitHub docs<br>• Fixed an assertion error on BE (put the code in the wrong file lol) <a href=\"https://github.com/ohcnetwork/care/pull/2870\">PR ready</a><br>• Huddled with Khavin about the abdm plugin issue (only to realize it was a windows problem)<br>• Raised an <a href=\"https://github.com/ohcnetwork/care_fe/issues/10836\">issue</a> on care_fe (waiting for assignment)<br>Next:<br>• Start using Ubuntu<br>• More devops tasks :cat-on-keyboard:<br>• Strategize on getting more story points"
+  },
+  {
+    "id": 1740677992052089,
+    "user_id": "U07UB6TQWRE",
+    "timestamp": "2025-02-27T12:09:52.052Z",
+    "text": "27 February 2025<br>Done<br>• Travel from Riyadh → Bangalore<br>• Open pr in be<br>• Open pr in fe<br>• Huddle with <span class=\"s-mention s-user\">@U06CY7RUZ9S</span> <br>Next<br>• Finish all devops tasks :care:"
+  },
+  {
+    "id": 1740753593504519,
+    "user_id": "U07UB6TQWRE",
+    "timestamp": "2025-02-28T09:09:53.504Z",
+    "text": "28 February 2025<br>• gsoc communication with maintainers (openfoodfacts is finally in for this season!! im an org member + old contributor hehe) :cat-on-keyboard:<br>Next<br>• finish pending devops work"
+  },
+  {
+    "id": 1741011639067189,
+    "user_id": "U07UB6TQWRE",
+    "timestamp": "2025-03-03T08:50:39.067Z",
+    "text": "1-2 March 2025<br>- Was unwell (down with cold)"
+  },
+  {
+    "id": 1741011643617629,
+    "user_id": "U07UB6TQWRE",
+    "timestamp": "2025-03-03T08:50:43.617Z",
+    "text": "3 March 2025<br>- Worked on devops tasks (still stuck)<br>Next<br>- Resolve all devops tasks before the weekly call tomorrow <span class=\"s-emoji\">🏃‍♂️</span><span class=\"s-emoji\">🏻</span>"
+  },
+  {
+    "id": 1741188663900549,
+    "user_id": "U07UB6TQWRE",
+    "timestamp": "2025-03-05T10:01:03.900Z",
+    "text": "4 March 2025<br>• Completed all pending devops tasks from last week :cat-on-keyboard:"
+  },
+  {
+    "id": 1741188671597679,
+    "user_id": "U07UB6TQWRE",
+    "timestamp": "2025-03-05T10:01:11.597Z",
+    "text": "5 March 2025<br>• Huddled with <span class=\"s-mention s-user\">@U06CY7RUZ9S</span> <br>• Opened PR in care and care_fe repo to streamline our project board with new workflows<br>• Got some more new devops tasks :this-is-fine-fire:<br>Next<br>• <span class=\"s-emoji\">👨‍💻</span><span class=\"s-emoji\">🏻</span>"
+  },
+  {
+    "id": 1741701495196739,
+    "user_id": "U07UB6TQWRE",
+    "timestamp": "2025-03-11T08:28:15.196Z",
+    "text": "6-10 March 2025<br>- Took care of devops tasks assigned last week<br>- Opened 10 PRs at a gsoc org (wish i had the same energy for ohc<span class=\"s-emoji\">😭</span>)<br>- Drafted a gsoc proposal"
+  },
+  {
+    "id": 1741701605216129,
+    "user_id": "U07UB6TQWRE",
+    "timestamp": "2025-03-11T08:30:05.216Z",
+    "text": "11 March<br>- Huddled with Vysakh. got clarity on tasks related to gcloud and azure<br><br>Next<br>- More work on the tasks from last week (not exactly done yet)<br>- Experiment with a 10 story point task from Vignesh and Bodhi<br>- Study for an internal assessment in college next week (quick break from work hehe)"
+  },
+  {
+    "id": 1741870945298459,
+    "user_id": "U07UB6TQWRE",
+    "timestamp": "2025-03-13T07:32:25.298Z",
+    "text": "March 12<br>• Taught coding to 9th graders at a govt school (part of nss)<br>• Working on the tasks (fixing some stuff related to gcloud)<br>Next<br>• Finish the gcloud task<br>• Azure task is pending"
+  },
+  {
+    "id": 1742135974028759,
+    "user_id": "U07UB6TQWRE",
+    "timestamp": "2025-03-16T09:09:34.028Z",
+    "text": "March 13-14<br>• task done: serving static carefe from gbucket, with loadbalancer and cdn (<a href=\"https://care.areeb.dev\">https://care.areeb.dev</a>)<br>• sudden travel, missed eod"
+  },
+  {
+    "id": 1742135975740199,
+    "user_id": "U07UB6TQWRE",
+    "timestamp": "2025-03-16T09:09:35.740Z",
+    "text": "March 15<br>• task done: deployed backend on azure container apps for testing with fe (<a href=\"https://api.areeb.dev\">https://api.areeb.dev</a>)<br>• refining my gsoc draft<br>Next<br>• <span class=\"s-emoji\">🎧</span> with vysakh<br>• one click deployment for care"
+  },
+  {
+    "id": 1742189081329369,
+    "user_id": "U07UB6TQWRE",
+    "timestamp": "2025-03-16T23:54:41.329Z",
+    "text": "March 16<br>• wrote some terraform scripts for gcloud<br>• destroyed my azure backend deployment while experimenting with one click deployment<br>• open pr in keralacare github workflow to add concurrency (<a href=\"https://github.com/keralacare/landing/pull/32\">#32</a>)<br>Next<br>• Fix<br>• <span class=\"s-emoji\">🎧</span> with vysakh<br>• Test some plugins in the my env"
+  },
+  {
+    "id": 1742305350389979,
+    "user_id": "U07UB6TQWRE",
+    "timestamp": "2025-03-18T08:12:30.389Z",
+    "text": "March 17<br>• huddle with vysakh<br>• debugging my azure deployment..:melting_face:<br>Next<br>• Fix"
+  },
+  {
+    "id": 1742407207476279,
+    "user_id": "U07UB6TQWRE",
+    "timestamp": "2025-03-19T12:30:07.476Z",
+    "text": "March 18-19<br>• <span class=\"s-emoji\">🎧</span> with vysakh (debugging)<br>• pause on containerapps deployment (container keeps crashing because of run command:this-is-fine-fire:)<br>Next<br>• Add ohcnetwork/docs with steps for gcp with gcs deployment (currently there&#x27;s just kubernet documentation)<br>• Instead of containerapps, try azure app service deployment<br>• pray to god that app service doesn&#x27;t crash like container apps"
+  },
+  {
+    "id": 1742798069348449,
+    "user_id": "U07UB6TQWRE",
+    "timestamp": "2025-03-24T01:04:29.348Z",
+    "text": "March 20-22<br>• Az app service worked<br>• College exams<span class=\"s-emoji\">📚</span><br>March 23<br>• Updated ohcnetwork/docs (<a href=\"https://github.com/ohcnetwork/docs/pull/107\">#107</a>) with instruction on GCS setup (along with existing GKE setup)<br>• Hosting one click deployment scripts (fe &amp;amp; be) [ more ironing needed before production ready, missing csp ]"
+  },
+  {
+    "id": 1742798081475869,
+    "user_id": "U07UB6TQWRE",
+    "timestamp": "2025-03-24T01:04:41.475Z",
+    "text": "March 24<br>• Huddle with Vysakh<br>• College exams<span class=\"s-emoji\">📚</span><br>Next<br>• Add flexify layer on azure container storage for s3 compatibility<br>• Testing end to end with patient creation, uploads, facility on my deployment<br>• 1 more paper left xd"
+  },
+  {
+    "id": 1742996617732689,
+    "user_id": "U07UB6TQWRE",
+    "timestamp": "2025-03-26T08:13:37.732Z",
+    "text": "March 25<br>• Flexify working with azure storage (it&#x27;s s3 compatible now :D)<br>• Unfortunately missed weekly review call even after sending memes about it in the channel :&#x27;(<br>Next<br>• Run tests with my deployed care_fe with this azure backend"
+  },
+  {
+    "id": 1742996621120599,
+    "user_id": "U07UB6TQWRE",
+    "timestamp": "2025-03-26T08:13:41.120Z",
+    "text": "March 26<br>• Unable to ssh into the backend containers to test if storage containers are really s3 compatible or create super user<br>Next<br>• ssh into the goddamn containers<br>• flexify is hella expensive if deployed in prod. options: self host alternatives: s3proxy + docker<br>• look into alternatives"
+  },
+  {
+    "id": 1743492023183159,
+    "user_id": "U07UB6TQWRE",
+    "timestamp": "2025-04-01T01:50:23.183Z",
+    "text": "Last Week<br><br>• Azure deployment is paused. Making Azure Blob S3 compatible is a pain (literally every other cloud provider is S3-compatible except Azure) <span class=\"s-emoji\">😮‍💨</span><br>• Created a doc with estimated costs for deploying on Azure: including Postgres (with replicas), Redis, and 3 container apps (backend, celery-worker, celery-beat) [ in case we go that route ]<br>• Gave my portfolio website a random redesign during college labs out of boredom: <a href=\"https://areeb.dev\">https://areeb.dev</a><br>• Huddle/Chat with alot of new contributors with frontend and backend setup and debugging.<br>• Had a quick chat with Bodhi and Vignesh.<br>• Raised PR <a href=\"https://github.com/ohcnetwork/care/pull/2964\">care#2964</a>: Caught ValueError on Sentry for Redis while testing backend dev on Azure.<br>Next<br><br>• Final GSoC proposal work for Open Food Facts <span class=\"s-emoji\">🙌</span><span class=\"s-emoji\">🏻</span><br>• Feedback from Vysakh<br>• Working on a script to simplify care app deployment on VMs<br>• Weekly engg call"
+  },
+  {
+    "id": 1743608213488389,
+    "user_id": "U07UB6TQWRE",
+    "timestamp": "2025-04-02T10:06:53.488Z",
+    "text": "2 April<br>• Small pr on keralacare/landing <a href=\"https://github.com/keralacare/landing/pull/32\">#32</a> (forgot to include it in last eod message) : )<br>• Added db setup in the script.<br>• <span class=\"s-emoji\">🎧</span> w Vysakh.<br>Next<br>• Small break to address some comments on gsoc proposal by the maintainer.<br>• Finish script for cloud agnostic deployment before next week review engg. call."
+  },
+  {
+    "id": 1744258978452909,
+    "user_id": "U07UB6TQWRE",
+    "timestamp": "2025-04-09T22:52:58.452Z",
+    "text": "April 9<br>• Script done<br>Next<br>• Vysakh&#x27;s review<br>• Probably have to modify an open pr in /docs<br>• Add FAQ section"
+  },
+  {
+    "id": 1744476194794209,
+    "user_id": "U07UB6TQWRE",
+    "timestamp": "2025-04-12T11:13:14.794Z",
+    "text": "April 12<br>• Azure Deployment Documentation PR (docs <a href=\"https://github.com/ohcnetwork/docs/pull/114\">#114</a>)<br>• Added FAQ Section to /doc (Draft PR <a href=\"https://github.com/ohcnetwork/docs/pull/114\">#115</a>)<br>• Small task from rithvik to add workflow to /hi-profiles (PR <a href=\"https://github.com/ohcnetwork/hi-profiles/pull/5\">#5</a>)<br>Next<br>• Review from Vyshak on care script<br>• Test CSP for care on my local deployment"
+  },
+  {
+    "id": 1745066964870119,
+    "user_id": "U07UB6TQWRE",
+    "timestamp": "2025-04-19T07:19:24.870Z",
+    "text": "April 15-18<br>• <span class=\"s-emoji\">🎧</span> w. Nabhan to clear his doubts on docs<br>• College semester project stuff<br>• Issue created for community, gfi (Issue <a href=\"https://github.com/ohcnetwork/care_fe/issues/11997\">#11997</a>)<br>• Modified workflow to update Team in project board (PR <a href=\"https://github.com/ohcnetwork/care_fe/pull/11962\">#11962</a>)<br>• Tested and fixed security header generation for fe (PR <a href=\"https://github.com/ohcnetwork/care_fe/pull/12000\">#12000</a>)<br>• Probably these headers can be added to fixes sec issues in /landing (Issue <a href=\"https://github.com/ohcnetwork/landing/issues/63\">#63</a>)<br>• Setup aws demo cost and usage monitoring in Datahog<br>Next<br>• Test for gcp, do, cf pages demo in Datahog<br>• Reviews on above"
+  },
+  {
+    "id": 1745150292441429,
+    "user_id": "U07UB6TQWRE",
+    "timestamp": "2025-04-20T06:28:12.441Z",
+    "text": "April 19<br>• Fixing SO many integration errors<br>Next<br>• finish fix"
+  },
+  {
+    "id": 1745216799455109,
+    "user_id": "U07UB6TQWRE",
+    "timestamp": "2025-04-21T00:56:39.455Z",
+    "text": "April 20<br>• very small pr (care <a href=\"https://github.com/ohcnetwork/care/pull/3002\">#3002</a>)<br>Next<br>• datahog integration<br>• probably some reviews pending on last week&#x27;s stuff"
+  },
+  {
+    "id": 1745320565853939,
+    "user_id": "U07UB6TQWRE",
+    "timestamp": "2025-04-22T05:46:05.853Z",
+    "text": "April 21<br>slow day<br>• <span class=\"s-emoji\">🎧</span> w. Vysakh, suggested some modifications in open prs<br>• stuck with failed care-fe build on my cloud after pulling latest<br>Next<br>• clear up stale issues<br>• weekly engg call"
+  },
+  {
+    "id": 1745494571037589,
+    "user_id": "U07UB6TQWRE",
+    "timestamp": "2025-04-24T06:06:11.037Z",
+    "text": "April 23<br>• <span class=\"s-emoji\">🎧</span> with. Vysakh<br>Next<br>• work related to digitalocean<br>• Another month, another round of exams next week<br>• 24 hr hackathon over the weekend"
+  },
+  {
+    "id": 1746354798250819,
+    "user_id": "U07UB6TQWRE",
+    "timestamp": "2025-05-04T05:03:18.250Z",
+    "text": "May 3:<br>• Huddle with Vysakh with new tasks<br>Next<br>• Look into Redhat Cockpit<br>• Ditch datadog, new relic. search open source alternative<br>• Some more work related to 1uptime, grafana dashboard<br>• nix,nixos for vm"
+  },
+  {
+    "id": 1748867722941789,
+    "user_id": "U07UB6TQWRE",
+    "timestamp": "2025-06-02T07:05:22.941Z",
+    "text": "June 2nd<br>• Some testing with monitoring (wip: <a href=\"https://github.com/ohcnetwork/care/compare/develop...areebahmeddd:care:test-monitoring\">https://github.com/ohcnetwork/care/compare/develop...areebahmeddd:care:test-monitoring</a>)<br>Next<br>- Test alert manager on slack<br>-try a very good way to send vm health: <a href=\"https://cloud.google.com/run/docs/tutorials/custom-metrics-opentelemetry-sidecar\">https://cloud.google.com/run/docs/tutorials/custom-metrics-opentelemetry-sidecar</a>"
+  },
+  {
+    "id": 1749056162811999,
+    "user_id": "U07UB6TQWRE",
+    "timestamp": "2025-06-04T11:26:02.811Z",
+    "text": "June 3-4<br>• A very <a href=\"https://github.com/open-telemetry/opentelemetry-ebpf-profiler/pull/467\">minor contribution</a> to Open-Telemetry organization for LFX purposes : )<br>• Was working on care monitoring, but requires heavy triage so paused<br>• Huddle w. Vysakh on current tasks update<br>Next<br>• A new script for prod purposes<br>• Huddle w. <span class=\"s-mention s-user\">@UC8TSEGCQ</span> on script specifications that i&#x27;m a little lost on (specifically pinged him in this line so that he doesn&#x27;t forget about the huddle<span class=\"s-emoji\">😂</span>:melting_face:)"
+  },
+  {
+    "id": 1749671288682949,
+    "user_id": "U07UB6TQWRE",
+    "timestamp": "2025-06-11T14:18:08.682Z",
+    "text": "Last Week<br>• design on docker swarm for care: <a href=\"https://excalidraw.com/#json=nn_OcQMVjbwAjCa-NIMZH,xqjpJzkc_aEP1lPsFZFecQ\">https://excalidraw.com/#json=nn_OcQMVjbwAjCa-NIMZH,xqjpJzkc_aEP1lPsFZFecQ</a><br>• [wip] coding on docker swarm implementation: <a href=\"https://github.com/ohcnetwork/care/compare/develop...areebahmeddd:care:test-swarm\">https://github.com/ohcnetwork/care/compare/develop...areebahmeddd:care:test-swarm</a><br>Next<br>• continue on docker swarm<br>• 3rd year final exams"
+  },
+  {
+    "id": 1750078878835469,
+    "user_id": "U07UB6TQWRE",
+    "timestamp": "2025-06-16T07:31:18.835Z",
+    "text": "June 16<br>• Testing some variations of deployment script on aws<br>Next<br>• Edits to script<br>• Ongoing final exams study<br>• Weekly call"
+  },
+  {
+    "id": 1750775593943429,
+    "user_id": "U07UB6TQWRE",
+    "timestamp": "2025-06-24T09:03:13.943Z",
+    "text": "Last Week<br>• done with finals : )<br>June 24<br>• Some tests on aws for backend<br>Next<br>• Huddle w. Vysakh<br>• Update script for fe"
+  },
+  {
+    "id": 1751094900254159,
+    "user_id": "U07UB6TQWRE",
+    "timestamp": "2025-06-28T01:45:00.254Z",
+    "text": "June 27<br>• Fixed docker node connectivity in swarm network for care services while testing [ <a href=\"https://github.com/ohcnetwork/care/compare/develop...areebahmeddd:care:test-swarm\">wip</a> ] :cat-on-keyboard:<br>Next<br>• Update bash script to probably use gluster fs to persist data on all nodes<br>• Huddle w. Vignesh"
+  },
+  {
+    "id": 1751368410907789,
+    "user_id": "U07UB6TQWRE",
+    "timestamp": "2025-07-01T05:43:30.907Z",
+    "text": "july 1<br>• some feedback from vignesh<br>• lots of tests with multi az deployment<br>• monitored and fine tuned resources block using docker stats on nodes in swarm<br>next<br>• update script"
+  },
+  {
+    "id": 1751608338386849,
+    "user_id": "U07UB6TQWRE",
+    "timestamp": "2025-07-04T00:22:18.386Z",
+    "text": "July 3<br>• sick for a few days<br>Next<br>• finish pending work"
+  },
+  {
+    "id": 1751896258075939,
+    "user_id": "U07UB6TQWRE",
+    "timestamp": "2025-07-07T08:20:58.075Z",
+    "text": "July 7<br>done<br>• opened a <a href=\"https://github.com/open-telemetry/opentelemetry-collector/pull/13245\">PR</a> on open-telemetry org for LFX purposes : &quot; )<br>• added gluster fs to sync with data on nodes<br>• updated script with glusterfs setup for launch template<br>• updated swarm file with docker secrets so no hard coded vals<br>• removed traefik, alb was enough<br>• fixed health check with syam&#x27;s input<br>next<br>• one final thing remains; add master slave to postgre<br>• weekly meet"
+  },
+  {
+    "id": 1752070456975549,
+    "user_id": "U07UB6TQWRE",
+    "timestamp": "2025-07-09T08:44:16.975Z",
+    "text": "july 9<br>• wrote this eod message<br>next<br>• write next day eod message"
+  },
+  {
+    "id": 1752159184501899,
+    "user_id": "U07UB6TQWRE",
+    "timestamp": "2025-07-10T09:23:04.501Z",
+    "text": "july 10<br>• fixed postgres haproxy config after 6 hours of debugging<br>               initially thought it was a resource deadlock problem, turns out there was an issue on how it initialized on start <span class=\"s-emoji\">🔨</span><br>• <del>bothered</del>  pinged vignesh for a final look on this :care:<br>• finished all components in production setup, a pr [ care <a href=\"https://github.com/ohcnetwork/care/pull/3136\">#3136</a> ]<br>next<br>• await reply. possibly the swarm setup is finally complete after a month"
+  },
+  {
+    "id": 1752311997028369,
+    "user_id": "U07UB6TQWRE",
+    "timestamp": "2025-07-12T03:49:57.028Z",
+    "text": "july 11<br>• worked with friends for google’s ai agentic hackathon next week in bangalore<br>• wrote a draft on medium to share docker swarm deployment experience :heads-down:"
+  },
+  {
+    "id": 1752508409214099,
+    "user_id": "U07UB6TQWRE",
+    "timestamp": "2025-07-14T10:23:29.214Z",
+    "text": "july 14<br>• added a <a href=\"https://github.com/ohcnetwork/care/pull/3136/commits/501ec795de56aecb9d1dd803d78b415643810b7d\">small commit</a>, to support postgre cron daily backup in swarm with <span class=\"s-mention s-user\">@U06CY7RUZ9S</span> suggestion using; <a href=\"https://github.com/prodrigestivill/docker-postgres-backup-local\">prodrigestivill/postgres-backup-local</a> repo :care:<br>• <a href=\"https://github.com/ohcnetwork/care/pull/3136/commits/54164f364e58a696bf9b3c4ac60f5ab94b9ed3a1\">tested</a> with <a href=\"http://portainer.io\">portainer.io</a> to monitor containers in cluster through nice web ui<br>• added a follow up commit to adjust resources<br>next<br>• eternal await for <span class=\"s-mention s-user\">@UC8TSEGCQ</span> review :this-is-fine-fire:<br>• weekly engg call"
+  },
+  {
+    "id": 1752587564786079,
+    "user_id": "U07UB6TQWRE",
+    "timestamp": "2025-07-15T08:22:44.786Z",
+    "text": "july 15<br>• huddle w. <span class=\"s-mention s-user\">@U0915RNR70S</span> to review opentofu template for digital ocean, suggested minor changes<br>next<br>• look into suggestion&#x27;s from vignesh"
+  },
+  {
+    "id": 1753103867159559,
+    "user_id": "U07UB6TQWRE",
+    "timestamp": "2025-07-21T07:47:47.159Z",
+    "text": "july 21<br>• created and shared <a href=\"https://github.com/areebahmeddd/care_adr/blob/main/decisions/database/ADR-002-database-monitoring.md\">ADR</a> for database monitoring<br>• add cron job for postgres and minio daily backup to private s3<br>next<br>• add database monitoring<br>• create workflow for pull request checklist analysis on carefe"
+  },
+  {
+    "id": 1753354998967289,
+    "user_id": "U07UB6TQWRE",
+    "timestamp": "2025-07-24T05:33:18.967Z",
+    "text": "july 23<br>• added <a href=\"https://github.com/ohcnetwork/care/pull/3136/commits/9823c3a97264df8b6ff58a8f2bb1cd5beb6535e6\">commits</a> related to refactor code from aakash&#x27;s suggestion<br>• built a side project to log patients for a dental clinic; <a href=\"https://log.dentistfriend.in\">https://log.dentistfriend.in</a> and <a href=\"https://ocr.dentistfriend.in\">https://ocr.dentistfriend.in</a> <span class=\"s-emoji\">🦷</span><br>next<br>• travel to india<span class=\"s-emoji\">✈️</span><br>• finish lots of pending work from last week"
+  },
+  {
+    "id": 1753714830798159,
+    "user_id": "U07UB6TQWRE",
+    "timestamp": "2025-07-28T09:30:30.798Z",
+    "text": "july 28<br>• opened a small pr <a href=\"https://github.com/ohcnetwork/care/pull/3168\">#3138</a> related to improvements in compose file<br>• opened pr <a href=\"https://github.com/ohcnetwork/care_fe/pull/13105\">#13105</a> related to validating merge checklist for interns/community members<br>• added <a href=\"https://github.com/ohcnetwork/care/pull/3136/commits/b5e70a3b742cb70a0632e203e6e38df525898bfd\">commit</a> for monitoring db with vignesh&#x27;s input<br>next<br>• testing with aakash"
+  },
+  {
+    "id": 1754066058461929,
+    "user_id": "U07UB6TQWRE",
+    "timestamp": "2025-08-01T11:04:18.461Z",
+    "text": "last week<br>• start of clg final year<br>• approved pr&#x27;s [ <a href=\"https://github.com/ohcnetwork/care/pull/3168\">1</a>, <a href=\"https://github.com/ohcnetwork/care_fe/pull/13105\">2</a> ], waiting merge<br>• shifted focus for a little bit on contributing to LFX orgs for term 3 selection<br>next<br>• travel to koichi <span class=\"s-emoji\">🚌</span><span class=\"s-emoji\">🥥</span><br>• testing with aakash and syam for swarm"
+  },
+  {
+    "id": 1754316383633409,
+    "user_id": "U07UB6TQWRE",
+    "timestamp": "2025-08-04T08:36:23.633Z",
+    "text": "Aug 4<br>• testing with some alternatives for cloudflare tunnel [ self hosting zrok, tunnelmole ], experimented a bit on coolify<br>• trying to work to standardize mfe&#x27;s<br>Next<br>• finish the above<br>• pick more from issue board"
+  },
+  {
+    "id": 1754403427815239,
+    "user_id": "U07UB6TQWRE",
+    "timestamp": "2025-08-05T08:47:07.815Z",
+    "text": "August 5<br>little unproductive..<br>• starting task from syam related to terraform in gcp<br>• call with vysakh to understand the existing setup<br>next<br>• complete the setup and document it"
+  },
+  {
+    "id": 1754490572992179,
+    "user_id": "U07UB6TQWRE",
+    "timestamp": "2025-08-06T08:59:32.992Z",
+    "text": "aug 6<br>• setup firecracker poc on ubuntu from readme<br>• created bash script to setup the same on any machine<br>next<br>• huddle w. <span class=\"s-mention s-user\">@U0915RNR70S</span> on gcp task"
+  },
+  {
+    "id": 1754607281518249,
+    "user_id": "U07UB6TQWRE",
+    "timestamp": "2025-08-07T17:24:41.518Z",
+    "text": "august 7<br>• setting up flintlock to manage firecracker microvm&#x27;s<br>• long nixos chat with vysakh in office <span class=\"s-emoji\">🚀</span><br>next<br>• test care with flintlock"
+  },
+  {
+    "id": 1754659628324179,
+    "user_id": "U07UB6TQWRE",
+    "timestamp": "2025-08-08T07:57:08.324Z",
+    "text": "Aug 8<br>little break and more travelling<br>• Sightseeing the heart of cochin:care:"
+  },
+  {
+    "id": 1754839486060829,
+    "user_id": "U07UB6TQWRE",
+    "timestamp": "2025-08-10T09:54:46.060Z",
+    "text": "weekends<br>• drafted up cover letter for LFX mentorship :melting_face:<br>• moved <a href=\"https://log.dentistfriend.in/\">dental clinic project</a> server from gcp to DO to save free credits <span class=\"s-emoji\">🏃‍♂️</span><span class=\"s-emoji\">🏻</span><br>• studying up on microvms"
+  },
+  {
+    "id": 1755015590487529,
+    "user_id": "U07UB6TQWRE",
+    "timestamp": "2025-08-12T10:49:50.487Z",
+    "text": "aug 12<br>• some testing with firecracker and chats w vysakh<br>• setting up zrok on coolify<br>• figuring out how to ssh into ubuntu because nix was a pain, some random docker debugging w. rithvik<br>• killed coolify on mistake while restarting containers<span class=\"s-emoji\">🏃‍♂️</span><span class=\"s-emoji\">🏻</span><br>• attended weekly call<br>next<br>• show <span class=\"s-mention s-user\">@UV5PPBE2D</span> the firecracker poc, proceed/plan further<br>• show <span class=\"s-mention s-user\">@UC99MFPU1</span> zrok on coolify"
+  },
+  {
+    "id": 1755150268530549,
+    "user_id": "U07UB6TQWRE",
+    "timestamp": "2025-08-14T00:14:28.530Z",
+    "text": "august 13<br>• reviewed coolify server<br>• tested tunneling on coolify server via zrok<br>               -fixed a bug within zrok config and raised a pr [ <a href=\"https://github.com/openziti/zrok/pull/1039\">#1039</a> ]<br>• chats with <span class=\"s-mention s-user\">@U0915RNR70S</span> to confirm if hes working on gcp tofu or if i can pick it up"
+  },
+  {
+    "id": 1755612187821319,
+    "user_id": "U07UB6TQWRE",
+    "timestamp": "2025-08-19T08:33:07.821Z",
+    "text": "aug 19<br>• huddle w. <span class=\"s-mention s-user\">@U0915RNR70S</span> to review gcp tofu code, a task from <span class=\"s-mention s-user\">@UC9JELJEP</span> <br>• attended weekly meet<br>next<br>• huddle w. <span class=\"s-mention s-user\">@U06CY7RUZ9S</span> on cloudflare tunnels alts with <span class=\"s-mention s-user\">@UV5PPBE2D</span> suggestions<br>• break till september to focus on academics"
+  },
+  {
+    "id": 1756775349624539,
+    "user_id": "U07UB6TQWRE",
+    "timestamp": "2025-09-01T19:39:09.624Z",
+    "text": "Sep 1<br>• Back from break <span class=\"s-emoji\">🙂</span><br>• Verified SCTID&#x27;s for various activity definition with Bill&#x27;s feedback<br>Next<br>• Some looking into NeonDB from Vysakh"
+  },
+  {
+    "id": 1757070807195309,
+    "user_id": "U07UB6TQWRE",
+    "timestamp": "2025-09-05T05:43:27.195Z",
+    "text": "Sep 3, 4<br>• 36 hour hackathon<br>next<br>• Testing POC with NeonDB"
+  },
+  {
+    "id": 1757220220665749,
+    "user_id": "U07UB6TQWRE",
+    "timestamp": "2025-09-06T23:13:40.665Z",
+    "text": "Sep 6<br>• Cross checked the verified id&#x27;s and description in fhir activity definition sheet"
+  },
+  {
+    "id": 1757522495066209,
+    "user_id": "U07UB6TQWRE",
+    "timestamp": "2025-09-10T11:11:35.066Z",
+    "text": "Sep 10<br>• Testing neondb branching workflow with a personal project <a href=\"https://github.com/areebahmeddd/ohc-network-neondb/blob/main/.github/workflows/pr-preview.yml\">here</a><br>Next<br>• Huddle w. Vysakh <br>• Test care backend with neon db and db previews locally"
+  },
+  {
+    "id": 1757954099981089,
+    "user_id": "U07UB6TQWRE",
+    "timestamp": "2025-09-15T11:04:59.981Z",
+    "text": "Sep 15<br>• Planning w. <span class=\"s-mention s-user\">@U0915RNR70S</span> on a backend preview options<br>Next<br>• Connect deployed minimal backend with neondb and test branches and run tests"
+  },
+  {
+    "id": 1758155680801339,
+    "user_id": "U07UB6TQWRE",
+    "timestamp": "2025-09-17T19:04:40.801Z",
+    "text": "Sep 17<br>• attended weekly devops sync call w. <span class=\"s-mention s-user\">@U0915RNR70S</span> <br>• working on a project for smart india hackathon<br>next<br>• finish preview workflow w. Parth"
+  },
+  {
+    "id": 1759364854775469,
+    "user_id": "U07UB6TQWRE",
+    "timestamp": "2025-10-01T18:57:34.775Z",
+    "text": "oct 1<br>• extensive review of care-fe folder structure and modified agent instructions for github agent (<a href=\"https://github.com/ohcnetwork/care_fe/pull/13902\">#13902</a>) and other agents (<a href=\"https://github.com/ohcnetwork/care_fe/pull/13925\">#13925</a>)<br>• some reading on approaches for backend preview deployment but without github runners<br>next<br>• possibly add similar instructions for care-be, but will vignesh hunt me down for raising a non django pr?<br>• test an open pr related to project board automation (<a href=\"https://github.com/ohcnetwork/care_fe/pull/13779\">#13779</a>) w. <span class=\"s-mention s-user\">@U0576PEACG0</span> or <span class=\"s-mention s-user\">@U086E5U2CSJ</span> <br>• raise a <em>very</em> small pr related to care docker swarm deployment after bodhi or gigin removes restrictions on /docs repo (<a href=\"https://github.com/ohcnetwork/docs/compare/master...areebahmeddd:care_docs:add-new-docs\">some old work</a>)"
+  },
+  {
+    "id": 1761554841143499,
+    "user_id": "U07UB6TQWRE",
+    "timestamp": "2025-10-27T03:17:21.143Z",
+    "text": "Oct 26<br>• Updated PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/13925\">#13295</a><br>• Updated PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/14094\">#14094</a>"
+  },
+  {
+    "id": 1762258258242999,
+    "user_id": "U07UB6TQWRE",
+    "timestamp": "2025-11-04T06:40:58.242Z",
+    "text": "Nov 1:<br>• Huddle w. Yaswanth and merged: <a href=\"https://github.com/ohcnetwork/care_fe/pull/14094\">#14094</a><br>Next:<br>• Work on small edge spotted while testing"
+  },
+  {
+    "id": 1762495716171979,
+    "user_id": "U07UB6TQWRE",
+    "timestamp": "2025-11-07T00:38:36.171Z",
+    "text": "Nov 6<br>• looking into an exisitng bug with pr workflow for failing to find appid for non core members<br>next<br>• raise pr for the fix"
+  },
+  {
+    "id": 1762876518612049,
+    "user_id": "U07UB6TQWRE",
+    "timestamp": "2025-11-11T10:25:18.612Z",
+    "text": "Nov 11<br>• Got changes requested on few open pr&#x27;s<br>Next<br>• Update changes<br>• Open pr on assigned issue from jacob<br>• Open pr on assigned issue from arvind"
+  }
+]

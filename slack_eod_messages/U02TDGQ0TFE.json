@@ -1,0 +1,344 @@
+[
+  {
+    "id": 1652195610877909,
+    "user_id": "U02TDGQ0TFE",
+    "timestamp": "2022-05-10T09:43:30.877Z",
+    "text": "time past in exploring the backend only.... working on patient discharge summary email bug"
+  },
+  {
+    "id": 1652362791676359,
+    "user_id": "U02TDGQ0TFE",
+    "timestamp": "2022-05-12T08:09:51.676Z",
+    "text": "nothing much, just worked with my existing PR... working for DELETE method for file_upload"
+  },
+  {
+    "id": 1652450484060769,
+    "user_id": "U02TDGQ0TFE",
+    "timestamp": "2022-05-13T08:31:24.060Z",
+    "text": "Working for Facility Cover Image Upload API endpoint"
+  },
+  {
+    "id": 1652618550464749,
+    "user_id": "U02TDGQ0TFE",
+    "timestamp": "2022-05-15T07:12:30.464Z",
+    "text": "Nothing much from me today... Just preparing for practical exams"
+  },
+  {
+    "id": 1652713161773419,
+    "user_id": "U02TDGQ0TFE",
+    "timestamp": "2022-05-16T09:29:21.773Z",
+    "text": "Filed two issues in care_fe about responsiveness, nothing else..."
+  },
+  {
+    "id": 1653054621932079,
+    "user_id": "U02TDGQ0TFE",
+    "timestamp": "2022-05-20T08:20:21.932Z",
+    "text": "sorry, i can&#x27;t attend EoD today, created a pr: <a href=\"https://github.com/ohcnetwork/care/pull/770\">https://github.com/ohcnetwork/care/pull/770</a>"
+  },
+  {
+    "id": 1653144339575789,
+    "user_id": "U02TDGQ0TFE",
+    "timestamp": "2022-05-21T09:15:39.575Z",
+    "text": "nothing from my side... day went like rocket"
+  },
+  {
+    "id": 1653478995008919,
+    "user_id": "U02TDGQ0TFE",
+    "timestamp": "2022-05-25T06:13:15.008Z",
+    "text": "EoD:<br>All time past in tour... No work today"
+  },
+  {
+    "id": 1653576768124749,
+    "user_id": "U02TDGQ0TFE",
+    "timestamp": "2022-05-26T09:22:48.124Z",
+    "text": "Reviewed PRs, created draft PR for soft delete file API"
+  },
+  {
+    "id": 1653654783651069,
+    "user_id": "U02TDGQ0TFE",
+    "timestamp": "2022-05-27T07:03:03.651Z",
+    "text": "Update:<br>Created PR: <a href=\"https://github.com/ohcnetwork/care/pull/791\">https://github.com/ohcnetwork/care/pull/791</a>"
+  },
+  {
+    "id": 1653746782302619,
+    "user_id": "U02TDGQ0TFE",
+    "timestamp": "2022-05-28T08:36:22.302Z",
+    "text": "EoD Update:<br>• Worked on existing PR: <a href=\"https://github.com/ohcnetwork/care/pull/791\">https://github.com/ohcnetwork/care/pull/791</a><br>• revised django testing and read about pytest"
+  },
+  {
+    "id": 1653914384575629,
+    "user_id": "U02TDGQ0TFE",
+    "timestamp": "2022-05-30T07:09:44.575Z",
+    "text": "EoD update:<br>Filed issue and worked for the same: <br><a href=\"https://github.com/ohcnetwork/care_fe/issues/2580\"><a href=\"https://github.com/ohcnetwork/care_fe/issues/2580\">https://github.com/ohcnetwork/care_fe/issues/2580</a></a><br><a href=\"https://github.com/ohcnetwork/care_fe/pull/2581\"><a href=\"https://github.com/ohcnetwork/care_fe/pull/2581\">https://github.com/ohcnetwork/care_fe/pull/2581</a></a>"
+  },
+  {
+    "id": 1654005625123369,
+    "user_id": "U02TDGQ0TFE",
+    "timestamp": "2022-05-31T08:30:25.123Z",
+    "text": "Working for occupation field in patient model"
+  },
+  {
+    "id": 1654091359717639,
+    "user_id": "U02TDGQ0TFE",
+    "timestamp": "2022-06-01T08:19:19.717Z",
+    "text": "Made a PR: <a href=\"https://github.com/ohcnetwork/care/pull/809\">#809</a>"
+  },
+  {
+    "id": 1654177567703419,
+    "user_id": "U02TDGQ0TFE",
+    "timestamp": "2022-06-02T08:16:07.703Z",
+    "text": "Not much today, reading for final exams starting from 7th"
+  },
+  {
+    "id": 1654267256781849,
+    "user_id": "U02TDGQ0TFE",
+    "timestamp": "2022-06-03T09:10:56.781Z",
+    "text": "Today, I worked for scraping global contributions in coronasafe"
+  },
+  {
+    "id": 1654350618608899,
+    "user_id": "U02TDGQ0TFE",
+    "timestamp": "2022-06-04T08:20:18.608Z",
+    "text": "EoD update: Had a lot of college work... Worked a bit in testing care users, but no luck"
+  },
+  {
+    "id": 1654439301030489,
+    "user_id": "U02TDGQ0TFE",
+    "timestamp": "2022-06-05T08:58:21.030Z",
+    "text": "Worked for my secret startup (hint: it&#x27;s about metaverse)"
+  },
+  {
+    "id": 1654520375156869,
+    "user_id": "U02TDGQ0TFE",
+    "timestamp": "2022-06-06T07:29:35.156Z",
+    "text": "Wrote tests for users app"
+  },
+  {
+    "id": 1654609642405009,
+    "user_id": "U02TDGQ0TFE",
+    "timestamp": "2022-06-07T08:17:22.405Z",
+    "text": "No work today, had exam, also maintaining focus on health (had a slight stomachache and fever)"
+  },
+  {
+    "id": 1654700006150619,
+    "user_id": "U02TDGQ0TFE",
+    "timestamp": "2022-06-08T09:23:26.150Z",
+    "text": "Today, I and shivank worked on test workflow for backend"
+  },
+  {
+    "id": 1654781540708669,
+    "user_id": "U02TDGQ0TFE",
+    "timestamp": "2022-06-09T08:02:20.708Z",
+    "text": "EoD: working for tests workflow, finding cause of failing ci workflow"
+  },
+  {
+    "id": 1654869986823829,
+    "user_id": "U02TDGQ0TFE",
+    "timestamp": "2022-06-10T08:36:26.823Z",
+    "text": "EoD: working for tests"
+  },
+  {
+    "id": 1654954283391799,
+    "user_id": "U02TDGQ0TFE",
+    "timestamp": "2022-06-11T08:01:23.391Z",
+    "text": "No update today... Time passed away in reading COA (mainly in memorizing first and second pass of assembler 🥹)"
+  },
+  {
+    "id": 1655126881755389,
+    "user_id": "U02TDGQ0TFE",
+    "timestamp": "2022-06-13T07:58:01.755Z",
+    "text": "No updates today... Busy with exams till 21"
+  },
+  {
+    "id": 1655212323236279,
+    "user_id": "U02TDGQ0TFE",
+    "timestamp": "2022-06-14T07:42:03.236Z",
+    "text": "worked on <a href=\"https://github.com/ohcnetwork/care/issues/856\">https://github.com/ohcnetwork/care/issues/856</a>"
+  },
+  {
+    "id": 1655300092533539,
+    "user_id": "U02TDGQ0TFE",
+    "timestamp": "2022-06-15T08:04:52.533Z",
+    "text": "nothing for today... prepared for DBMS paper"
+  },
+  {
+    "id": 1655559653695119,
+    "user_id": "U02TDGQ0TFE",
+    "timestamp": "2022-06-18T08:10:53.695Z",
+    "text": "fixing user tests in be"
+  },
+  {
+    "id": 1655902359966329,
+    "user_id": "U02TDGQ0TFE",
+    "timestamp": "2022-06-22T07:22:39.966Z",
+    "text": "worked on facility cover image upload API"
+  },
+  {
+    "id": 1655988173486649,
+    "user_id": "U02TDGQ0TFE",
+    "timestamp": "2022-06-23T07:12:53.486Z",
+    "text": "worked on side project (fixed bad naming conventions from 2 years old django code <span class=\"s-emoji\">😅</span>)"
+  },
+  {
+    "id": 1656077488438749,
+    "user_id": "U02TDGQ0TFE",
+    "timestamp": "2022-06-24T08:01:28.438Z",
+    "text": "worked on older PRs"
+  },
+  {
+    "id": 1656167981538409,
+    "user_id": "U02TDGQ0TFE",
+    "timestamp": "2022-06-25T09:09:41.538Z",
+    "text": "finished endsem exams"
+  },
+  {
+    "id": 1656339189244119,
+    "user_id": "U02TDGQ0TFE",
+    "timestamp": "2022-06-27T08:43:09.244Z",
+    "text": "created 404 page for care_dashboard"
+  },
+  {
+    "id": 1656419113427199,
+    "user_id": "U02TDGQ0TFE",
+    "timestamp": "2022-06-28T06:55:13.427Z",
+    "text": "No new updates... Had some sudden health issues"
+  },
+  {
+    "id": 1656507914268659,
+    "user_id": "U02TDGQ0TFE",
+    "timestamp": "2022-06-29T07:35:14.268Z",
+    "text": "EoD Updates: Read and understood ABDM ecosystem"
+  },
+  {
+    "id": 1656597900826429,
+    "user_id": "U02TDGQ0TFE",
+    "timestamp": "2022-06-30T08:35:00.826Z",
+    "text": "entire day passed in reading ABDM Docs..."
+  },
+  {
+    "id": 1656678989573969,
+    "user_id": "U02TDGQ0TFE",
+    "timestamp": "2022-07-01T07:06:29.573Z",
+    "text": "created first ABDM integration prototype in fastAPI<br><a href=\"https://github.com/Marmik2003/care-abdm-prototype\">https://github.com/Marmik2003/care-abdm-prototype</a>"
+  },
+  {
+    "id": 1656942284395679,
+    "user_id": "U02TDGQ0TFE",
+    "timestamp": "2022-07-04T08:14:44.395Z",
+    "text": "created PR <a href=\"https://github.com/ohcnetwork/care_fe/pull/3000\">#3000</a> in care_fe"
+  },
+  {
+    "id": 1657201372075459,
+    "user_id": "U02TDGQ0TFE",
+    "timestamp": "2022-07-07T08:12:52.075Z",
+    "text": "Day passed on writing college assignments of java EE..."
+  },
+  {
+    "id": 1657385131963519,
+    "user_id": "U02TDGQ0TFE",
+    "timestamp": "2022-07-09T11:15:31.963Z",
+    "text": "worked on side project, tested azure cognitive services in it"
+  },
+  {
+    "id": 1657451086582449,
+    "user_id": "U02TDGQ0TFE",
+    "timestamp": "2022-07-10T05:34:46.582Z",
+    "text": "made a PR: <a href=\"https://github.com/ohcnetwork/care/pull/922\">https://github.com/ohcnetwork/care/pull/922</a>"
+  },
+  {
+    "id": 1657719662608529,
+    "user_id": "U02TDGQ0TFE",
+    "timestamp": "2022-07-13T08:11:02.608Z",
+    "text": "Working on Issue: <a href=\"https://github.com/ohcnetwork/care_fe/issues/3102\"><a href=\"https://github.com/ohcnetwork/care_fe/issues/3102\">https://github.com/ohcnetwork/care_fe/issues/3102</a></a>"
+  },
+  {
+    "id": 1657797272641929,
+    "user_id": "U02TDGQ0TFE",
+    "timestamp": "2022-07-14T05:44:32.641Z",
+    "text": "Created PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/3128\">https://github.com/ohcnetwork/care_fe/pull/3128</a>"
+  },
+  {
+    "id": 1657893762976379,
+    "user_id": "U02TDGQ0TFE",
+    "timestamp": "2022-07-15T08:32:42.976Z",
+    "text": "creating dummy data loader for care backend"
+  },
+  {
+    "id": 1657976439127059,
+    "user_id": "U02TDGQ0TFE",
+    "timestamp": "2022-07-16T07:30:39.127Z",
+    "text": "Created simple draft PR for dummy data, finding dummy data now"
+  },
+  {
+    "id": 1658066689678589,
+    "user_id": "U02TDGQ0TFE",
+    "timestamp": "2022-07-17T08:34:49.678Z",
+    "text": "Utilised entire day for creating figma ui for my college mini project"
+  },
+  {
+    "id": 1658154374210439,
+    "user_id": "U02TDGQ0TFE",
+    "timestamp": "2022-07-18T08:56:14.210Z",
+    "text": "created structure for fixtures for facility and users in appropriate files"
+  },
+  {
+    "id": 1658242620829419,
+    "user_id": "U02TDGQ0TFE",
+    "timestamp": "2022-07-19T09:27:00.829Z",
+    "text": "Fixtures were finally added: <a href=\"https://github.com/ohcnetwork/care/pull/929\">https://github.com/ohcnetwork/care/pull/929</a>"
+  },
+  {
+    "id": 1658333168525029,
+    "user_id": "U02TDGQ0TFE",
+    "timestamp": "2022-07-20T10:36:08.525Z",
+    "text": "nothing today, busy with college assignments..."
+  },
+  {
+    "id": 1658496866137449,
+    "user_id": "U02TDGQ0TFE",
+    "timestamp": "2022-07-22T08:04:26.137Z",
+    "text": "worked on ABDM poc"
+  },
+  {
+    "id": 1658586659808409,
+    "user_id": "U02TDGQ0TFE",
+    "timestamp": "2022-07-23T09:00:59.808Z",
+    "text": "Added facility link API to ABDM PoC"
+  },
+  {
+    "id": 1658660885993219,
+    "user_id": "U02TDGQ0TFE",
+    "timestamp": "2022-07-24T05:38:05.993Z",
+    "text": "Created a PR: <a href=\"https://github.com/ohcnetwork/care/pull/944\"><a href=\"https://github.com/ohcnetwork/care/pull/944\">https://github.com/ohcnetwork/care/pull/944</a></a>"
+  },
+  {
+    "id": 1658757861466809,
+    "user_id": "U02TDGQ0TFE",
+    "timestamp": "2022-07-25T08:34:21.466Z",
+    "text": "resolved conflicts in facility image API"
+  },
+  {
+    "id": 1658933625063549,
+    "user_id": "U02TDGQ0TFE",
+    "timestamp": "2022-07-27T09:23:45.063Z",
+    "text": "worked on dummy data with ORM (created few models&#x27; fake data)"
+  },
+  {
+    "id": 1659010634211319,
+    "user_id": "U02TDGQ0TFE",
+    "timestamp": "2022-07-28T06:47:14.211Z",
+    "text": "Had blank day due to no internet today...."
+  },
+  {
+    "id": 1659100639209669,
+    "user_id": "U02TDGQ0TFE",
+    "timestamp": "2022-07-29T07:47:19.209Z",
+    "text": "worked for PR <a href=\"https://github.com/ohcnetwork/care/pull/929/\">https://github.com/ohcnetwork/care/pull/929/</a>, created commit <a href=\"https://github.com/ohcnetwork/care/pull/929/commits/507171b08506ba4ac267d4995d205935c3f760da\">https://github.com/ohcnetwork/care/pull/929/commits/507171b08506ba4ac267d4995d205935c3f760da</a>"
+  },
+  {
+    "id": 1659275761050029,
+    "user_id": "U02TDGQ0TFE",
+    "timestamp": "2022-07-31T08:26:01.050Z",
+    "text": "feeling cold and fever...  no major work today"
+  }
+]

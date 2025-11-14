@@ -1,0 +1,272 @@
+[
+  {
+    "id": 1750951423731579,
+    "user_id": "U08KCT04V41",
+    "timestamp": "2025-06-26T09:53:43.731Z",
+    "text": "June 26<br>• Gone through the care_fe codebase.<br>• Raised PR : <a href=\"https://github.com/ohcnetwork/leaderboard-data/pull/114\">To add profile to leaderboard</a> <br>Next<br>• Complete remaining WD modules."
+  },
+  {
+    "id": 1751475597576799,
+    "user_id": "U08KCT04V41",
+    "timestamp": "2025-07-02T11:29:57.576Z",
+    "text": "2nd July<br>• Advancing through the training modules<br>• Resolved merge conflict<br>Next<br>• Work on issues"
+  },
+  {
+    "id": 1751559490475039,
+    "user_id": "U08KCT04V41",
+    "timestamp": "2025-07-03T10:48:10.475Z",
+    "text": "July 3<br>• Got the dev setup up and running on new laptop<br>• Went through others PRs to get a better sense of their implementation approaches.<br>Next<br>• Continue modules"
+  },
+  {
+    "id": 1751728167581849,
+    "user_id": "U08KCT04V41",
+    "timestamp": "2025-07-05T09:39:27.581Z",
+    "text": "July 4th<br>• Solved <a href=\"https://github.com/ohcnetwork/care_fe/issues/12794\">Country selection </a>issue locally.<br>• Made some progress in WD modules."
+  },
+  {
+    "id": 1751816526738789,
+    "user_id": "U08KCT04V41",
+    "timestamp": "2025-07-06T10:12:06.738Z",
+    "text": "July 5-6<br>• Worked on WD and training modules.<br>• Gone through existing issues along with proposed solutions.<br>• Updated backend deployment setup to use Docker for better environment consistency.<br>Next<br>• Progress in modules."
+  },
+  {
+    "id": 1752765677003129,
+    "user_id": "U08KCT04V41",
+    "timestamp": "2025-07-17T09:51:17.003Z",
+    "text": "July 16 &amp; 17<br>• PR got merged<br>• Progressed through modules<br>next<br>• look for issues <br>• complete training modules"
+  },
+  {
+    "id": 1752854090736909,
+    "user_id": "U08KCT04V41",
+    "timestamp": "2025-07-18T10:24:50.736Z",
+    "text": "July 18<br>• looked through issues.<br>• advancement in modules.<br>Next<br>• try to solve this <a href=\"https://github.com/ohcnetwork/care_fe/issues/12963\">issue</a> locally and request for assignment."
+  },
+  {
+    "id": 1753272123442749,
+    "user_id": "U08KCT04V41",
+    "timestamp": "2025-07-23T06:32:03.442Z",
+    "text": "July 22<br>• Attended weekly review call<br>• Looked some issues<br>Next <br>• Training modules"
+  },
+  {
+    "id": 1753448573045999,
+    "user_id": "U08KCT04V41",
+    "timestamp": "2025-07-25T07:32:53.045Z",
+    "text": "July 24<br>• Looked for some issues.<br>• Worked on a fix for this <a href=\"https://github.com/ohcnetwork/care_fe/issues/13073\">issue</a>.<br>• Did some training modules."
+  },
+  {
+    "id": 1753610037683669,
+    "user_id": "U08KCT04V41",
+    "timestamp": "2025-07-27T04:23:57.683Z",
+    "text": "July 25-26:<br>• Worked on assigned issue.<br>• Raised <a href=\"https://github.com/ohcnetwork/care_fe/pull/13086\">PR</a> for same."
+  },
+  {
+    "id": 1753837602298169,
+    "user_id": "U08KCT04V41",
+    "timestamp": "2025-07-29T19:36:42.298Z",
+    "text": "Jul 29<br>• Attended weekly review call.<br>• Working on suggested changes on <a href=\"https://github.com/ohcnetwork/care_fe/pull/13086\">PR</a>.<br>Next <br>• Get it fixed."
+  },
+  {
+    "id": 1753976633709159,
+    "user_id": "U08KCT04V41",
+    "timestamp": "2025-07-31T10:13:53.709Z",
+    "text": "July 31<br>• made suggested changes for PR <a href=\"https://github.com/ohcnetwork/care_fe/pull/13086\">#13086</a>.<br>• Looked through issues.<br>next<br>• find possible issues.<br>• training modules."
+  },
+  {
+    "id": 1754069720285489,
+    "user_id": "U08KCT04V41",
+    "timestamp": "2025-08-01T12:05:20.285Z",
+    "text": "Aug 1<br>• Looked for issues.<br>• Proposed a solution for an issue.<br>• Changes done on <a href=\"https://github.com/ohcnetwork/care_fe/pull/13086\">PR</a>, open for review."
+  },
+  {
+    "id": 1754227387608869,
+    "user_id": "U08KCT04V41",
+    "timestamp": "2025-08-03T07:53:07.608Z",
+    "text": "Aug 2<br>• Made changes to pr #13086<br>• Went through issues.<br>• Did some modules."
+  },
+  {
+    "id": 1754324664509909,
+    "user_id": "U08KCT04V41",
+    "timestamp": "2025-08-04T10:54:24.509Z",
+    "text": "Aug 3-4<br>• got assigned to this <a href=\"https://github.com/ohcnetwork/care_fe/issues/13200\">issue</a>.<br>• working on it.<br>Next<br>• raise PR."
+  },
+  {
+    "id": 1754486960212319,
+    "user_id": "U08KCT04V41",
+    "timestamp": "2025-08-06T07:59:20.212Z",
+    "text": "Aug 5<br>• Worked on issue #13200.<br>• Raised <a href=\"https://github.com/ohcnetwork/care_fe/pull/13267\">PR</a> <br>• Waiting for review."
+  },
+  {
+    "id": 1754659985481749,
+    "user_id": "U08KCT04V41",
+    "timestamp": "2025-08-08T08:03:05.481Z",
+    "text": "Aug 6-7<br>• Academic work.<br>• Made changes to PR, waiting for review.<br>Next<br>• Look for possible issues."
+  },
+  {
+    "id": 1754831173685669,
+    "user_id": "U08KCT04V41",
+    "timestamp": "2025-08-10T07:36:13.685Z",
+    "text": "Aug 8-9:<br>• completed some modules.<br>• worked on some issues locally.<br>Next<br>• get my PR&#x27;s merged."
+  },
+  {
+    "id": 1755015301272129,
+    "user_id": "U08KCT04V41",
+    "timestamp": "2025-08-12T10:45:01.272Z",
+    "text": "Aug 12:<br>• Wasn&#x27;t able to attend weekly call.<br>• Worked on suggested changes.<br>Next <br>• Look for issues."
+  },
+  {
+    "id": 1755100363577659,
+    "user_id": "U08KCT04V41",
+    "timestamp": "2025-08-13T10:22:43.577Z",
+    "text": "Aug 13:<br>• Made changes to PR #13086.<br>• Ready for review.<br>Next <br>• Look for new issues.<br>• Modules"
+  },
+  {
+    "id": 1755228470871189,
+    "user_id": "U08KCT04V41",
+    "timestamp": "2025-08-14T21:57:50.871Z",
+    "text": "Aug 14<br>• Faced issue with PR #13086.<br>• Made changes to it.<br>Next<br>• New issues."
+  },
+  {
+    "id": 1755351166060839,
+    "user_id": "U08KCT04V41",
+    "timestamp": "2025-08-16T08:02:46.060Z",
+    "text": "Aug 15:<br>• Pushed some changes to #13086.<br>• Waiting for review.<br>Next <br>• New issues."
+  },
+  {
+    "id": 1755434375764859,
+    "user_id": "U08KCT04V41",
+    "timestamp": "2025-08-17T07:09:35.764Z",
+    "text": "Aug 16:<br>slow day<br>• Tried to fix some issues locally.<br>Next:<br>• waiting for a review on existing PRs."
+  },
+  {
+    "id": 1755525475845639,
+    "user_id": "U08KCT04V41",
+    "timestamp": "2025-08-18T08:27:55.845Z",
+    "text": "Aug 17:<br>• Did some modules.<br>• Went through new issues.<br>Next <br>• Waiting for a review on PRs"
+  },
+  {
+    "id": 1755671076017429,
+    "user_id": "U08KCT04V41",
+    "timestamp": "2025-08-20T00:54:36.017Z",
+    "text": "Aug 19:<br>• Attended weekly review call.<br>• PR got tested.<br>Next <br>• Clear merge conflicts on other PR."
+  },
+  {
+    "id": 1755710079866449,
+    "user_id": "U08KCT04V41",
+    "timestamp": "2025-08-20T11:44:39.866Z",
+    "text": "Aug 20:<br>• Got some merge conflicts on this <a href=\"https://github.com/ohcnetwork/care_fe/pull/13267\">PR</a> <br>• Resolved conflicts, needs a review"
+  },
+  {
+    "id": 1755865467466369,
+    "user_id": "U08KCT04V41",
+    "timestamp": "2025-08-22T06:54:27.466Z",
+    "text": "Aug 21<br>• Tried to fix some issues locally.<br>• Modules.<br>Next<br>• Comment for assignment."
+  },
+  {
+    "id": 1756010651124239,
+    "user_id": "U08KCT04V41",
+    "timestamp": "2025-08-23T23:14:11.124Z",
+    "text": "Aug 22-23<br>• Tried to find a solution on some issues.<br>• Look for bugs.<br>• <a href=\"https://github.com/ohcnetwork/care_fe/pull/13267\">PR</a> waiting for a review."
+  },
+  {
+    "id": 1756789911363089,
+    "user_id": "U08KCT04V41",
+    "timestamp": "2025-09-01T23:41:51.363Z",
+    "text": "Sep 1:<br>• Looked for issues.<br>• Request for assignment.<br>Next<br>• Work on it if assigned."
+  },
+  {
+    "id": 1756886057176179,
+    "user_id": "U08KCT04V41",
+    "timestamp": "2025-09-03T02:24:17.176Z",
+    "text": "Sep 2:<br>• made Changes to PR.<br>• Tried some issues.<br>Next:<br>• New issues."
+  },
+  {
+    "id": 1756973243486019,
+    "user_id": "U08KCT04V41",
+    "timestamp": "2025-09-04T02:37:23.486Z",
+    "text": "Sep 3<br>• Got some suggestions from coderabbit for PR.<br>• Tried new issues.<br>Next:<br>• Make changes to PR."
+  },
+  {
+    "id": 1757083529210749,
+    "user_id": "U08KCT04V41",
+    "timestamp": "2025-09-05T09:15:29.210Z",
+    "text": "Sep 4:<br>• Worked on some issues.<br>• Requested assignment.<br>Next<br>• Look for issues.<br>• Waiting for a review on old PR."
+  },
+  {
+    "id": 1757191419818739,
+    "user_id": "U08KCT04V41",
+    "timestamp": "2025-09-06T15:13:39.818Z",
+    "text": "Sep 5:<br>• Raised an issue <a href=\"https://github.com/ohcnetwork/care_fe/issues/13629\">#13629</a> <br>• Work on it if assigned."
+  },
+  {
+    "id": 1757306009812449,
+    "user_id": "U08KCT04V41",
+    "timestamp": "2025-09-07T23:03:29.812Z",
+    "text": "Sep 6-7:<br>• Tried solving issues.<br>• Gave coding assessments.<br>Next <br>• Try new issues."
+  },
+  {
+    "id": 1757396390138599,
+    "user_id": "U08KCT04V41",
+    "timestamp": "2025-09-09T00:09:50.138Z",
+    "text": "sep 8:<br>• Look for issues.<br>• Waiting for a review on PR."
+  },
+  {
+    "id": 1757564490033879,
+    "user_id": "U08KCT04V41",
+    "timestamp": "2025-09-10T22:51:30.033Z",
+    "text": "Sep 9-10:<br>• Attended weekly review call.<br>• Browsed through issues.<br>Next<br>• Work on remaining modules."
+  },
+  {
+    "id": 1757771505917659,
+    "user_id": "U08KCT04V41",
+    "timestamp": "2025-09-13T08:21:45.917Z",
+    "text": "Sep 11 &amp;amp; 12:<br>• worked on some issues.<br>• Request for assignment.<br>Next<br>• look for possible bugs."
+  },
+  {
+    "id": 1757860946687869,
+    "user_id": "U08KCT04V41",
+    "timestamp": "2025-09-14T09:12:26.687Z",
+    "text": "Sep 13:<br>• Worked on some issues.<br>Next <br>• Work on personal project."
+  },
+  {
+    "id": 1757999600660199,
+    "user_id": "U08KCT04V41",
+    "timestamp": "2025-09-15T23:43:20.660Z",
+    "text": "Sep 14-15<br>• Completed some modules.<br>• Worked on some issues.<br>• Requested assignment.<br>• Waiting for review and tests on PR #13267"
+  },
+  {
+    "id": 1758130490175669,
+    "user_id": "U08KCT04V41",
+    "timestamp": "2025-09-17T12:04:50.175Z",
+    "text": "Sep 16:<br>• Gone through some issues.<br>• Requested assignment."
+  },
+  {
+    "id": 1758293555092629,
+    "user_id": "U08KCT04V41",
+    "timestamp": "2025-09-19T09:22:35.092Z",
+    "text": "Sep 17-18:<br>• Got assigned to issue.<br>• Worked on it.<br>Next<br>• raise a PR."
+  },
+  {
+    "id": 1758452941012979,
+    "user_id": "U08KCT04V41",
+    "timestamp": "2025-09-21T05:39:01.012Z",
+    "text": "Sep 19-20:<br>• Worked on issue #13629.<br>• Made suggested changes.<br>• Raised a feature request: Implement new loading skeleton for bed availability dashboard."
+  },
+  {
+    "id": 1758690967792329,
+    "user_id": "U08KCT04V41",
+    "timestamp": "2025-09-23T23:46:07.792Z",
+    "text": "Sep 22-23:<br>• worked on PR.<br>• worked on some issues and requested assignment.<br>Next:<br>• Look for bugs."
+  },
+  {
+    "id": 1758955599248179,
+    "user_id": "U08KCT04V41",
+    "timestamp": "2025-09-27T01:16:39.248Z",
+    "text": "Sep 24:<br>• Raised an issue and got assigned.<br>Sep 25:<br>• Worked on it.<br>• Raised PR.<br>Sep 26:<br>• Worked on old PR.<br>• Couple of PRs got merged.<br>Next:<br>• Work on some modules.<br>• Look for bugs."
+  },
+  {
+    "id": 1759585713265939,
+    "user_id": "U08KCT04V41",
+    "timestamp": "2025-10-04T08:18:33.265Z",
+    "text": "Oct 2 &amp;amp; 3:<br>• Slow week so far due to loads of exams.<br>• Reviewed an old PR.<br>• Went through some issues."
+  }
+]

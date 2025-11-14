@@ -1,0 +1,332 @@
+[
+  {
+    "id": 1752602148764479,
+    "user_id": "U0903NGHLTT",
+    "timestamp": "2025-07-15T12:25:48.764Z",
+    "text": "July 15:<br>• Looked for issues<br>• Progressed through training modules<br>• Explored codebase for understanding <br>Next<br>• Get reviews for existing PR<br>• Look for new issues to work"
+  },
+  {
+    "id": 1752686653172309,
+    "user_id": "U0903NGHLTT",
+    "timestamp": "2025-07-16T11:54:13.172Z",
+    "text": "July 16<br>• Working on an assigned issue<br>• Resolved merge conflicts <br>• Updated my leaderboard profile <br>Next<br>• Look for new issues <br>• Waiting for reviews on existing PR"
+  },
+  {
+    "id": 1752944298575949,
+    "user_id": "U0903NGHLTT",
+    "timestamp": "2025-07-19T11:28:18.575Z",
+    "text": "July 19<br>•  working on changes as requested on an existing PR<br>Next<br>• Complete the changes<br>• Look for new issue"
+  },
+  {
+    "id": 1753034336436379,
+    "user_id": "U0903NGHLTT",
+    "timestamp": "2025-07-20T12:28:56.436Z",
+    "text": "July 20<br>• Worked on fixing lint errors <br>Next:<br>• Wait for existing PR to get reviewed <br>• Look for new issues"
+  },
+  {
+    "id": 1753122076570199,
+    "user_id": "U0903NGHLTT",
+    "timestamp": "2025-07-21T12:51:16.570Z",
+    "text": "July 21<br>• Updated existing PR<br>• Looked for new issues<br>Next:<br>• Waiting for review<br>• Progress through learning modules"
+  },
+  {
+    "id": 1753205596858679,
+    "user_id": "U0903NGHLTT",
+    "timestamp": "2025-07-22T12:03:16.858Z",
+    "text": "July 22<br>• Weekly review meet<br>• Training modules <br>Next:<br>• Find issues<br>• Waiting for PR to get tested"
+  },
+  {
+    "id": 1753380739458679,
+    "user_id": "U0903NGHLTT",
+    "timestamp": "2025-07-24T12:42:19.458Z",
+    "text": "July 23-24<br>• Got a PR merged<br>• Opened an issue<br>Next<br>• Look for issues<br>• Complete training modules"
+  },
+  {
+    "id": 1753467079802159,
+    "user_id": "U0903NGHLTT",
+    "timestamp": "2025-07-25T12:41:19.802Z",
+    "text": "July 25<br>• Looked for issues <br>• Opened an issue <br>Next:<br>• Waiting for issue to be assigned <br>• Complete training modules"
+  },
+  {
+    "id": 1753727172430509,
+    "user_id": "U0903NGHLTT",
+    "timestamp": "2025-07-28T12:56:12.430Z",
+    "text": "July 28<br>• Opened a PR<br>• Progressed through training modules <br>Next:<br>• Work on assigned task<br>• Look for new issues"
+  },
+  {
+    "id": 1753814807314449,
+    "user_id": "U0903NGHLTT",
+    "timestamp": "2025-07-29T13:16:47.314Z",
+    "text": "July 29<br>• Attended weekly review call<br>• Opened a PR<br>• Opened an issue<br>Next:<br>• Waiting for review <br>• Waiting for new task to be assigned"
+  },
+  {
+    "id": 1753903391937879,
+    "user_id": "U0903NGHLTT",
+    "timestamp": "2025-07-30T13:53:11.937Z",
+    "text": "July 31:<br>• Got one PR merged <br>• Made changes in existing PR<br>Next: <br>• Waiting for issues to be assigned <br>• Complete training modules"
+  },
+  {
+    "id": 1754072871455109,
+    "user_id": "U0903NGHLTT",
+    "timestamp": "2025-08-01T12:57:51.455Z",
+    "text": "August 1<br>• Looked for issues<br>• Progressed through training modules <br>Next:<br>• Waiting for issue to be assigned"
+  },
+  {
+    "id": 1754414688548389,
+    "user_id": "U0903NGHLTT",
+    "timestamp": "2025-08-05T11:54:48.548Z",
+    "text": "August 5:<br>• Attended weekly review call<br>• Opened an <a href=\"https://github.com/ohcnetwork/care_fe/issues/13261\">issue</a> <br>Next:<br>• Looking for new issues<br>• Waiting for <a href=\"https://github.com/ohcnetwork/care_fe/pull/13113\">existing PR</a> to be tested"
+  },
+  {
+    "id": 1754505370304499,
+    "user_id": "U0903NGHLTT",
+    "timestamp": "2025-08-06T13:06:10.304Z",
+    "text": "Aug 6:<br>• Looked for issues<br>• Closed an issue as it is being done in another task.<br>Next:<br>• Waiting for existing PR to be merged<br>• Look for new issues"
+  },
+  {
+    "id": 1754598882388469,
+    "user_id": "U0903NGHLTT",
+    "timestamp": "2025-08-07T15:04:42.388Z",
+    "text": "Aug 7: <br>• Opened an issue <br>• Looked for new issues <br>Next:<br>• Waiting for issue to be assigned <br>• Waiting for existing PR to be reviewed"
+  },
+  {
+    "id": 1754763263266549,
+    "user_id": "U0903NGHLTT",
+    "timestamp": "2025-08-09T12:44:23.266Z",
+    "text": "Aug 8,9:<br>• Working on an issue<br>• Looked for new issues <br>Next:<br>• Open PR on assigned issue<br>• Waiting for review of existing PR"
+  },
+  {
+    "id": 1754940337247379,
+    "user_id": "U0903NGHLTT",
+    "timestamp": "2025-08-11T13:55:37.247Z",
+    "text": "Aug 11<br>• Worked on <a href=\"https://github.com/ohcnetwork/care_fe/issues/13268\">assigned issue</a><br>Next:<br>• Raise a PR on <a href=\"https://github.com/ohcnetwork/care_fe/issues/13268\">issue</a> <br>• Look for new issues"
+  },
+  {
+    "id": 1755026384384929,
+    "user_id": "U0903NGHLTT",
+    "timestamp": "2025-08-12T13:49:44.384Z",
+    "text": "Aug 12<br>• Attended weekly review call <br>• Raised a PR<br>Next:<br>• Waiting for 2 PRs to get reviewed <br>• Look for new issues"
+  },
+  {
+    "id": 1755275411009369,
+    "user_id": "U0903NGHLTT",
+    "timestamp": "2025-08-15T11:00:11.009Z",
+    "text": "Aug 14, 15:<br>• Raised a PR <br>• Looked for new issues <br>Next:<br>• Do the suggested changes in existing PR"
+  },
+  {
+    "id": 1755626808626979,
+    "user_id": "U0903NGHLTT",
+    "timestamp": "2025-08-19T12:36:48.626Z",
+    "text": "Aug 19<br>• Worked on an existing PR <br>• Looked for new issues <br>Next:<br>• Waiting for existing PR to get reviewed <br>• Look for new issues"
+  },
+  {
+    "id": 1755711665191039,
+    "user_id": "U0903NGHLTT",
+    "timestamp": "2025-08-20T12:11:05.191Z",
+    "text": "Aug 20:<br>• made updates in <a href=\"https://github.com/ohcnetwork/care_fe/pull/13426\">existing PR</a> <br>• opened a <a href=\"https://github.com/ohcnetwork/care_fe/issues/13442\">new issue</a> <br>Next:<br>• waiting for existing PR to be reviewed and tested<br>• waiting for issue to be assigned"
+  },
+  {
+    "id": 1755886415902049,
+    "user_id": "U0903NGHLTT",
+    "timestamp": "2025-08-22T12:43:35.902Z",
+    "text": "Aug 22:<br>• Opened <a href=\"https://github.com/ohcnetwork/care_fe/issues/13466\">an issue</a> <br>• looked for new issues<br>next:<br>• waiting for issue to be assigned"
+  },
+  {
+    "id": 1755970850213659,
+    "user_id": "U0903NGHLTT",
+    "timestamp": "2025-08-23T12:10:50.213Z",
+    "text": "Aug 23:<br>• Looked for new issues <br>• Waiting for issue to be assigned"
+  },
+  {
+    "id": 1756152473627679,
+    "user_id": "U0903NGHLTT",
+    "timestamp": "2025-08-25T14:37:53.627Z",
+    "text": "Aug 25:<br>• Opened an issue <br>• Looked for new issues <br>Next:<br>• Raise a PR for assigned issue"
+  },
+  {
+    "id": 1756229139222109,
+    "user_id": "U0903NGHLTT",
+    "timestamp": "2025-08-26T11:55:39.222Z",
+    "text": "Aug 26:<br>• Raised PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/13526\">fix: Resizable Feature for Dept/team Listing Page #13526</a> <br>• Raised PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/13518\">fix: User Rendering in Notes #13518</a> <br>Next:<br>• Waiting for existing PRs to be reviewed."
+  },
+  {
+    "id": 1756577349791719,
+    "user_id": "U0903NGHLTT",
+    "timestamp": "2025-08-30T12:39:09.791Z",
+    "text": "Aug 29:<br>• Worked on <a href=\"https://github.com/ohcnetwork/care_fe/issues/13554\">Ability to Prefill Default Option in Choice-Type Question within a Questionnaire #13554</a> <br>• <a href=\"https://github.com/ohcnetwork/care_fe/pull/13526\">fix: Resizable Feature for Dept/team Listing Page #13526</a> got reviewed.<br>• <a href=\"https://github.com/ohcnetwork/care_fe/pull/13518\">fix: User Rendering in Notes #13518</a> got merged.<br>Next:<br>• Raise PR for assigned issue.<br>• make suggested changes for existing PR."
+  },
+  {
+    "id": 1756752774262639,
+    "user_id": "U0903NGHLTT",
+    "timestamp": "2025-09-01T13:22:54.262Z",
+    "text": "Sep 1:<br>• Raised a PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/13578\">fix: Shadcn Table Component in printPaymentReconciliation #13578</a> <br>• worked on suggested changes in existing PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/13526\">fix: Resizable Feature for Dept/team Listing Page #13526</a> <br>• PR got reviewed: <a href=\"https://github.com/ohcnetwork/care_fe/pull/13571\">feat: Added Ability to Prefill Default Option in Choice-Type Question within a Questionnaire #13571</a> <br>Next:<br>• work on existing PRs."
+  },
+  {
+    "id": 1756833664965309,
+    "user_id": "U0903NGHLTT",
+    "timestamp": "2025-09-02T11:51:04.965Z",
+    "text": "Sep 2<br>• Made suggested changes in existing PRs.<br>Next: waiting for existing PRs to be reviewed"
+  },
+  {
+    "id": 1756925354753719,
+    "user_id": "U0903NGHLTT",
+    "timestamp": "2025-09-03T13:19:14.753Z",
+    "text": "Sep 3<br>• Made some changes in <a href=\"https://github.com/ohcnetwork/care_fe/pull/13526\">fix: Resizable Feature for Dept/team Listing Page #13526</a> <br>• looked for new issues<br>Next:<br>• make suggested changes in existing PRs."
+  },
+  {
+    "id": 1757352998982589,
+    "user_id": "U0903NGHLTT",
+    "timestamp": "2025-09-08T12:06:38.982Z",
+    "text": "Sep 8<br>• Worked on some suggested changes in existing PR <br>• Resolved merge conflicts <br>Next:<br>• Find new issues<br>• Waiting for existing PRs to get reviewed"
+  },
+  {
+    "id": 1757443833162889,
+    "user_id": "U0903NGHLTT",
+    "timestamp": "2025-09-09T13:20:33.162Z",
+    "text": "Sep 9<br>• Made suggested changes in <a href=\"https://github.com/ohcnetwork/care_fe/pull/13571\">feat: Added Ability to Prefill Default Option in Choice-Type Question within a Questionnaire #13571</a> <br>• Made suggested changes in <a href=\"https://github.com/ohcnetwork/care_fe/pull/13578\">fix: Shadcn Table Component in printPaymentReconciliation #13578</a> <br>next:<br>• waiting for existing PRs to get reviewed and tested.<br>• find new issues to work on."
+  },
+  {
+    "id": 1757524981026639,
+    "user_id": "U0903NGHLTT",
+    "timestamp": "2025-09-10T11:53:01.026Z",
+    "text": "Sep 10<br>• Got assigned to an issue and worked on it<br>Next:<br>• Raise PR for assigned issue <br>• Waiting for existing PRs to be reviewed"
+  },
+  {
+    "id": 1757617029141859,
+    "user_id": "U0903NGHLTT",
+    "timestamp": "2025-09-11T13:27:09.141Z",
+    "text": "Sep 11:<br>• Raised PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/13689\">feat: Added Questionnaire Responses Tab in Encounters #13689</a> <br>• PR got reviewed: <a href=\"https://github.com/ohcnetwork/care_fe/pull/13571\">feat: Added Ability to Prefill Default Option in Choice-Type Question within a Questionnaire #13571</a> <br>Next:<br>• Make suggested changes in existing PRs"
+  },
+  {
+    "id": 1757874094244489,
+    "user_id": "U0903NGHLTT",
+    "timestamp": "2025-09-14T12:51:34.244Z",
+    "text": "Sep 12,13,14:<br>• made changes in <a href=\"https://github.com/ohcnetwork/care_fe/pull/13571\">feat: Added Ability to Prefill Default Option in Choice-Type Question within a Questionnaire #13571</a> <br>• made changes in <a href=\"https://github.com/ohcnetwork/care_fe/pull/13689\">feat: Added Questionnaire Responses Tab in Encounters #13689</a> <br>next:<br>• waiting for existing PRs to be reviewed and tested"
+  },
+  {
+    "id": 1757962142566889,
+    "user_id": "U0903NGHLTT",
+    "timestamp": "2025-09-15T13:19:02.566Z",
+    "text": "Sep 15:<br>• worked on <a href=\"https://github.com/ohcnetwork/care_fe/pull/13689\">feat: Added Questionnaire Responses Tab in Encounters #13689</a> <br>next:<br>• make suggested changes in existing pr<br>• waiting for existing prs to get reviewed"
+  },
+  {
+    "id": 1758084371753939,
+    "user_id": "U0903NGHLTT",
+    "timestamp": "2025-09-16T23:16:11.753Z",
+    "text": "Sep 16: <br>• Made some suggested changes in existing PR <br>• Attended weekly review call <br>Next:<br>• Waiting for PRs to be reviewed and tested"
+  },
+  {
+    "id": 1758861547724419,
+    "user_id": "U0903NGHLTT",
+    "timestamp": "2025-09-25T23:09:07.724Z",
+    "text": "Sep 25:<br>Working on <a href=\"https://share.google/oxzXk9DvTIten4yOL\">Questionnaire Responses Tab in Clinical History #13836</a> <br>Next:<br>• Complete works pending on existing PR <br>• Waiting for existing PRs to get reviewed and tested"
+  },
+  {
+    "id": 1759065497722019,
+    "user_id": "U0903NGHLTT",
+    "timestamp": "2025-09-28T07:48:17.722Z",
+    "text": "Sep 26:<br>• worked on <a href=\"https://github.com/ohcnetwork/care_fe/pull/13836\">Questionnaire Responses Tab in Clinical History #13836</a> <br>• worked on <a href=\"https://github.com/ohcnetwork/care_fe/pull/13526\">fix: Resizable Feature for Dept/team Listing Page #13526</a> <br>next:<br>waiting for existing PRs to be reviewed and tested"
+  },
+  {
+    "id": 1759165294873049,
+    "user_id": "U0903NGHLTT",
+    "timestamp": "2025-09-29T11:31:34.873Z",
+    "text": "Sep 29:<br>• merged <a href=\"https://github.com/ohcnetwork/care_fe/pull/13578\">fix: Shadcn Table Component in printPaymentReconciliation #13578</a> <br>• merged <a href=\"https://github.com/ohcnetwork/care_fe/pull/13836\">Questionnaire Responses Tab in Clinical History #13836</a> <br>• made changes in <a href=\"https://github.com/ohcnetwork/care_fe/pull/13571\">feat: Added Ability to Prefill Default Option in Choice-Type Question within a Questionnaire #13571</a> <br>next:<br>• make suggested changes in existing PRs<br>• work on assigned issue."
+  },
+  {
+    "id": 1759251838086769,
+    "user_id": "U0903NGHLTT",
+    "timestamp": "2025-09-30T11:33:58.086Z",
+    "text": "Sep 30:<br>• attended weekly review meet<br>• raised pr: <a href=\"https://github.com/ohcnetwork/care_fe/pull/13895\">Default Parameters in API Requests #13895</a> <br>• made suggested changes in <a href=\"https://github.com/ohcnetwork/care_fe/pull/13571\">feat: Added Ability to Prefill Default Option in Choice-Type Question within a Questionnaire #13571</a> <br>• made suggested changes in <a href=\"https://github.com/ohcnetwork/care_fe/pull/13526\">fix: Resizable Feature for Dept/team Listing Page #13526</a> <br>next:<br>• waiting for existing prs to be tested and merged"
+  },
+  {
+    "id": 1759421326792159,
+    "user_id": "U0903NGHLTT",
+    "timestamp": "2025-10-02T10:38:46.792Z",
+    "text": "Oct 1:<br>• merged PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/13571\">feat: Added Ability to Prefill Default Option in Choice-Type Question within a Questionnaire #13571</a> <br>• made suggested changes in <a href=\"https://github.com/ohcnetwork/care_fe/pull/13895\">Default Parameters in API Requests #13895</a> <br>• working on <a href=\"https://github.com/ohcnetwork/care_fe/issues/12792\">Facility Organization Selector Redesign #12792</a> <br>next:<br>• waiting for existing PRs to be merged<br>• raise PR on assigned issue"
+  },
+  {
+    "id": 1759838552645359,
+    "user_id": "U0903NGHLTT",
+    "timestamp": "2025-10-07T06:32:32.645Z",
+    "text": "Oct 6:<br>• made changes in <a href=\"https://github.com/ohcnetwork/care_fe/pull/13895\">Default Parameters in API Requests #13895</a> |<br>• raised pr <a href=\"https://github.com/ohcnetwork/care_fe/pull/13968\">Facility Organization Selector Redesigned #13968</a> <br>next:<br>• waiting for existing PRs to be tested"
+  },
+  {
+    "id": 1759902566844659,
+    "user_id": "U0903NGHLTT",
+    "timestamp": "2025-10-08T00:19:26.844Z",
+    "text": "Oct 7:<br>• attended weekly review call<br>• made changes in <a href=\"https://github.com/ohcnetwork/care_fe/pull/13968\">Facility Organization Selector Redesigned #13968</a> <br>next:<br>• waiting for existing PRs to be reviewed and tested"
+  },
+  {
+    "id": 1759988253198429,
+    "user_id": "U0903NGHLTT",
+    "timestamp": "2025-10-09T00:07:33.198Z",
+    "text": "Oct 8:<br>• made changes in <a href=\"https://github.com/ohcnetwork/care_fe/pull/13968\">Facility Organization Selector Redesigned #13968</a> <br>• made changes in <a href=\"https://github.com/ohcnetwork/care_fe/pull/13526\">fix: Resizable Feature for Dept/team Listing Page #13526</a> <br>• resolved merge conflicts<br>next:<br>• waiting for existing PRs to be reviewed and tested"
+  },
+  {
+    "id": 1761112902744729,
+    "user_id": "U0903NGHLTT",
+    "timestamp": "2025-10-22T00:31:42.744Z",
+    "text": "Oct 21:<br>• resolved merge conflicts in my PRs<br>• attended weekly review call<br>• worked on an assigned issue<br>next:<br>• raise a PR on assigned issue<br>• waiting for existing PRs to be reviewed"
+  },
+  {
+    "id": 1761197231351979,
+    "user_id": "U0903NGHLTT",
+    "timestamp": "2025-10-22T23:57:11.351Z",
+    "text": "Oct 22:<br>• made pr: <a href=\"https://github.com/ohcnetwork/care_fe/pull/14101\">feat: added delete button in healthcare services #14101</a> <br>• made pr: <a href=\"https://github.com/ohcnetwork/care_fe/pull/14103\">fix: charge item in activity definition creation #14103</a> <br>• made pr: <a href=\"https://github.com/ohcnetwork/care_fe/pull/14104\">added refresh button in profile page #14104</a> <br>next:<br>• waiting for existing prs to be reviewed and tested"
+  },
+  {
+    "id": 1761630847293669,
+    "user_id": "U0903NGHLTT",
+    "timestamp": "2025-10-28T00:24:07.293Z",
+    "text": "Oct 24,27:<br>• merged PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/14103\">care_fe#14103</a> <br>• worked on: <a href=\"https://github.com/ohcnetwork/care_fe/pull/14104\">care_fe#14104</a> <br>• spent time on playwright tests<br>next:<br>• get existing PRs get reviewed and tested"
+  },
+  {
+    "id": 1761803199740869,
+    "user_id": "U0903NGHLTT",
+    "timestamp": "2025-10-30T00:16:39.740Z",
+    "text": "Oct 29:<br>• raised pr: <a href=\"https://github.com/ohcnetwork/care_fe/pull/14183\">care_fe#14183</a> <br>• worked on: <a href=\"https://github.com/ohcnetwork/care_fe/pull/13968\">care_fe#13968</a> <br>• added changes in <a href=\"https://github.com/ohcnetwork/care_fe/pull/14015\">care_fe#14015</a> <br>• added changes in <a href=\"https://github.com/ohcnetwork/care_fe/pull/14101\">care_fe#14101</a> <br>next:<br>• start working on playwright tests for existing PRs"
+  },
+  {
+    "id": 1762010874209709,
+    "user_id": "U0903NGHLTT",
+    "timestamp": "2025-11-01T09:57:54.209Z",
+    "text": "Oct 31:<br>• made suggested changes in <a href=\"https://github.com/ohcnetwork/care_fe/pull/13968\">care_fe#13968</a> <br>• made suggested changes in <a href=\"https://github.com/ohcnetwork/care_fe/pull/14015\">care_fe#14015</a> <br>• added zod schema in <a href=\"https://github.com/ohcnetwork/care_fe/pull/14183\">care_fe#14183</a> <br>next:<br>• start writing playwright tests for existing PRs"
+  },
+  {
+    "id": 1762322441446519,
+    "user_id": "U0903NGHLTT",
+    "timestamp": "2025-11-05T00:30:41.446Z",
+    "text": "Nov 4:<br>• worked on playwright test for <a href=\"https://github.com/ohcnetwork/care_fe/pull/14015\">PR#14015</a> <br>• made suggested changes in <a href=\"https://github.com/ohcnetwork/care_fe/pull/14101\">PR#14101</a> <br>next:<br>• finish writing playwright tests for existing PRs"
+  },
+  {
+    "id": 1762408102024229,
+    "user_id": "U0903NGHLTT",
+    "timestamp": "2025-11-06T00:18:22.024Z",
+    "text": "Nov 5:<br>• playwright test for <a href=\"https://github.com/ohcnetwork/care_fe/pull/13968\">PR#13968</a> <br>• playwright test for <a href=\"https://github.com/ohcnetwork/care_fe/pull/14101\">PR#14101</a> <br>next:<br>• finish writing playwright tests for existing PRs<br>• make suggested changes in existing PRs"
+  },
+  {
+    "id": 1762596506765759,
+    "user_id": "U0903NGHLTT",
+    "timestamp": "2025-11-08T04:38:26.765Z",
+    "text": "Nov 7:<br>• worked on playwright test for existing PRs<br>• made changes in <a href=\"https://github.com/ohcnetwork/care_fe/pull/13526\">PR#13526</a> <br>• made changes in <a href=\"https://github.com/ohcnetwork/care_fe/pull/13968\">PR#13968</a> <br>next:<br>• work on playwright tests<br>• make required changes in existing PRs"
+  },
+  {
+    "id": 1762838768224699,
+    "user_id": "U0903NGHLTT",
+    "timestamp": "2025-11-10T23:56:08.224Z",
+    "text": "nov 11:<br>• merged pr: <a href=\"https://github.com/ohcnetwork/care_fe/pull/14101\">PR#14101</a> <br>• raised pr: <a href=\"https://github.com/ohcnetwork/care_fe/pull/14288\">PR#14288</a> <br>• made required changes in <a href=\"https://github.com/ohcnetwork/care_fe/pull/14183\">PR#14183</a> <br>• fixed playwright test in <a href=\"https://github.com/ohcnetwork/care_fe/pull/14104\">PR#14104</a> <br>next:<br>• make required changes in existing pr<br>• raise pr on assigned issues"
+  },
+  {
+    "id": 1762925630132539,
+    "user_id": "U0903NGHLTT",
+    "timestamp": "2025-11-12T00:03:50.132Z",
+    "text": "nov 11:<br>• attended weekly review call<br>• fixed playwright test in <a href=\"https://github.com/ohcnetwork/care_fe/pull/14015\">PR#14015</a> <br>• worked on <a href=\"https://github.com/ohcnetwork/care_fe/pull/14288\">PR#14288</a> <br>• raised pr: <a href=\"https://github.com/ohcnetwork/care_fe/pull/14299\">PR#14299</a> <br>next:<br>• fix playwright tests<br>• work on assigned issue"
+  },
+  {
+    "id": 1763012154716129,
+    "user_id": "U0903NGHLTT",
+    "timestamp": "2025-11-13T00:05:54.716Z",
+    "text": "nov 12:<br>• made changes in <a href=\"https://github.com/ohcnetwork/care_fe/pull/14183\">PR#14183</a> <br>• raised pr: <a href=\"https://github.com/ohcnetwork/care_fe/pull/14299\">PR#14299</a> <br>• raised pr: <a href=\"https://github.com/ohcnetwork/care_fe/pull/14312\">PR#14312</a> <br>next:<br>• work on assigned issues"
+  }
+]

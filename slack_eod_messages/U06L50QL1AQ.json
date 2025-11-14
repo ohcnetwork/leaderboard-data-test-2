@@ -1,0 +1,458 @@
+[
+  {
+    "id": 1729607335139219,
+    "user_id": "U06L50QL1AQ",
+    "timestamp": "2024-10-22T08:58:55.139Z",
+    "text": "<span class=\"s-mention s-user\">@U06L50QL1AQ</span> has joined the channel"
+  },
+  {
+    "id": 1729697339290169,
+    "user_id": "U06L50QL1AQ",
+    "timestamp": "2024-10-23T09:58:59.290Z",
+    "text": "<strong>23 Oct 2024</strong><br><br>Done :<br>&amp;gt; • Resolved comments on <a href=\"https://github.com/ohcnetwork/care/pull/2500\">#2500</a> and added required testcases.<br>&amp;gt; • Worked on <a href=\"https://github.com/ohcnetwork/care/issues/2558\">#2558</a> , had some discussion on <span class=\"s-mention s-channel\">#C010GQBMFJ9</span> related to it and it was decided to close it as not required.<br>Next:<br>&amp;gt; • Will be solving merge conflicts on PR <a href=\"https://github.com/ohcnetwork/care/pull/2532\">#2532</a>"
+  },
+  {
+    "id": 1729792184364039,
+    "user_id": "U06L50QL1AQ",
+    "timestamp": "2024-10-24T12:19:44.364Z",
+    "text": "24 Oct 2024<br><br>Done<br>• Resolved conflicts on a previous <a href=\"https://github.com/ohcnetwork/care/pull/2532\">PR</a> <br>Up next <br>• Writing test patient transfer"
+  },
+  {
+    "id": 1729876045705249,
+    "user_id": "U06L50QL1AQ",
+    "timestamp": "2024-10-25T11:37:25.705Z",
+    "text": "25 Oct 2024<br><br>Done <br>• Complete patient transfer testcases <a href=\"https://github.com/ohcnetwork/care/pull/2564\">PR</a><br>Next <br>• Traveling back home , so won&#x27;t be available tomorrow"
+  },
+  {
+    "id": 1730138296795869,
+    "user_id": "U06L50QL1AQ",
+    "timestamp": "2024-10-28T12:28:16.795Z",
+    "text": "28th October 2024<br><br>Done -<br>Raised a PR for issue improvising icd 11 diagnoses fetching.<br><a href=\"https://github.com/ohcnetwork/care/pull/2566\">https://github.com/ohcnetwork/care/pull/2566</a><br><br>Next -<br>Either working on a existing issue or work on creating a test case for a uncovered module"
+  },
+  {
+    "id": 1730254228643139,
+    "user_id": "U06L50QL1AQ",
+    "timestamp": "2024-10-29T20:40:28.643Z",
+    "text": "29 Oct 2024<br>No major updates for today"
+  },
+  {
+    "id": 1730304493913709,
+    "user_id": "U06L50QL1AQ",
+    "timestamp": "2024-10-30T10:38:13.913Z",
+    "text": "30 Oct 2024<br><br>Going through Redis docs and how it works with django  since a lot of issues involves it. Will be picking them up after diwali break."
+  },
+  {
+    "id": 1730747109342009,
+    "user_id": "U06L50QL1AQ",
+    "timestamp": "2024-11-04T13:35:09.342Z",
+    "text": "4 Nov 2024<br>Done -<br>1. Updating olders PRs after reviews<br>2. Working on creating basic setup for React component testing.<br>Up next - <br>1. Will be working on completing the unit test for asset form"
+  },
+  {
+    "id": 1730844043738849,
+    "user_id": "U06L50QL1AQ",
+    "timestamp": "2024-11-05T16:30:43.738Z",
+    "text": "5 Nov 2024<br><br>Done - <br>1. Completed unit testing setup for react component testing. ( It need some reviews then I&#x27;ll raise it on fe branch)<br>Next - <br>1. Assigned to 2 issues will try to create PR for at least one of them"
+  },
+  {
+    "id": 1730926263534329,
+    "user_id": "U06L50QL1AQ",
+    "timestamp": "2024-11-06T15:21:03.534Z",
+    "text": "6 Nov 2024<br><br>Done -<br>1. Raised PR for issue 2583 <br>2. Addressed comments on draft PR 2566 <br>Next -<br>1. Creating workflows for running unit test when the PR is raised<br>2. Issue 2580"
+  },
+  {
+    "id": 1731009971493229,
+    "user_id": "U06L50QL1AQ",
+    "timestamp": "2024-11-07T14:36:11.493Z",
+    "text": "7 Nov 2024<br><br>Done<br>1. Worked on creating workflows for unit testing for care fe<br>2. fixed comments on older PRs<br>Next<br>1. Issue 2580"
+  },
+  {
+    "id": 1731101521545239,
+    "user_id": "U06L50QL1AQ",
+    "timestamp": "2024-11-08T16:02:01.545Z",
+    "text": "8 Nov 2024<br><br>Done<br>1.  Completed required changes for #2580. Currently working on creating some testcases before raising PR.<br>Next<br>1. Completing #2580 test cases"
+  },
+  {
+    "id": 1731212358261669,
+    "user_id": "U06L50QL1AQ",
+    "timestamp": "2024-11-09T22:49:18.261Z",
+    "text": "9  Nov 2024<br>Done -<br>1. Raised PR for #2580.<br>Next -<br>1. Found a bug in <code>mobile_number</code> validation , will work to fix it."
+  },
+  {
+    "id": 1731337288067129,
+    "user_id": "U06L50QL1AQ",
+    "timestamp": "2024-11-11T09:31:28.067Z",
+    "text": "11  Nov 2024<br><br>Done -<br>1. Updated #2580 according to discussing of eod<br>2. Working on onvif plugin<br>Next -<br>1. Travelling back to clg , so won&#x27;t be available for 2 days"
+  },
+  {
+    "id": 1731703877034759,
+    "user_id": "U06L50QL1AQ",
+    "timestamp": "2024-11-15T15:21:17.034Z",
+    "text": "15th November<br>• raised draft PR for adding unit tests for react components and mocking apis - <a href=\"https://github.com/ohcnetwork/care_fe/pull/9137\">Link  </a><br>• Learning about class inheritance, going through scheduling api docs and other implemented plugins<br>• Almost seprated out the whole camera asset and it&#x27;s api<br>Next -<br>• Put everything into plugin boiler plate to create a draft repo for camera plugin"
+  },
+  {
+    "id": 1731965683363929,
+    "user_id": "U06L50QL1AQ",
+    "timestamp": "2024-11-18T16:04:43.363Z",
+    "text": "18th November<br>Done -<br>• Finalising the work on plugin, had a meeting with Rithvik and Khavin , was able to successfully separate and install the camera as a plugin.<br>Next -<br>• Will be adding signals to plugin for validations<br>• Start working on the data migration , from core app to plugin"
+  },
+  {
+    "id": 1732054900925779,
+    "user_id": "U06L50QL1AQ",
+    "timestamp": "2024-11-19T16:51:40.925Z",
+    "text": "19th Nov 2024<br>• Completed the plugin creation, with validations and everything.<br>• Had some mandatory workshop at college, so most of the day got wasted there, so was unable to push the code. <br>Next -<br>• Push the code<br>• Start up the migration part for plugin"
+  },
+  {
+    "id": 1732136801672359,
+    "user_id": "U06L50QL1AQ",
+    "timestamp": "2024-11-20T15:36:41.672Z",
+    "text": "20th November<br>• Raised  the PR on care core for removing all camera related functions <br>• Connected with Rithvik for clearing some doubts<br>• Completed the camera plugin creation, just need to write down the documentation part properly before pushing to plugin repo<br>Next -<br>• Get done with the migrations and get PRs reviewed"
+  },
+  {
+    "id": 1732315823352489,
+    "user_id": "U06L50QL1AQ",
+    "timestamp": "2024-11-22T17:20:23.352Z",
+    "text": "21st November<br>• Finished up the plugin creation and pushed the code with plugin repo<br>22nd November<br>• Fixed urls and migrations for plugin, tested the code out.<br>• made changes for frontend for plugin&#x27;s urls<br>Next -<br>• resolve conflicts in a prior PR<br>• test out the frontend changes <br>• Pick up next tasks for upcoming week"
+  },
+  {
+    "id": 1732572280527119,
+    "user_id": "U06L50QL1AQ",
+    "timestamp": "2024-11-25T16:34:40.527Z",
+    "text": "25 Nov<br>• Had a presentation in college, so wasn&#x27;t able to do much<br>• Completed the fe changes for camera plugin (now just the reviews are remaining)<br>• went through the <a href=\"https://github.com/ohcnetwork/care/issues/1330\">issue</a> , was thinking of implementing it with signals but not exactly sure on it, will get some confirmation and advice on it <br>Next<br>• Finish up the above issue <br>• Pick up a good issue and get it done before my end sem starts <span class=\"s-emoji\">😅</span>"
+  },
+  {
+    "id": 1732658255444379,
+    "user_id": "U06L50QL1AQ",
+    "timestamp": "2024-11-26T16:27:35.444Z",
+    "text": "26th November<br>• Was exploring the ways to complete <a href=\"https://github.com/ohcnetwork/care/issues/1330\">https://github.com/ohcnetwork/care/issues/1330</a> , researched a bit and dropped the signals implemetation, so need to rework on it again<br>• Discussed about potetial improvement to camera plugin<br>• Went through the documentation of <code>Cookiecutter</code>  for creating boiler plate for future plugins.<br>Next<br>• Complete the above issue (all 3 parts)<br>• Learn about how to implement gh action to test PRs on plugin repos"
+  },
+  {
+    "id": 1732778956916179,
+    "user_id": "U06L50QL1AQ",
+    "timestamp": "2024-11-28T01:59:16.916Z",
+    "text": "27 Nov<br>Done -<br>• Completed the PR for the issue - <a href=\"https://github.com/ohcnetwork/care/issues/1330\">https://github.com/ohcnetwork/care/issues/1330</a><br>• Wasn&#x27;t able to do much expect raising the above PR due to college ( getting more occupied by college since only 1 week left for end sem and practical + there is minor project that I need to submit)<br>Next -<br>• Fix test cases for camera plugin<br>• Test it out with frontend since the new routes are throwing 500 (context - <a href=\"https://github.com/ohcnetwork/care_fe/pull/9209#issuecomment-2505016954\">https://github.com/ohcnetwork/care_fe/pull/9209#issuecomment-2505016954</a>)<br>• Get started on creating gh actions for plugin testing"
+  },
+  {
+    "id": 1732867933342809,
+    "user_id": "U06L50QL1AQ",
+    "timestamp": "2024-11-29T02:42:13.342Z",
+    "text": "28 Nov<br>• Made changes to Docker file to fix the issue of installing plugins locally, had a short call with Khavin on it <br>• Found some minor bug with asset serializer in camera preset branch, fixed that.<br>• Most of the day then went debugging things for local testing and trying to include plugins tests to run with the core app but unable to do so.<br>Next <br>• Raise the PR with all the fixes for api routes for plugin.<br>• Complete the gh action with cookie cutter boiler plate"
+  },
+  {
+    "id": 1733159324043549,
+    "user_id": "U06L50QL1AQ",
+    "timestamp": "2024-12-02T11:38:44.043Z",
+    "text": "29th Nov<br>• Mostly went through the docs for cookie cutter and gh actions for implemention them for camera plugin repo.<br>• Was Almost done with the cookiecutter template but lost the changes due to some issues in laptop.<br>Weekend (30th Nov and 1st Dec)<br>• Wasn&#x27;t able to code due to laptop, had to format and re install everything again. <br>• College work. (completed minor project and prepared presentation, lab manuals for practicals)<br>1st Nov<br>• Got my PRs reviewed ,resolving the comments<br>Next<br>• Investigate through the bug we are getting for migration in camera plugin"
+  },
+  {
+    "id": 1733284779139819,
+    "user_id": "U06L50QL1AQ",
+    "timestamp": "2024-12-03T22:29:39.139Z",
+    "text": "December 3 -<br>Done- <br>• Completed and Raised the PR for the cookie cutter boiler plate.<br>• Resolved comments on a PR<br>• Tried to load data from a older pg dump to test migration issue in camera but was facing some issues and was stuck on them for whole time.<br>Next -<br>• Resolve the issue with data loading and check the migration issue.<br>• Get clarification on PR comments and resolve them as well."
+  },
+  {
+    "id": 1733372828109689,
+    "user_id": "U06L50QL1AQ",
+    "timestamp": "2024-12-04T22:57:08.109Z",
+    "text": "4th December <br><br>Done <br>• Investigated the migrations issue using the latest pg dump, and was able to run everything without any error.<br>• Worked on gh action to test PRs raised on plugin repo. Tested it a few time but was unable to get success.<br>Next - <br>• Update the migration script in camera plugin to also copy the created and modified date.<br>• Raise PR for gh action mentioned above after successful testing.<br>My work speed has decreased, and am unable to give more time bcz of college. Have practical (today), minor project submission ( 6-7) and then end sem starting from 9th. But I&#x27;ll try to get things assigned to me done and pick some minor issues for the next 2 weeks"
+  },
+  {
+    "id": 1733435980453369,
+    "user_id": "U06L50QL1AQ",
+    "timestamp": "2024-12-05T16:29:40.453Z",
+    "text": "December 5<br>Done -<br>• Fixed tests for camera plugin<br>• Updated the migrations for camera plugin to also copy the created and modified date<br>• Testing gh action to test plugin (still not successfull)<br>Next -<br>• Complete the gh action and get it reviewed."
+  },
+  {
+    "id": 1733518181885499,
+    "user_id": "U06L50QL1AQ",
+    "timestamp": "2024-12-06T15:19:41.885Z",
+    "text": "6th December<br><br>Done -<br>• Done with github workflows for camera plugin , updated the tests. Overall finalised for testing.<br>Next -<br>• Fix prior PRs comments"
+  },
+  {
+    "id": 1733814973632759,
+    "user_id": "U06L50QL1AQ",
+    "timestamp": "2024-12-10T01:46:13.632Z",
+    "text": "December 9<br>• No updates due to end sem exam."
+  },
+  {
+    "id": 1733987533843989,
+    "user_id": "U06L50QL1AQ",
+    "timestamp": "2024-12-12T01:42:13.843Z",
+    "text": "10th December <br>• No work<br>11th December <br>• Picked up result mismatch issue of listing camera presets, have found the bug. <br>• Solved the above bug left with writing testcases.<br>Next -<br>• Improve documentation for cookie cutter template"
+  },
+  {
+    "id": 1734062053252879,
+    "user_id": "U06L50QL1AQ",
+    "timestamp": "2024-12-12T22:24:13.252Z",
+    "text": "12th December <br>Done- <br>• Raised PR fixing listcamerapreset object with test <br>Next -<br>• Resolve conflict on camera plugin route pr on fe"
+  },
+  {
+    "id": 1734283710304229,
+    "user_id": "U06L50QL1AQ",
+    "timestamp": "2024-12-15T11:58:30.304Z",
+    "text": "13th and 14th December<br>Done-<br>• had exam so less work done.<br>• Solved conflicts on cameraplugin routes PR<br>• raised PR to add the recent update related to fixing list api for preset. So moved that to the plugin app as well<br>Next-<br>• Find new issues to work on from Tuesday"
+  },
+  {
+    "id": 1734435357398079,
+    "user_id": "U06L50QL1AQ",
+    "timestamp": "2024-12-17T06:05:57.398Z",
+    "text": "December 16<br>• Fixed some merge conflicts in plugin backend PR<br>• Tested out the whole frontend and backend for plugin again <br>Next- <br>• Find next issue to work on"
+  },
+  {
+    "id": 1734566798249009,
+    "user_id": "U06L50QL1AQ",
+    "timestamp": "2024-12-18T18:36:38.249Z",
+    "text": "18th December<br>Done<br>• Connected with Khavin for understanding about the boundary PRs.<br>• Started working on porting the boundary changes to camera plugin<br>Next-<br>• Finish up the boundary PR"
+  },
+  {
+    "id": 1734754755176839,
+    "user_id": "U06L50QL1AQ",
+    "timestamp": "2024-12-20T22:49:15.176Z",
+    "text": "19th December <br>Done <br>• Almost completed with porting of Boundary LR to camera plugin, just need to test things out.<br>Next - <br>• Traveling back home, won&#x27;t be active"
+  },
+  {
+    "id": 1734754773271099,
+    "user_id": "U06L50QL1AQ",
+    "timestamp": "2024-12-20T22:49:33.271Z",
+    "text": "20th December <br>Done-<br>• No updates"
+  },
+  {
+    "id": 1734838165390109,
+    "user_id": "U06L50QL1AQ",
+    "timestamp": "2024-12-21T21:59:25.390Z",
+    "text": "21 December <br>• Continued working on boundary PR for camera plugin <br>Next<br>• Get this done by tonight"
+  },
+  {
+    "id": 1735031683662699,
+    "user_id": "U06L50QL1AQ",
+    "timestamp": "2024-12-24T03:44:43.662Z",
+    "text": "December 23<br>• No updates/ on leave ( sick due to food poisoning from the past 2 days )"
+  },
+  {
+    "id": 1735415982300249,
+    "user_id": "U06L50QL1AQ",
+    "timestamp": "2024-12-28T14:29:42.300Z",
+    "text": "24 - 27 Dec<br>• Was on leave due to health issues.<br>28 Dec 2024<br>Done<br>• Raised <a href=\"https://github.com/ohcnetwork/care_camera_asset/pull/5\">https://github.com/ohcnetwork/care_camera_asset/pull/5</a> and <a href=\"https://github.com/ohcnetwork/care/pull/2689\">https://github.com/ohcnetwork/care/pull/2689</a> for migrating the boundary PR from core app to plugin<br>• Fixed migration for camera plugin PR <br>Next<br>• Finish up my pending works and cover up for the leaves"
+  },
+  {
+    "id": 1735506487426299,
+    "user_id": "U06L50QL1AQ",
+    "timestamp": "2024-12-29T15:38:07.426Z",
+    "text": "29 Dec 2024<br>Done -<br>• Updated privacy consultation bed and usage manager PR from core care to plugin - <a href=\"https://github.com/ohcnetwork/care/pull/2691\">https://github.com/ohcnetwork/care/pull/2691</a> and  <a href=\"https://github.com/ohcnetwork/care_camera_asset/pull/6\">https://github.com/ohcnetwork/care_camera_asset/pull/6</a><br>• Fixed image link in ohc github organisation page <br>Next -<br>• making requested changes in prior PRs"
+  },
+  {
+    "id": 1735588663450129,
+    "user_id": "U06L50QL1AQ",
+    "timestamp": "2024-12-30T14:27:43.450Z",
+    "text": "30th December <br>Done <br>• Picked up <a href=\"https://github.com/ohcnetwork/care/issues/664\"><a href=\"https://github.com/ohcnetwork/care/issues/664\">https://github.com/ohcnetwork/care/issues/664</a></a> , planned out the approach and started working on it.<br>Next <br>• Complete the above issue"
+  },
+  {
+    "id": 1735797635791119,
+    "user_id": "U06L50QL1AQ",
+    "timestamp": "2025-01-02T00:30:35.791Z",
+    "text": "December 31 and 1st<br>• worked on - <a href=\"https://github.com/ohcnetwork/care/issues/664\">https://github.com/ohcnetwork/care/issues/664</a>. <br>• In the middle of integrating configurable sms with the core care<br>Next-<br>• Finish up the above integration and find another issue to work on"
+  },
+  {
+    "id": 1735884348821499,
+    "user_id": "U06L50QL1AQ",
+    "timestamp": "2025-01-03T00:35:48.821Z",
+    "text": "2nd Jan<br>• raised Pr for configurable sms<br>Next-<br>• Address the comments on the sms PR<br>• Pick up , next task"
+  },
+  {
+    "id": 1735989123407309,
+    "user_id": "U06L50QL1AQ",
+    "timestamp": "2025-01-04T05:42:03.407Z",
+    "text": "3rd Jan 2024<br>• Fixed my sms PR as per the comments<br>• Synced with Yaswanth regarding the MFA issue.<br>Next<br>• raise a PR for - <a href=\"https://github.com/ohcnetwork/care/issues/2699\">https://github.com/ohcnetwork/care/issues/2699</a><br>• Go through the EMR implementation docs.<br>• Understand the new pydantic way of handling things in Django (never saw pydantic used with django like this , so learning something new :marioluigidancing: )"
+  },
+  {
+    "id": 1736077581000439,
+    "user_id": "U06L50QL1AQ",
+    "timestamp": "2025-01-05T06:16:21.000Z",
+    "text": "4th Jan<br>Done - <br>• Raised a PR for and got it merged <a href=\"https://github.com/ohcnetwork/care/issues/2699\"><a href=\"https://github.com/ohcnetwork/care/issues/2699\">https://github.com/ohcnetwork/care/issues/2699</a></a> <br>Next- <br>• Going through the emr implementation docs and understanding role based authentication"
+  },
+  {
+    "id": 1736289355542869,
+    "user_id": "U06L50QL1AQ",
+    "timestamp": "2025-01-07T17:05:55.542Z",
+    "text": "6 and 7 January <br>• Went through the new backend code, tried understanding how stuff is happening. ( Pretty cool but complicated <span class=\"s-emoji\">😂</span>)<br>• Started working on writing some test cases.<br>• Updated Patient&#x27;s gender field to increase it&#x27;s max length.<br>Next-<br>• More code reading, completing testcases. Maybe start out on MFA related work"
+  },
+  {
+    "id": 1736406084437269,
+    "user_id": "U06L50QL1AQ",
+    "timestamp": "2025-01-09T01:31:24.437Z",
+    "text": "8 Jan<br>• Completing test cases for symptoms endpoint. <br>• Fixing few bugs while creating tests and understanding the working <br>9 Jan<br>• Complete test for Symptoms endpoint and get started with diagnosis viewset"
+  },
+  {
+    "id": 1736504803584459,
+    "user_id": "U06L50QL1AQ",
+    "timestamp": "2025-01-10T04:56:43.584Z",
+    "text": "9 Jan<br>• Raised PR for fixed permission issue bug in symptom and diagnosis.<br>• Completed with the testcases , just stuck with one bug which I&#x27;m trying to solve.<br>Next -<br>• Fix the bug with testcases and raise  the PR for review<br>• Go through questionnaire api and understand it&#x27;s flow"
+  },
+  {
+    "id": 1736599757454309,
+    "user_id": "U06L50QL1AQ",
+    "timestamp": "2025-01-11T07:19:17.454Z",
+    "text": "10th Jan<br>• resolved bugs and reviews on symptom test Pr and got that merged.<br>Next -<br>• Complete Diagnosis viewset test"
+  },
+  {
+    "id": 1736608689039769,
+    "user_id": "U06L50QL1AQ",
+    "timestamp": "2025-01-11T09:48:09.039Z",
+    "text": "11th Jan<br>• Completed test cases for Diagnosis viewset<br>Next<br>• Go through the questionnaire bits and start with it&#x27;s test cases"
+  },
+  {
+    "id": 1736792745308549,
+    "user_id": "U06L50QL1AQ",
+    "timestamp": "2025-01-13T12:55:45.308Z",
+    "text": "Jan 13th<br>• Raised PR resolving Phone Number validations<br>• Started out with questionnaire testings<br>Next<br>• Work more on questionnaire tests"
+  },
+  {
+    "id": 1736919880023979,
+    "user_id": "U06L50QL1AQ",
+    "timestamp": "2025-01-15T00:14:40.023Z",
+    "text": "14th Jan<br>• Not a productive day. Going through validation and permission for questionnaire viewset.<br>Next-<br>• complete testing for atleast a few endpoints"
+  },
+  {
+    "id": 1737134845120719,
+    "user_id": "U06L50QL1AQ",
+    "timestamp": "2025-01-17T11:57:25.120Z",
+    "text": "15th 16th and 17th Jan<br>• Went through the questionnaire viewsets and validations<br>• Completed the test cases for questionnaire viewset and value validations while submitting<br>Next -<br>• Go through the swagger documentation and learn how it work with drf"
+  },
+  {
+    "id": 1737428348135009,
+    "user_id": "U06L50QL1AQ",
+    "timestamp": "2025-01-20T21:29:08.135Z",
+    "text": "20 Jan 2025<br>• Going through swagger code and understanding how it works with drf<br>• Added few more tests to increase the coverage for the quesionnaire viewset<br>Next<br>• Read more code and find way to integrate swagger in backend"
+  },
+  {
+    "id": 1737757288610619,
+    "user_id": "U06L50QL1AQ",
+    "timestamp": "2025-01-24T16:51:28.610Z",
+    "text": "21-24 Jan<br>• Updated some testcases for questionnaire to increase coverage, and got it merged.<br>• Quick fix for making date and datetime check less strict on questionnaire submit page , updated related testcases<br>• Raised PR for adding swagger support to backend, got some reviews on it so working on those and figuring out the the bugs and trying to fix them in optimal way"
+  },
+  {
+    "id": 1738056895993179,
+    "user_id": "U06L50QL1AQ",
+    "timestamp": "2025-01-28T04:04:55.993Z",
+    "text": "27 Jan<br>• Fixed bugs with schema tags<br>• Investigated the db call bug while schema generation and implemented the solution<br>Next <br>• Go through fhir docs"
+  },
+  {
+    "id": 1738361629133809,
+    "user_id": "U06L50QL1AQ",
+    "timestamp": "2025-01-31T16:43:49.133Z",
+    "text": "28-30 Jan<br>• Worked on completing swagger, tried multiple approach, got lot of bugs, resolved those, implemented caching, investigated inefficiencies and alot of drf-spectacular code/docs reading <span class=\"s-emoji\">🙂</span><br>• Reading FHIR docs for quantity and some other specs to familiarizing myself with docs and understanding how to read them :melting_face: . <br>31 Jan<br>• Going through the location viewset, starting out with some testcases.<br>Next -<br>• Complete the location viewset testing with 90+ coverage"
+  },
+  {
+    "id": 1739050721332049,
+    "user_id": "U06L50QL1AQ",
+    "timestamp": "2025-02-08T16:08:41.332Z",
+    "text": "3-7th Feb<br>• Completed Test cases for Location Viewset (got 92% coverage)<br>• It wasn&#x27;t the most productive week since I was mostly sick.<br>Next -<br>• Pick up new issue"
+  },
+  {
+    "id": 1739566677425969,
+    "user_id": "U06L50QL1AQ",
+    "timestamp": "2025-02-14T15:27:57.425Z",
+    "text": "10-14 Feb<br>• written some authz for device apis<br>• written testcases for device api<br>• Going through consent module in fhir and writing some docs for it<br>Next<br>• complete consent doc, get it reviewed and start implementing it"
+  },
+  {
+    "id": 1739722549726879,
+    "user_id": "U06L50QL1AQ",
+    "timestamp": "2025-02-16T10:45:49.726Z",
+    "text": "Feb 15<br>• Completed testcases for devices for 100% coverage.<br>Next-<br>• Working on consent module"
+  },
+  {
+    "id": 1740429567491909,
+    "user_id": "U06L50QL1AQ",
+    "timestamp": "2025-02-24T15:09:27.491Z",
+    "text": "17 - 21 Feb 2025<br>Done<br>• created Consent specs,viewset,routes etc <br>• Wrote test for consent module<br>25 Feb 2025<br>• Fixed minor bugs <br>• Added few improvements<br>• Reviewed MFA PR<br>Next<br>• <span class=\"s-emoji\">🙂</span> some task related to questionnaire"
+  },
+  {
+    "id": 1741070133150739,
+    "user_id": "U06L50QL1AQ",
+    "timestamp": "2025-03-04T01:05:33.150Z",
+    "text": "26th Feb - 3rd March<br>• Added component feature to questionnaires<br>• Fixed bug in consent create spec<br>• marking encounter location as completed when encounter is closed and a bug with associate encounter location<br>• some reviews and minor bugs fix<br>Next -<br>• investigate audit logs and check their funcationalities<br>• update discharge summary as per treatment summary"
+  },
+  {
+    "id": 1747080159620289,
+    "user_id": "U06L50QL1AQ",
+    "timestamp": "2025-05-12T14:32:39.620Z",
+    "text": "12 May <br>• Completed RBAC apis<br>• Solved some bug with api on the template PR<br>Next <br>• Get started on the next sprint issue<br>• Resolve a bug on template api"
+  },
+  {
+    "id": 1747693413048249,
+    "user_id": "U06L50QL1AQ",
+    "timestamp": "2025-05-19T16:53:33.048Z",
+    "text": "May 19<br>• Weekly call<br>• Trying to figure out why test in scheduling is failing ( <span class=\"s-emoji\">🙂</span> 90% sure that it&#x27;s due to different ways we are using timezone/datetime , IST in apis and UTC in test )<br>Next -<br>• Raised MR for the fix for test<br>• Separate out permissions for rescheduling"
+  },
+  {
+    "id": 1747782361734059,
+    "user_id": "U06L50QL1AQ",
+    "timestamp": "2025-05-20T17:36:01.734Z",
+    "text": "May 20 <br>• Raised MR for the bug fix in scheduling api tests<br>• Fixed permissions on template viewset<br>• Almost done with rescheduling permission <br>Next - <br>• Complete testing for new made permission <br>• Make a list of apis/resources where testing is pending"
+  },
+  {
+    "id": 1748239180036099,
+    "user_id": "U06L50QL1AQ",
+    "timestamp": "2025-05-26T00:29:40.036Z",
+    "text": "21 and 22 May<br>• survived 40 hours power cut , due to heavy heavy storm <span class=\"s-emoji\">🙂</span> <br> 23 May<br>• Completed creating and updating seprate permission for rescheduling <br>• Moved reports from FileUpload to their specific Report Model (created, specs,viewsets etc) , working almost similarly like Fileupload flows<br>Weekend<br>• Learning more about DBs"
+  },
+  {
+    "id": 1761624861316099,
+    "user_id": "U06L50QL1AQ",
+    "timestamp": "2025-10-27T22:44:21.316Z",
+    "text": "Oct 27 <br>• Add configurable limit for patient&#x27;s name in specs - <a href=\"https://github.com/ohcnetwork/care/pull/3321\"><a href=\"https://github.com/ohcnetwork/care/pull/3321\">https://github.com/ohcnetwork/care/pull/3321</a></a><br>• Fix ordering issue in set_care_members - <a href=\"https://github.com/ohcnetwork/care/pull/3320\"><a href=\"https://github.com/ohcnetwork/care/pull/3320\">https://github.com/ohcnetwork/care/pull/3320</a></a><br>Next - <br>• Finish up docs and initial implementation for reports"
+  },
+  {
+    "id": 1761720627336269,
+    "user_id": "U06L50QL1AQ",
+    "timestamp": "2025-10-29T01:20:27.336Z",
+    "text": "28th October<br>• Working on finishing reports , but facing some issues with implementation<br>Next<br>• Finish up the report issue and get it into a working stage"
+  },
+  {
+    "id": 1761887679324569,
+    "user_id": "U06L50QL1AQ",
+    "timestamp": "2025-10-30T23:44:39.324Z",
+    "text": "Oct 29 and 30<br>• Got the initial report structure up as a PR (still need some changes but 80% done)<br>• Fixed <a href=\"https://github.com/ohcnetwork/care/pull/3321\">PR</a> to address review comments<br>Next<br>• Complete the authz for viewsets<br>• create registries for generator"
+  },
+  {
+    "id": 1762150442134469,
+    "user_id": "U06L50QL1AQ",
+    "timestamp": "2025-11-03T00:44:02.134Z",
+    "text": "Oct 31<br>• Updated my existing PRs according to reviews <br>• Got reports Pr apis to a usable state, still left with some spec validations<br>• some reviews on open PRs<br>Next-<br>• Update report doc on notion <br>• finish up with all the validations for report specs"
+  },
+  {
+    "id": 1762331375462049,
+    "user_id": "U06L50QL1AQ",
+    "timestamp": "2025-11-05T02:59:35.462Z",
+    "text": "4 Nov<br>• Finally done with report PR, all apis working<br>• Reviewing pending PRs<br>Next<br>• Get the report Pr reviewed<br>• more reviews"
+  },
+  {
+    "id": 1762410892133429,
+    "user_id": "U06L50QL1AQ",
+    "timestamp": "2025-11-06T01:04:52.133Z",
+    "text": "Nov 5<br>• Reviewed some PRs<br>• minor fixes for reports endpoint<br>• Connected with nandkishor and asked him to test reports apis"
+  },
+  {
+    "id": 1762501436207329,
+    "user_id": "U06L50QL1AQ",
+    "timestamp": "2025-11-07T02:13:56.207Z",
+    "text": "Nov 6<br>• Raised a PR for fixing some bugs in interpretation evaluator<br>• Connected with nandkishor and jeevan for discussing some changes in their PR and some improvements"
+  },
+  {
+    "id": 1762754995871219,
+    "user_id": "U06L50QL1AQ",
+    "timestamp": "2025-11-10T00:39:55.871Z",
+    "text": "Nov 7<br>• Reviews on pending changes<br>• Huddle with Nandkishor<br>• fixing slugs issues on reports PR"
+  },
+  {
+    "id": 1762850425180529,
+    "user_id": "U06L50QL1AQ",
+    "timestamp": "2025-11-11T03:10:25.180Z",
+    "text": "Nov 10<br>• Huddle with Vignesh <br>• Got reports PR reviewed and noted down the changes required<br>Next -<br>• Update reports PR according to the review"
+  },
+  {
+    "id": 1762932739235229,
+    "user_id": "U06L50QL1AQ",
+    "timestamp": "2025-11-12T02:02:19.235Z",
+    "text": "Nov 11<br>• Worked on the fixing reviews for existing PR <br>Next<br>• Will be on leaves till 17th (Monday)"
+  }
+]

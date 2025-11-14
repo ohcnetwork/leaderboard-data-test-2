@@ -1,0 +1,164 @@
+[
+  {
+    "id": 1740487218952439,
+    "user_id": "U0847CWJ941",
+    "timestamp": "2025-02-25T07:10:18.952Z",
+    "text": "24 Feb 2025<br>• Complete few modules of Django for all course <br>• Worked on the assigned issue (related to questionare page) and there were few reviews, so resolved that<br>Next<br>• There was another issue related to overlapping of scrollbar so worked on that.<br>• Looking for new issues/tasks"
+  },
+  {
+    "id": 1740547323513259,
+    "user_id": "U0847CWJ941",
+    "timestamp": "2025-02-25T23:52:03.513Z",
+    "text": "25 Feb 2025<br>Done<br>• Watched some tutorials of React<br>• Fixed the Overapping of horizontal scrollbar with tabbar raised the PR for the same.<br>Next<br>• Planning to raise an issue related to Ref Forwarding Error<br>• Looking for new issues"
+  },
+  {
+    "id": 1740710310449889,
+    "user_id": "U0847CWJ941",
+    "timestamp": "2025-02-27T21:08:30.449Z",
+    "text": "26 February &amp;amp; 27 February <br>Done <br>• Raised an issue regarding react error when a user tries to edit profile.<br>• So I tried to figure out but still I couldn&#x27;t find a solution.<br>Next<br>• Complete the assigned issue as soon as possible.<br>• Look for new issues."
+  },
+  {
+    "id": 1740918451281289,
+    "user_id": "U0847CWJ941",
+    "timestamp": "2025-03-02T06:57:31.281Z",
+    "text": "28 Feb and Mar 1<br>• Couldn&#x27;t work due to a hackathon conducted in college."
+  },
+  {
+    "id": 1741074125800439,
+    "user_id": "U0847CWJ941",
+    "timestamp": "2025-03-04T02:12:05.800Z",
+    "text": "March 3<br>Work Done: <br>• Solved the &quot;functional ref not found&quot; error. This was resolved by ensuring that the referenced function was properly initialized and accessible within the component and raised PR for the same.<br>• Raised another issue related to Console error while adding schedule exception<br>Next:<br>• Solve the assigned issue (console error while adding schedule exception)"
+  },
+  {
+    "id": 1741159963255709,
+    "user_id": "U0847CWJ941",
+    "timestamp": "2025-03-05T02:02:43.255Z",
+    "text": "4 March 2025<br>• Tried to solve the issue related to adding schedule exception but couldn&#x27;t solve.<br>• Also got some Reviews in the last pr to find more places where there is form control error."
+  },
+  {
+    "id": 1741197114289449,
+    "user_id": "U0847CWJ941",
+    "timestamp": "2025-03-05T12:21:54.289Z",
+    "text": "March 5<br><br>Work Done:<br>• Fixed the controller problem in add exception page by adding default values yo start time and end time  raised draft PR. There are similar issues in another pages also so need to find and make changes.<br>• Issue related to functional refs not found, was noticed in Add Patient and Add schedule.<br>• Got Assigned to the issue related to Mobile responsiveness in Encounter and Patient Detail Page<br>Next:<br>• Fix the mobile responsiveness in Encounter Page."
+  },
+  {
+    "id": 1741442170694049,
+    "user_id": "U0847CWJ941",
+    "timestamp": "2025-03-08T08:26:10.694Z",
+    "text": "March 6th &amp; 7th:<br>Done:<br>• Fixed function ref not found error in Add Patient, need tol fix in other pages, Was not able to much due to college programs."
+  },
+  {
+    "id": 1741462858824179,
+    "user_id": "U0847CWJ941",
+    "timestamp": "2025-03-08T14:10:58.824Z",
+    "text": "8th March 2025<br><br>Done:<br>• Fixed some errors in Patient Registration Form. Errors where functional refs not found, Controller errors and also there where some issues with default values for some fields.<br>Planned: <br>- Fix these errors in other pages also(Facility,Location)."
+  },
+  {
+    "id": 1741725085308919,
+    "user_id": "U0847CWJ941",
+    "timestamp": "2025-03-11T15:01:25.308Z",
+    "text": "10,11 March<br>• Fixed validateDOMNesting(...) error by replacing &lt;p&gt; with &lt;div&gt; and converting HtmlparagraphElement to HtmlDivElement.<br>• Used React.forwardRef() for ForwardedSelect instead of Select to handle refs properly.<br>• Converted controlled inputs to uncontrolled by setting default values in PatientRegistration.tsx.<br>• Got Assigned to two issues one related to loading in mobile view and other is add a scrollbar to facility features.<br>• Solved the loading issue by adding the scolling logic to AppRouter.tsx and raised the pr.<br>Planned:<br>• Add scrollbar to facility features dropdown."
+  },
+  {
+    "id": 1741804227842489,
+    "user_id": "U0847CWJ941",
+    "timestamp": "2025-03-12T13:00:27.842Z",
+    "text": "March 12<br><br>Done:<br>• Got assigned to issue related to loading of page in Mobilr View. Solved it by using by adding a logic to load in App router and raised the PR.<br>• Solved another issue realted to scrolling problem in the facility dropdown in add facility form and raised the PR. <br>• Fixed uncontroll to controll errors in facility by adding ddfault values and now i need to solve the same isssue in add device form.<br>Planned:<br>• Solve the errors in add device and give the PR for reviewing."
+  },
+  {
+    "id": 1741889021932929,
+    "user_id": "U0847CWJ941",
+    "timestamp": "2025-03-13T12:33:41.932Z",
+    "text": "12- 13th March<br>• Got assigned to issue related to loading of page in Mobilr View. Solved it by using by adding a logic to load in App router and raised the PR.<br>• Solved another issue realted to scrolling problem in the facility dropdown in add facility form and raised the PR.<br>• Fixed uncontroll to controll errors in facility by adding ddfault values and now i need to solve the same isssue in add device form.<br>Next<br>• Need to check if there are more fomrfiled errors if exists then solve them."
+  },
+  {
+    "id": 1742392897795489,
+    "user_id": "U0847CWJ941",
+    "timestamp": "2025-03-19T08:31:37.795Z",
+    "text": "March 17 &amp;amp; 18<br>Done:<br>• Tried to find another logic for scrolling problem in mobile view  but couldn&#x27;t find <br>• Raised another issue in location form react component key warning <br>• Solved the functional refs not found error in device form"
+  },
+  {
+    "id": 1742553484497529,
+    "user_id": "U0847CWJ941",
+    "timestamp": "2025-03-21T05:08:04.497Z",
+    "text": "March 19 &amp; 20:<br>• Fixed the scrolling nd laoding issue in mobile. Now it is fine it loads to the top and updated the pr<br>• Got assigned to the issue regarding key component missing react error.<br>• Tried to fix the above error but couldn&#x27;t fix it.<br>Next:<br>• Fix the assigned issue and raise the Pr"
+  },
+  {
+    "id": 1742588188389329,
+    "user_id": "U0847CWJ941",
+    "timestamp": "2025-03-21T14:46:28.389Z",
+    "text": "March 21:<br>• Fixed all Uncontolled to Controll erros , functions refs error, forward refs erros and updated the draft PR<br>• Ficxed the react component key warning for li component for location page<br>Next:<br>• Search for new issues and work on that ."
+  },
+  {
+    "id": 1742709825529379,
+    "user_id": "U0847CWJ941",
+    "timestamp": "2025-03-23T00:33:45.529Z",
+    "text": "March 22:<br>Done:<br>• Searched for some issues and found some conflicts in the last PR, so I resolved them.<br>Next:<br>• I will be on leave this week as my midsems are starting."
+  },
+  {
+    "id": 1743705782791969,
+    "user_id": "U0847CWJ941",
+    "timestamp": "2025-04-03T13:13:02.791Z",
+    "text": "3rd April 2025<br><br>Done:<br>• Opened an issue regarding mising details in request letter and found the way to solve. Waiting for it to assign.<br>• Opened another issue regarding cover photo upload error which is not that good.<br>Next<br>• Looking for new issues."
+  },
+  {
+    "id": 1743880151172919,
+    "user_id": "U0847CWJ941",
+    "timestamp": "2025-04-05T13:39:11.172Z",
+    "text": "April 4 and april 5<br>• Tried to find issues but didn&#x27;t get any...<br>Next<br>• Search for issues if anything is there please assign me ."
+  },
+  {
+    "id": 1744177601103789,
+    "user_id": "U0847CWJ941",
+    "timestamp": "2025-04-09T00:16:41.103Z",
+    "text": "April 7 and 8<br>• Got assigned to a issue regarding scrolling issue while using pagination<br>• Working in the assigned issue, still trying to figure out the good solution to this problem.<br>Next:<br>• Will fix this issue today itself."
+  },
+  {
+    "id": 1744350387167769,
+    "user_id": "U0847CWJ941",
+    "timestamp": "2025-04-11T00:16:27.167Z",
+    "text": "April 9 and 10<br><br>• Fixed the scrolling issue by updating the scrolling logic in pagination itself<br>• Raised the PR for the same<br>Next<br>• Looking for new issues."
+  },
+  {
+    "id": 1744943928350009,
+    "user_id": "U0847CWJ941",
+    "timestamp": "2025-04-17T21:08:48.350Z",
+    "text": "17 18 April <br>Done <br>• Completed the issue (comment box blocked by input area in notes tab)<br>• Got assigned to the issues in tele icu and working on that need to fix by end of day <br>Planned <br>• Complete all assigned issues by today."
+  },
+  {
+    "id": 1745304813158289,
+    "user_id": "U0847CWJ941",
+    "timestamp": "2025-04-22T01:23:33.158Z",
+    "text": "21 April<br>• Faced a error in setting up the tele_icu , so I was stuck in that.<br>• Also working the changes for the issue comment box blocked by buttons in notes tab."
+  },
+  {
+    "id": 1746207561062509,
+    "user_id": "U0847CWJ941",
+    "timestamp": "2025-05-02T12:09:21.062Z",
+    "text": "April 29 -May 2<br>Done<br>• Fixed the responsiveness issues in Encounter status tags by applying the correct tailwind classes.<br>• Got Assigned to the issue related the responsiveness in mobile view in the tele icu regarding the controls which is visble in the Stream as well as the bottom.<br>• Fixed the above assgined issue and raised the PR<br>• Raised another issue regarding responsiveness in some text near the web socket url and also device preview, if it got assigned i will work on that.<br>Next:<br>• Looking for new issues."
+  },
+  {
+    "id": 1747058551944109,
+    "user_id": "U0847CWJ941",
+    "timestamp": "2025-05-12T08:32:31.944Z",
+    "text": "May 10,11,12<br>• Worked on the issue related to the double scrollbar in edit medication page. It took some time to identify the issue. First i thought it was the issue with the main container but actually it was the issue with <code>sidebar</code> so i raised the issue in Shadcn repo and raised PR and waiting for it to merged.<br>• Got some comments in another Pr related to encounter tags and also add translations, so worked on that updated the PR"
+  },
+  {
+    "id": 1747371837083729,
+    "user_id": "U0847CWJ941",
+    "timestamp": "2025-05-15T23:33:57.083Z",
+    "text": "May 14 15<br>• <a href=\"https://github.com/ohcnetwork/care_fe/pull/12304\">PR- 12304</a> for fixing geo validation error in add patient screen got merged .<br>• <a href=\"https://github.com/ohcnetwork/care_teleicu_devices_fe/pull/58\">PR-58</a> for overflow of web socket url in devices screen also got merged<br>• There were some comments in PR related to encounter tags issue to add the constants related to classes status in <code>Encounter.ts</code> , so made changes and updated the PR<br>Next:<br>• Looking for new issues."
+  },
+  {
+    "id": 1748249208965049,
+    "user_id": "U0847CWJ941",
+    "timestamp": "2025-05-26T03:16:48.965Z",
+    "text": "May 21 22 23<br>• Fixed the issue (overiding of some text )related to downloading appointment card , raised the pr and it got merged.<br>• Raised the pr for another issue reagrding the alignment and padding issues in drawing tab for the input area and save button <br>• Got some reviews so need to fix it <br>Next<br>• Will make the changes and update the pr after recovering from cold <span class=\"s-emoji\">🤒</span>"
+  },
+  {
+    "id": 1753858467688809,
+    "user_id": "U0847CWJ941",
+    "timestamp": "2025-07-30T01:24:27.688Z",
+    "text": "Jul 16 - 30<br>• Many days i was ill due to food poisoning and couldn&#x27;t work. Sorry to inform. <br>• Raised two issues regarding responsiveness <a href=\"https://github.com/ohcnetwork/care_fe/issues/13019\">#1</a> &amp;amp; <a href=\"https://github.com/ohcnetwork/care_fe/issues/13019\">#2</a> out of which one (#1) i made pr got  merged and other was closed<br>• I got assigned to another issue <a href=\"https://github.com/ohcnetwork/care_fe/issues/13051\">#4</a> which i raised a pr and waiting for review<br>• Raised another issue waiting for assignment<br><br>Next<br>• Find more issues and work on those."
+  }
+]
