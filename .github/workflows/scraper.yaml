@@ -1,0 +1,141 @@
+name: Scraper
+
+on:
+  workflow_dispatch:
+    inputs:
+      days:
+        type: number
+        description: The number of days to scrape
+        default: 1
+
+concurrency:
+  group: scheduled-scraper-${{ github.workflow}}-${{github.ref}}
+  cancel-in-progress: true
+
+jobs:
+  scrape-data:
+    name: Scrape data
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    env:
+      DB_DATA_PATH: ${{ github.workspace}}/pglite-db
+      FLAT_DB_PATH: ${{ github.workspace}}/leaderboard-data
+
+      LEADERBOARD_PATH: ${{ github.workspace}}/leaderboard
+      LEADERBOARD_DATA_PATH: ${{ github.workspace}}/leaderboard-data
+      SCRAPER_PATH: ${{ github.workspace}}/leaderboard-slack-scraper ${{github.workspace}}/leaderboard-github-scraper
+
+      SCRAPE_DAYS: ${{ inputs.days }}
+
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      GITHUB_ORG: ${{ github.repository_owner }}
+
+      SLACK_API_TOKEN: ${{ secrets.SLACK_API_TOKEN }}
+      SLACK_CHANNEL: ${{ vars.SLACK_CHANNEL }}
+
+    steps:
+      - name: Checkout leaderboard
+        uses: actions/checkout@v5
+        with:
+          repository: ohcnetwork/leaderboard
+          path: ${{ env.LEADERBOARD_PATH }}
+          fetch-depth: 1
+
+      - name: Checkout leaderboard-slack-scraper
+        uses: actions/checkout@v5
+        with:
+          repository: ohcnetwork/leaderboard-slack-scraper
+          path: ${{ github.workspace }}/leaderboard-slack-scraper
+          fetch-depth: 1
+
+      - name: Checkout leaderboard-github-scraper
+        uses: actions/checkout@v5
+        with:
+          repository: ohcnetwork/leaderboard-github-scraper
+          path: ${{ github.workspace }}/leaderboard-github-scraper
+          fetch-depth: 1
+
+      - name: Checkout leaderboard-data
+        uses: actions/checkout@v5
+        with:
+          path: ${{ env.LEADERBOARD_DATA_PATH}}
+          fetch-depth: 1
+          persist-credentials: true
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v5
+        with:
+          node-version: "24"
+          cache: "pnpm"
+          cache-dependency-path: |
+            ${{ env.LEADERBOARD_PATH}}/pnpm-lock.yaml
+            ${{ github.workspace }}/leaderboard-github-scraper/pnpm-lock.yaml
+            ${{ github.workspace }}/leaderboard-slack-scraper/pnpm-lock.yaml
+
+      - name: Setup pnpm
+        uses: actions/setup-pnpm@v5
+        with:
+          version: 10
+          run_install: false
+
+      - name: Install dependencies
+        run: |
+          for repo in ${{ env.SCRAPER_PATH }} ${{ env.LEADERBOARD_PATH }}; do
+            cd $repo
+            pnpm install
+            echo "Installed dependencies for $repo"
+          done
+
+      - name: Setup DB
+        run: |
+          for repo in ${{ env.LEADERBOARD_PATH }} ${{ env.SCRAPER_PATH }}; do
+            cd $repo
+            pnpm db:prepare
+            echo "Setup DB for $repo"
+          done
+
+      - name: Import data from flat data into DB
+        run: |
+          for repo in ${{ env.LEADERBOARD_PATH }} ${{ env.SCRAPER_PATH }}; do
+            cd $repo
+            pnpm db:import
+            echo "Imported data from flat data into DB for $repo"
+          done
+
+      - name: Scrape data
+        run: |
+          for repo in ${{ env.SCRAPER_PATH }}; do
+            cd $repo
+            pnpm db:scrape
+            echo "Scraped data for $repo"
+          done
+
+      - name: Export data from DB to flat data
+        run: |
+          for repo in ${{ env.LEADERBOARD_PATH }} ${{ env.SCRAPER_PATH }}; do
+            cd $repo
+            pnpm db:export
+            echo "Exported data from DB to flat data for $repo"
+          done
+
+      - name: Setup Git Identity
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Commit changes and push to leaderboard data
+        run: |
+          cd ${{ env.LEADERBOARD_DATA_PATH }}
+          git add -A
+
+          # commit only if there are actual changes
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+
+          git commit -m "Update leaderboard data"
+
+          # Ensure pushing to the correct branch (default = main)
+          git push origin HEAD:main
