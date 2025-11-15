@@ -1,0 +1,8 @@
+[
+  {
+    "id": 1763144100366,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-11-14T18:15:00.366Z",
+    "text": "nov 14<br>• multiple <a href=\"https://github.com/ohcnetwork/care_fe/pull/14326/commits\">attempts</a> to fix build fail issue due to lock file <br>• worked on <a href=\"https://github.com/ohcnetwork/care_fe/issues/14343\">issue</a><br>• shared rough <a href=\"https://github.com/ohcnetwork/care_fe/issues/14340#issuecomment-3531809242\">plan</a> for implementing the playwright <a href=\"https://github.com/ohcnetwork/care_fe/issues/14340\">test</a><br>• daily eod call <br>• Made PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/14348\">Fix: Medication name not being display in treatment summary</a>"
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "slug": "issue_assigned_care_fe#14351_praffq",
+    "contributor": "praffq",
+    "activity_definition": "issue_assigned",
+    "title": "Issue #14351 assigned",
+    "occured_at": "2025-11-14T17:01:56.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/14351",
+    "text": "Discharge Summary",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "issue_assigned_care_fe#14107_praffq",
+    "contributor": "praffq",
+    "activity_definition": "issue_assigned",
+    "title": "Issue #14107 assigned",
+    "occured_at": "2025-10-27T04:22:46.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/14107",
+    "text": "Truncate large usernames in patients search and other pages",
+    "points": null,
+    "meta": {}
+  }
+]

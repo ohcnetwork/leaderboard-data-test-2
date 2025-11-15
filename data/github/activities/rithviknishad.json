@@ -1,0 +1,200 @@
+[
+  {
+    "slug": "commit_created_main_78e05aa0bda24631b55691f25db4ef07d965eaac",
+    "contributor": "rithviknishad",
+    "activity_definition": "commit_created",
+    "title": "Pushed commit to main",
+    "occured_at": "2025-11-14T12:28:45.000Z",
+    "link": "https://github.com/ohcnetwork/leaderboard-data-test/commit/78e05aa0bda24631b55691f25db4ef07d965eaac",
+    "text": "cleanup accident, fix missing db path",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "commit_created_main_2e2719dd34c2020cb55d05bcd11c063a9f637583",
+    "contributor": "rithviknishad",
+    "activity_definition": "commit_created",
+    "title": "Pushed commit to main",
+    "occured_at": "2025-11-14T12:24:21.000Z",
+    "link": "https://github.com/ohcnetwork/leaderboard-data-test/commit/2e2719dd34c2020cb55d05bcd11c063a9f637583",
+    "text": "add build and deploy steps",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "pr_reviewed_care_fe#14326_COMMENTED_PRR_kwDODtfaXs7OiByW",
+    "contributor": "rithviknishad",
+    "activity_definition": "pr_reviewed",
+    "title": "Reviewed PR #14326",
+    "occured_at": "2025-11-14T13:46:59.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/14326#pullrequestreview-3465026710",
+    "text": "Script for cleaning locale files",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "pr_reviewed_care_fe#14082_APPROVED_PRR_kwDODtfaXs7J9k1K",
+    "contributor": "rithviknishad",
+    "activity_definition": "pr_reviewed",
+    "title": "Approved PR #14082",
+    "occured_at": "2025-10-28T11:52:19.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/14082#pullrequestreview-3388362058",
+    "text": "refactor: improve validation logic in `ActivityDefinitionForm`",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "pr_reviewed_care_fe#14015_APPROVED_PRR_kwDODtfaXs7KW_x_",
+    "contributor": "rithviknishad",
+    "activity_definition": "pr_reviewed",
+    "title": "Approved PR #14015",
+    "occured_at": "2025-10-29T17:52:30.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/14015#pullrequestreview-3395026047",
+    "text": "added tags in supply request orders",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "pr_reviewed_care_fe#14183_CHANGES_REQUESTED_PRR_kwDODtfaXs7KXMlv",
+    "contributor": "rithviknishad",
+    "activity_definition": "pr_reviewed",
+    "title": "Changes requested on PR #14183",
+    "occured_at": "2025-10-29T18:03:08.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/14183#pullrequestreview-3395078511",
+    "text": "fixed manage charges",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "pr_reviewed_care_fe#14183_COMMENTED_PRR_kwDODtfaXs7KhuO8",
+    "contributor": "rithviknishad",
+    "activity_definition": "pr_reviewed",
+    "title": "Reviewed PR #14183",
+    "occured_at": "2025-10-30T07:49:39.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/14183#pullrequestreview-3397837756",
+    "text": "fixed manage charges",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "pr_reviewed_care_fe#14183_APPROVED_PRR_kwDODtfaXs7NGSO0",
+    "contributor": "rithviknishad",
+    "activity_definition": "pr_reviewed",
+    "title": "Approved PR #14183",
+    "occured_at": "2025-11-10T05:50:45.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/14183#pullrequestreview-3440976820",
+    "text": "fixed manage charges",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "pr_reviewed_care_fe#14337_APPROVED_PRR_kwDODtfaXs7OcgZj",
+    "contributor": "rithviknishad",
+    "activity_definition": "pr_reviewed",
+    "title": "Approved PR #14337",
+    "occured_at": "2025-11-14T08:22:03.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/14337#pullrequestreview-3463579235",
+    "text": "Add loading state for stock in DispenseDrawer + Auto Lot select",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "commit_created_main_89c56cbd99e0a2a462b46154eaacd172fca3d904",
+    "contributor": "rithviknishad",
+    "activity_definition": "commit_created",
+    "title": "Pushed commit to main",
+    "occured_at": "2025-11-14T12:27:50.000Z",
+    "link": "https://github.com/ohcnetwork/leaderboard/commit/89c56cbd99e0a2a462b46154eaacd172fca3d904",
+    "text": "update generate workflow script to include pglite db path",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "commit_created_main_c9bd0c91e037c81457ebe97411d90081ee0a9c43",
+    "contributor": "rithviknishad",
+    "activity_definition": "commit_created",
+    "title": "Pushed commit to main",
+    "occured_at": "2025-11-14T12:21:42.000Z",
+    "link": "https://github.com/ohcnetwork/leaderboard/commit/c9bd0c91e037c81457ebe97411d90081ee0a9c43",
+    "text": "update env var names",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "commit_created_main_8e69ae83b85af046bcbce90436598114ad80e02e",
+    "contributor": "rithviknishad",
+    "activity_definition": "commit_created",
+    "title": "Pushed commit to main",
+    "occured_at": "2025-11-14T10:55:35.000Z",
+    "link": "https://github.com/ohcnetwork/leaderboard/commit/8e69ae83b85af046bcbce90436598114ad80e02e",
+    "text": "minor fix",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "commit_created_main_37475295d095c773bcae3673c17c19d318800a5a",
+    "contributor": "rithviknishad",
+    "activity_definition": "commit_created",
+    "title": "Pushed commit to main",
+    "occured_at": "2025-11-14T10:44:28.000Z",
+    "link": "https://github.com/ohcnetwork/leaderboard/commit/37475295d095c773bcae3673c17c19d318800a5a",
+    "text": "adds support for generating gh action workflow file for scrapers",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "commit_created_main_4551bc8162eba28b8b0611498a4a35bde13ffb08",
+    "contributor": "rithviknishad",
+    "activity_definition": "commit_created",
+    "title": "Pushed commit to main",
+    "occured_at": "2025-11-14T12:18:39.000Z",
+    "link": "https://github.com/ohcnetwork/leaderboard-scraper-template/commit/4551bc8162eba28b8b0611498a4a35bde13ffb08",
+    "text": "udpate env var names",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "commit_created_main_e4f874b613710478729b13ea19c898c8a8a2d41b",
+    "contributor": "rithviknishad",
+    "activity_definition": "commit_created",
+    "title": "Pushed commit to main",
+    "occured_at": "2025-11-14T12:18:53.000Z",
+    "link": "https://github.com/ohcnetwork/leaderboard-scraper-template/commit/e4f874b613710478729b13ea19c898c8a8a2d41b",
+    "text": "Merge branch 'main' of github.com:ohcnetwork/leaderboard-scraper-template",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "commit_created_main_21ca67b65c7134de518735b5aeb2a57a298e72c2",
+    "contributor": "rithviknishad",
+    "activity_definition": "commit_created",
+    "title": "Pushed commit to main",
+    "occured_at": "2025-11-14T12:18:11.000Z",
+    "link": "https://github.com/ohcnetwork/leaderboard-github-scraper/commit/21ca67b65c7134de518735b5aeb2a57a298e72c2",
+    "text": "udpate env var names",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "commit_created_main_ca40313732359653aac166cfddd0c72d89d34b5e",
+    "contributor": "rithviknishad",
+    "activity_definition": "commit_created",
+    "title": "Pushed commit to main",
+    "occured_at": "2025-11-14T12:18:00.000Z",
+    "link": "https://github.com/ohcnetwork/leaderboard-slack-scraper/commit/ca40313732359653aac166cfddd0c72d89d34b5e",
+    "text": "udpate env var names",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "commit_created_main_a081916edcc2b737aa838fd33906bf25e3d4feee",
+    "contributor": "rithviknishad",
+    "activity_definition": "commit_created",
+    "title": "Pushed commit to main",
+    "occured_at": "2025-11-14T10:34:39.000Z",
+    "link": "https://github.com/ohcnetwork/leaderboard-data.old/commit/a081916edcc2b737aa838fd33906bf25e3d4feee",
+    "text": "add migrate to v2 scripts",
+    "points": null,
+    "meta": {}
+  }
+]

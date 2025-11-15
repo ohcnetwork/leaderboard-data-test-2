@@ -1,0 +1,189 @@
+[
+  {
+    "slug": "issue_opened_care_fe#14215",
+    "contributor": "shivankacker",
+    "activity_definition": "issue_opened",
+    "title": "Opened issue #14215",
+    "occured_at": "2025-11-01T14:46:16.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/14215",
+    "text": "Unable to create new observation definition with 0 interpretations; No error messages",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "issue_opened_care_fe#14356",
+    "contributor": "shivankacker",
+    "activity_definition": "issue_opened",
+    "title": "Opened issue #14356",
+    "occured_at": "2025-11-14T17:18:13.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/14356",
+    "text": "Automatically switch to test DB when running playwright tests",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "issue_opened_care_fe#14287",
+    "contributor": "shivankacker",
+    "activity_definition": "issue_opened",
+    "title": "Opened issue #14287",
+    "occured_at": "2025-11-10T09:58:18.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/14287",
+    "text": "Remove \"scheduling\" option from Healthcare Services Form Internal Type Dropdown",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "issue_assigned_care_fe#14356_shivankacker",
+    "contributor": "shivankacker",
+    "activity_definition": "issue_assigned",
+    "title": "Issue #14356 assigned",
+    "occured_at": "2025-11-14T17:18:13.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/14356",
+    "text": "Automatically switch to test DB when running playwright tests",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "issue_assigned_care_fe#14287_shivankacker",
+    "contributor": "shivankacker",
+    "activity_definition": "issue_assigned",
+    "title": "Issue #14287 assigned",
+    "occured_at": "2025-11-10T09:58:18.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/14287",
+    "text": "Remove \"scheduling\" option from Healthcare Services Form Internal Type Dropdown",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "comment_created_care_fe#14257_IC_kwDODtfaXs7Sgfuy",
+    "contributor": "shivankacker",
+    "activity_definition": "comment_created",
+    "title": "Commented on #14257",
+    "occured_at": "2025-11-14T09:15:39.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/14257#issuecomment-3531733938",
+    "text": null,
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "pr_opened_care_fe#14171",
+    "contributor": "shivankacker",
+    "activity_definition": "pr_opened",
+    "title": "Opened pull request #14171",
+    "occured_at": "2025-10-29T06:35:18.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/14171",
+    "text": "Automatically switch to test DB when running playwright tests",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "pr_opened_care_fe#14260",
+    "contributor": "shivankacker",
+    "activity_definition": "pr_opened",
+    "title": "Opened pull request #14260",
+    "occured_at": "2025-11-05T22:21:38.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/14260",
+    "text": "Bug Fixes and Tests for healthcare services",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "pr_reviewed_care_fe#14260_COMMENTED_PRR_kwDODtfaXs7MIqy_",
+    "contributor": "shivankacker",
+    "activity_definition": "pr_reviewed",
+    "title": "Reviewed PR #14260",
+    "occured_at": "2025-11-05T22:45:29.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/14260#pullrequestreview-3424824511",
+    "text": "Bug Fixes and Tests for healthcare services",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "pr_reviewed_care_fe#14260_COMMENTED_PRR_kwDODtfaXs7MIu6J",
+    "contributor": "shivankacker",
+    "activity_definition": "pr_reviewed",
+    "title": "Reviewed PR #14260",
+    "occured_at": "2025-11-05T22:51:15.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/14260#pullrequestreview-3424841353",
+    "text": "Bug Fixes and Tests for healthcare services",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "pr_reviewed_care_fe#14260_COMMENTED_PRR_kwDODtfaXs7MIwWi",
+    "contributor": "shivankacker",
+    "activity_definition": "pr_reviewed",
+    "title": "Reviewed PR #14260",
+    "occured_at": "2025-11-05T22:52:37.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/14260#pullrequestreview-3424847266",
+    "text": "Bug Fixes and Tests for healthcare services",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "pr_reviewed_care_fe#14260_COMMENTED_PRR_kwDODtfaXs7NKr8B",
+    "contributor": "shivankacker",
+    "activity_definition": "pr_reviewed",
+    "title": "Reviewed PR #14260",
+    "occured_at": "2025-11-10T10:03:11.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/14260#pullrequestreview-3442130689",
+    "text": "Bug Fixes and Tests for healthcare services",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "pr_reviewed_care_fe#14260_COMMENTED_PRR_kwDODtfaXs7NKznp",
+    "contributor": "shivankacker",
+    "activity_definition": "pr_reviewed",
+    "title": "Reviewed PR #14260",
+    "occured_at": "2025-11-10T10:07:53.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/14260#pullrequestreview-3442162153",
+    "text": "Bug Fixes and Tests for healthcare services",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "pr_reviewed_care_fe#14260_COMMENTED_PRR_kwDODtfaXs7NLd97",
+    "contributor": "shivankacker",
+    "activity_definition": "pr_reviewed",
+    "title": "Reviewed PR #14260",
+    "occured_at": "2025-11-10T10:34:59.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/14260#pullrequestreview-3442335611",
+    "text": "Bug Fixes and Tests for healthcare services",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "pr_reviewed_care_fe#14260_COMMENTED_PRR_kwDODtfaXs7OeZrr",
+    "contributor": "shivankacker",
+    "activity_definition": "pr_reviewed",
+    "title": "Reviewed PR #14260",
+    "occured_at": "2025-11-14T09:57:57.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/14260#pullrequestreview-3464076011",
+    "text": "Bug Fixes and Tests for healthcare services",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "pr_reviewed_care_fe#14260_COMMENTED_PRR_kwDODtfaXs7OhGNz",
+    "contributor": "shivankacker",
+    "activity_definition": "pr_reviewed",
+    "title": "Reviewed PR #14260",
+    "occured_at": "2025-11-14T12:46:20.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/14260#pullrequestreview-3464782707",
+    "text": "Bug Fixes and Tests for healthcare services",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "pr_opened_care_fe#14257",
+    "contributor": "shivankacker",
+    "activity_definition": "pr_opened",
+    "title": "Opened pull request #14257",
+    "occured_at": "2025-11-05T21:28:31.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/14257",
+    "text": "Added test for Patient Identifier Config",
+    "points": null,
+    "meta": {}
+  }
+]

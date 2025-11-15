@@ -1,0 +1,200 @@
+[
+  {
+    "slug": "issue_assigned_care_fe#14346_Jacobjeevan",
+    "contributor": "Jacobjeevan",
+    "activity_definition": "issue_assigned",
+    "title": "Issue #14346 assigned",
+    "occured_at": "2025-11-14T21:07:40.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/14346",
+    "text": "In services: after payment, the back button leads to 'page not found' error",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "issue_assigned_care_fe#14215_Jacobjeevan",
+    "contributor": "Jacobjeevan",
+    "activity_definition": "issue_assigned",
+    "title": "Issue #14215 assigned",
+    "occured_at": "2025-11-01T15:34:48.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/14215",
+    "text": "Unable to create new observation definition with 0 interpretations; No error messages",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "issue_assigned_care_fe#14325_Jacobjeevan",
+    "contributor": "Jacobjeevan",
+    "activity_definition": "issue_assigned",
+    "title": "Issue #14325 assigned",
+    "occured_at": "2025-11-13T11:03:05.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/14325",
+    "text": "Patient tag not visible while Patient registration",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "comment_created_care_fe#14215_IC_kwDODtfaXs7SppSh",
+    "contributor": "Jacobjeevan",
+    "activity_definition": "comment_created",
+    "title": "Commented on #14215",
+    "occured_at": "2025-11-14T18:52:57.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/14215#issuecomment-3534132385",
+    "text": null,
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "comment_created_care_fe#14340_IC_kwDODtfaXs7Sfx7Q",
+    "contributor": "Jacobjeevan",
+    "activity_definition": "comment_created",
+    "title": "Commented on #14340",
+    "occured_at": "2025-11-14T08:24:27.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/14340#issuecomment-3531546320",
+    "text": null,
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "pr_opened_care_fe#14333",
+    "contributor": "Jacobjeevan",
+    "activity_definition": "pr_opened",
+    "title": "Opened pull request #14333",
+    "occured_at": "2025-11-14T05:09:07.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/14333",
+    "text": "Minor bug fixes: date filter translations, invoice url and more",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "pr_reviewed_care_fe#14213_CHANGES_REQUESTED_PRR_kwDODtfaXs7MkQkF",
+    "contributor": "Jacobjeevan",
+    "activity_definition": "pr_reviewed",
+    "title": "Changes requested on PR #14213",
+    "occured_at": "2025-11-07T07:29:57.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/14213#pullrequestreview-3432057093",
+    "text": "fix: Fixed print invoice layout and mobile view scaling",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "pr_opened_care_fe#14245",
+    "contributor": "Jacobjeevan",
+    "activity_definition": "pr_opened",
+    "title": "Opened pull request #14245",
+    "occured_at": "2025-11-05T06:30:07.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/14245",
+    "text": "Inventory redesign",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "pr_reviewed_care_fe#14245_COMMENTED_PRR_kwDODtfaXs7MSdJu",
+    "contributor": "Jacobjeevan",
+    "activity_definition": "pr_reviewed",
+    "title": "Reviewed PR #14245",
+    "occured_at": "2025-11-06T10:22:17.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/14245#pullrequestreview-3427390062",
+    "text": "Inventory redesign",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "pr_reviewed_care_fe#14299_CHANGES_REQUESTED_PRR_kwDODtfaXs7NzpWx",
+    "contributor": "Jacobjeevan",
+    "activity_definition": "pr_reviewed",
+    "title": "Changes requested on PR #14299",
+    "occured_at": "2025-11-12T10:59:12.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/14299#pullrequestreview-3452868017",
+    "text": "fix: Removed blank space on right side of notes tab",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "pr_reviewed_care_fe#14183_CHANGES_REQUESTED_PRR_kwDODtfaXs7Nz17L",
+    "contributor": "Jacobjeevan",
+    "activity_definition": "pr_reviewed",
+    "title": "Changes requested on PR #14183",
+    "occured_at": "2025-11-12T11:14:50.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/14183#pullrequestreview-3452919499",
+    "text": "fixed manage charges",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "pr_reviewed_care_fe#14183_COMMENTED_PRR_kwDODtfaXs7Nz4xy",
+    "contributor": "Jacobjeevan",
+    "activity_definition": "pr_reviewed",
+    "title": "Reviewed PR #14183",
+    "occured_at": "2025-11-12T11:16:47.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/14183#pullrequestreview-3452931186",
+    "text": "fixed manage charges",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "pr_opened_care_fe#13842",
+    "contributor": "Jacobjeevan",
+    "activity_definition": "pr_opened",
+    "title": "Opened pull request #13842",
+    "occured_at": "2025-09-25T06:28:50.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/13842",
+    "text": "observation interpretation: form integration/errors and styling",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "pr_reviewed_care_fe#14251_COMMENTED_PRR_kwDODtfaXs7OIZn-",
+    "contributor": "Jacobjeevan",
+    "activity_definition": "pr_reviewed",
+    "title": "Reviewed PR #14251",
+    "occured_at": "2025-11-13T08:22:05.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/14251#pullrequestreview-3458308606",
+    "text": "Fix popover overflow on mobile for charge item price breakdown",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "pr_reviewed_care_fe#14181_COMMENTED_PRR_kwDODtfaXs7KhWZh",
+    "contributor": "Jacobjeevan",
+    "activity_definition": "pr_reviewed",
+    "title": "Reviewed PR #14181",
+    "occured_at": "2025-10-30T07:15:15.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/14181#pullrequestreview-3397740129",
+    "text": "Add error border styling to RequirementsSelector in Healthcare Service form",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "pr_reviewed_care_fe#13925_CHANGES_REQUESTED_PRR_kwDODtfaXs7NjNF1",
+    "contributor": "Jacobjeevan",
+    "activity_definition": "pr_reviewed",
+    "title": "Changes requested on PR #13925",
+    "occured_at": "2025-11-11T15:32:11.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/13925#pullrequestreview-3448557941",
+    "text": "update other agent instruction files",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "pr_opened_care_fe#14341",
+    "contributor": "Jacobjeevan",
+    "activity_definition": "pr_opened",
+    "title": "Opened pull request #14341",
+    "occured_at": "2025-11-14T08:47:07.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/14341",
+    "text": "Refactor charge item definition picker to use resource definition picker",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "pr_opened_care#3358",
+    "contributor": "Jacobjeevan",
+    "activity_definition": "pr_opened",
+    "title": "Opened pull request #3358",
+    "occured_at": "2025-11-14T13:13:41.000Z",
+    "link": "https://github.com/ohcnetwork/care/pull/3358",
+    "text": "reset interpretation and reference range",
+    "points": null,
+    "meta": {}
+  }
+]

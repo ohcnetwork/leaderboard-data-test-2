@@ -1,0 +1,57 @@
+[
+  {
+    "slug": "issue_opened_care_fe#14039",
+    "contributor": "Denyme24",
+    "activity_definition": "issue_opened",
+    "title": "Opened issue #14039",
+    "occured_at": "2025-10-12T07:40:07.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/14039",
+    "text": "Custom Validation Messages Not Displayed in Create Activity Definition Form",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "issue_assigned_care_fe#14039_Denyme24",
+    "contributor": "Denyme24",
+    "activity_definition": "issue_assigned",
+    "title": "Issue #14039 assigned",
+    "occured_at": "2025-10-16T07:24:07.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/14039",
+    "text": "Custom Validation Messages Not Displayed in Create Activity Definition Form",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "pr_opened_care_fe#14082",
+    "contributor": "Denyme24",
+    "activity_definition": "pr_opened",
+    "title": "Opened pull request #14082",
+    "occured_at": "2025-10-18T07:42:47.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/14082",
+    "text": "refactor: improve validation logic in `ActivityDefinitionForm`",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "pr_reviewed_care_fe#14082_COMMENTED_PRR_kwDODtfaXs7H1std",
+    "contributor": "Denyme24",
+    "activity_definition": "pr_reviewed",
+    "title": "Reviewed PR #14082",
+    "occured_at": "2025-10-18T07:53:17.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/14082#pullrequestreview-3352742749",
+    "text": "refactor: improve validation logic in `ActivityDefinitionForm`",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "pr_reviewed_care_fe#14082_COMMENTED_PRR_kwDODtfaXs7H1swo",
+    "contributor": "Denyme24",
+    "activity_definition": "pr_reviewed",
+    "title": "Reviewed PR #14082",
+    "occured_at": "2025-10-18T07:53:54.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/14082#pullrequestreview-3352742952",
+    "text": "refactor: improve validation logic in `ActivityDefinitionForm`",
+    "points": null,
+    "meta": {}
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "slug": "pr_reviewed_care_fe#14087_APPROVED_PRR_kwDODtfaXs7KzxzK",
+    "contributor": "anaghathedesigner",
+    "activity_definition": "pr_reviewed",
+    "title": "Approved PR #14087",
+    "occured_at": "2025-10-31T04:40:59.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/14087#pullrequestreview-3402570954",
+    "text": "Fixed #13732: Fixed UI of Tags dropdown in Add Patient Details page",
+    "points": null,
+    "meta": {}
+  }
+]

@@ -1,0 +1,145 @@
+[
+  {
+    "slug": "commit_created_master_f5f27f5f294845981e9fa49013d20d9452aef361",
+    "contributor": "NikhilA8606",
+    "activity_definition": "commit_created",
+    "title": "Pushed commit to master",
+    "occured_at": "2025-11-15T06:03:29.000Z",
+    "link": "https://github.com/ohcnetwork/leaderboard-data-test-2/commit/f5f27f5f294845981e9fa49013d20d9452aef361",
+    "text": "testing",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "commit_created_master_c3df88dfecc6d38d5e6f7fb6e9be00e21a6de3f4",
+    "contributor": "NikhilA8606",
+    "activity_definition": "commit_created",
+    "title": "Pushed commit to master",
+    "occured_at": "2025-11-14T12:26:32.000Z",
+    "link": "https://github.com/ohcnetwork/leaderboard-data-test-2/commit/c3df88dfecc6d38d5e6f7fb6e9be00e21a6de3f4",
+    "text": "Renitialized repo",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "commit_created_master_cb824d55c8eb41f66093636031a215272bf167e8",
+    "contributor": "NikhilA8606",
+    "activity_definition": "commit_created",
+    "title": "Pushed commit to master",
+    "occured_at": "2025-11-14T12:24:12.000Z",
+    "link": "https://github.com/ohcnetwork/leaderboard-data-test-2/commit/cb824d55c8eb41f66093636031a215272bf167e8",
+    "text": "Renitialized repo",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "commit_created_master_113106027ca59dd11902dfc9cad8ef95cfba0715",
+    "contributor": "NikhilA8606",
+    "activity_definition": "commit_created",
+    "title": "Pushed commit to master",
+    "occured_at": "2025-11-14T11:34:44.000Z",
+    "link": "https://github.com/ohcnetwork/leaderboard-data-test-2/commit/113106027ca59dd11902dfc9cad8ef95cfba0715",
+    "text": "Added old data",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "commit_created_master_57855bc4f9f9f6cb5488b1fd7ca857c687c22f9f",
+    "contributor": "NikhilA8606",
+    "activity_definition": "commit_created",
+    "title": "Pushed commit to master",
+    "occured_at": "2025-11-14T09:33:41.000Z",
+    "link": "https://github.com/ohcnetwork/leaderboard-data-test-2/commit/57855bc4f9f9f6cb5488b1fd7ca857c687c22f9f",
+    "text": "correct the branch name",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "commit_created_master_9b8f7c76187278166664a66af5f68007873bf3ff",
+    "contributor": "NikhilA8606",
+    "activity_definition": "commit_created",
+    "title": "Pushed commit to master",
+    "occured_at": "2025-11-14T09:44:20.000Z",
+    "link": "https://github.com/ohcnetwork/leaderboard-data-test-2/commit/9b8f7c76187278166664a66af5f68007873bf3ff",
+    "text": "remove push code",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "commit_created_master_e7b3b40466a325e0171192805a0ee01473152913",
+    "contributor": "NikhilA8606",
+    "activity_definition": "commit_created",
+    "title": "Pushed commit to master",
+    "occured_at": "2025-11-14T09:21:27.000Z",
+    "link": "https://github.com/ohcnetwork/leaderboard-data-test-2/commit/e7b3b40466a325e0171192805a0ee01473152913",
+    "text": "made run test on push",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "commit_created_master_8ca40e79746ea2cdd1594e589adc74ae514eab1f",
+    "contributor": "NikhilA8606",
+    "activity_definition": "commit_created",
+    "title": "Pushed commit to master",
+    "occured_at": "2025-11-14T09:20:00.000Z",
+    "link": "https://github.com/ohcnetwork/leaderboard-data-test-2/commit/8ca40e79746ea2cdd1594e589adc74ae514eab1f",
+    "text": "correct the env variable name",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "commit_created_master_4865dd4643c914f7e551f9494a907744b2b352cc",
+    "contributor": "NikhilA8606",
+    "activity_definition": "commit_created",
+    "title": "Pushed commit to master",
+    "occured_at": "2025-11-14T09:17:35.000Z",
+    "link": "https://github.com/ohcnetwork/leaderboard-data-test-2/commit/4865dd4643c914f7e551f9494a907744b2b352cc",
+    "text": "minor pnpm fix",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "commit_created_master_7a1370cd2c6dd9955e73a61a35627266772bcad7",
+    "contributor": "NikhilA8606",
+    "activity_definition": "commit_created",
+    "title": "Pushed commit to master",
+    "occured_at": "2025-11-14T09:14:52.000Z",
+    "link": "https://github.com/ohcnetwork/leaderboard-data-test-2/commit/7a1370cd2c6dd9955e73a61a35627266772bcad7",
+    "text": "pnpm version change",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "issue_opened_care_fe#14318",
+    "contributor": "NikhilA8606",
+    "activity_definition": "issue_opened",
+    "title": "Opened issue #14318",
+    "occured_at": "2025-11-13T06:10:01.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/14318",
+    "text": "Appointment should mark as fullfilled when marking an Encounter as completed",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "issue_assigned_care_fe#14318_NikhilA8606",
+    "contributor": "NikhilA8606",
+    "activity_definition": "issue_assigned",
+    "title": "Issue #14318 assigned",
+    "occured_at": "2025-11-13T06:10:39.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/14318",
+    "text": "Appointment should mark as fullfilled when marking an Encounter as completed",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "pr_reviewed_care_fe#14087_CHANGES_REQUESTED_PRR_kwDODtfaXs7IOaD-",
+    "contributor": "NikhilA8606",
+    "activity_definition": "pr_reviewed",
+    "title": "Changes requested on PR #14087",
+    "occured_at": "2025-10-21T07:49:47.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/14087#pullrequestreview-3359219966",
+    "text": "Fixed #13732: Fixed UI of Tags dropdown in Add Patient Details page",
+    "points": null,
+    "meta": {}
+  }
+]

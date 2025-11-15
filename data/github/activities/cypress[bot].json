@@ -1,0 +1,79 @@
+[
+  {
+    "slug": "comment_created_care_fe#14349_IC_kwDODtfaXs7Slg0u",
+    "contributor": "cypress[bot]",
+    "activity_definition": "comment_created",
+    "title": "Commented on #14349",
+    "occured_at": "2025-11-14T14:26:37.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/14349#issuecomment-3533049134",
+    "text": null,
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "comment_created_care_fe#14260_IC_kwDODtfaXs7RQodU",
+    "contributor": "cypress[bot]",
+    "activity_definition": "comment_created",
+    "title": "Commented on #14260",
+    "occured_at": "2025-11-10T10:45:56.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/14260#issuecomment-3510798164",
+    "text": null,
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "comment_created_care_fe#14239_IC_kwDODtfaXs7Pycmy",
+    "contributor": "cypress[bot]",
+    "activity_definition": "comment_created",
+    "title": "Commented on #14239",
+    "occured_at": "2025-11-04T13:51:32.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/14239#issuecomment-3486108082",
+    "text": null,
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "comment_created_care_fe#14108_IC_kwDODtfaXs7OxVBg",
+    "contributor": "cypress[bot]",
+    "activity_definition": "comment_created",
+    "title": "Commented on #14108",
+    "occured_at": "2025-10-30T16:57:14.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/14108#issuecomment-3469037664",
+    "text": null,
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "comment_created_care_fe#14332_IC_kwDODtfaXs7SUDqf",
+    "contributor": "cypress[bot]",
+    "activity_definition": "comment_created",
+    "title": "Commented on #14332",
+    "occured_at": "2025-11-13T15:54:57.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/14332#issuecomment-3528473247",
+    "text": null,
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "comment_created_care_fe#14319_IC_kwDODtfaXs7SfKJ1",
+    "contributor": "cypress[bot]",
+    "activity_definition": "comment_created",
+    "title": "Commented on #14319",
+    "occured_at": "2025-11-14T07:47:43.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/14319#issuecomment-3531383413",
+    "text": null,
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "comment_created_care_fe#14337_IC_kwDODtfaXs7SeMio",
+    "contributor": "cypress[bot]",
+    "activity_definition": "comment_created",
+    "title": "Commented on #14337",
+    "occured_at": "2025-11-14T06:38:45.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/14337#issuecomment-3531131048",
+    "text": null,
+    "points": null,
+    "meta": {}
+  }
+]

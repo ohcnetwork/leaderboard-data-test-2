@@ -1,0 +1,200 @@
+[
+  {
+    "slug": "issue_closed_care_fe#14339",
+    "contributor": "bodhish",
+    "activity_definition": "issue_closed",
+    "title": "Closed issue #14339",
+    "occured_at": "2025-11-14T07:47:54.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/14339",
+    "text": "Doctor has access to billing and definitions in the left nav bar",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "issue_assigned_care_fe#14351_bodhish",
+    "contributor": "bodhish",
+    "activity_definition": "issue_assigned",
+    "title": "Issue #14351 assigned",
+    "occured_at": "2025-11-14T17:01:48.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/14351",
+    "text": "Discharge Summary",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "comment_created_care_fe#14350_IC_kwDODtfaXs7SoEN1",
+    "contributor": "bodhish",
+    "activity_definition": "comment_created",
+    "title": "Commented on #14350",
+    "occured_at": "2025-11-14T17:02:55.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/14350#issuecomment-3533718389",
+    "text": null,
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "comment_created_care_fe#14351_IC_kwDODtfaXs7SoDUI",
+    "contributor": "bodhish",
+    "activity_definition": "comment_created",
+    "title": "Commented on #14351",
+    "occured_at": "2025-11-14T17:01:45.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/14351#issuecomment-3533714696",
+    "text": null,
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "comment_created_care_fe#14354_IC_kwDODtfaXs7SoB-7",
+    "contributor": "bodhish",
+    "activity_definition": "comment_created",
+    "title": "Commented on #14354",
+    "occured_at": "2025-11-14T17:00:16.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/14354#issuecomment-3533709243",
+    "text": null,
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "comment_created_care_fe#14322_IC_kwDODtfaXs7SfZO4",
+    "contributor": "bodhish",
+    "activity_definition": "comment_created",
+    "title": "Commented on #14322",
+    "occured_at": "2025-11-14T08:01:36.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/14322#issuecomment-3531445176",
+    "text": null,
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "comment_created_care_fe#14339_IC_kwDODtfaXs7SfKWS",
+    "contributor": "bodhish",
+    "activity_definition": "comment_created",
+    "title": "Commented on #14339",
+    "occured_at": "2025-11-14T07:47:54.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/14339#issuecomment-3531384210",
+    "text": null,
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "comment_created_care_fe#14338_IC_kwDODtfaXs7SfH_9",
+    "contributor": "bodhish",
+    "activity_definition": "comment_created",
+    "title": "Commented on #14338",
+    "occured_at": "2025-11-14T07:45:38.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/14338#issuecomment-3531374589",
+    "text": null,
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "comment_created_care_fe#14338_IC_kwDODtfaXs7SfGzW",
+    "contributor": "bodhish",
+    "activity_definition": "comment_created",
+    "title": "Commented on #14338",
+    "occured_at": "2025-11-14T07:44:24.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/14338#issuecomment-3531369686",
+    "text": null,
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "comment_created_care_fe#14318_IC_kwDODtfaXs7SfEEa",
+    "contributor": "bodhish",
+    "activity_definition": "comment_created",
+    "title": "Commented on #14318",
+    "occured_at": "2025-11-14T07:41:47.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/14318#issuecomment-3531358490",
+    "text": null,
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "comment_created_care_fe#14322_IC_kwDODtfaXs7SfCxl",
+    "contributor": "bodhish",
+    "activity_definition": "comment_created",
+    "title": "Commented on #14322",
+    "occured_at": "2025-11-14T07:40:29.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/14322#issuecomment-3531353189",
+    "text": null,
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "comment_created_care_fe#14334_IC_kwDODtfaXs7SfB-P",
+    "contributor": "bodhish",
+    "activity_definition": "comment_created",
+    "title": "Commented on #14334",
+    "occured_at": "2025-11-14T07:39:43.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/14334#issuecomment-3531349903",
+    "text": null,
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "pr_reviewed_care_fe#14182_COMMENTED_PRR_kwDODtfaXs7MgWmW",
+    "contributor": "bodhish",
+    "activity_definition": "pr_reviewed",
+    "title": "Reviewed PR #14182",
+    "occured_at": "2025-11-07T00:01:32.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/14182#pullrequestreview-3431033238",
+    "text": "Playwright Tests for Specimen Definition",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "pr_reviewed_care_fe#14245_CHANGES_REQUESTED_PRR_kwDODtfaXs7MgjDm",
+    "contributor": "bodhish",
+    "activity_definition": "pr_reviewed",
+    "title": "Changes requested on PR #14245",
+    "occured_at": "2025-11-07T00:27:05.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/14245#pullrequestreview-3431084262",
+    "text": "Inventory redesign",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "pr_reviewed_care_fe#14116_CHANGES_REQUESTED_PRR_kwDODtfaXs7JaO1u",
+    "contributor": "bodhish",
+    "activity_definition": "pr_reviewed",
+    "title": "Changes requested on PR #14116",
+    "occured_at": "2025-10-24T22:38:16.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/14116#pullrequestreview-3379096942",
+    "text": "Feat - Redesigned Past Symptoms /  Past Diagnoses and Medication History Tabs",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "pr_reviewed_care_fe#14098_CHANGES_REQUESTED_PRR_kwDODtfaXs7MgbHX",
+    "contributor": "bodhish",
+    "activity_definition": "pr_reviewed",
+    "title": "Changes requested on PR #14098",
+    "occured_at": "2025-11-07T00:11:27.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/14098#pullrequestreview-3431051735",
+    "text": "feat: add delivery status update functionality ",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "pr_reviewed_care_fe#14239_CHANGES_REQUESTED_PRR_kwDODtfaXs7MgPd1",
+    "contributor": "bodhish",
+    "activity_definition": "pr_reviewed",
+    "title": "Changes requested on PR #14239",
+    "occured_at": "2025-11-06T23:54:02.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/14239#pullrequestreview-3431004021",
+    "text": "Invoice Charge Item - Discount edit",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "pr_reviewed_care_fe#14108_CHANGES_REQUESTED_PRR_kwDODtfaXs7Jadwn",
+    "contributor": "bodhish",
+    "activity_definition": "pr_reviewed",
+    "title": "Changes requested on PR #14108",
+    "occured_at": "2025-10-25T00:18:11.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/14108#pullrequestreview-3379158055",
+    "text": "Add tests for activity definition ",
+    "points": null,
+    "meta": {}
+  }
+]

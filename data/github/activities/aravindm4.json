@@ -1,0 +1,123 @@
+[
+  {
+    "slug": "issue_opened_care_fe#14322",
+    "contributor": "aravindm4",
+    "activity_definition": "issue_opened",
+    "title": "Opened issue #14322",
+    "occured_at": "2025-11-13T09:23:00.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/14322",
+    "text": "Home Page - Redesign",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "comment_created_care_fe#14287_IC_kwDODtfaXs7SngJW",
+    "contributor": "aravindm4",
+    "activity_definition": "comment_created",
+    "title": "Commented on #14287",
+    "occured_at": "2025-11-14T16:29:44.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/14287#issuecomment-3533570646",
+    "text": null,
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "comment_created_care_fe#14215_IC_kwDODtfaXs7SnWbF",
+    "contributor": "aravindm4",
+    "activity_definition": "comment_created",
+    "title": "Commented on #14215",
+    "occured_at": "2025-11-14T16:20:31.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/14215#issuecomment-3533530821",
+    "text": null,
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "comment_created_care_fe#14171_IC_kwDODtfaXs7SnQz_",
+    "contributor": "aravindm4",
+    "activity_definition": "comment_created",
+    "title": "Commented on #14171",
+    "occured_at": "2025-11-14T16:15:30.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/14171#issuecomment-3533507839",
+    "text": null,
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "comment_created_care_fe#14121_IC_kwDODtfaXs7SnKyX",
+    "contributor": "aravindm4",
+    "activity_definition": "comment_created",
+    "title": "Commented on #14121",
+    "occured_at": "2025-11-14T16:09:29.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/14121#issuecomment-3533483159",
+    "text": null,
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "comment_created_care_fe#14116_IC_kwDODtfaXs7SnJ-l",
+    "contributor": "aravindm4",
+    "activity_definition": "comment_created",
+    "title": "Commented on #14116",
+    "occured_at": "2025-11-14T16:08:39.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/14116#issuecomment-3533479845",
+    "text": null,
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "comment_created_care_fe#14098_IC_kwDODtfaXs7SmdYd",
+    "contributor": "aravindm4",
+    "activity_definition": "comment_created",
+    "title": "Commented on #14098",
+    "occured_at": "2025-11-14T15:28:56.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/14098#issuecomment-3533297181",
+    "text": null,
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "comment_created_care_fe#13042_IC_kwDODtfaXs7SmZCt",
+    "contributor": "aravindm4",
+    "activity_definition": "comment_created",
+    "title": "Commented on #13042",
+    "occured_at": "2025-11-14T15:24:47.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/13042#issuecomment-3533279405",
+    "text": null,
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "comment_created_care_fe#14092_IC_kwDODtfaXs7SmXKl",
+    "contributor": "aravindm4",
+    "activity_definition": "comment_created",
+    "title": "Commented on #14092",
+    "occured_at": "2025-11-14T15:22:56.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/14092#issuecomment-3533271717",
+    "text": null,
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "comment_created_care_fe#14077_IC_kwDODtfaXs7SmOCF",
+    "contributor": "aravindm4",
+    "activity_definition": "comment_created",
+    "title": "Commented on #14077",
+    "occured_at": "2025-11-14T15:13:58.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/14077#issuecomment-3533234309",
+    "text": null,
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "comment_created_care_fe#14015_IC_kwDODtfaXs7SmBX6",
+    "contributor": "aravindm4",
+    "activity_definition": "comment_created",
+    "title": "Commented on #14015",
+    "occured_at": "2025-11-14T15:01:56.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/14015#issuecomment-3533182458",
+    "text": null,
+    "points": null,
+    "meta": {}
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "slug": "pr_opened_care#3356",
+    "contributor": "nandkishorr",
+    "activity_definition": "pr_opened",
+    "title": "Opened pull request #3356",
+    "occured_at": "2025-11-13T07:56:50.000Z",
+    "link": "https://github.com/ohcnetwork/care/pull/3356",
+    "text": "Added transactions for create and update apis",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "commit_created_add_viewsets_transactions_c83f077f1ac887c4a31816e99e6755225ac6222d",
+    "contributor": "nandkishorr",
+    "activity_definition": "commit_created",
+    "title": "Pushed commit to add_viewsets_transactions",
+    "occured_at": "2025-11-14T07:34:27.000Z",
+    "link": "https://github.com/ohcnetwork/care/commit/c83f077f1ac887c4a31816e99e6755225ac6222d",
+    "text": "Merge branch 'develop' into add_viewsets_transactions",
+    "points": null,
+    "meta": {}
+  }
+]

@@ -1,0 +1,101 @@
+[
+  {
+    "slug": "issue_closed_care_fe#14330",
+    "contributor": "gigincg",
+    "activity_definition": "issue_closed",
+    "title": "Closed issue #14330",
+    "occured_at": "2025-11-14T17:35:53.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/14330",
+    "text": "Unnecessary 'Administration' option shown in Manage Organizations for Reception",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "issue_closed_care_fe#14329",
+    "contributor": "gigincg",
+    "activity_definition": "issue_closed",
+    "title": "Closed issue #14329",
+    "occured_at": "2025-11-14T08:30:22.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/14329",
+    "text": "Reception staff settings access issues: unnecessary visibility and location error",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "issue_closed_care_fe#14334",
+    "contributor": "gigincg",
+    "activity_definition": "issue_closed",
+    "title": "Closed issue #14334",
+    "occured_at": "2025-11-14T08:27:23.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/14334",
+    "text": "Reception staff need not see 'start consultation' or 'create encounter' options",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "issue_assigned_care_fe#14330_gigincg",
+    "contributor": "gigincg",
+    "activity_definition": "issue_assigned",
+    "title": "Issue #14330 assigned",
+    "occured_at": "2025-11-14T07:56:42.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/14330",
+    "text": "Unnecessary 'Administration' option shown in Manage Organizations for Reception",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "issue_assigned_care_fe#14335_gigincg",
+    "contributor": "gigincg",
+    "activity_definition": "issue_assigned",
+    "title": "Issue #14335 assigned",
+    "occured_at": "2025-11-14T07:46:56.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/14335",
+    "text": "Rephrase appointment creation popup for bulk OP slot",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "issue_assigned_care_fe#14329_gigincg",
+    "contributor": "gigincg",
+    "activity_definition": "issue_assigned",
+    "title": "Issue #14329 assigned",
+    "occured_at": "2025-11-14T07:43:45.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/14329",
+    "text": "Reception staff settings access issues: unnecessary visibility and location error",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "issue_assigned_care_fe#14334_gigincg",
+    "contributor": "gigincg",
+    "activity_definition": "issue_assigned",
+    "title": "Issue #14334 assigned",
+    "occured_at": "2025-11-14T07:36:26.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/14334",
+    "text": "Reception staff need not see 'start consultation' or 'create encounter' options",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "comment_created_care_fe#14329_IC_kwDODtfaXs7Sf4JQ",
+    "contributor": "gigincg",
+    "activity_definition": "comment_created",
+    "title": "Commented on #14329",
+    "occured_at": "2025-11-14T08:30:22.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/14329#issuecomment-3531571792",
+    "text": null,
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "pr_reviewed_care_fe#13925_COMMENTED_PRR_kwDODtfaXs7JlJEz",
+    "contributor": "gigincg",
+    "activity_definition": "pr_reviewed",
+    "title": "Reviewed PR #13925",
+    "occured_at": "2025-10-27T06:16:28.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/13925#pullrequestreview-3381956915",
+    "text": "update other agent instruction files",
+    "points": null,
+    "meta": {}
+  }
+]

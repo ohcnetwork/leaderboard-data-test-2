@@ -1,0 +1,57 @@
+[
+  {
+    "slug": "issue_assigned_care_fe#14354_Rustix69",
+    "contributor": "Rustix69",
+    "activity_definition": "issue_assigned",
+    "title": "Issue #14354 assigned",
+    "occured_at": "2025-11-14T17:40:44.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/14354",
+    "text": "Back button in service request not responding",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "issue_assigned_care_fe#14321_Rustix69",
+    "contributor": "Rustix69",
+    "activity_definition": "issue_assigned",
+    "title": "Issue #14321 assigned",
+    "occured_at": "2025-11-14T07:42:51.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/14321",
+    "text": "NaN shown in Purchase Delivery when ChargeItem is not applicable",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "issue_assigned_care_fe#13090_Rustix69",
+    "contributor": "Rustix69",
+    "activity_definition": "issue_assigned",
+    "title": "Issue #13090 assigned",
+    "occured_at": "2025-11-14T14:36:42.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/13090",
+    "text": "Feature Request: Add Drag & Drop Support for Uploading Files",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "comment_created_care_fe#14354_IC_kwDODtfaXs7SoPZC",
+    "contributor": "Rustix69",
+    "activity_definition": "comment_created",
+    "title": "Commented on #14354",
+    "occured_at": "2025-11-14T17:15:35.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/14354#issuecomment-3533764162",
+    "text": null,
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "comment_created_care_fe#14334_IC_kwDODtfaXs7SeKsQ",
+    "contributor": "Rustix69",
+    "activity_definition": "comment_created",
+    "title": "Commented on #14334",
+    "occured_at": "2025-11-14T06:36:38.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/14334#issuecomment-3531123472",
+    "text": null,
+    "points": null,
+    "meta": {}
+  }
+]

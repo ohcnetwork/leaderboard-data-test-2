@@ -1,0 +1,68 @@
+[
+  {
+    "slug": "issue_assigned_care_fe#14215_copilot-swe-agent",
+    "contributor": "copilot-swe-agent",
+    "activity_definition": "issue_assigned",
+    "title": "Issue #14215 assigned",
+    "occured_at": "2025-11-01T14:46:16.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/14215",
+    "text": "Unable to create new observation definition with 0 interpretations; No error messages",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "pr_opened_care_fe#14355",
+    "contributor": "copilot-swe-agent",
+    "activity_definition": "pr_opened",
+    "title": "Opened pull request #14355",
+    "occured_at": "2025-11-14T17:16:05.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/14355",
+    "text": "[WIP] Automatically switch to test DB when running Playwright tests",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "pr_opened_care_fe#14281",
+    "contributor": "copilot-swe-agent",
+    "activity_definition": "pr_opened",
+    "title": "Opened pull request #14281",
+    "occured_at": "2025-11-09T18:02:16.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/14281",
+    "text": "Fix patient search: generalize no-results text and add regex-based input validation",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "pr_opened_care_fe#14251",
+    "contributor": "copilot-swe-agent",
+    "activity_definition": "pr_opened",
+    "title": "Opened pull request #14251",
+    "occured_at": "2025-11-05T11:21:40.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/14251",
+    "text": "Fix popover overflow on mobile for charge item price breakdown",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "pr_opened_care_fe#14181",
+    "contributor": "copilot-swe-agent",
+    "activity_definition": "pr_opened",
+    "title": "Opened pull request #14181",
+    "occured_at": "2025-10-29T12:12:26.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/14181",
+    "text": "Add error border styling to RequirementsSelector in Healthcare Service form",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "pr_opened_care_fe#14319",
+    "contributor": "copilot-swe-agent",
+    "activity_definition": "pr_opened",
+    "title": "Opened pull request #14319",
+    "occured_at": "2025-11-13T06:44:32.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/14319",
+    "text": "Revert i18n pattern changes for FilterSelect component",
+    "points": null,
+    "meta": {}
+  }
+]

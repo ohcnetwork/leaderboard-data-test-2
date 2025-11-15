@@ -1,0 +1,24 @@
+[
+  {
+    "slug": "issue_assigned_care_fe#14167_Janetmaria",
+    "contributor": "Janetmaria",
+    "activity_definition": "issue_assigned",
+    "title": "Issue #14167 assigned",
+    "occured_at": "2025-10-29T12:00:53.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/14167",
+    "text": "Same list of orgs shown in pagination",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "issue_assigned_care_fe#14077_Janetmaria",
+    "contributor": "Janetmaria",
+    "activity_definition": "issue_assigned",
+    "title": "Issue #14077 assigned",
+    "occured_at": "2025-10-27T04:31:37.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/14077",
+    "text": "Bug: Accessibility warning due to aria-hidden focus conflict",
+    "points": null,
+    "meta": {}
+  }
+]
