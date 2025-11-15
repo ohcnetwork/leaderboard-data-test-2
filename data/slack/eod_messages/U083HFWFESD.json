@@ -2,7 +2,7 @@
   {
     "id": 1763100032509,
     "user_id": "U083HFWFESD",
-    "timestamp": "2025-11-14T06:00:32.509Z",
+    "timestamp": "2025-11-14T00:30:32.509Z",
     "text": "Nov 13:<br>• Made PR <a href=\"https://github.com/ohcnetwork/leaderboard/pull/632\">leaderboard#632</a>: Leaderboard v2<br>• Created issue <a href=\"https://github.com/ohcnetwork/care_fe/issues/14318\">care_fe#14318</a>: Appointment should mark as fullfilled when marking an Encounter as completed<br>• Created new <a href=\"https://github.com/ohcnetwork/leaderboard-slack-scraper\">repo</a>  for leaderboard slack scrapper and moved slack scraper from main leaderboard<br>• Comitted <a href=\"https://github.com/ohcnetwork/leaderboard-slack-scraper/commit/85c63a8a253f8efa816658d7e96a23766832d548\">leaderboard-slack-scraper#85c63a8</a>: Implement slack scraper<br>• Comitted <a href=\"https://github.com/ohcnetwork/leaderboard-slack-scraper/commit/130df8aeeb47c2354ed1df3ad20894fd37b70851\">leaderboard-slack-scraper#130df8a</a>: configure since days<br>• Comitted <a href=\"https://github.com/ohcnetwork/leaderboard-slack-scraper/commit/18a9f60890261fa12c1247dd46b8ffd6f0b2e214\">leaderboard-slack-scraper#18a9f60</a>: Import and export slack_eod_table too<br>• Build leaderboard locally <br>• Merged PR <a href=\"https://github.com/ohcnetwork/leaderboard/pull/632\">leaderboard#632</a>: Leaderboard v2<br>Next:<br>• Write github actions for leaderboard<br>• Deploy leaderboard"
   }
 ]

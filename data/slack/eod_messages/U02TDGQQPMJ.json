@@ -2,7 +2,7 @@
   {
     "id": 1763099949533,
     "user_id": "U02TDGQQPMJ",
-    "timestamp": "2025-11-14T05:59:09.533Z",
+    "timestamp": "2025-11-14T00:29:09.533Z",
     "text": "<strong>nov 13</strong><br>• wrote a starter kit for anyone to easily build your own leaderboard scrapers - <a href=\"https://github.com/ohcnetwork/leaderboard-scraper-template\">ohcnetwork/leaderboard-scraper-template</a><br>• moved github scraper out from main leaderboard using the starter kit - <a href=\"https://github.com/ohcnetwork/leaderboard-github-scraper\">ohcnetwork/leaderboard-github-scraper</a><br>• couple of minor improvements and fixes to get it merged <a href=\"https://github.com/ohcnetwork/leaderboard/pull/632\">#632</a><br>• discussions w. nikhila on various things<br><strong>next</strong><br>• workflow file generator, deploy leaderboard and other pending things..."
   }
 ]

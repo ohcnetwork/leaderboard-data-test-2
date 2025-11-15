@@ -1,38 +1,19 @@
-name: Scraper
-run-name:
+name: Build
 
 on:
   workflow_dispatch:
-    inputs:
-      days:
-        type: number
-        description: The number of days to scrape
-        default: 1
-
-concurrency:
-  group: scheduled-scraper-${{ github.workflow}}-${{github.ref}}
-  cancel-in-progress: true
+  push:
 
 jobs:
-  scrape-data:
-    name: Scrape data
+  build:
+    name: Build and Deploy
     runs-on: ubuntu-latest
-    permissions:
-      contents: write # github token permission to write to the repository
+
     env:
       PGLITE_DB_PATH: ${{ github.workspace}}/pglite-db
-
       LEADERBOARD_PATH: ${{ github.workspace}}/leaderboard
       LEADERBOARD_DATA_PATH: ${{ github.workspace}}/leaderboard-data
       SCRAPER_PATH: ${{ github.workspace}}/leaderboard-slack-scraper ${{github.workspace}}/leaderboard-github-scraper
-
-      SCRAPE_DAYS: ${{ inputs.days }}
-
-      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      GITHUB_ORG: ${{ github.repository_owner }}
-
-      SLACK_API_TOKEN: ${{ secrets.SLACK_API_TOKEN }}
-      SLACK_CHANNEL: ${{ vars.SLACK_CHANNEL }}
 
     steps:
       - name: Checkout leaderboard
@@ -101,41 +82,15 @@ jobs:
             cd $repo
             pnpm db:import
             echo "Imported data from flat data into DB for $repo"
-          done
 
-      - name: Scrape data
-        run: |
-          for repo in ${{ env.SCRAPER_PATH }}; do
-            cd $repo
-            pnpm db:scrape
-            echo "Scraped data for $repo"
-          done
+      - name: 🛠️ Build Leaderboard
+        working-directory: ${{ env.LEADERBOARD_PATH }}
+        run: pnpm build
 
-      - name: Export data from DB to flat data
-        run: |
-          for repo in ${{ env.LEADERBOARD_PATH }} ${{ env.SCRAPER_PATH }}; do
-            cd $repo
-            pnpm db:export
-            echo "Exported data from DB to flat data for $repo"
-          done
-
-      - name: Setup Git Identity
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-
-      - name: Commit changes and push to leaderboard data
-        run: |
-          cd ${{ env.LEADERBOARD_DATA_PATH }}
-          git add -A
-
-          # commit only if there are actual changes
-          if git diff --cached --quiet; then
-            echo "No changes to commit"
-            exit 0
-          fi
-
-          git commit -m "Update leaderboard data"
-
-          # Ensure pushing to the correct branch (default = master)
-          git push origin HEAD:master
+      - name: 🌐 Deploy to Cloudflare Pages
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          command: pages deploy ${{ env.LEADERBOARD_PATH }}/out --project-name=${{ vars.CLOUDFLARE_PAGES_PROJECT_NAME }}
+          gitHubToken: ${{ secrets.GITHUB_TOKEN }}
