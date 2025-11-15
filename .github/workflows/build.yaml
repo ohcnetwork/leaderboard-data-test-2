@@ -82,6 +82,7 @@ jobs:
             cd $repo
             pnpm db:import
             echo "Imported data from flat data into DB for $repo"
+          done
 
       - name: 🛠️ Build Leaderboard
         working-directory: ${{ env.LEADERBOARD_PATH }}
